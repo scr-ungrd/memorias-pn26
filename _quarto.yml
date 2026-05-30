@@ -8,9 +8,21 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
+    - part: plenarias/index.qmd
+      chapters: []
+    - part: sesiones-tematicas/index.qmd
+      chapters: []
     - part: sesiones-paralelas/index.qmd
       chapters:
         - sesiones-paralelas/sp-01/index.qmd
+    - part: sesiones-especiales/index.qmd
+      chapters: []
+    - part: laboratorios-de-aprendizaje/index.qmd
+      chapters: []
+    - part: escenarios-en-vivo/index.qmd
+      chapters: []
+    - part: posters/index.qmd
+      chapters: []
     - summary.qmd
     - references.qmd
 
