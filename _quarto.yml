@@ -1,0 +1,26 @@
+project:
+  type: book
+
+book:
+  title: "memorias-pn26"
+  author: "Norah Jones"
+  date: "5/30/2026"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+      - custom.scss
+  pdf:
+    documentclass: scrreprt
+
+
+
