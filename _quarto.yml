@@ -8,6 +8,9 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
+    - part: sesiones-paralelas/index.qmd
+      chapters:
+        - sesiones-paralelas/sp-01/index.qmd
     - summary.qmd
     - references.qmd
 
