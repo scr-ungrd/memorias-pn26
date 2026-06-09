@@ -5,11 +5,20 @@ book:
   title: "memorias-pn26"
   author: "Norah Jones"
   date: "5/30/2026"
+  sidebar:
+    tools:
+      - icon: github
+        href: https://github.com/scr-ungrd/memorias-pn26
   chapters:
     - index.qmd
     - intro.qmd
     - part: plenarias/index.qmd
-      chapters: []
+      chapters:
+        - plenarias/p-01/index.qmd
+        - plenarias/p-02/index.qmd
+        - plenarias/p-03/index.qmd
+        - plenarias/p-04/index.qmd
+        - plenarias/p-05/index.qmd
     - part: sesiones-tematicas/index.qmd
       chapters: []
     - part: sesiones-paralelas/index.qmd
@@ -30,6 +39,7 @@ bibliography: references.bib
 
 format:
   html:
+    number-sections: false
     theme:
       - cosmo
       - brand

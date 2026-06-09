@@ -1,0 +1,53 @@
+---
+title: "Plenaria 2. Conectando datos, salvando vidas: Lanzamiento del SNIGRD"
+---
+
+## Nota conceptual
+
+:::{#tabla-p02-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Conectando datos, salvando vidas: Lanzamiento del SNIGRD |
+| **Organización anfitriona** | Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD) |
+| **Contacto principal** | Isabel Cristina Arboleda López |
+| **Suplente** | Andrés Cabanzo |
+| **Organización Co-Anfitriona** | N/A |
+| **Contacto principal** | N/A |
+| **Suplente** | N/A |
+| **Punto Focal UNGRD** | Gina Velásquez, UNGRD |
+:::
+
+<style>
+#tabla-p02-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-p02-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-p02-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Sesión plenaria y acto protocolario. Espacio de alto nivel con palabras del Director General de la UNGRD, la Ministra de Tecnologías de la Información y la Jefe de OAPI. Demostración central proyectada en pantalla grande, liderada por experto técnico desde la tarima. |
+| Objetivo(s) | 1. Presentar públicamente el SNIGRD como instrumento operativo de la política pública de gestión del riesgo de desastres en Colombia, dando cumplimiento al mandato del artículo 45 de la Ley 1523 de 2012. <br><br> 2. Visibilizar el valor estratégico del SNIGRD para la toma de decisiones basada en evidencia, la rendición de cuentas y la memoria institucional de la UNGRD y del SNGRD. <br><br> 3. Generar compromisos colectivos de las entidades del SNGRD para alimentar, sostener y ampliar el sistema en el corto y mediano plazo. |
+| Resultado(s) medible(s) | Acto protocolario de lanzamiento oficial del SNIGRD documentado y difundido. Material audiovisual y comunicado de prensa publicado en los canales oficiales de la UNGRD. Porcentaje de asistentes que califican la sesión como "relevante" o "muy relevante" en la encuesta de evaluación de la PN26. |
+| Descripción general | El Sistema Nacional de Información para la Gestión del Riesgo de Desastres (SNIGRD) es uno de los pilares fundamentales de la gestión del riesgo de desastres sancionada por la Ley 1523 de 2012. Su artículo 45 ordena a la UNGRD crear y mantener un sistema que integre los contenidos de todas las entidades nacionales y territoriales. Durante más de una década, el país acumuló una deuda histórica con este mandato: los datos permanecieron dispersos sin estándares de intercambio, el antiguo SIGPAD no logró integración adecuada con las entidades operativas, y la OCDE evidenció en 2019 que la integración estaba en etapa incipiente. <br><br> El SNIGRD se sustenta en cinco dimensiones: (1) gestión del cambio y capacitación de usuarios; (2) políticas para la articulación de actores con horizonte 2030; (3) procesos, procedimientos y gestión documental; (4) infraestructura tecnológica basada en un *data lakehouse* en la nube con arquitectura Medallion; e (5) implementaciones como productos de conocimiento que valorizan los datos para la GRD. <br><br> El SNIGRD contribuye a la Prioridad 1 del Marco de Sendai (comprender el riesgo) al unificar y estandarizar datos sobre amenazas, vulnerabilidades y capacidades, y a la Prioridad 2 (gobernanza) al institucionalizar los flujos de información entre actores del SNGRD. |
+| Enfoque(s) y eje(s) transversal(es) | **Enfoque A — Comunidades de aprendizaje y participación:** el SNIGRD promueve la generación y uso compartido de información entre actores del SNGRD. <br> **Enfoque B — Planeación y ordenamiento:** integra escenarios de riesgo y cambio climático en la planificación. <br> **Enfoque C — Territorialización y financiamiento de la GRD:** articulación intergubernamental basada en evidencia. <br> **Eje transversal — Ciencia, tecnología e innovación:** *data lakehouse* con arquitectura Medallion, tableros de analítica y herramientas de monitoreo en tiempo real. <br> **Eje transversal — Adaptación al Cambio Climático (EcoRRD):** integración de datos sobre amenazas hidrometereológicas y ecosistémicas. |
+| Preguntas | ¿Cuál es el estado actual de operativización del SNIGRD y qué capacidades ofrece hoy a las entidades del SNGRD? <br> ¿De qué manera el SNIGRD contribuye a mejorar la toma de decisiones basada en evidencia a nivel nacional y territorial? <br> ¿Cómo se articula el SNIGRD con las metas del Marco de Sendai, el PNGRD 2015–2030 y las agendas de datos abiertos y transparencia? |
+| Conferencistas y/o facilitadores | **Carlos Alberto Carrillo Arenas** — Director General, UNGRD <br> **Isabel Cristina Arboleda López** — Jefe Oficina Asesora de Planeación e Información y Coordinadora del Grupo de Tecnologías de la Información, UNGRD |
+:::
+
+## Diapositivas de la sesión
+
+::: {.callout-note}
+Las diapositivas de esta sesión estarán disponibles próximamente. Actualiza este bloque con el enlace de Google Drive o el iframe de Google Slides.
+:::
+
+## Video de la sesión
+
+<iframe src="https://www.youtube.com/embed/LrSmi9t7rYk?start=26332" width="100%" height="480" allowfullscreen>
+
+</iframe>

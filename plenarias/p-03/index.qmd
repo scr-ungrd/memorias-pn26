@@ -1,0 +1,53 @@
+---
+title: "Plenaria 3. Infraestructura resiliente: de la evidencia a la inversión"
+---
+
+## Nota conceptual
+
+:::{#tabla-p03-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Infraestructura resiliente: de la evidencia a la inversión |
+| **Organización anfitriona** | Oficina de las Naciones Unidas para la Reducción del Riesgo de Desastres (UNDRR) — Oficina Regional para las Américas y el Caribe |
+| **Contacto principal** | Luis Bonilla — Oficial de Asuntos Económicos, UNDRR |
+| **Suplente** | Cristóbal López Maciel — Gerente de infraestructura, recuperación y resiliencia local, UNDRR |
+| **Organización Co-Anfitriona** | Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD) — Subdirección para la Reducción del Riesgo de Desastres |
+| **Contacto principal** | Nelson Hernández Marulanda — Líder Intervención Prospectiva, SRR |
+| **Suplente** | Lizeth Abril — Ingeniera Civil, SRR |
+| **Punto Focal UNGRD** | Nelson Hernández Marulanda / Lizeth Abril, UNGRD |
+:::
+
+<style>
+#tabla-p03-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-p03-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-p03-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Sesión Plenaria (60 minutos). Panel con moderador y panelistas nacionales e internacionales, organizado en torno a tres ejes: (i) visión de Colombia sobre resiliencia en planificación e inversión pública; (ii) rol de la banca multilateral y mecanismos financieros; (iii) aporte del sector asegurador como generador de información de riesgo e incentivos. |
+| Objetivo(s) | A. Presentar los hallazgos y recomendaciones de la Hoja de Ruta para la Resiliencia de la Infraestructura en Colombia como insumo estratégico para la toma de decisiones de política pública e inversión. <br><br> B. Discutir cómo el financiamiento de infraestructura, desde la banca multilateral y el sector asegurador, puede dejar instalada en el país la capacidad de planificar, regular y construir infraestructura resiliente. <br><br> C. Identificar conclusiones y mensajes estratégicos para proyectar hacia la VIII Plataforma Regional (Bahamas, 2027), articulados con la agenda del GIR-LAC. |
+| Resultado(s) medible(s) | 1. Documento síntesis con conclusiones y recomendaciones del panel para posicionar ante la VIII Plataforma Regional (Bahamas, 2027). <br> 2. Documento Hoja de Ruta para la Resiliencia de la Infraestructura en Colombia disponible para descarga. <br> 3. Infografía con los hallazgos clave de la Hoja de Ruta para difusión. |
+| Descripción general | Colombia desarrolló, bajo el liderazgo de la UNGRD y con el acompañamiento de la UNDRR, la primera revisión multisectorial del marco político y de gobernanza de la infraestructura crítica del país. El proceso aplicó la Metodología Global de Evaluación de Resiliencia de Infraestructuras de UNDRR y reunió a 14 sectores del Gobierno nacional y representantes del sector privado. <br><br> Los hallazgos confirman la solidez de la arquitectura institucional colombiana e identifican oportunidades concretas: integración sistemática de la resiliencia en la planificación sectorial y la inversión pública, articulación entre sectores con funciones críticas interdependientes, y conexión más directa entre evidencia técnica y decisiones de inversión. La Hoja de Ruta presenta 18 recomendaciones de política pública alineadas con las cuatro prioridades del Marco de Sendai, cada una con responsable institucional, prioridad y horizonte de implementación. <br><br> La sesión se articula con la Prioridad 3 del Marco de Sendai (inversión en reducción del riesgo para la resiliencia) y con la Prioridad 2 (Gobernanza del riesgo), al discutir los arreglos institucionales para que la resiliencia se convierta en estándar de diseño, construcción y operación de la infraestructura en Colombia y la región. |
+| Enfoque(s) y eje(s) transversal(es) | **Enfoque PN26 — Territorialización y financiamiento de la GRD:** integración de la resiliencia como condición del diseño, la inversión y la gestión de la infraestructura. |
+| Preguntas | 1. A partir de la evidencia de la Hoja de Ruta, ¿cómo traducir estos hallazgos en decisiones de política pública que integren la resiliencia como condición del diseño, la inversión y la gestión de la infraestructura? <br> 2. ¿Cómo lograr que el financiamiento deje instalada en el país la capacidad de planificar, regular y construir infraestructura resiliente como práctica estructural? <br> 3. ¿Cómo puede el sector asegurador contribuir a que la resiliencia se incorpore desde el diseño de las inversiones en infraestructura crítica? |
+| Conferencistas y/o facilitadores | **Moderador:** Nahuel Arenas — Jefe Oficina Regional para las Américas y el Caribe, UNDRR <br><br> **Panelistas:** Carlos Alberto Carrillo Arenas (Director General, UNGRD) · Amit Prothi (Director General, CDRI — video) · Diana Rubiano (Banco Mundial) · Sebastián Rodríguez (CAF) · Carlos Molina Urquijo (FASECOLDA) |
+:::
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1UnxE4UVzuqUw636DAp_Dh-Kapi4wn6NJ/preview" width="100%" height="480" allowfullscreen>
+
+</iframe>
+
+## Video de la sesión
+
+<iframe src="https://www.youtube.com/embed/95yXGK0awCs?start=2239" width="100%" height="480" allowfullscreen>
+
+</iframe>

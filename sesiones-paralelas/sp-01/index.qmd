@@ -4,19 +4,33 @@ title: "Sesión paralela 1. Colombia ante las Amenazas Extraterrestres: Ciencia,
 
 ## Nota conceptual
 
-| | |
-|:---|:---|
+:::{#tabla-sp01-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
 | **Título de la sesión** | Colombia ante las Amenazas Extraterrestres: Ciencia, Riesgo y Política Pública |
 | **Organización anfitriona** | AstroCO - Comunidad Colombiana de Astronomía |
 | **Contacto principal** | Lauren M. Flor Torres |
-| **Suplente** | |
+| **Suplente** |  |
 | **Organización Co-Anfitriona** | Universidad de Antioquia |
 | **Contacto principal** | Jorge I. Zuluaga Callejas |
-| **Suplente** | |
+| **Suplente** |  |
 | **Punto Focal UNGRD** | Mauricio Romero, UNGRD |
+:::
 
+<style>
+#tabla-sp01-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-sp01-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-sp01-desc}
 | Sección | Descripción |
-|:--------|:------------|
+|:-----------------------------|:-----------------------------------------|
 | Metodología / Tipo de sesión | Panel de discusión (si se habilita, se mostraran videos) |
 | Objetivo(s) | Visibilizar las amenazas de origen extraterrestre como riesgos reales que deben integrarse a los marcos nacionales de gestión del riesgo de desastres, a partir de evidencia científica generada por investigadoras e investigadores colombianos. <br><br> Presentar los avances institucionales de Colombia en la materia, en particular la creación de la Mesa Técnica de Amenazas Extraterrestres en la Comisión Nacional para el Conocimiento del Riesgo, y el papel de la astronomía observacional nacional como capacidad estratégica soberana para la detección, monitoreo y gestión de estas amenazas. <br><br> Convocar a tomadores de decisiones a comprometer acciones concretas que fortalezcan simultáneamente la gestión del riesgo extraterrestre y el desarrollo de la astronomía observacional hecha en Colombia. |
 | Resultado(s) medible(s) | Identificación de al menos tres acciones concretas para incorporar las amenazas extraterrestres en el próximo Plan Nacional de Gestión del Riesgo de Desastres, con énfasis en el fortalecimiento de capacidades nacionales de observación astronómica. |
@@ -24,12 +38,16 @@ title: "Sesión paralela 1. Colombia ante las Amenazas Extraterrestres: Ciencia,
 | Enfoque(s) y Eje(s) transversal(es) | **Enfoques principales:** <br><br> **Comunidades de aprendizaje y participación:** Promueve el diálogo multisectorial entre academia, Estado y sociedad civil, reconociendo a las comunidades científicas nacionales como actores clave en la construcción colectiva del conocimiento del riesgo. <br> **Planeación y ordenamiento que incorpora la GRD:** La Mesa Técnica de Amenazas Extraterrestres es un avance concreto hacia la incorporación de estos escenarios en los instrumentos de la UNGRD, lo que exige fortalecer la astronomía observacional en Colombia como capacidad estratégica nacional. <br> **Preparación y recuperación oportuna:** La sesión abre el diálogo sobre capacidades operativas y protocolos de alerta temprana necesarios para una respuesta eficaz ante eventos extraterrestres. <br><br> **Eje transversal — Ciencia, tecnología e innovación:** La observación astronómica, la modelación de trayectorias de NEOs y el monitoreo en tiempo real son las herramientas que sustentan la gestión de este riesgo. |
 | Preguntas | ¿Qué nos enseñó el asteroide 2024 YR4 sobre las capacidades de Colombia para identificar, monitorear y responder ante una amenaza extraterrestre real? <br> ¿Qué rol puede cumplir la astronomía observacional desarrollada en Colombia en la construcción de un sistema nacional de alerta temprana? <br> ¿Cómo deben incorporarse las amenazas extraterrestres en el próximo Plan Nacional de Gestión del Riesgo de Desastres y en los instrumentos de planificación territorial? <br> ¿Cómo puede Colombia articularse con redes internacionales de defensa planetaria y aportar una voz latinoamericana en este debate global? |
 | Conferencistas y/o facilitadores | Dra. Lauren M. Flor Torres — Profesora de la Universidad de Antioquia, Presidente de AstroCO <br> Dr. Jorge I. Zuluaga Callejas — Profesor de la Universidad de Antioquia <br> Dra. Adriana Victoria Araujo Salcedo — Directora del centro de estudios Astrofísicos, Observatorio Julio Garavito Armero Gimnasio Campestre <br> Dr. Mauricio Romero Torres — Subdirección para el Conocimiento del Riesgo, UNGRD |
+:::
 
 ## Diapositivas de la sesión
 
-<iframe src="https://docs.google.com/presentation/d/1LzOQ1bHmAFIDjZNQNShmdGWmmlatXS-b/embed?start=false&loop=false&delayms=3000" width="100%" height="480" allowfullscreen></iframe>
+<iframe src="https://docs.google.com/presentation/d/1LzOQ1bHmAFIDjZNQNShmdGWmmlatXS-b/embed?start=false&amp;loop=false&amp;delayms=3000" width="100%" height="480" allowfullscreen>
 
+</iframe>
 
 ## Video de la sesión
 
-[![Video de la sesión](https://img.youtube.com/vi/LrSmi9t7rYk/0.jpg)](https://www.youtube.com/live/LrSmi9t7rYk?si=bXLsveqII2MxDjSK&t=7159)
+<iframe src="https://www.youtube.com/embed/LrSmi9t7rYk?start=7159" width="100%" height="480" allowfullscreen>
+
+</iframe>

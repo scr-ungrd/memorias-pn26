@@ -1,21 +1,144 @@
+/*-- scss:defaults --*/
+
+// Google Fonts: Roboto (body) + Lato (títulos) + Fira Code (código)
+$web-font-path: "https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,700;1,400&family=Lato:wght@300;400;700&family=Fira+Code:wght@300;400&display=swap";
+
+$font-family-sans-serif:  "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+$font-family-monospace:   "Fira Code", SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+$headings-font-family:    "Lato", "Roboto", sans-serif;
+$headings-font-weight:    600;
+$body-color:              #222222;
+
 /*-- scss:rules --*/
 
-/* Left sidebar: active item — dark blue + bold */
+/* ===== SIDEBAR IZQUIERDO ===== */
+
+// Fondo blanco, sin subrayado en links
+nav.sidebar.sidebar-navigation:not(.rollup) {
+  background-color: #fff;
+}
+
+.sidebar-navigation a {
+  color: inherit;
+  text-decoration: none;
+  transition: color 0.15s ease-in-out;
+}
+
+.sidebar-navigation li a {
+  text-decoration: none;
+}
+
+// Hover en links: naranja-rojo ALA
+.sidebar-navigation a:hover {
+  color: #e54d23 !important;
+}
+
+// Hover en el contenedor del item: azul primario semitransparente
+.sidebar-item-container:hover,
+div.sidebar-item-container:focus {
+  color: rgba(21, 140, 186, 0.8);
+}
+
+// Título del sidebar (nombre del libro)
+.sidebar-title {
+  color: #222322;
+  font-family: "Lato", "Roboto", sans-serif;
+  font-size: 1.3rem;
+  line-height: 1.6rem;
+  font-weight: 300;
+  margin-top: 0.25rem;
+  padding-bottom: 0.5rem;
+  border-bottom: none;
+}
+
+.sidebar-title > a {
+  font-size: inherit;
+  text-decoration: none;
+}
+
+// Items de navegación
+.sidebar-item {
+  margin-bottom: 0.2em;
+  line-height: 1rem;
+  margin-top: 0.4rem;
+  font-size: 0.875rem;
+}
+
+// Item activo: azul oscuro + borde izquierdo
 .sidebar-item-text.sidebar-link.active {
-  color: #003A70 !important;
-  font-weight: 700 !important;
-  border-left: 3px solid #003A70;
+  color: #003a70 !important;
+  font-weight: bold !important;
+  border-left: 3px solid #003a70;
   padding-left: 0.5rem;
 }
 
-/* Right sidebar (TOC): active section — orange background */
+// Íconos de herramientas del sidebar
+.sidebar-navigation .quarto-navigation-tool {
+  opacity: 0.7;
+  font-size: 0.875rem;
+}
+
+// Toggle icon (flecha del item colapsable)
+.sidebar-item .sidebar-item-toggle .bi {
+  font-size: 0.7rem;
+  text-align: center;
+}
+
+// Contenedor de menú
+.sidebar-menu-container {
+  white-space: nowrap;
+  min-width: 225px;
+  padding-bottom: 5em;
+}
+
+// Título del toggle (panel móvil)
+.quarto-sidebar-toggle-title {
+  font-weight: 400;
+  font-size: 0.775em;
+}
+
+/* ===== SIDEBAR DERECHO (TOC) ===== */
+
+// Heading del TOC
+.sidebar nav[role="doc-toc"] > h2,
+.sidebar nav[role="doc-toc"] > .h2 {
+  font-weight: 500;
+  font-size: 0.875rem;
+  font-family: inherit;
+  margin-bottom: 0.2rem;
+  margin-top: 0.3rem;
+  border-bottom: 0;
+  padding-bottom: 0;
+  padding-top: 0;
+}
+
+// Links del TOC sin subrayado
+.sidebar nav[role="doc-toc"] a {
+  text-decoration: none;
+  transition: color 0.15s ease-in-out;
+}
+
+// Sección activa en TOC
+.sidebar nav[role="doc-toc"] ul > li > a.active,
+.sidebar nav[role="doc-toc"] ul > li > ul > li > a.active,
 #TOC a.toc-active,
-.toc a.toc-active,
 nav[role="doc-toc"] a.toc-active {
-  background-color: #efc078 !important;
-  color: #1a1a1a !important;
-  font-weight: 600;
-  border-radius: 4px;
-  padding: 2px 6px;
-  display: block;
+  font-weight: bold;
+  color: #003a70 !important;
+}
+
+// Hover en TOC: naranja-rojo
+.sidebar nav[role="doc-toc"] a:hover,
+#TOC a:hover,
+nav[role="doc-toc"] a:hover {
+  color: #e54d23 !important;
+}
+
+// Hover en actions del sidebar (code links, alternate formats, etc.)
+.sidebar .toc-actions a:hover,
+.sidebar .quarto-other-links a:hover,
+.sidebar .quarto-code-links a:hover,
+.sidebar .quarto-alternate-formats a:hover,
+.sidebar .quarto-alternate-notebooks a:hover {
+  color: #003a70;
 }

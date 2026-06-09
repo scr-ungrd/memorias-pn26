@@ -1,0 +1,53 @@
+---
+title: "Plenaria 5. El Manejo Integral del Fuego como Política Pública de Estado"
+---
+
+## Nota conceptual
+
+:::{#tabla-p05-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Panel de discusión: El Manejo Integral del Fuego como Política Pública de Estado |
+| **Organización anfitriona** | Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO) |
+| **Contacto principal** | Edwin Pinto — Gerente de Proyectos de GRD y Resiliencia, FAO Colombia (Jose.PintoLadino@fao.org) |
+| **Suplente** | Daniel Segura — Oficial Forestal MIF, Oficina Regional FAO para ALC (Daniel.SeguraRamos@fao.org) |
+| **Organización Co-Anfitriona** | Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD) |
+| **Contacto principal** | María Constanza Meza Elizalde — Subdirectora para la Reducción del Riesgo, UNGRD |
+| **Suplente** | Por confirmar |
+| **Punto Focal UNGRD** | Zaida Camila Rincón — Profesional Especializada, Subdirección para la Reducción del Riesgo |
+:::
+
+<style>
+#tabla-p05-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-p05-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-p05-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Panel de discusión de alto nivel con moderador y cinco (5) panelistas internacionales. Intervenciones breves de cada panelista (5 min) seguidas de diálogo moderado y ronda de preguntas del público. Duración: 60 minutos. Aforo: 800 personas. |
+| Objetivo(s) | 1. Posicionar el Manejo Integral del Fuego (MIF) como política pública de Estado, trascendiendo la visión reactiva de supresión hacia el enfoque holístico de los cinco elementos (5R): revisión y análisis, reducción del riesgo, preparación, respuesta y recuperación/restauración. <br><br> 2. Compartir experiencias internacionales de países que han institucionalizado el MIF (Portugal, Canadá, Ecuador), identificando factores de éxito, barreras y lecciones replicables para Colombia. <br><br> 3. Discutir los avances de Colombia en la implementación del enfoque MIF en el marco de la Ley 1523 de 2012, las Directrices Voluntarias de la FAO y los DIMIF. <br><br> 4. Identificar recomendaciones concretas para la hoja de ruta 2026–2030 para la institucionalización del MIF en la gobernanza de la GRD en Colombia. |
+| Resultado(s) medible(s) | 1. Documento de recomendaciones técnicas para la incorporación del MIF en la política pública de Colombia (insumo para el Manifiesto de la PN26). <br> 2. Declaración conjunta FAO-UNGRD sobre la hoja de ruta para la institucionalización del MIF 2026–2030. <br> 3. Relatoría técnica del panel con síntesis de experiencias, lecciones aprendidas y compromisos adquiridos. |
+| Descripción general | La temporada de incendios 2024–2025 evidenció la magnitud del problema en Colombia: más de 6.000 incendios que afectaron más de 216.000 hectáreas, dejando al descubierto brechas estructurales en la gobernanza del fuego. El paradigma internacional ha evolucionado hacia el MIF, enfoque holístico que reconoce las dimensiones ecológicas, sociales, culturales y económicas del fuego. En junio de 2024, la FAO publicó la actualización de las Directrices Voluntarias para el MIF, perfectamente alineadas con la Ley 1523 de 2012 y las NDC 3.0 de Colombia. <br><br> El panel reúne cinco perspectivas internacionales complementarias: la visión global del Global Fire Management Hub de la FAO; la experiencia europea de Portugal (AGIF y asociaciones comunitarias de uso del fuego); la trayectoria canadiense en cooperación internacional y gobernanza del fuego; la experiencia ecuatoriana apoyada por COSUDE; y la perspectiva colombiana desde la UNGRD, incluyendo los avances de los DIMIF (Orinoquía, Caribe, Pacífico y Amazonía). <br><br> Los resultados del panel servirán como insumo para el Manifiesto de la PN26 y posicionarán a Colombia con voz articulada en la Plataforma Regional 2027 y la Plataforma Global 2028 en materia de gobernanza del fuego. |
+| Enfoque(s) y eje(s) transversal(es) | **Enfoque B — Planeación y ordenamiento que incorpora la GRD:** el MIF como instrumento de prevención informada integrado al ordenamiento territorial y la política pública. <br> **Enfoque C — Territorialización y financiamiento de la GRD:** fortalecimiento de capacidades locales y gobernanza descentralizada del fuego. <br> **Enfoque A — Comunidades de aprendizaje y participación:** los DIMIF como modelo de construcción colectiva de conocimiento con enfoque diferencial e intercultural. <br> **Eje transversal — Adaptación al Cambio Climático (Eco-RRD):** Soluciones Basadas en la Naturaleza y manejo de ecosistemas como estrategia de reducción del riesgo. <br> **Eje transversal — Ciencia, tecnología e innovación:** sistemas de información, monitoreo de fuego, modelación de escenarios y herramientas digitales. |
+| Preguntas | ¿Qué instrumentos y prácticas permiten mejorar la prevención mediante el MIF y cómo se integran al ordenamiento del territorio y la política pública? <br> ¿Qué aprendizajes de las experiencias internacionales (Portugal, Canadá, Ecuador) pueden orientar la institucionalización del MIF en Colombia 2026–2030? <br> ¿Cuáles son los principales cuellos de botella de gobernanza para la implementación del MIF a nivel territorial? <br> ¿Cómo se articula el MIF con las acciones anticipatorias, los sistemas de alerta temprana y la comunicación del riesgo de incendios en Colombia? <br> ¿Qué rol juegan las comunidades locales, indígenas y campesinas en la gobernanza del fuego y cómo se escalan los modelos participativos como los DIMIF? |
+| Conferencistas y/o facilitadores | **Moderador:** Daniel Segura — Oficial Forestal MIF, Oficina Regional FAO para ALC <br><br> **Panelistas:** Lara Steil (Coordinadora Global Fire Management Hub, FAO Roma) · María Constanza Meza Elizalde (Subdirectora para la Reducción del Riesgo, UNGRD) · Emanuel de Oliveira (Investigador ecología del fuego, Asociación NODFYR Portugal) · Delegado/a CIFFC — Canadá (por confirmar) · Representante Gobierno de Ecuador / experiencia MIF-COSUDE (por confirmar) |
+:::
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/186Ryi6XFrLLrE8_CFLGCZzSwIKsvbQ2W/preview" width="100%" height="480" allowfullscreen>
+
+</iframe>
+
+## Video de la sesión
+
+<iframe src="https://www.youtube.com/embed/wN5uk-ow2Vg?start=4323" width="100%" height="480" allowfullscreen>
+
+</iframe>

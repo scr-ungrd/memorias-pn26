@@ -1,0 +1,53 @@
+---
+title: "Plenaria 4. Reconstruir mejor: intercambio de experiencias y lecciones aprendidas para fortalecer la recuperación post-desastre"
+---
+
+## Nota conceptual
+
+:::{#tabla-p04-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Reconstruir mejor: intercambio de experiencias y lecciones aprendidas para fortalecer la recuperación post-desastre |
+| **Organización anfitriona** | Programa de las Naciones Unidas para el Desarrollo (PNUD) |
+| **Contacto principal** | Hugo Mármol — hugo.marmol@undp.org |
+| **Suplente** | Lina María Gallego Serna — lina.gallego.serna@undp.org |
+| **Organización Co-Anfitriona** | Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD) |
+| **Contacto principal** | Lizeth Abril — lizeth.abril@gestiondelriesgo.gov.co |
+| **Suplente** |  |
+| **Punto Focal UNGRD** |  |
+:::
+
+<style>
+#tabla-p04-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-p04-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-p04-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Plenaria. Panel de alto nivel con moderador y panelistas internacionales. Montaje tipo auditorio para aproximadamente 800 personas. |
+| Objetivo(s) | Generar un espacio de diálogo e intercambio para compartir experiencias, herramientas y lecciones aprendidas en procesos de recuperación post-desastre, promoviendo una recuperación temprana, inclusiva y sostenible desde el enfoque de "reconstruir mejor". |
+| Resultado(s) medible(s) | Documento de la relatoría elaborado y compartido. |
+| Descripción general | La sesión se alinea con las prioridades del Marco de Sendai 2015–2030, al posicionar la recuperación como oportunidad estratégica para reducir vulnerabilidades y fortalecer la resiliencia. Contribuye principalmente a la **Prioridad 4** (reconstruir mejor en la recuperación) y también a la **Prioridad 1** (comprender el riesgo), al visibilizar herramientas y metodologías para el análisis de afectaciones, capacidades y necesidades post-desastre. <br><br> En el marco del Plan de Acción Regional para las Américas del Marco de Sendai, la sesión promueve el intercambio de aprendizajes regionales y la adopción de herramientas que permitan a los países avanzar hacia procesos de recuperación que integren la reducción del riesgo, el desarrollo sostenible y la adaptación al cambio climático. |
+| Enfoque(s) y eje(s) transversal(es) | **Enfoque A — Comunidades de aprendizaje y participación:** intercambio de experiencias y conocimientos entre actores clave. <br> **Enfoque D — Preparación y recuperación oportuna:** herramientas y lecciones aprendidas para una respuesta eficaz y recuperación temprana con enfoque de "reconstruir mejor". <br> **Eje transversal — Ciencia, tecnología e innovación:** uso de datos, herramientas digitales y enfoques innovadores para la toma de decisiones basada en evidencia en los procesos de recuperación. |
+| Preguntas | ¿Qué metodologías para la evaluación de daños y pérdidas contribuyen mejor a la toma de decisiones y la priorización territorial? <br> ¿Qué lineamientos se requieren para una recuperación resiliente (corto–mediano–largo plazo) que incorpore lecciones post-evento y ajuste de instrumentos de planificación? <br> ¿Qué lecciones dejan las declaratorias de desastre nacional/calamidad pública y qué alternativas regulatorias o procedimentales mejorarían su oportunidad y efectividad? |
+| Conferencistas y/o facilitadores | **Apertura:** Carlos Carrillo (Director General, UNGRD) · Claudio Tomasi (Representante Residente PNUD Colombia) <br><br> **Moderador:** Luis Gamarra — Especialista Regional para América Latina y el Caribe en Recuperación Post-Desastre, PNUD <br><br> **Panelistas:** Xavier Moya (Coordinador de Proyectos de Resiliencia y GRD, PNUD México) · Remigio Roldán (Alcalde del Cantón Alausí, Ecuador) · Doris Suaza (Consultora Internacional en GRD) |
+:::
+
+## Diapositivas de la sesión
+
+::: {.callout-note}
+Las diapositivas de esta sesión estarán disponibles próximamente. Actualiza este bloque con el enlace de Google Drive o el iframe de Google Slides.
+:::
+
+## Video de la sesión
+
+<iframe src="https://www.youtube.com/embed/95yXGK0awCs?start=13508" width="100%" height="480" allowfullscreen>
+
+</iframe>
