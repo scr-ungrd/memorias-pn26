@@ -1,0 +1,35 @@
+---
+title: "Educar en medio del conflicto: guía para la protección de la comunidad educativa"
+author:
+- name: Diego A. Díaz Jimenez
+  affiliations:
+    - name: Universidad Santo Tomás, Medellín, Colombia
+  corresponding: true
+  email: diego.jimenezdia@usantotomas.edu.co
+- name: Andrés F. Molina Metaute
+  affiliations:
+    - name: Universidad Santo Tomás, Medellín, Colombia
+keywords:
+- Gestión del riesgo escolar
+- Conflicto armado
+- Educación rural
+- Escuelas seguras
+abstract: |
+  El trabajo surgió en el contexto de instituciones educativas rurales ubicadas en territorios afectados por el conflicto armado, donde la gestión del riesgo de desastres enfrenta limitaciones institucionales, escasez de herramientas pedagógicas y ausencia de protocolos contextualizados. Factores que incrementan la vulnerabilidad de la comunidad educativa ante situaciones de riesgo asociadas a dinámicas del conflicto.
+
+  Se presenta una guía de contingencia dirigida a instituciones educativas ubicadas en zonas de conflicto armado activo en Colombia. Su propósito es brindar orientaciones prácticas y efectivas para la protección de toda la comunidad educativa ante situaciones de riesgo.
+
+  La guía se construye a partir de experiencias reales recogidas mediante entrevistas a docentes, directivos, estudiantes, padres de familia e instituciones, complementadas con reportes, informes, marco legal y guías construidas para tal fin con enfoques de gestión del riesgo.
+
+  Con el objetivo de fortalecer la capacidad de respuesta institucional, especialmente para aquellas instituciones que no cuentan con un protocolo o un plan escolar de gestión del riesgo formulado e implementado con efectividad, evitando acciones improvisadas o fuera del marco legal, y promoviendo decisiones centradas en la protección de la vida y la dignidad humana.
+
+  Asimismo, se evidenció la necesidad de fortalecer procesos formativos, protocolos institucionales y acompañamiento psicosocial en contextos educativos afectados por el conflicto. Se concluye que la gestión del riesgo en estos territorios requiere enfoques participativos y contextualizados que reconozcan el conocimiento local. La guía propuesta aporta a la toma de decisiones en el ámbito educativo y puede servir como insumo para el diseño de políticas públicas, estrategias institucionales y futuras investigaciones orientadas a la protección de la comunidad educativa.
+categories:
+- Comunidades de aprendizaje y participación
+---
+
+**Perfil quién presenta el trabajo:** Ingeniero ambiental y estudiante de maestría en Educación Sostenible y Gestión Ambiental Territorial, con experiencia en procesos comunitarios, educación ambiental y gestión del riesgo en territorios afectados por el conflicto armado. Ha trabajado en la formulación e implementación de estrategias participativas con comunidades rurales, especialmente en contextos asociados a proyectos del sector hidrocarburos e infraestructura. Interesado en el fortalecimiento de capacidades locales, la educación para la gestión del riesgo y la construcción de herramientas pedagógicas contextualizadas.
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1-X5IVCGj9STEOu3WAM7zZPF7jt35yxuB/preview" width="100%" height="480" allowfullscreen></iframe>

@@ -1,0 +1,8 @@
+---
+title: GeoIA, inteligencia artificial geoespacial para la gestión del riesgo
+author:
+- name: Mohammed Alhessi
+  affiliations:
+    - name: Programa de las Naciones Unidas para el Desarrollo (PNUD), Colombia
+  corresponding: true
+---

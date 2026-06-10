@@ -1,0 +1,41 @@
+---
+title: "Sesión paralela 34. Construyendo Espacios de Paz en la Ruralidad"
+---
+
+## Nota conceptual
+
+:::{#tabla-sp34-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Construyendo Espacios de Paz en la Ruralidad |
+| **Organización anfitriona** | Agencia para la Reincorporación y la Normalización — ARN |
+| **Contacto principal** |  |
+| **Suplente** |  |
+| **Organización Co-Anfitriona** |  |
+| **Contacto principal** |  |
+| **Suplente** |  |
+| **Punto Focal UNGRD** |  |
+:::
+
+<style>
+#tabla-sp34-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-sp34-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-sp34-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Sesión paralela 34. Panel de discusión de hasta 45 minutos: 2–3 minutos de video introductorio y 42–43 minutos de panel de discusión sobre la incorporación de la GRD en los proyectos de vivienda definitiva y la Planeación Predial Participativa que implementa la ARN. |
+| Objetivo(s) | Establecer un diálogo sobre la incorporación de la Gestión del Riesgo de Desastres en los proyectos de vivienda en los Espacios Territoriales de Capacitación y Reincorporación (ETCR) y en la Planeación Predial Participativa que se implementan para la habitabilidad y ordenamiento territorial en la ruralidad en el marco de la construcción de paz. |
+| Resultado(s) medible(s) | Video y memoria del panel de discusión. |
+| Descripción general | La Agencia para la Reincorporación y la Normalización (ARN) gestiona la política, planes, programas y proyectos de reincorporación y normalización de los integrantes de las FARC-EP, conforme al Acuerdo Final del 24 de noviembre de 2016. <br><br> En la formulación de proyectos de vivienda para la consolidación de los ETCR, la ARN realiza un estudio de prefactibilidad que evalúa aspectos jurídicos y técnicos, dentro de los cuales se desarrolla un criterio sobre la Gestión del Riesgo de Desastres, identificando amenazas de origen natural para la localización segura de edificaciones e infraestructura asociada a proyectos de vivienda rural nucleada. El estudio genera recomendaciones sobre GRD, construcción segura, normativa y evaluaciones de vulnerabilidad y riesgos. Este componente se relaciona con la **Prioridad 1** del Marco de Sendai sobre Comprender el riesgo. <br><br> Por otro lado, aspectos de GRD son abordados desde la planeación predial participativa, que busca acompañar a los colectivos en reincorporación para definir el uso actual de la tierra, proyectar acciones futuras, mejorar el uso de los recursos naturales, contribuir al buen vivir de las comunidades y generar alternativas productivas sostenibles. Esto se relaciona con la **Prioridad 2** del Marco de Sendai sobre Fortalecer la gobernanza del riesgo. |
+| Enfoque(s) y Eje(s) transversal(es) | **Enfoques:** Planeación y ordenamiento que incorpora la GRD. Comunidades de aprendizaje y participación. |
+| Preguntas | ¿Cómo se implementan criterios de gestión del riesgo de desastres en asentamientos rurales nucleados? <br> ¿Cómo se llevan a cabo ejercicios de planeación predial participativa con la comunidad incorporando GRD para el uso y desarrollo en predios de suelos rurales? |
+| Conferencistas y/o facilitadores | **Moderadora:** Laura Méndez — Asesora Líder Equipo de Transformación, Vivienda y Territorio, ARN <br><br> **Panelistas:** Alejandra Miller — Directora General, ARN · Tania Rodríguez — Directora Programática de Reintegración, ARN · Laura Sanguino — Subdirectora de Subsidio y Ejecución de Vivienda Rural, Minvivienda · Juanita Montoya Galvis — Profesora Asociada, Escuela de Arquitectura y Urbanismo, Universidad Nacional de Colombia |
+:::

@@ -1,0 +1,23 @@
+---
+title: Voces de los territorios-Entretejidos
+author:
+- name: Catherine Agudelo Rico
+  affiliations:
+    - name: Proyecto Entretejidos, UNGRD-SRR, Colombia
+  corresponding: true
+  email: entretejidossrr@gestiondelriesgo.gov.co
+keywords:
+- Saberes territoriales
+- Decolonialidad en la gestión del riesgo de desastres
+- Cuidado de la vida y el territorio
+- Artesanas
+- Incidencia política
+abstract: |
+  La participación directa de las mujeres indígenas como voceras en este espacio responde a la necesidad de descentralizar la producción de conocimiento en la gestión del riesgo de desastres, reconociendo que los saberes territoriales no son complementarios, sino fundamentales para la comprensión y transformación del riesgo.
+
+  En coherencia con los enfoques de género, interculturalidad y decolonialidad, se prioriza la voz de las participantes como un acto de reconocimiento político y epistémico, que visibiliza su papel histórico en el cuidado de la vida, la organización comunitaria y la implementación de prácticas de prevención y respuesta frente a diversas amenazas.
+
+  Asimismo, permitir que sean las propias mujeres quienes narren sus experiencias en un escenario nacional contribuye a romper lógicas asistencialistas, posicionándolas como sujetas activas de la gestión del riesgo, capaces de incidir en los espacios de toma de decisión y de aportar a la construcción de una gestión más inclusiva, territorial y sostenible.
+categories:
+- Comunidades de aprendizaje y participación
+---

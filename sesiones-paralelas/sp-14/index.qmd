@@ -1,0 +1,41 @@
+---
+title: "Sesión paralela 14. Gestión del riesgo en el sector agropecuario: desarrollo rural, financiamiento e innovación para la resiliencia de los territorios rurales"
+---
+
+## Nota conceptual
+
+:::{#tabla-sp14-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Gestión del riesgo en el sector agropecuario: desarrollo rural, financiamiento e innovación para la resiliencia de los territorios rurales |
+| **Organización anfitriona** | Ministerio de Agricultura y Desarrollo Rural |
+| **Contacto principal** | Juan Carlos Salazar Pillimue |
+| **Suplente** | Martha Liliana Márquez Torres — Liseth Karina Parra |
+| **Organización Co-Anfitriona** | Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO) |
+| **Contacto principal** | Mónica Ucros Escallón |
+| **Suplente** | Claribel Rodríguez |
+| **Punto Focal UNGRD** | Daniela Guayara Betancur |
+:::
+
+<style>
+#tabla-sp14-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-sp14-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-sp14-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Sesión paralela (Paralela 14). Panel de discusión con panelistas y moderación. |
+| Objetivo(s) | 1. Visibilizar la gestión del riesgo de desastres como un componente estratégico del desarrollo agropecuario y de la Reforma Rural Integral, orientado a fortalecer la resiliencia de los territorios rurales y de los sistemas productivos frente a la variabilidad climática y los eventos extremos. <br><br> 2. Analizar los instrumentos de financiamiento, información e innovación disponibles en el sector agropecuario para fortalecer la gestión del riesgo y la resiliencia de los territorios rurales. <br><br> 3. Promover el uso de ciencia, tecnología e innovación para mejorar la comprensión del riesgo agroclimático y fortalecer la toma de decisiones en el sector agropecuario. |
+| Resultado(s) medible(s) | 1. Mecanismos de articulación entre el sector agropecuario y las entidades del Sistema Nacional de Gestión del Riesgo de Desastres (SNGRD). <br><br> 2. Líneas y orientaciones estratégicas para fortalecer el sector agropecuario. <br><br> 3. Informe que sintetice los principales aportes, recomendaciones y oportunidades para fortalecer la gestión del riesgo en el sector agropecuario. |
+| Descripción general | La sesión se articula con las prioridades del Marco de Sendai para la Reducción del Riesgo de Desastres 2015–2030, al abordar la gestión del riesgo de desastres (GRD) desde la perspectiva del sector agropecuario, reconociendo su papel estratégico en la seguridad alimentaria, el desarrollo rural y la resiliencia de los territorios frente a la variabilidad climática y los eventos extremos. <br><br> En este contexto, la participación del Ministerio de Agricultura y Desarrollo Rural se enfoca en promover la incorporación de la gestión del riesgo en la planificación sectorial, el fortalecimiento de capacidades territoriales y el desarrollo de instrumentos de financiamiento y gestión de riesgos agropecuarios, así como el uso de herramientas de información, modelación y tecnología para mejorar la toma de decisiones en el territorio. La sesión se vincula con las cuatro Prioridades del Marco de Sendai, desde la comprensión del riesgo agroclimático hasta el fortalecimiento de la preparación mediante mesas técnicas agroclimáticas y tecnologías de monitoreo. |
+| Enfoque(s) y Eje(s) transversal(es) | **Enfoques:** Planeación y ordenamiento que incorpora la GRD. Territorialización y financiamiento de la GRD. <br><br> **Eje transversal:** Ciencia, tecnología e innovación: datos, modelación, inteligencia artificial, innovación social y herramientas digitales. |
+| Preguntas | ¿Cuáles son los principales avances del sector agropecuario en la incorporación de la gestión del riesgo de desastres como un componente estratégico del desarrollo agropecuario y rural en Colombia? <br> ¿Cómo puede integrarse la gestión del riesgo de desastres en la planificación sectorial, el ordenamiento territorial rural y los procesos de desarrollo agropecuario, con el fin de reducir la vulnerabilidad de los sistemas agroalimentarios frente a la variabilidad climática y los eventos extremos? <br> ¿Qué mecanismos de articulación entre el nivel nacional y territorial son necesarios para implementar de manera efectiva estrategias de gestión del riesgo en el sector agropecuario? <br> ¿Qué mecanismos de gobernanza, articulación interinstitucional y financiamiento permiten fortalecer la implementación territorial de la GRD en el sector agropecuario, garantizando impactos sostenibles en resiliencia, medios de vida rurales y seguridad alimentaria? |
+| Conferencistas y/o facilitadores | **Moderadora:** María Consuelo Vergara — Coordinadora Área Gestión del Riesgo y Rehabilitación de Medios de Vida, FAO Colombia <br><br> **Panelistas:** Geidy Xiomara Ortega — Viceministra de Asuntos Agropecuarios, Ministerio de Agricultura y Desarrollo Rural · Diego Mora García — Representante oficial FAO Colombia · Inés Adriana Pachón Ruiz — Directora de Riesgos Agropecuarios, FINAGRO |
+:::

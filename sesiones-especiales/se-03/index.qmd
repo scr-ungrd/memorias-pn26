@@ -1,0 +1,41 @@
+---
+title: "Acciones municipales para la Reducción del Riesgo de Desastres y la Adaptación al Cambio Climático"
+---
+
+## Nota conceptual
+
+:::{#tabla-se03-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Acciones municipales para la Reducción del Riesgo de Desastres y la Adaptación al Cambio Climático |
+| **Organización anfitriona** | UNDRR |
+| **Contacto principal** | Beatriz García Pozuelo |
+| **Suplente** | |
+| **Organización Co-Anfitriona** | UNGRD |
+| **Contacto principal** | Blanca Yenith Torres Forero |
+| **Suplente** | Vivian Rocio Olarte Reyes |
+| **Punto Focal UNGRD** | Dennis Natalia Gómez Villareal |
+:::
+
+<style>
+#tabla-se03-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-se03-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-se03-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | El taller combinará exposiciones breves con sesiones prácticas e interactivas: (1) Clínica de planificación local integrada — a partir de casos reales, se trabajará sobre pasos críticos de la planificación informada por el riesgo, desde la priorización hasta la conexión con inversión, para producir hojas de ruta municipales de corto plazo que fortalezcan la implementación de los PMGRD; (2) Sesión práctica sobre DELTA Resilience — trabajo con información de daños y pérdidas para informar decisiones de planificación e inversión, incluyendo exploración de pérdidas no económicas asociadas a biodiversidad y servicios ecosistémicos; (3) Marketplace MCR2030 — espacio de trabajo en red entre municipios y nodos de resiliencia MCR2030 para articular la RRD y la ACC con una agenda estratégica. |
+| Objetivo(s) | Fortalecer el uso del conocimiento del riesgo, incluyendo datos desagregados, para la toma de decisiones locales, promoviendo la integración de información sobre amenazas, exposición, vulnerabilidad, escenarios climáticos y datos de daños y pérdidas en los procesos de planificación territorial y gestión municipal. <br><br> Identificar brechas y puntos de entrada para integrar RRD y ACC en los PMGRD y otros instrumentos territoriales. <br><br> Mejorar la calidad, disponibilidad y uso de los datos de daños y pérdidas, socializando herramientas y enfoques para fortalecer su captura, análisis y aplicación en la planificación y la inversión pública. <br><br> Fortalecer capacidades de los municipios para identificar necesidades de financiamiento para la RRD y ACC a nivel local. <br><br> Construir una hoja de ruta para avanzar hacia una planificación local integrada e informada por el riesgo. |
+| Resultado(s) medible(s) | Consolidación de al menos 5 brechas y 5 oportunidades para integrar la GRD y la ACC a nivel municipal. <br><br> Informe técnico del taller que sistematice resultados, brechas identificadas, medidas priorizadas y conclusiones clave. <br><br> El 100% de los municipios participantes identifica al menos 1 medida priorizada y sustentada en información de riesgo o datos de daños y pérdidas. <br><br> El 100% de los grupos de trabajo desarrolla un ejercicio teórico utilizando la herramienta de daños y pérdidas presentada. |
+| Descripción general | Los temas de la sesión se alinean con las prioridades del Marco de Sendai y su Plan de Acción Regional para las Américas, centrándose en fortalecer la planificación local informada por el riesgo y la toma de decisiones. Se promueve el uso del conocimiento del riesgo como base para orientar la planificación territorial (Prioridad 1), la identificación de brechas técnicas e institucionales y la articulación entre instrumentos como los PMGRD, POT y PIGCCT (Prioridad 2), el fortalecimiento de capacidades para identificar necesidades de financiamiento y priorizar medidas (Prioridad 3), y el fortalecimiento de capacidades técnicas para la planificación prospectiva del riesgo (Prioridad 4). |
+| Enfoque(s) y eje(s) transversal(es) | Planeación y Ordenamiento que incorpora la GRD · Territorialización y financiamiento · Comunidades de aprendizaje y participación · Adaptación al cambio climático |
+| Preguntas | ¿Cómo pueden los municipios integrar de manera operativa la GRD y la ACC en sus instrumentos de planificación territorial? <br> ¿Qué brechas técnicas, institucionales y de gobernanza limitan el uso del conocimiento del riesgo en la toma de decisiones locales? <br> ¿Cómo pueden los datos de daños y pérdidas utilizarse para priorizar medidas y orientar la inversión pública a nivel municipal? <br> ¿Qué criterios deben considerarse para priorizar medidas de reducción del riesgo y adaptación al cambio climático en contextos locales? <br> ¿Cuáles son las principales necesidades y oportunidades de financiamiento para implementar acciones de RRD y ACC a nivel municipal? |
+| Conferencistas y/o facilitadores | Mario Salgado Galves (UNDRR) · Beatriz García Pozuelo (UNDRR) · Alejandra Barragán (GIZ) · Natalia Córdoba (MADS) · Vivian Olarte Reyes (UNGRD) · Blanca Torres Forero (UNGRD) |
+:::

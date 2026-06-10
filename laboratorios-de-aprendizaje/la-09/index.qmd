@@ -1,0 +1,45 @@
+---
+title: "Laboratorio de Aprendizaje 9. Mesa Técnica Agroclimática para la gestión del riesgo sectorial"
+---
+
+## Nota conceptual
+
+:::{#tabla-la09-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Laboratorio: Mesa Técnica Agroclimática para la gestión del riesgo sectorial |
+| **Organización anfitriona** | Ministerio de Agricultura y Desarrollo Rural (MADR) |
+| **Contacto principal** | Martha Márquez — MADR |
+| **Suplente** | FAO — Javier Betancur Vivas |
+| **Organización Co-Anfitriona** | Instituto de Estudios Ambientales — IDEAM, Subdirección Meteorología |
+| **Contacto principal Co-Anfitriona** | Marta Cadena |
+| **Suplente Co-Anfitriona** | FAO — Javier Betancur Vivas |
+| **Punto Focal UNGRD** | Zaida Rincón |
+:::
+
+<style>
+#tabla-la09-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-la09-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-la09-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Versión express de una Mesa Técnica Agroclimática Nacional. Cuatro intervenciones: (1) FAO — evolución de la estrategia MTA y hitos en 11 años (5 min); (2) IDEAM — socialización de predicciones y pronósticos para 3 meses (30 min); (3) MADR — uso de pronósticos para el sector agropecuario (15 min); (4) Mesas de trabajo FAO — construcción de calendario agroclimático para el trimestre junio-agosto (30 min); (5) Servicios climáticos gremiales FENALCE-FEDEARROZ (30 min); cierre del moderador. |
+| Objetivo(s) | Socializar la aplicación de los servicios climáticos en el sector agropecuario. <br><br> Realizar una simulación de la integración de información SAT para proyectar acciones anticipadas en el sector agropecuario. |
+| Resultado(s) medible(s) | Informe del laboratorio. Calendario agroclimático. Audio boletín agroclimático. |
+| Descripción general | El laboratorio inicia con un video sobre la trayectoria de la estrategia MTA en Colombia. Posteriormente se realiza una versión express de la Mesa Técnica Agroclimática Nacional: socialización de predicciones climáticas para los siguientes tres meses por el IDEAM; presentación de servicios climáticos para dos gremios (cereales y arroz) con ejercicio práctico en plataformas de información (FENALCE y FEDEARROZ); y mesas de trabajo para construir recomendaciones y un calendario agroclimático nacional como herramienta de planeación. La estrategia de Mesas Técnicas Agroclimáticas articula las necesidades de conocimiento del sector frente a la variabilidad climática con la oferta de servicios climáticos, democratizando la información y fortaleciendo la apropiación social del conocimiento y la comunicación del riesgo agroclimático. |
+| Enfoque(s) y eje(s) transversal(es) | **Enfoques:** Comunidades de aprendizaje y participación; Territorialización y Preparación y recuperación oportuna. <br> **Eje transversal — Ciencia, tecnología e innovación:** datos, modelación, inteligencia artificial, innovación social. |
+| Preguntas | ¿Qué evidencias, datos o análisis de riesgo (SAT, comunicación del riesgo, mapas comunitarios, pérdidas y daños) soportan la toma de decisiones y la priorización territorial? <br> ¿Qué estrategias de comunidades de aprendizaje y participación han demostrado impacto y cómo se escalan con enfoque diferencial? <br> ¿Cómo se articula el SAT con acciones anticipatorias y protocolos operativos? <br> ¿Qué lineamientos se requieren para una recuperación resiliente que incorpore lecciones post evento? |
+| Conferencistas y/o facilitadores | **Moderador:** Javier Betancur Vivas — Líder Nacional Estrategia Mesas Técnicas Agroclimáticas, FAO. <br> **Martha Cecilia Cadena** — Especialista en Clima, Subdirección Meteorología, IDEAM. <br> **Martha Liliana Márquez** — MADR, Dirección de Innovación. <br> **Jorge Rizzo** — Analista Agropecuario, FAO. <br> **Jhon Jairo Valencia** — FENALCE (cereales, leguminosas y soya). <br> **María del Mar Vásquez** — FEDEARROZ. |
+:::
+
+## Diapositivas de la sesión
+
+*Diapositivas no disponibles.*

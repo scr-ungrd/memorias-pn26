@@ -1,0 +1,41 @@
+---
+title: "Sesión paralela 27. Cuando los datos se vuelven protección: Visión geoespacial para la transferencia del riesgo"
+---
+
+## Nota conceptual
+
+:::{#tabla-sp27-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Cuando los datos se vuelven protección: Visión geoespacial para la transferencia del riesgo |
+| **Organización anfitriona** | Federación de Aseguradores Colombianos — Fasecolda |
+| **Contacto principal** | Carlos Molina |
+| **Suplente** | Camila Jiménez |
+| **Organización Co-Anfitriona** | UNGRD |
+| **Contacto principal** | José Luis Flórez |
+| **Suplente** | Beatriz Parra |
+| **Punto Focal UNGRD** | Equipo de Protección Financiera UNGRD |
+:::
+
+<style>
+#tabla-sp27-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-sp27-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-sp27-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Presentación. |
+| Objetivo(s) | 1. Presentar el estado de la protección financiera frente a desastres en Colombia, incluyendo niveles de aseguramiento y brechas existentes. <br><br> 2. Posicionar la información del sector asegurador como insumo para la toma de decisiones en política pública y planificación territorial. <br><br> 3. Identificar retos en la articulación entre sector público y asegurador en materia de gestión del riesgo. <br><br> 4. Incentivar acuerdos para fortalecer el SNGRD. |
+| Resultado(s) medible(s) | Documento de conclusiones técnicas de la sesión. |
+| Descripción general | La sesión se enmarca en la necesidad de fortalecer la protección financiera frente a desastres en Colombia, reconociendo que la gestión del riesgo no puede limitarse a la respuesta y recuperación, sino que requiere instrumentos anticipatorios, sostenibles y basados en evidencia. El sector asegurador cumple un rol estratégico al aportar mecanismos de transferencia del riesgo y, de manera creciente, información técnica sobre exposición, vulnerabilidad y pérdidas potenciales. <br><br> La sesión se alinea con las cuatro prioridades del Marco de Sendai: contribuye a la comprensión del riesgo mediante datos consolidados del sector asegurador, incluyendo sistemas de cúmulos y herramientas geoespaciales que permiten dimensionar la exposición económica ante eventos catastróficos. Aporta al fortalecimiento de la gobernanza al promover articulación entre actores del SNGRD. Se relaciona con la inversión en resiliencia al discutir mecanismos para ampliar la cobertura del aseguramiento y movilizar recursos hacia estrategias más eficientes. Contribuye a la preparación y recuperación resiliente al evidenciar cómo la disponibilidad de instrumentos financieros puede acelerar la recuperación post-desastre y reducir impactos fiscales. <br><br> La sesión incorpora los ejes transversales de ciencia, tecnología e innovación, al destacar el uso de modelación, analítica de datos y herramientas digitales, y fortalece la articulación público-privada para avanzar hacia un modelo donde el aseguramiento sea un habilitador de resiliencia territorial. |
+| Enfoque(s) y Eje(s) transversal(es) | **Enfoque:** Territorialización y financiamiento de la GRD. |
+| Preguntas | ¿Qué tan protegidos están realmente los hogares, las empresas y el Estado frente a desastres en Colombia, y dónde están las principales brechas de protección financiera? <br> ¿Cómo puede la información geoespacial y los datos del sector asegurador mejorar la toma de decisiones en planificación territorial y política pública? <br> ¿Qué está impidiendo una articulación efectiva entre sector público y asegurador para gestionar el riesgo de desastres de manera integral? |
+| Conferencistas y/o facilitadores | **Carlos Varela** — Ingeniero Civil, Máster en Ingeniería Civil y MBA, Especialista en Seguros y Seguridad Social, investigador en gestión de riesgos y seguros, Fasecolda <br><br> **Carlos Molina** — Director de la Cámara Técnica de Propiedad e Ingeniería, Fasecolda; impulsor del proyecto GeoFasecolda y esquemas de información para el análisis de exposición catastrófica y acumulación de riesgos |
+:::

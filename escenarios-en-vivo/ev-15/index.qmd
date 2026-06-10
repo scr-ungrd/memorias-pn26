@@ -1,0 +1,11 @@
+---
+title: Zonificación del Riesgo de deterioro del arbolado urbano
+author:
+- name: Cristian Camilo Hurtado
+  affiliations:
+    - name: UNGRD
+---
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1_diXa9OMocn8EdSOHE_QAuslL1JfMClT/preview" width="100%" height="480" allowfullscreen></iframe>

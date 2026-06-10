@@ -1,0 +1,26 @@
+---
+title: Gobernanza de los Sistemas de Alerta Temprana Hidrometereológicos del Departamento de Risaralda, Colombia
+author:
+- name: Alexander Galindo López
+  affiliations:
+    - name: Escuela Nacional de Protección Civil (ENAPROC), Chiapas, México
+    - name: Universidad Tecnológica de Pereira, Colombia
+    - name: Corporación Autónoma Regional de Risaralda (CARDER), Colombia
+  corresponding: true
+keywords:
+- Gobernanza
+- Sistemas de alertas tempranas
+- Gestión del riesgo de desastres
+- Gobernanza del riesgo
+- Coordinación multinivel
+abstract: |
+  La gobernanza de los sistemas de alertas tempranas en Colombia enfrenta limitaciones estructurales asociadas a la débil articulación entre actores, la ambigüedad en la asignación de responsabilidades y la fragmentación entre componentes institucionales, tecnológicos y comunitarios, lo que incide en la efectividad de la gestión del riesgo de desastres. A pesar de los avances derivados de la Ley 1523 de 2012 y de instrumentos como el Plan Nacional de Gestión del Riesgo de Desastres, persisten vacíos en la operacionalización de la gobernanza y en la coordinación multinivel. En este contexto, el objetivo del estudio es analizar la gobernanza de los sistemas de alertas tempranas en el departamento de Risaralda, identificando brechas y proponiendo lineamientos de fortalecimiento.
+
+  La investigación, en desarrollo en el marco de un doctorado en gestión integral del riesgo de desastres, adopta un enfoque mixto que combina análisis documental y normativo, identificación de actores y la construcción y aplicación de una matriz de evaluación de gobernanza. El análisis normativo evidenció dispersión en la asignación de responsabilidades y limitada claridad en los mecanismos de articulación. Como resultado preliminar, la matriz fue validada mediante un panel de expertos, quienes asignaron pesos a 9 variables y calificaron 19 indicadores. Su aplicación en el departamento de Risaralda permitió identificar debilidades en la coordinación interinstitucional, vacíos en la definición operativa de roles y limitaciones en la sostenibilidad institucional y financiera. Asimismo, se evidencian capacidades técnicas instaladas y oportunidades para fortalecer la articulación multinivel y la participación comunitaria.
+
+  Se concluye de manera preliminar que el fortalecimiento de la gobernanza de los sistemas de alertas tempranas requiere mayor claridad normativa, instrumentos operativos y mecanismos efectivos de coordinación, aportando insumos clave para la toma de decisiones, el ajuste de la política pública y la implementación efectiva de la gestión del riesgo de desastres en Colombia.
+categories:
+- Preparación y recuperación oportuna
+---
+
+**Perfil quién presenta el trabajo:** Alexander Galindo L. es administrador ambiental, especialista en Economía Pública y Gestión Territorial, magíster en Desarrollo Regional y doctorando en Gestión Integral del Riesgo de Desastres. Cuenta con una sólida trayectoria en el sector público; se desempeñó como Director de Gestión del Riesgo del municipio de Pereira entre 2016 y 2023. Desde 2024 está vinculado a la Corporación Autónoma Regional de Risaralda (CARDER), donde ha ejercido como asesor de la Dirección General y actualmente se desempeña como Jefe de Control Interno de Gestión. Desde 2022 es docente catedrático en el programa de Administración Ambiental de la Universidad Tecnológica de Pereira, orientando la asignatura de Gestión del Riesgo de Desastres. Su trabajo se enfoca en la gobernanza de sistemas de alertas tempranas, la articulación institucional y el diseño de instrumentos de política pública con enfoque territorial.

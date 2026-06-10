@@ -1,0 +1,39 @@
+---
+title: Curso Gestión del Riesgo de la Salud Ambiental
+author:
+- name: Jorge Iván López Jaramillo
+  affiliations:
+    - name: Facultad Nacional de Salud Pública, Universidad de Antioquia, Colombia
+  corresponding: true
+  email: jlopezja@gmail.com
+- name: Clara Alejandra Múnera Betancur
+  affiliations:
+    - name: Facultad Nacional de Salud Pública, Universidad de Antioquia, Colombia
+- name: Jose Pablo Escobar Vasco
+  affiliations:
+    - name: Facultad Nacional de Salud Pública, Universidad de Antioquia, Colombia
+- name: Lilliana María Blandón Loaiza
+  affiliations:
+    - name: Facultad Nacional de Salud Pública, Universidad de Antioquia, Colombia
+- name: Luz Nelly Zapata Villarreal
+  affiliations:
+    - name: Facultad Nacional de Salud Pública, Universidad de Antioquia, Colombia
+keywords:
+- Gestión del riesgo
+- Salud ambiental
+- Salud pública
+abstract: |
+  Según la OMS, casi una cuarta parte de todas las muertes a nivel mundial están relacionadas con el medio ambiente. La pregunta que debemos hacernos hoy no es solo cómo usamos la tecnología para curar, sino cómo usamos el conocimiento y la salud digital para evitar que nuestro propio entorno nos enferme. Colombia es una región de contrastes maravillosos, pero también de vulnerabilidades ambientales compartidas, y los riesgos no son teóricos, están ocurriendo ahora.
+
+  El riesgo ambiental no respeta fronteras; es un problema sistémico que amenaza con colapsar los sistemas de salud pública si se continúa actuando de manera únicamente reactiva. Actualmente, los tomadores de decisiones locales, los líderes comunitarios y gran parte del personal de atención primaria no cuentan con las herramientas técnicas para gestionar este riesgo. Tradicionalmente, la Salud Pública, la Gestión del Riesgo y la Salud Ambiental se han tratado como silos separados. La Salud Pública moderna exige que se entienda el entorno como el paciente primario.
+
+  El curso Gestión del Riesgo de la Salud Ambiental, desarrollado por la Facultad Nacional de Salud Pública de la Universidad de Antioquia con el apoyo de la Fundación Johnson & Johnson, está dividido en módulos que abordan el concepto de salud ambiental, los determinantes ambientales de la salud, el rol del trabajador comunitario, la identificación y evaluación de riesgos ambientales, las medidas de prevención y mitigación, y la educación y comunicación del riesgo.
+categories:
+- Comunidades de aprendizaje y participación
+---
+
+**Perfil quién presenta el trabajo:** Médico y Cirujano, Especialista en Gerencia de la Salud Pública, Magíster Internacional en Protección Comunitaria y Promoción de la Seguridad. Docente investigador en la Facultad Nacional de Salud Pública de la Universidad de Antioquia.
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1Wm033QZZ-6IoIh62dDU9BgRTqD4xEax-/preview" width="100%" height="480" allowfullscreen></iframe>

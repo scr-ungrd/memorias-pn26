@@ -1,0 +1,41 @@
+---
+title: "Hacia la gestión integral de la erosión costera en Colombia: Comunidades, ecosistemas y economía resiliente al clima"
+---
+
+## Nota conceptual
+
+:::{#tabla-se07-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Hacia la gestión integral de la erosión costera en Colombia: Comunidades, ecosistemas y economía resiliente al clima |
+| **Organización anfitriona** | Ministerio de Ambiente y Desarrollo Sostenible |
+| **Contacto principal** | Francisco Javier Álvarez |
+| **Suplente** | Jorge Augusto Acosta Rivera |
+| **Organización Co-Anfitriona** | UNGRD · DIMAR · CCO · PNN · Mincomercio · Minvivienda · DNP · Mintrasporte · INVEMAR · IDEAM · SGC |
+| **Contacto principal** | |
+| **Suplente** | |
+| **Punto Focal UNGRD** | Oswaldo Coca — Oswaldo.coca@gestiondelriesgo.gov.co |
+:::
+
+<style>
+#tabla-se07-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-se07-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-se07-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Sesión Paralela — Especial. Desarrollo en cuatro bloques: (1) Presentación del análisis situacional y recomendaciones para la gestión de los riesgos marino costeros en Colombia — INVEMAR, DIMAR, UNGRD (30 min, tipo Panel); (2) Socialización del Plan Maestro de Erosión Costera (PMEC) actualizado — Minambiente (30 min, tipo magistral); (3) Rueda de proyectos para promover la implementación del PMEC; (4) Presentación del mecanismo de adopción e implementación intersectorial del PMEC mediante Circular Externa Conjunta. |
+| Objetivo(s) | 1. Presentar el análisis situacional y recomendaciones para la gestión de los riesgos marino costeros en Colombia (INVEMAR-DIMAR-UNGRD). <br><br> 2. Socializar el Plan Maestro de Erosión Costera (PMEC) actualizado (Minambiente). <br><br> 3. Proponer una rueda de proyectos para promover la implementación del PMEC. <br><br> 4. Presentar el mecanismo de adopción e implementación intersectorial del PMEC mediante Circular Externa Conjunta. |
+| Resultado(s) medible(s) | Sensibilización sobre los riesgos ecológicos en las zonas marinas, costeras e insulares del país, con énfasis en la urgencia de intervenir la erosión costera. <br><br> Plan Maestro de Erosión Costera (PMEC) presentado como principal instrumento para unificar esfuerzos y consolidar una visión a largo plazo para la gestión integral, diferenciada e intersectorial de las localidades afectadas. <br><br> Presentación de la metodología para el desarrollo de la "rueda de proyectos" para conectar cooperantes y socios con la demanda de programas y proyectos del PMEC. <br><br> Presentación de la hoja de ruta de la Circular Externa Conjunta para la articulación interinstitucional en la implementación efectiva del PMEC. |
+| Descripción general | La erosión costera es un proceso natural propio de la dinámica de los sistemas litorales, influenciada por factores físicos como el régimen de oleaje, la frecuencia e intensidad de las tormentas y las características geomorfológicas del litoral. En las últimas décadas este fenómeno se ha intensificado debido a presiones antrópicas tales como la degradación de ecosistemas estratégicos, el represamiento de ríos, las alteraciones en el balance sedimentario y la expansión de infraestructura sin adecuada planificación. Estas dinámicas han incrementado la vulnerabilidad de 165 territorios costeros. El Plan Maestro de Erosión Costera (PMEC) se constituye en el principal instrumento para unificar esfuerzos y consolidar una visión a largo plazo orientada a la gestión integral, diferenciada e intersectorial, mediante el fortalecimiento del conocimiento de la amenaza, la intervención del territorio con soluciones verdes, grises y mixtas, y la implementación de medidas de adaptación acordes con las características sociales, ambientales, geográficas y culturales de cada región. |
+| Enfoque(s) y eje(s) transversal(es) | |
+| Preguntas | |
+| Conferencistas y/o facilitadores | |
+:::

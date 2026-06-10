@@ -1,0 +1,37 @@
+---
+title: Radar de resiliencia y continuidad
+author:
+- name: Luis Fernando Vélez Soto
+  affiliations:
+    - name: Universidad Católica de Manizales, Colombia
+  corresponding: true
+  email: Lvelez1106@gmail.com
+- name: Eduardo Vélez Soto
+  affiliations:
+    - name: Universidad Internacional del Conocimiento e Investigación (UNICI), México
+keywords:
+- Gestión del riesgo
+- Escenarios de riesgo
+- Resiliencia
+- Análisis de vulnerabilidad
+- Desarrollo sostenible
+abstract: |
+  La gestión del riesgo de desastres enfrenta el desafío crítico de superar los enfoques puramente reactivos para consolidarse como un proceso social preventivo. En muchos contextos institucionales y territoriales, la falta de una caracterización detallada de las amenazas y vulnerabilidades impide una asignación eficiente de recursos, dejando a las comunidades expuestas a impactos que podrían ser mitigados. Este problema se agrava por la naturaleza sistémica del riesgo, donde eventos de origen natural o antrópico pueden generar efectos en cascada sobre la infraestructura, la economía y la vida humana.
+
+  El objetivo central de este trabajo es implementar una metodología sistemática para la identificación, análisis y evaluación del riesgo mediante la construcción de escenarios específicos. Se busca transformar la información técnica en niveles de riesgo categorizados que faciliten la toma de decisiones informadas y la priorización de intervenciones.
+
+  Para ello, se emplea una metodología cuantitativa y cualitativa basada en la valoración de la probabilidad de ocurrencia y el impacto potencial de diversos fenómenos. El enfoque se centra en la "convolución" de la amenaza y la vulnerabilidad, utilizando matrices de riesgo que permiten calificar cada escenario desde niveles bajos hasta muy altos. Esta intervención integra herramientas de monitoreo y seguimiento, asegurando que el análisis no sea estático, sino un insumo dinámico que alimenta los procesos de reducción y manejo de emergencias, adicionando el componente de exposición y capacidades.
+
+  Los hallazgos principales demuestran que la evaluación detallada por escenarios permite identificar nodos críticos de vulnerabilidad que a menudo pasan desapercibidos en análisis generales. Se logra una jerarquización objetiva de las amenazas, lo que optimiza la planificación del desarrollo y la continuidad operativa. Además, se evidencia que la participación de actores multidisciplinarios mejora la precisión de la calificación del riesgo y fortalece la resiliencia institucional.
+
+  En conclusión, este enfoque robustece la gobernanza del riesgo y es esencial para el diseño de políticas públicas orientadas a la sostenibilidad ambiental y la seguridad territorial. Se recomienda a los tomadores de decisiones integrar estos resultados en los planes de ordenamiento y presupuestos de inversión, priorizando la reducción correctiva y prospectiva del riesgo sobre la simple respuesta.
+categories:
+- Preparación y recuperación oportuna
+- Datos, modelación, IA, innovación social y herramientas digitales
+---
+
+**Perfil quién presenta el trabajo:** Orientado a la dirección y gestión integral del riesgo, con más de 32 años de experiencia en el ámbito militar, civil, seguridad privada y gestión del riesgo de desastres. Cuenta con experiencia en diseño e implementación de planes, programas y proyectos de gestión del riesgo, seguridad física y operacional, así como en la articulación con autoridades territoriales y organismos de respuesta para la prevención y atención de desastres.
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1dnUMHBpdFkaD3WW14_DOitULx-lvI2Wv/preview" width="100%" height="480" allowfullscreen></iframe>

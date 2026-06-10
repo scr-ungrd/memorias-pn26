@@ -1,0 +1,41 @@
+---
+title: "Sesión paralela 4. Protegiendo e impulsando el desarrollo a nivel territorial a través de la continuidad de las operaciones en las cadenas de suministro a nivel nacional frente a los efectos del cambio climático y los desastres"
+---
+
+## Nota conceptual
+
+:::{#tabla-sp04-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Protegiendo e impulsando el desarrollo a nivel territorial a través de la continuidad de las operaciones en las cadenas de suministro a nivel nacional frente a los efectos del cambio climático y los desastres |
+| **Organización anfitriona** | Responsabilidad Integral |
+| **Contacto principal** | Yezid Niño |
+| **Suplente** | Sandra Estupiñán |
+| **Organización Co-Anfitriona** | Consejo Colombiano de Seguridad |
+| **Contacto principal** | Jacqueline Mesa |
+| **Suplente** | Johan Andrés García |
+| **Punto Focal UNGRD** | |
+:::
+
+<style>
+#tabla-sp04-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-sp04-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-sp04-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Panel de discusión con facilitación estratégica, complementado con espacio de diálogo orientado a mensajes clave y recomendaciones. Moderación técnica a cargo de UNDRR; intervenciones iniciales de 10 minutos por panelista; diálogo guiado con preguntas estratégicas; recopilación de mensajes clave y recomendaciones. |
+| Objetivo(s) | Analizar el rol de la continuidad de operaciones en las cadenas de suministro como condición habilitante para la resiliencia territorial, la protección del empleo y los medios de vida frente a desastres y al cambio climático. <br><br> Identificar responsabilidades y capacidades complementarias del sector público, privado y logístico para garantizar la continuidad de procesos productivos y servicios críticos. <br><br> Visibilizar experiencias y aprendizajes desde el nivel territorial que integren empresas ancla, gobiernos locales y comunidades. <br><br> Proponer mensajes estratégicos y recomendaciones para fortalecer la integración de inversiones y esfuerzos público–privados en el marco del SNGRD. |
+| Resultado(s) medible(s) | Documento síntesis de mensajes clave y recomendaciones sobre continuidad de operaciones y resiliencia de cadenas de suministro, como insumo para el Manifiesto de la PN26 y el Informe Final de la Plataforma Nacional. <br><br> Identificación de ámbitos prioritarios de acción público–privada (regulatorios, financieros, operativos y territoriales). |
+| Descripción general | Las cadenas de suministro constituyen un componente crítico del desarrollo económico, el abastecimiento de alimentos, la provisión de servicios esenciales y la generación de empleo en los territorios. En el contexto colombiano, los impactos crecientes del cambio climático y la recurrencia de desastres —inundaciones, remoción en masa, sequías, eventos climáticos extremos— evidencian la alta vulnerabilidad de los procesos productivos y de los flujos de bienes esenciales. <br><br> El Marco de Sendai reconoce explícitamente el rol del sector privado como actor fundamental para la reducción del riesgo de desastres, destacando su responsabilidad en la gestión del riesgo en sus operaciones, la protección de infraestructura crítica y la articulación con las autoridades públicas para garantizar la continuidad de bienes y servicios esenciales. La sesión abordará la continuidad de operaciones desde una mirada integral y territorial, incorporando la experiencia del sector empresarial, el rol del gobierno local, la importancia del sector logístico, marítimo y portuario, y la integración de las comunidades como actores clave. |
+| Enfoque(s) y eje(s) transversal(es) | **Enfoques principales:** A. Comunidades de aprendizaje y participación; C. Territorialización y financiamiento de la GRD; D. Preparación y recuperación oportuna. <br> **Ejes transversales:** Adaptación al Cambio Climático desde el enfoque de Eco-RRD; Ciencia, tecnología e innovación. |
+| Preguntas | ¿Cómo pueden las cadenas de suministro resilientes proteger los medios de vida, el empleo y el abastecimiento de bienes esenciales en los territorios más expuestos a riesgos climáticos y de desastres en Colombia? <br> ¿Qué responsabilidades diferenciadas y complementarias corresponden al sector público, privado y logístico para garantizar la continuidad de operaciones antes, durante y después de eventos disruptivos? <br> ¿Cómo integrar de manera efectiva la gestión del riesgo de desastres y el cambio climático en las decisiones de inversión pública y privada en infraestructura productiva y logística? <br> ¿Qué barreras normativas, financieras y operativas limitan hoy la continuidad de las cadenas de suministro y cómo pueden superarse desde la articulación público–privada? <br> ¿De qué manera pueden las comunidades locales participar activamente en la prevención, la preparación y la recuperación de las cadenas productivas y logísticas territoriales? |
+| Conferencistas y/o facilitadores | **Moderación:** Luis Bonilla, Oficial de Asuntos Económicos — UNDRR <br><br> **Panelistas:** Representante del sector privado con experiencia en gestión del riesgo y continuidad de operaciones · Representante de gobierno local (alcaldía o gobernación) · Representante del sector logístico y portuario — Cámara Marítima y Portuaria de la ANDI |
+:::

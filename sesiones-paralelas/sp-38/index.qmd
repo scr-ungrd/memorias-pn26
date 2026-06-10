@@ -1,0 +1,41 @@
+---
+title: "Sesión paralela 38. Puentes con la Gente y para la Gente"
+---
+
+## Nota conceptual
+
+:::{#tabla-sp38-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Puentes con la Gente y para la Gente |
+| **Organización anfitriona** | Gobernación de Casanare — Consejo Departamental de Gestión del Riesgo de Desastres (CDGRD) |
+| **Contacto principal** | CDGRD — Devier Salazar Pérez |
+| **Suplente** | CDGRD — Wilson Ferney Coba |
+| **Organización Co-Anfitriona** | UNGRD — Subdirección de Reducción del Riesgo (SRR) |
+| **Contacto principal** | Lizeth Abril |
+| **Suplente** | Cristhian Villamil |
+| **Punto Focal UNGRD** | Diana Rivera — SRR |
+:::
+
+<style>
+#tabla-sp38-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-sp38-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-sp38-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Sesión paralela — Panel. Tres momentos: 1) Proyección de video de la estrategia "Puentes con la Gente y para la Gente". 2) Panel de discusión con dos rondas de preguntas para los panelistas y una ronda para el público. 3) Cierre por la Gobernación de Casanare con llamado a la acción y firma simbólica de manifiesto de cooperación. |
+| Objetivo(s) | 1. Socializar ante el SNGRD y la cooperación internacional la estrategia "Puentes con la Gente y para la Gente" como modelo territorial de reducción del riesgo basado en la articulación público-privada-comunitaria. <br><br> 2. Evidenciar los resultados técnicos, sociales y financieros del modelo: 15 puentes construidos en 18 meses, más de 3.000 familias beneficiadas, y ahorros de hasta el 87% frente a la contratación pública tradicional. <br><br> 3. Compartir aprendizajes técnicos, sociales y de gobernanza que la experiencia de Casanare puede ofrecer al SNGRD para abordar la conectividad rural como factor de gestión del riesgo. <br><br> 4. Identificar condiciones habilitantes y factores críticos de éxito que permitan escalar el modelo en territorios con vulnerabilidades similares (aislamiento rural, déficit de infraestructura, presencia de industria extractiva). |
+| Resultado(s) medible(s) | Documento de sistematización de la experiencia disponible para consulta de las entidades territoriales del SNGRD. Memoria del panel con preguntas, respuestas, compromisos y hoja de ruta de seguimiento. Mapa de actores interesados en replicar el modelo. Acuerdo marco de cooperación técnica entre la Gobernación de Casanare y la UNGRD para acompañar pilotos de réplica en al menos dos departamentos durante 2026–2027. |
+| Descripción general | La estrategia "Puentes con la Gente y para la Gente" demuestra cómo un residuo industrial —tubería petrolera en desuso donada por empresas del sector— puede transformarse en infraestructura resiliente con cargas de hasta 52 toneladas, con costos hasta diez veces menores que la obra pública convencional, y con apropiación comunitaria que asegura su sostenibilidad en el largo plazo. <br><br> La estrategia materializa simultáneamente las cuatro prioridades del Marco de Sendai: diagnóstico participativo de puntos críticos de aislamiento rural (Prioridad 1); esquema multinivel y multisectorial que articula gobernación, alcaldías, juntas de acción comunal, industria petrolera, SENA y Ejército Nacional (Prioridad 2); obras de mitigación correctiva que reducen la vulnerabilidad por incomunicación y temporada invernal (Prioridad 3); y garantía de conectividad permanente para la respuesta a emergencias (Prioridad 4). <br><br> La experiencia responde directamente a tres ejes prioritarios del Plan de Acción Regional para las Américas del Marco de Sendai: fortalecimiento de capacidades locales, innovación en mecanismos de financiamiento del riesgo y aprovechamiento de alianzas público-privadas-comunitarias. |
+| Enfoque(s) y Eje(s) transversal(es) | **Enfoques:** Comunidades de aprendizaje y participación. Territorialización y financiamiento de la GRD. <br><br> **Ejes transversales:** Adaptación al Cambio Climático desde el enfoque de Eco-Reducción (Eco-RRD). Ciencia, tecnología e innovación: datos, modelación, inteligencia artificial, innovación social y herramientas digitales. |
+| Preguntas | ¿Cómo nació y cuál es el objetivo de la estrategia "Puentes con la Gente y para la Gente" en Casanare? <br> ¿En qué beneficia la estrategia a los municipios de sexta categoría como Trinidad? <br> ¿De qué manera se ha vinculado el sector público a esta estrategia? <br> ¿Cuál es el papel que juegan las comunidades en la estrategia? <br> ¿Cuáles son las principales recomendaciones técnicas que se deben tener en cuenta en la construcción de estos puentes? <br> ¿De qué manera aporta esta estrategia al SNGRD y cómo se puede fortalecer? |
+| Conferencistas y/o facilitadores | **Panelistas:** César Augusto Ortiz Zorro — Gobernador de Casanare · Ludy Tatiana Pirabán Gutiérrez — Alcaldesa de Hato Corozal, Casanare · Jaider Martha Betancourt — Presidente Junta de Acción Comunal, vereda Guaracuras, San Luis de Palenque · Luis Henry Botía — Experto en construcción de puentes en tubería petrolera · Wilson Eduardo Porras Estrada — Director de Gestión del Riesgo de Desastres de Casanare |
+:::

@@ -1,0 +1,35 @@
+---
+title: Monitoreo, análisis y gestión integral de la erosión costera en Buenaventura mediante soluciones basadas en la naturaleza, medidas híbridas y participación comunitaria
+author:
+- name: Carmen Liliana Arenas Quiñones
+  affiliations:
+    - name: Corporación Autónoma Regional del Valle del Cauca (CVC), Cali, Colombia
+  corresponding: true
+  email: carmen-liliana.arenas@cvc.gov.co
+- name: Andrés López Rosada
+  affiliations:
+    - name: Instituto de Investigaciones Marinas y Costeras (INVEMAR), Colombia
+keywords:
+- Erosión costera
+- Sitios críticos
+- Soluciones Basadas en la Naturaleza (SbN)
+- Buenaventura
+- Valle del Cauca
+abstract: |
+  En el marco del Plan Maestro de Erosión Costera (PMEC) en el Valle del Cauca, se han identificado puntos críticos en el complejo Málaga–Buenaventura donde la erosión costera ha generado un retroceso sostenido de la línea de costa, asociado a fenómenos como el oleaje extremo, el ascenso del nivel del mar y el desbalance sedimentario. Esta situación configura un escenario de alta vulnerabilidad social y ambiental al exponer infraestructura en sectores como La Barra, Ladrilleros, Juanchaco, Piangüita, La Bocana Bazán y Punta Soldado.
+
+  Con el fin de atender esta problemática y fortalecer el conocimiento para la gestión del riesgo, se suscribió un convenio interadministrativo entre la CVC e INVEMAR, con ejecución entre 2024 y 2027. El objetivo es monitorear la amenaza por erosión costera en los puntos críticos priorizados, comprender la dinámica hidro-sedimentológica y formular una alternativa de solución en La Bocana, específicamente en el sector de Vista Hermosa.
+
+  La metodología integra monitoreo de campo, análisis técnico de procesos costeros y la aplicación de Soluciones basadas en la Naturaleza y medidas híbridas, incorporando el conocimiento y la participación de las comunidades que habitan en el sector. Se ha estructurado un portafolio de alternativas que incluye estructuras sumergidas permeables o arrecifes artificiales ecológicos, restauración de manglares y vegetación costera, y medidas de manejo territorial como drenaje sostenible y control del tránsito sobre la playa.
+
+  Los resultados preliminares evidencian que la integración de estas soluciones, junto con el aporte comunitario, puede mejorar la estabilidad costera, reducir la erosión y fortalecer la resiliencia de los ecosistemas y las comunidades. Se concluye que la gestión de la erosión costera en Buenaventura requiere enfoques integrales, adaptativos y participativos, y se recomienda priorizar soluciones híbridas, fortalecer el monitoreo y la articulación comunitaria.
+categories:
+- Preparación y recuperación oportuna
+- Adaptación al cambio climático desde el enfoque de Eco-Reducción (Eco-RRD)
+---
+
+**Perfil quién presenta el trabajo:** Carmen Liliana Arenas Quiñones, Ingeniera Topográfica, especialista en Sistemas de Información Geográfica, con más de 15 años de experiencia en gestión ambiental y del riesgo, con énfasis en análisis espacial, monitoreo territorial y apoyo técnico en proyectos relacionados con erosión costera y cambio climático. Actualmente se desempeña en la Corporación Autónoma Regional del Valle del Cauca, donde ha participado en la formulación y seguimiento de iniciativas orientadas a la reducción del riesgo y la gestión sostenible del territorio.
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/18MjMaz5H-M97WBp9_iVExx9tAlCLLE2T/preview" width="100%" height="480" allowfullscreen></iframe>

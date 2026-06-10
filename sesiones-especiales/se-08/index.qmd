@@ -1,0 +1,47 @@
+---
+title: "Final del Hackathon: innovación en Sistemas de Alerta Temprana de bajo costo"
+---
+
+## Nota conceptual
+
+:::{#tabla-se08-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Final del Hackathon: innovación en Sistemas de Alerta Temprana de bajo costo |
+| **Organización anfitriona** | PNUD |
+| **Contacto principal** | Hugo Andrés Mármol — hugo.marmol@undp.org |
+| **Suplente** | Carlos Andrés Pérez — carlos.perez.lopez@undp.org |
+| **Organización Co-Anfitriona** | UNGRD |
+| **Contacto principal** | María Jimena Henao |
+| **Suplente** | Marcela Pacheco |
+| **Punto Focal UNGRD** | María Jimena Henao |
+:::
+
+<style>
+#tabla-se08-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-se08-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-se08-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Sesión temática especial: incluye la presentación de un experto en innovación social y tecnología aplicada a los SAT y a dispositivos de bajo costo, seguida de la sustentación de los nueve finalistas del Hackathon en SAT Comunitarios ante el jurado (tres pitches por cada uno de los tres fenómenos amenazantes: movimientos en masa, inundaciones lentas y erosión costera). Se hará premiación de un ganador por fenómeno amenazante. |
+| Objetivo(s) | Posicionar el hackathon como un espacio de innovación abierta para el crowdsourcing de soluciones desde poblaciones jóvenes nacionales, que produce insumos técnicos conceptuales para el prototipado de Sistemas de Alerta Temprana (SAT) comunitarios de bajo costo y genera un acercamiento sostenido entre las comunidades académicas del país y el SNGRD, compartiendo los resultados de participación alcanzados como reflejo del alcance nacional de la convocatoria. |
+| Resultado(s) medible(s) | Informe del panorama de participación en el hackathon. <br><br> Premiación de ganadores. |
+| Descripción general | El hackathon para el diseño de SAT Comunitarios de bajo costo se desarrolla en el marco del proyecto "Comunicar, Aprender y Monitorear el Riesgo", implementado por el PNUD y la UNGRD. Esta iniciativa busca fortalecer la producción, gestión y apropiación social del conocimiento del riesgo de desastres y aportar insumos técnicos para el diseño e implementación de SAT comunitarios en municipios priorizados del país. La propuesta se articula con las prioridades del Marco de Sendai (2015–2030) y con las orientaciones del Plan de Acción Regional para las Américas. En relación con la Prioridad 1 (comprender el riesgo), el hackathon incorpora un proceso formativo que incluye webinarios técnicos, análisis territorial y sesiones de acompañamiento. En el marco de la Prioridad 2 (fortalecer la gobernanza del riesgo), convoca a actores institucionales, academia y futuros implementadores, promoviendo un enfoque multisectorial de "toda la sociedad". |
+| Enfoque(s) y eje(s) transversal(es) | |
+| Preguntas | |
+| Conferencistas y/o facilitadores | |
+:::
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1A82fTr1R57Im9-Lye3xnDcEJofTAGD9s/preview" width="100%" height="480" allowfullscreen>
+
+</iframe>

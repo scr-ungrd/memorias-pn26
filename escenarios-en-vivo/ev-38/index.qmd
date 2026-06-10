@@ -1,0 +1,34 @@
+---
+title: "Formación en salud pública para emergencias y desastres: una mirada territorial con IA y SIG"
+author:
+- name: Juan Fernando Millán Hurtado
+  affiliations:
+    - name: Pontificia Universidad Javeriana, Cali, Colombia
+  corresponding: true
+  email: Juan.millan@javerianacali.edu.co
+keywords:
+- Innovación educativa
+- Salud pública
+- Inteligencia artificial
+- Sistemas de información geográfica
+- Gestión del riesgo
+abstract: |
+  La formación en salud pública para emergencias y desastres enfrenta hoy un gran desafío: por un lado, responder a escenarios cada vez más complejos, dinámicos e inciertos; y por otro, actualizar sus estrategias pedagógicas para que los futuros profesionales no solo comprendan los conceptos, sino que desarrollen capacidades reales de análisis, anticipación, coordinación y toma de decisiones en contextos críticos. En muchos programas académicos, la enseñanza de estos temas todavía se apoya de manera predominante en clases expositivas, con escasa integración de herramientas tecnológicas que permitan leer el territorio, interpretar patrones espaciales del riesgo y aprovechar el potencial de los datos para la preparación y la respuesta. En ese contexto, surge la necesidad de incorporar la inteligencia artificial (IA) y los sistemas de información geográfica (SIG) como aliados de la docencia.
+
+  El objetivo de esta experiencia es fortalecer la enseñanza de la salud pública en emergencias y desastres mediante un enfoque pedagógico que integre IA y SIG para mejorar el aprendizaje, la comprensión territorial del riesgo y la capacidad de los estudiantes para analizar escenarios complejos y proponer soluciones aplicadas.
+
+  La metodología se basa en un enfoque de innovación educativa centrado en el aprendizaje activo, combinando clases orientadas a la reflexión crítica, ejercicios de análisis territorial, simulaciones, estudios de caso y actividades prácticas con herramientas geoespaciales. Los estudiantes trabajan en la identificación de amenazas, vulnerabilidades, capacidades de respuesta, infraestructura crítica y posibles escenarios de afectación, apoyados en SIG y plataformas de visualización territorial. Paralelamente, la IA se incorpora como herramienta de apoyo para organizar información, generar escenarios, estructurar preguntas analíticas, fortalecer procesos de comunicación del riesgo y estimular la construcción de propuestas.
+
+  Entre los principales hallazgos se observa una mayor participación estudiantil, mejor comprensión de la relación entre salud pública y territorio, y un avance significativo en la capacidad para interpretar riesgos desde una perspectiva aplicada e interdisciplinaria. El uso de IA y SIG favorece la motivación, la creatividad y la conexión entre teoría y práctica.
+
+  La experiencia permite concluir que la integración de IA y SIG en la enseñanza de emergencias y desastres constituye una oportunidad estratégica para modernizar la formación en salud pública. Para tomadores de decisiones y responsables de política educativa, esto implica promover currículos más interdisciplinarios, fortalecer capacidades docentes y ampliar el acceso a tecnologías aplicadas.
+categories:
+- Comunidades de aprendizaje y participación
+- Datos, modelación, IA, innovación social y herramientas digitales
+---
+
+**Perfil quién presenta el trabajo:** Administrador de Empresas, MBA, Magíster en Salud Pública, con más de 15 años de experiencia en salud pública, emergencias y desastres, sanidad portuaria y Reglamento Sanitario Internacional. Docente universitario desde hace más de 9 años en la Pontificia Universidad Javeriana Cali, donde orienta el curso Atención en Salud en Emergencias y Desastres. Su trayectoria integra experiencia en los niveles departamental, nacional e internacional, con énfasis en formación, gestión institucional y fortalecimiento de capacidades en preparación, respuesta y gestión del riesgo de desastres en salud.
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/12P67MsqjjkF6eLFHF0GC5GgKNhPv5HwM/preview" width="100%" height="480" allowfullscreen></iframe>

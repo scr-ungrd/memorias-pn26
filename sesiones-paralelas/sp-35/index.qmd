@@ -1,0 +1,41 @@
+---
+title: "Sesión paralela 35. Sistemas Alimentarios Resilientes: Estrategias de Adaptación frente al Riesgo Climático en Colombia"
+---
+
+## Nota conceptual
+
+:::{#tabla-sp35-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Sistemas Alimentarios Resilientes: Estrategias de Adaptación frente al Riesgo Climático en Colombia |
+| **Organización anfitriona** | ICLEI Colombia |
+| **Contacto principal** | Ana María Beltrán Medina |
+| **Suplente** | Sergio Aranguren |
+| **Organización Co-Anfitriona** | FAO Colombia |
+| **Contacto principal** | Daniela Idárraga Tunjo |
+| **Suplente** | Sofía Lorena Martínez Acero |
+| **Punto Focal UNGRD** | José Luis Flórez Valencia |
+:::
+
+<style>
+#tabla-sp35-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-sp35-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-sp35-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Sesión especial. Diálogo multiactor que reúne cooperación internacional, gobierno nacional, academia, sector privado y sociedad civil para socializar experiencias nacionales e internacionales. |
+| Objetivo(s) | 1. Visibilizar la importancia de los sistemas alimentarios como pilares fundamentales para aumentar la resiliencia de las comunidades frente a eventos climáticos extremos. <br><br> 2. Promover el intercambio de experiencias exitosas y lecciones aprendidas entre Colombia y Brasil sobre la integración del vínculo clima-alimentación en las políticas de gestión del riesgo de desastres. |
+| Resultado(s) medible(s) | Memorias del evento. |
+| Descripción general | Espacio estratégico para abordar el vínculo clima-alimentación. En un escenario donde los eventos climáticos extremos impactan directamente la disponibilidad y el acceso a los alimentos, es necesario transitar hacia una gestión del riesgo que integre la seguridad alimentaria como pilar de resiliencia climática. <br><br> El espacio se alinea con el Marco de Sendai 2015–2030 en tres de sus prioridades: contribuye a la **Prioridad 1** (Comprender el riesgo) al presentar evidencia técnica sobre la vulnerabilidad de los sistemas alimentarios; fortalece la **Prioridad 2** (Fortalecer la gobernanza) al fomentar la cooperación internacional y la articulación entre sectores; y responde a la **Prioridad 3** (Invertir en la resiliencia) al promover medidas de adaptación que protejan los medios de vida mediante sistemas productivos más resistentes. <br><br> A través de la revisión de las dietas existentes y el intercambio de experiencias exitosas con el Gobierno de Brasil, se busca fortalecer la capacidad de respuesta y adaptación territorial. Bajo la premisa de que la resiliencia es una responsabilidad compartida, la sesión busca consolidar una visión integral donde la alimentación no sea solo una respuesta a la emergencia, sino el motor de la recuperación. |
+| Enfoque(s) y Eje(s) transversal(es) | **Enfoques:** Comunidades de aprendizaje y participación. Planeación y ordenamiento que incorpora la GRD. Preparación y recuperación oportuna. |
+| Preguntas | ¿De qué manera el vínculo clima-alimentación incide en la Gestión del Riesgo de Desastres en Colombia? <br> ¿Qué experiencias nacionales destacan la integración de sistemas alimentarios en la gestión del riesgo? <br> ¿Qué experiencias internacionales (en particular de Brasil) ofrecen aprendizajes transferibles al contexto colombiano? |
+| Conferencistas y/o facilitadores | **Moderador:** Daniel Alberto Bernal Rojas — Profesional en Ambientes Alimentarios Urbanos y Derecho a la Alimentación, FAO Colombia <br><br> **Panelistas:** Neidy Clavijo Ponce — Doctora en Agroecología, Universidad Nacional de Colombia · Andrea Saldaña Barahona — Directora de Gestión Ambiental, Secretaría Distrital de Ambiente de Bogotá · Ana María Beltrán Medina — Analista de Cero Carbono, ICLEI Colombia |
+:::

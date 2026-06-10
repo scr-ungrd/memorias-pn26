@@ -1,0 +1,47 @@
+---
+title: "Sesión paralela 21. Semillas de resiliencia: el aula como espacio de conocimiento del riesgo"
+---
+
+## Nota conceptual
+
+:::{#tabla-sp21-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Semillas de resiliencia: el aula como espacio de conocimiento del riesgo |
+| **Organización anfitriona** | Cruz Roja Colombiana |
+| **Contacto principal** | Willian Amado Lara — Oficial de voluntariado en educación básica y media |
+| **Suplente** | Eduard Ruiz Morales — Gestor Conocimiento del Riesgo |
+| **Organización Co-Anfitriona** | Unidad Nacional para la Gestión del Riesgo de Desastres |
+| **Contacto principal** | Luisa Cadena |
+| **Suplente** | Laura Salgado Ramírez |
+| **Punto Focal UNGRD** | Laura Salgado Ramírez |
+:::
+
+<style>
+#tabla-sp21-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-sp21-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-sp21-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Sesión paralela — conversatorio. Dos momentos: diálogo institucional (panel dialogado con moderación activa y preguntas eje) y diálogo territorial con experiencias de voluntarios en el aula (técnica de relato experiencial). |
+| Objetivo(s) | Valorar el accionar de los voluntarios del Subsistema Nacional de Voluntariado de Primera Respuesta como una oportunidad para promover el conocimiento del riesgo y la reducción del riesgo en la educación básica y media. |
+| Resultado(s) medible(s) | 1. Sistematización de la sesión (acta de conclusiones y recomendaciones). <br> 2. Registro de al menos 3 compromisos concretos para fortalecer la educación en gestión del riesgo de desastres en el marco del Sistema Nacional de Gestión del Riesgo de Desastres. |
+| Descripción general | La sesión se enmarca en el enfoque de Comunidades de aprendizaje y participación (Nota Conceptual PN26, enfoque A). En el marco del Marco de Sendai, la sesión contribuye a comprender el riesgo de desastres, invertir en la reducción del riesgo para la resiliencia y mejorar la preparación para la respuesta, convirtiéndose en una herramienta clave para la implementación territorial del Marco de Sendai, promoviendo una cultura de resiliencia desde las instituciones educativas. <br><br> **Primer momento — Diálogo institucional:** Panel dialogado con moderación activa, bajo la técnica de "conversaciones guiadas por preguntas eje". Participan delegados de la Dirección Nacional de Bomberos de Colombia (DNBC), Defensa Civil Colombiana (DCC) y Cruz Roja Colombiana (CRC). El énfasis está en los avances, retos y políticas institucionales para que el voluntariado de primera respuesta contribuya al conocimiento del riesgo en la educación formal y no formal. <br><br> **Segundo momento — Diálogo territorial:** Relato experiencial de tres voluntarios (uno por entidad), seguido de un diálogo colectivo sobre articulación con establecimientos educativos y sostenibilidad de las iniciativas. |
+| Enfoque(s) y Eje(s) transversal(es) | **Enfoques:** Comunidades de aprendizaje y participación. <br><br> **Ejes transversales:** Ciencia, tecnología e innovación: uso de herramientas educativas, simulaciones y plataformas. |
+| Preguntas | ¿Cómo el voluntariado de primera respuesta puede fortalecer el conocimiento del riesgo en niños, niñas, adolescentes y jóvenes (NNAJ) desde el aula y el territorio? <br> ¿Cómo las direcciones nacionales están promoviendo que sus voluntarios sean agentes de conocimiento del riesgo en las aulas? <br> ¿Cuáles son los principales avances y desafíos para que sus voluntarios desarrollen competencias en conocimiento del riesgo dirigidas a NNAJ en entornos escolares? <br> ¿Qué estrategias didácticas han utilizado para que los NNAJ comprendan las amenazas y vulnerabilidades de su territorio? <br> ¿Cómo han articulado con establecimientos educativos y con los Consejos Municipales de Gestión del Riesgo para que las actividades de conocimiento del riesgo se integren al PRAE o SSEO? |
+| Conferencistas y/o facilitadores | **Moderadora:** Laura Salgado Ramírez — UNGRD <br><br> **Primer momento — Panelistas institucionales:** Capitán Lina María Marín Rodríguez — Directora Nacional, DNBC · Coronel Ricardo Coronado Avella — Delegado, Defensa Civil Colombiana · Licenciado Eduard Ruiz Morales — Gestor Conocimiento del Riesgo, Cruz Roja Colombiana <br><br> **Segundo momento — Voluntarios territoriales:** Cabo Misael Enrique Velásquez Romero — Cuerpo de Bomberos Voluntarios de Venecia Cundinamarca · Jesús David Barragán Pérez — Defensa Civil Colombiana (Sucre) · Luis Iván Rosas Maya — Cruz Roja Colombiana |
+:::
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1Tl3OPERIlxwVTpIKBAiBwdc0BuXd0mUs/preview" width="100%" height="480" allowfullscreen>
+
+</iframe>

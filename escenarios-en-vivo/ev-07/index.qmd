@@ -1,0 +1,29 @@
+---
+title: "Soluciones basadas en la naturaleza para la gestión del riesgo en territorios mineros: una experiencia de Eco-RRD en Marmato, Caldas"
+author:
+- name: Carolina García Londoño
+  affiliations:
+    - name: Universidad de Antioquia, Medellín, Colombia
+  corresponding: true
+  email: cargalon@gmail.com
+- name: Elsa Sánchez Gómez
+  affiliations:
+    - name: Ministerio de Minas y Energía, Bogotá, Colombia
+keywords:
+- Marmato
+- Eco-RRD
+- Minería
+- Participación comunitaria
+- Resiliencia
+abstract: |
+  El municipio de Marmato, Caldas, es un territorio de alta complejidad socio-ambiental donde la minería de oro ha predominado por más de cinco siglos, generando conflictos territoriales y una degradación de servicios ecosistémicos que agrava el riesgo ante movimientos en masa, inundaciones y eventos NATECH. Ante este panorama, el grupo de investigación GLIMA de la Universidad de Antioquia y el Ministerio de Minas y Energía implementaron en 2024 un proyecto orientado a diseñar e implementar iniciativas comunitarias de Reducción del Riesgo con enfoque ecosistémico — Eco-RRD de bajo costo y alta sostenibilidad.
+
+  El objetivo central fue validar una metodología participativa para seleccionar e implementar soluciones basadas en la naturaleza tipo Eco-RRD en entornos mineros. Mediante un enfoque horizontal y multisectorial, los participantes del proceso seleccionaron la co-creación de una red de viveros de plantas nativas en tres instituciones educativas del municipio. Las intervenciones técnicas incluyeron obras de bioingeniería (terrazas y escaleras), sistemas de drenaje y riego automáticos alimentados por agua de lluvia, y el uso de paneles solares para el monitoreo de humedad, además de la siembra de especies nativas en las márgenes inestables de una cuenca abastecedora.
+
+  Se consolidó un Plan de Trabajo colaborativo y se capacitó a docentes, estudiantes y autoridades locales en la formulación de proyectos, garantizando la sostenibilidad y replicabilidad de la estrategia. Un producto clave fue la creación de una guía específica para la implementación de proyectos Eco-RRD en territorios mineros y similares. Se concluye que es posible desarrollar resiliencia en entornos sociales complejos cuando se prioriza el diálogo de saberes y la gestión ecosistémica, demostrando que la Eco-RRD es una herramienta eficaz y accesible para la reducción del riesgo.
+categories:
+- Comunidades de aprendizaje y participación
+- Adaptación al cambio climático desde el enfoque de Eco-Reducción (Eco-RRD)
+---
+
+**Perfil quién presenta el trabajo:** Carolina es gestora interdisciplinaria del riesgo. Es Ingeniera Geóloga, con especialización en gestión de riesgos y Doctora en Ciencias de la Tierra y del Territorio de la Universidad Milano-Bicocca, Italia. Ha participado en diversos proyectos transdisciplinarios de investigación aplicada con énfasis en gestión de riesgos, ordenamiento territorial, cambio climático y desarrollo sostenible en América Latina y Europa. Ha trabajado en múltiples sectores: academia, gobierno, empresas privadas y organizaciones de la sociedad civil. Actualmente es consultora y docente en varias universidades y es voluntaria de diversas organizaciones, incluyendo la Sociedad Colombiana de Geología. Actualmente es el Punto Focal Nacional de la Red de Organizaciones de la Sociedad Civil en Gestión de Riesgos.

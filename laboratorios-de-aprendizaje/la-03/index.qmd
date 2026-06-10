@@ -1,0 +1,45 @@
+---
+title: "Laboratorio de Aprendizaje 3. Gestión del Riesgo de Desastres para la Inclusión de Personas con Discapacidad"
+---
+
+## Nota conceptual
+
+:::{#tabla-la03-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Gestión del Riesgo de Desastres para la Inclusión de Personas con Discapacidad: Construyendo desde el Enfoque Diferencial |
+| **Organización anfitriona** | Ministerio de Igualdad y Equidad |
+| **Contacto principal** | María Patricia Sarmiento — msarmiento@minigualdad.gov.co |
+| **Suplente** | María Camila López Granados |
+| **Organización Co-Anfitriona** | Unidad Nacional de Gestión del Riesgo de Desastres (UNGRD) |
+| **Contacto principal Co-Anfitriona** | Susana Perdomo Casas — susana.perdomo@gestiondelriesgo.gov.co |
+| **Suplente Co-Anfitriona** | Luis Miguel Cartagena Herrera — Luis.cartagena@gestiondelriesgo.gov.co |
+| **Punto Focal UNGRD** | Fernanda Otero — Fernanda.otero@gestiondelriesgo.gov.co |
+:::
+
+<style>
+#tabla-la03-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-la03-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-la03-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Laboratorio de Aprendizaje Colaborativo (Mesa de Trabajo). Metodología participativa que combina trabajo en grupos focales y análisis de casos prácticos orientada a la co-creación de conocimiento a partir de las experiencias de los actores. |
+| Objetivo(s) | **General:** Desarrollar un laboratorio de aprendizaje participativo orientado a identificar las barreras estructurales que enfrentan las personas con discapacidad en la GRD, bajo los estándares del Marco de Sendai, para fortalecer la gobernanza y las capacidades técnicas territoriales con enfoque diferencial. <br><br> **Específicos:** (1) Reconocer la importancia del enfoque diferencial para personas con discapacidad en los tres procesos de la GRD. (2) Identificar y sistematizar las principales barreras, necesidades específicas y ajustes razonables. (3) Estructurar y nutrir el contenido de los lineamientos de discapacidad del Ministerio de Igualdad y el enfoque diferencial de la UNGRD. |
+| Resultado(s) medible(s) | Sistematización del laboratorio con indicadores cualitativos como parte fundamental de los resultados medibles. Insumos para lineamientos institucionales del Ministerio de Igualdad y el enfoque diferencial de la UNGRD. |
+| Descripción general | El laboratorio se relaciona directamente con el Marco de Sendai y la Ley 1523 de 2012. Trabaja los tres procesos de la GRD con enfoque de discapacidad: (1) Conocimiento del Riesgo — identificar y evaluar el riesgo considerando la vulnerabilidad específica de las personas con discapacidad; (2) Reducción del Riesgo — intervención prospectiva y correctiva con diseño universal y accesibilidad en planificación territorial; (3) Manejo de Desastres — preparación para respuesta (SAT accesibles, albergues inclusivos) y recuperación con criterios de accesibilidad. El espacio promueve el intercambio de conocimientos entre instituciones, sociedad civil y personas con discapacidad. |
+| Enfoque(s) y eje(s) transversal(es) | **Inclusión de personas con discapacidad.** <br> **Comunidades de aprendizaje y participación.** |
+| Preguntas | ¿Cuáles son las principales barreras físicas, comunicacionales, actitudinales e institucionales que enfrentan las personas con discapacidad en la GRD? <br> ¿Qué ajustes razonables y acciones concretas permiten avanzar hacia una GRD inclusiva? <br> ¿Cómo fortalecer la participación efectiva de las personas con discapacidad en el SNGRD? <br> ¿Cómo deben estructurarse los lineamientos técnicos del Ministerio de Igualdad y la UNGRD para garantizar una GRD realmente inclusiva? |
+| Conferencistas y/o facilitadores | INCI e INSOR (accesibilidad en comunicación del riesgo y SAT). <br> Ministerio de Salud y Protección Social (Registro RLCPD). <br> Humanity & Inclusion — HI (intersección discapacidad y GRD). <br> Consejería Presidencial para la Participación de las Personas con Discapacidad. |
+:::
+
+## Diapositivas de la sesión
+
+*Diapositivas no disponibles.*

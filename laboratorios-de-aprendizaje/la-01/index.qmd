@@ -1,0 +1,44 @@
+---
+title: "Laboratorio de Aprendizaje 1. Comunidades que transforman el riesgo en resiliencia"
+---
+
+## Nota conceptual
+
+:::{#tabla-la01-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Comunidades que transforman el riesgo en resiliencia |
+| **Organización anfitriona** | Cruz Roja Colombiana |
+| **Contacto principal** | Andrés Martínez — Oficial Programa de Reducción del Riesgo |
+| **Suplente** | Diego Vivas — Oficial de Resiliencia Comunitaria |
+| **Secretario 1** | Yaddy Christina Benavides Revelo — yaddy.benavides@cruzrojacolombiana.org |
+| **Secretario 2** | Marta Lucena Rojas Llanes — marta.rojas@cruzrojacolombiana.org |
+| **Punto Focal UNGRD** | Lina Paola Garzón Yaya |
+:::
+
+<style>
+#tabla-la01-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-la01-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-la01-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Laboratorio de aprendizaje interactivo basado en estaciones de experiencia (muestras a escala de microproyectos comunitarios). |
+| Objetivo(s) | **Objetivo general:** Presentar experiencias de microproyectos comunitarios para la reducción del riesgo de desastres, a través de muestras a escala que permitan analizar el rol de las comunidades en la gestión del riesgo y su aporte a los instrumentos de planificación territorial y nacional. <br><br> **Objetivos específicos:** (1) Visibilizar experiencias de microproyectos comunitarios implementados en diferentes territorios del país. (2) Analizar el rol de las comunidades como actores clave en la GRD. (3) Identificar los aportes de los microproyectos a los planes territoriales y al PNGRD. (4) Promover el intercambio de experiencias entre comunidades, instituciones y actores del SNGRD. |
+| Resultado(s) medible(s) | Sistematización del laboratorio con lecciones aprendidas, factores de éxito y barreras. Registro de enlaces realizados entre actores institucionales del sector público, privado, comunitarios y de cooperación. |
+| Descripción general | La sesión "Comunidades transforman el riesgo en resiliencia" propone un laboratorio de aprendizaje que visibiliza microproyectos comunitarios en GRD, implementados en distintos territorios del país en el marco de convenios y proyectos implementados por la Cruz Roja Colombiana (CRC). El espacio busca abordar los momentos del ciclo de gestión de proyectos, bajo un formato experiencial que será compartido a partir de las acciones ya ejecutadas o en marcha. El salón se organiza con 10 mesas donde se presenta un microproyecto cada una; los asistentes rotan cada 15 minutos con un "pasaporte de resiliencia" donde van acumulando sellos. |
+| Enfoque(s) y eje(s) transversal(es) | **Gobernanza y Políticas Públicas — Comunidades de aprendizaje y participación en la GRD.** <br> **Eje transversal — Justicia Climática:** medidas de adaptación al cambio climático desde el Enfoque de Eco Reducción (Eco-RRD). |
+| Preguntas | ¿Qué modelos de corresponsabilidad integran ciudades, academia, alcaldías, líderes comunitarios y sector privado, y qué compromisos verificables se pueden acordar en PN26? <br> ¿Cómo los microproyectos comunitarios fortalecen las capacidades de autogestión y liderazgo comunitario en la GRD? <br> ¿Qué condiciones facilitan la sostenibilidad y escalabilidad de estas iniciativas a nivel territorial? |
+| Conferencistas y/o facilitadores | **Moderador:** coordina la sesión de preguntas y da instrucciones de cierre. <br> **Panelista principal:** Lina Dorado González — Líder Nacional Equipo de GRD, Cruz Roja Colombiana. <br> **Representantes comunitarios** (10 microproyectos) + facilitadores de Cruz Roja Colombiana (10 personas). |
+:::
+
+## Diapositivas de la sesión
+
+*Diapositivas no disponibles.*

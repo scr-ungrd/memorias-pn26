@@ -1,0 +1,43 @@
+---
+title: "Laboratorio de Aprendizaje 6. Del satélite al cultivo: gestión del agua para una agricultura resiliente con WaPOR"
+---
+
+## Nota conceptual
+
+:::{#tabla-la06-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Del satélite al cultivo: Gestión del agua para una agricultura resiliente a la variabilidad y cambio climático mediante el uso de la plataforma WaPOR |
+| **Organización anfitriona** | FAO |
+| **Contacto principal** | Jorge Gutiérrez |
+| **Organización Co-Anfitriona** | Ministerio de Agricultura |
+| **Contacto principal Co-Anfitriona** | Martha Márquez |
+| **Punto Focal UNGRD** | Daniela Guayara |
+:::
+
+<style>
+#tabla-la06-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-la06-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-la06-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Laboratorio y jornada de capacitación centrada en la base de datos WaPOR y su validación. Cubre: introducción a los datos de WaPORv3, acceso al portal y código Python, y análisis típicos con los datos de WaPOR. |
+| Objetivo(s) | Adquirir conocimientos básicos sobre tecnologías de teledetección, en particular los datos de WaPOR para la gestión del agua y la agricultura. <br><br> Identificar las bases de datos disponibles WaPOR para uso en sistemas de información como QGIS con el fin de generar criterio para la toma de decisiones en términos de riego para el sector agrícola. <br><br> Dotar a los actores locales de las habilidades técnicas necesarias para acceder, compilar y analizar los datos de WaPOR, utilizando herramientas de programación de acceso abierto como Python. |
+| Resultado(s) medible(s) | Los participantes que completen la capacitación podrán ejecutar análisis basados en WaPOR que contribuyan a la gestión a largo plazo de los recursos hídricos en la región. |
+| Descripción general | WaPOR es la base de datos satelital de la FAO orientada a monitorear la productividad del agua y la tierra en la agricultura. Su uso se alinea directamente con el Marco de Sendai: en la Prioridad 1, ayuda a monitorear sequías y escasez de agua; en la Prioridad 2, proporciona datos para decisiones informadas sobre gestión de recursos hídricos. El laboratorio es una capacitación práctica que incluye introducción a los datos, uso del portal, aplicación de herramientas de acceso abierto (Python, QGIS) y análisis típicos para la toma de decisiones en el sector agrícola colombiano. |
+| Enfoque(s) y eje(s) transversal(es) | **Enfoque A — Escenarios.** <br> **Eje — Ciencia, tecnología e innovación:** datos, modelación, inteligencia artificial, innovación social y herramientas digitales. |
+| Preguntas | Innovación en la Gestión Integral del Riesgo. |
+| Conferencistas y/o facilitadores | Jorge Gutiérrez — Gerente de Proyectos de Cambio Climático, FAO Colombia. Geógrafo, MSc. en Desarrollo Sustentable, candidato PhD en Geografía (Universidad Nacional de Colombia), 20 años de experiencia en el sector ambiental. |
+:::
+
+## Diapositivas de la sesión
+
+*Diapositivas no disponibles.*

@@ -1,0 +1,41 @@
+---
+title: "Sesión paralela 13. Anticipar, planificar y resistir: los desafíos de la gestión del riesgo de desastres"
+---
+
+## Nota conceptual
+
+:::{#tabla-sp13-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Anticipar, planificar y resistir: los desafíos de la gestión del riesgo de desastres |
+| **Organización anfitriona** | Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD) — Subdirección para la Reducción del Riesgo |
+| **Contacto principal** | Mauricio Serna Yepes |
+| **Suplente** | Blanca Yenith Torres |
+| **Organización Co-Anfitriona** | Ministerio de Vivienda, Ciudad y Territorio (MVCT) — Subdirección de Asistencia Técnica y Operaciones Integrales |
+| **Contacto principal** | Julio César Luna |
+| **Suplente** | Jessica S. Luengas |
+| **Punto Focal UNGRD** | Rodrigo Andrés Barrios |
+:::
+
+<style>
+#tabla-sp13-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-sp13-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-sp13-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Sesión paralela en formato de panel estratégico moderado, conformado por tres panelistas y un moderador, orientado a la reflexión técnica y política sobre los desafíos de la gestión del riesgo de desastres y la planificación territorial resiliente. El espacio combinará intervenciones magistrales cortas, diálogo estructurado entre expertos y preguntas orientadoras del moderador, promoviendo el intercambio de perspectivas institucionales, académicas y sectoriales. |
+| Objetivo(s) | Analizar los principales desafíos estructurales en la incorporación de la gestión del riesgo de desastres y la resiliencia en la planificación territorial en Colombia. <br><br> Identificar tendencias emergentes y enfoques innovadores que fortalezcan la integración de la GRD en la planificación territorial, incorporando un enfoque de resiliencia articulado con los lineamientos de la Política Integral del Hábitat Biodiverso. <br><br> Generar lineamientos estratégicos para la construcción de una agenda nacional orientada a territorios resilientes. <br><br> Promover la articulación entre actores nacionales, territoriales e internacionales en torno a la planificación resiliente. |
+| Resultado(s) medible(s) | Documento de conclusiones estratégicas con recomendaciones para la integración de la GRD en la planificación territorial. <br><br> Identificación de al menos 3 mensajes clave para el Manifiesto de la PN26. <br><br> Sistematización de tendencias y enfoques emergentes en planificación urbana resiliente y del mensaje "La GRD como eje estructurante en la planificación de los territorios". <br><br> Registro de compromisos o líneas de acción para fortalecer la agenda nacional en GRD hacia 2030. |
+| Descripción general | La planificación territorial en Colombia presenta limitaciones estructurales para integrar la gestión del riesgo de desastres, en un contexto normativo marcado por la Ley 1931 de 2018 y la Ley 2169 de 2021, junto con instrumentos de política como el PNGIBSE 2012 y los CONPES 3819 de 2014, 3918 de 2018 y 4023 de 2021. La convergencia de crisis climática, pérdida de biodiversidad, expansión urbana desordenada y desigualdades territoriales configura escenarios de riesgo compuesto que superan los enfoques sectoriales tradicionales. <br><br> En coherencia con el Marco de Sendai y el GAR 2024, se plantea la necesidad de fortalecer la integración entre gestión del riesgo de desastres y ordenamiento territorial mediante enfoques prospectivos que permitan anticipar escenarios de riesgo, reducir vulnerabilidades estructurales y orientar la inversión hacia la resiliencia. El análisis se estructura en torno a tres ejes —comprensión del riesgo, gobernanza e inversión— aplicados a dominios estratégicos como resiliencia territorial, seguridad alimentaria, biodiversidad, ciudades verdes y enfoques diferenciales. |
+| Enfoque(s) y eje(s) transversal(es) | **Enfoque principal:** Planeación y ordenamiento que incorpora la GRD y la resiliencia. <br> **Ejes transversales:** Territorialización y financiamiento de la GRD; Adaptación al Cambio Climático desde el enfoque de Eco-Reducción; Preparación y recuperación oportuna; Ciencia, tecnología e innovación. <br> **Articulación temática:** Resiliencia territorial · Seguridad alimentaria · Biodiversidad · Ciudades verdes · Enfoques diferenciales (género, étnico y territorial). |
+| Preguntas | ¿Cuáles son los principales desafíos para integrar de forma efectiva la gestión del riesgo de desastres y la resiliencia en los instrumentos de planificación territorial? <br> ¿Cómo han evolucionado en los últimos años los enfoques e instrumentos de planificación territorial en materia de GRD, y de qué manera se están articulando interinstitucionalmente para incorporar enfoques diferenciales, protección de la biodiversidad, infraestructura resiliente y adaptación al cambio climático? <br> ¿Qué aspectos considera prioritarios en materia de ordenamiento territorial, especialmente en la GRD a escala local, y cómo deberían articularse las entidades de los distintos niveles para consolidar, a futuro, una agenda de planificación territorial resiliente? |
+| Conferencistas y/o facilitadores | **María Isabel Montoya Rodríguez** — Experta en riesgos operacionales y seguridad de procesos, Cenit Transporte y Logística de Hidrocarburos, Grupo Ecopetrol <br> **Tulio Ricardo Ramírez Borbón** — Asesor del despacho de la ministra, Ministerio de Vivienda, Ciudad y Territorio <br> **Óscar Francisco Puerta Luchini** — Director de Gestión Integral del Recurso Hídrico, Ministerio de Ambiente y Desarrollo Sostenible <br> **Francisco Javier Jácome Liévano** — Profesor de la Maestría en Planificación Urbana y Regional, Pontificia Universidad Javeriana |
+:::

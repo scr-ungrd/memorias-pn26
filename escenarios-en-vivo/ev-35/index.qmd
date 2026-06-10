@@ -1,0 +1,35 @@
+---
+title: "Casanare: gestión del riesgo desde el enfoque diferencial"
+author:
+- name: Juan David Gomez Sandoval
+  affiliations:
+    - name: Red de Jóvenes para la Reducción del Riesgo de Desastres de Colombia (RJRRD COL), Yopal, Casanare, Colombia
+  corresponding: true
+  email: Juandavid.gesocial@gmail.com
+- name: Duvier Palacios
+  affiliations:
+    - name: RJRRD COL, Chocó, Colombia
+- name: Esneider Berrío Isaza
+  affiliations:
+    - name: RJRRD COL, Chocó, Colombia
+keywords:
+- Juntas de Acción Comunal
+- Niños, niñas y adolescentes
+- LGBTIQ+
+abstract: |
+  En el departamento de Casanare, la gestión del riesgo de desastres ha enfrentado históricamente el desafío de superar una visión reactiva para adoptar un modelo de prevención social. A pesar de los esfuerzos institucionales, la dispersión geográfica y la vulnerabilidad de ciertos sectores sociales exigen una estrategia que descienda al tejido comunitario. Por ello, el objetivo es fortalecer la resiliencia territorial mediante el empoderamiento de actores clave: las Juntas de Acción Comunal (JAC) y los niños, niñas y adolescentes (NNA), integrando además un enfoque de inclusión para la población LGTBI.
+
+  La metodología implementada se basa en la gestión social del riesgo y la participación activa. A través de talleres formativos y cartografía social, se ha trabajado directamente con las JAC en la creación de mapas comunitarios de riesgo y planes comunales de gestión del riesgo, permitiendo que la propia comunidad identifique sus amenazas y recursos. Paralelamente, se ha intervenido en el ámbito escolar para capacitar a los NNA, transformándolos en super héroes al rescate que llevan la cultura de la prevención a sus hogares. Este enfoque se articula bajo la Ley 1523 de 2012, pero con una innovación pedagógica que adapta el lenguaje técnico a la realidad de cada grupo social y reconoce las vulnerabilidades específicas de género y diversidad.
+
+  Los hallazgos demuestran que la participación de los NNA aumenta la retención de protocolos de emergencia en las familias y que la vinculación de los comunales reduce los tiempos de respuesta ante eventos adversos. Además, la inclusión de la comunidad LGTBI en los procesos de mapeo y planificación ha permitido identificar brechas en la atención humanitaria que antes eran invisibles para el Estado. Se ha logrado que la gestión del riesgo no sea vista como una tarea técnica exclusiva de las autoridades, sino como una herramienta de cohesión social y protección de la vida.
+
+  Se concluye que el modelo de prevención participativa de Casanare reafirma que la seguridad territorial es directamente proporcional al grado de involucramiento ciudadano. Se recomienda institucionalizar estos espacios de formación comunal y escolar dentro de los Planes Municipales de Gestión del Riesgo y garantizar que la gestión del riesgo sea un eje transversal en la planificación del desarrollo y una garantía de derechos para las poblaciones más vulnerables.
+categories:
+- Comunidades de aprendizaje y participación
+---
+
+**Perfil quién presenta el trabajo:** Juan David Gomez: Ingeniero Industrial, neurodivergente, actualmente en la RJRRD COL como agente de cambio departamental de Casanare, pertenece al Club Rotary como voluntario social, encantado de la gestión del riesgo de desastres desde un ámbito social y comunitario. CPS en Gestión del Riesgo de Desastres de la Gobernación de Casanare. Esneider Berrío Isaza: Estudiante de Derecho (UTCH), estudiante de Administración Pública Territorial (ESAP), presidente del Comité en Defensa de la Educación Superior sede UTCH, líder de iniciativas juveniles de emprendimiento ambiental; Agente de Cambio en RJRRD COL. Duvier Palacios: Estudiante de Derecho (UTCH), técnico en mantenimiento de equipos de cómputo, estudiante de programación (U. Cartagena), apasionado por los derechos humanos, el medio ambiente y el cambio climático; Agente de Cambio en RJRRD COL.
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1WawyYt4AgxQg0q3vU7a5NO96tX4Xp0y4/preview" width="100%" height="480" allowfullscreen></iframe>

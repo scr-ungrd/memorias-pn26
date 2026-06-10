@@ -1,0 +1,23 @@
+---
+title: Fuego, ganadería y biodiversidad en las sabanas inundables de la Orinoquía
+author:
+- name: Anghy S. Gutiérrez Rincón
+  affiliations:
+    - name: Universidad del Rosario, Bogotá D.C.
+  corresponding: true
+  email: angys.gutierrez@unirioja.edu.co
+keywords:
+- Sabanas inundables
+- Manejo del fuego
+- Biodiversidad
+- Orinoquía
+abstract: |
+  Las sabanas inundables de la Orinoquía colombiana han sido históricamente configuradas por la interacción entre fuego, herbivoría y un marcado pulso hidrológico estacional. No obstante, en las últimas décadas el fuego ha sido crecientemente abordado desde enfoques centrados en la supresión y el control, bajo la premisa de que su reducción favorece la conservación de la biodiversidad. Esta perspectiva plantea una pregunta central para el manejo contemporáneo del territorio: ¿qué efectos ecológicos produce realmente la exclusión del fuego en sabanas donde se ha identificado como proceso estructurante-natural? Esta ponencia examina cómo, en el corto plazo, distintas frecuencias de quema y la presencia de ganadería extensiva influyen en la estructura y biodiversidad vegetal de sabanas inundables del departamento de Casanare, aportando evidencia experimental al debate sobre manejo del fuego en la Orinoquía. Los resultados preliminares muestran que la exclusión de fuego promovió una rápida acumulación de biomasa, especialmente durante la estación seca, evidenciando incrementos significativos en cobertura vegetal. Sin embargo, este aumento estructural no se tradujo necesariamente en mayor diversidad efectiva. En contraste, los tratamientos que combinaron fuego recurrente intermedio (quema bienal) y ganadería extensiva mantuvieron mayores valores de diversidad efectiva y una distribución más equitativa de dominancia entre especies. Los análisis de beta diversidad revelaron además que los distintos regímenes de fuego y pastoreo generaron ensamblajes florísticos diferenciados, indicando que el manejo del fuego no solo modifica la cantidad de vegetación, sino también su composición y configuración comunitaria. Estos hallazgos sugieren que, en el corto plazo, la exclusión total del fuego puede promover la acumulación de biomasa y la homogenización de especies, mientras que la interacción entre quema recurrente y pastoreo contribuye a sostener mosaicos heterogéneos característicos de las sabanas inundables. A partir de esta evidencia experimental, la ponencia propone discutir críticamente los enfoques de supresión generalizada del fuego y aportar elementos empíricos al debate sobre manejo adaptativo del fuego en la Orinoquía, reconociendo su carácter de proceso ecológico y práctica históricamente integrada a la configuración del paisaje. Además, resalta la necesidad de estrategias de manejo adaptativo que reconozcan la complejidad socioecológica de la Orinoquía.
+categories:
+- Comunidades de aprendizaje y participación
+- Datos, modelación, IA, innovación social y herramientas digitales
+---
+
+**Perfil quién presenta el trabajo:** Ingeniera forestal, magíster en Manejo, Uso y Conservación del Bosque de la Universidad Distrital y candidata del Doctorado en Ciencias Naturales en la Universidad del Rosario (quinto semestre). Mi investigación actualmente se centra en las dinámicas vegetación–fuego en sabanas tropicales de la ecorregión Llanos (Colombia y Venezuela), con un enfoque multiescalar que integra experimentación ecológica en campo, análisis multitemporales de cambio de coberturas y revisión histórica del uso y manejo del fuego en la región. Cuento con once (11) años de experiencia profesional en el desarrollo de proyectos de consultoría ambiental e investigación aplicada, con énfasis en la inclusión de la gestión del riesgo por incendios forestales en instrumentos de ordenamiento territorial y en el estudio de la ecología del fuego en ecosistemas de bosque seco y sabanas tropicales.
+
+Mis ejes de investigación incluyen: ecología del fuego, interacciones fuego–herbivoría, biodiversidad en sabanas neotropicales, manejo adaptativo del fuego y gobernanza socioecológica en paisajes de la Orinoquía. Mi trabajo busca aportar evidencia empírica para comprender el papel ecológico del fuego en sabanas tropicales y contribuir a debates sobre políticas de manejo del fuego en Colombia. Mi interés en participar en este Coloquio radica en aportar evidencia experimental reciente al debate sobre el manejo del fuego en sabanas inundables, y dialogar con otras perspectivas que permitan comprender la Orinoquía no solo como ecosistema, sino como territorio históricamente configurado por prácticas productivas, dinámicas culturales y procesos naturales interdependientes.

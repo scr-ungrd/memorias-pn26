@@ -1,0 +1,41 @@
+---
+title: "Sesión paralela 9. Alianzas que transforman la Gestión del Riesgo de Desastres"
+---
+
+## Nota conceptual
+
+:::{#tabla-sp09-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Alianzas que transforman la Gestión del Riesgo de Desastres |
+| **Organización anfitriona** | Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD) |
+| **Contacto principal** | Isabel Cristina Arboleda López |
+| **Suplente** | Elena Pabón Tarazona |
+| **Organización Co-Anfitriona** | NA |
+| **Contacto principal** | NA |
+| **Suplente** | NA |
+| **Punto Focal UNGRD** | Gina Velásquez |
+:::
+
+<style>
+#tabla-sp09-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-sp09-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-sp09-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Sesión de Pitch (o Pitching): presentación breve y concisa (estilo "Shark Tank" institucional) para identificar expresiones de interés. Moderador da bienvenida y explica la dinámica (5 min); presentación de proyectos estratégicos en tarima — 7 min por proyecto (35 min); espacio de diálogo para alimentar la matriz de expresiones de interés digitalmente (5 min). |
+| Objetivo(s) | Identificar socios estratégicos para financiamiento y ejecución de acciones sectoriales bajo el actual Plan Nacional de Gestión del Riesgo de Desastres (PNGRD), visibilizando las apuestas estratégicas para el próximo Plan Nacional de Desarrollo y las actualizaciones del PNGRD. |
+| Resultado(s) medible(s) | **Portafolio de Continuidad:** Identificación de cuatro proyectos estratégicos que requieren una "segunda fase" prioritaria para el próximo periodo de gobierno. <br><br> **Mapa de Actores y Financiamiento:** Consolidación de una matriz de intereses donde cooperantes internacionales y sectores identifiquen puntos de inversión conjunta. |
+| Descripción general | La sesión se desarrollará como un espacio de alto nivel donde los sectores presentarán, en intervenciones de máximo 7 minutos, sus proyectos más exitosos y los desafíos que deben trascender hacia el próximo Plan Nacional de Desarrollo. En paralelo, se entregará a los asistentes un portafolio de los proyectos expuestos para que opinen sobre su interés en generar alianzas o financiar estas apuestas. <br><br> A diferencia de una exposición técnica tradicional, el enfoque es de negociación estratégica. Se busca que los directivos y cooperantes internacionales visualicen la GRD no como un gasto, sino como una inversión necesaria para la sostenibilidad nacional. La sesión cerrará con una dinámica de matchmaking para conectar las necesidades de los sectores con las capacidades técnicas y financieras de los aliados presentes. |
+| Enfoque(s) y eje(s) transversal(es) | Territorialización y financiamiento de la GRD. |
+| Preguntas | ¿Qué aprendizajes del PND 2022–2026 deben capitalizarse y qué ajustes proponen para orientar el camino 2026–2030 en GRD, resiliencia y adaptación? <br> ¿Cuáles son los principales cuellos de botella de gobernanza (roles, coordinación, descentralización de recursos) y qué medidas concretas fortalecerán el desempeño del SNGRD? <br> ¿Qué mecanismos de financiamiento para RRD y acción anticipatoria (incluida financiación basada en pronósticos) son viables y cómo se territorializan para cerrar brechas de resiliencia? <br> ¿Qué acciones del PNGRD actual han demostrado impacto positivo y deben escalar a una segunda fase en el próximo Plan de Desarrollo? <br> ¿Qué actores (públicos, privados o internacionales) son indispensables para potenciar estos resultados? |
+| Conferencistas y/o facilitadores | **Moderador:** Juan Carlos Orrego — Asesor <br><br> **Panelistas:** Isabel Cristina Arboleda López — Jefe Oficina Asesora de Planeación e Información, UNGRD · Elizabeth Marín Ospina — Coordinadora Grupo de Infraestructura Intermodal, Ministerio de Transporte · Gipsy Vivian Arenas Hernández — Jefe Oficina Gestión del Riesgo, Parques Nacionales Naturales · Oswaldo Muca Castizo — Presidente OPIAC · Petrona Romero Navarro — Coordinadora Departamental de Gestión del Riesgo, Gobernación del Cesar |
+:::

@@ -1,0 +1,29 @@
+---
+title: "Construcción colaborativa del Modelo Nacional de Riesgo Sísmico: el rol de las universidades colombianas en la generación de conocimiento para la gestión del riesgo"
+author:
+- name: Juan Carlos Reyes
+  affiliations:
+    - name: Universidad de los Andes, Bogotá, Colombia
+  corresponding: true
+  email: jureyes@uniandes.edu.co
+keywords:
+- Riesgo sísmico
+- Gestión del riesgo de desastres
+- Colaboración académica
+- Modelo probabilista
+- Colombia
+abstract: |
+  Colombia enfrenta un alto riesgo sísmico debido a su ubicación en una zona de interacción de placas tectónicas y a la vulnerabilidad de gran parte de su entorno construido, lo que evidencia la necesidad de fortalecer el conocimiento del riesgo y la articulación entre actores del Sistema Nacional de Gestión del Riesgo de Desastres. En este contexto, el objetivo de la ponencia es presentar la experiencia de construcción colaborativa del Modelo Nacional de Riesgo Sísmico (MNRS), resaltando el papel de las universidades colombianas en la generación de conocimiento aplicado para la gestión del riesgo.
+
+  La metodología se basó en un esquema de trabajo en red que integró universidades de distintas regiones del país, entidades públicas y aliados internacionales, organizados en grupos de trabajo especializados en exposición, vulnerabilidad y modelación del riesgo. Se emplearon enfoques probabilistas, datos abiertos y herramientas de modelación de última generación, junto con procesos de formación de estudiantes y jóvenes investigadores, promoviendo la estandarización metodológica y el intercambio de saberes entre instituciones.
+
+  Como resultado, se desarrolló un modelo nacional que permite estimar daños físicos, pérdidas económicas y afectaciones a la población a diferentes escalas territoriales, junto con la consolidación de capacidades técnicas en universidades y la creación de una red académica activa en riesgo sísmico. La experiencia fortaleció la investigación aplicada, la cooperación interinstitucional y la apropiación del conocimiento en el país. El MNRS constituye una herramienta estratégica para la toma de decisiones en reducción del riesgo, preparación y recuperación ante desastres, y evidencia que la colaboración entre academia y Estado es fundamental para avanzar hacia una gestión del riesgo más informada, transparente y sostenible. Se recomienda continuar fortaleciendo estas redes de investigación, ampliar la aplicación del modelo a otros sectores y promover su uso en la formulación de políticas públicas y estrategias territoriales.
+categories:
+- Datos, modelación, IA, innovación social y herramientas digitales
+---
+
+**Perfil quién presenta el trabajo:** El Dr. Reyes es actualmente profesor titular y director del Centro de Investigaciones en Materiales y Obras Civiles (CIMOC) de la Universidad de los Andes. Obtuvo su título de Ingeniería Civil en la Universidad Industrial de Santander (UIS) en 1998, su Magister en Ingeniería Estructural y Sísmica de la Universidad de los Andes en 2002, y completó su doctorado en la Universidad de California, Berkeley en 2009. Ha publicado más de 200 trabajos de investigación en revistas técnicas, memorias de congresos, capítulos de libros y presentaciones magistrales. En 2025, participó junto con otras instituciones en la elaboración del Modelo Nacional de Riesgo Sísmico, el cual mereció el Premio Codazzi 2025.
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/181X2HeKZVXB6vxwEXQA12X8PQey-xbEj/preview" width="100%" height="480" allowfullscreen></iframe>

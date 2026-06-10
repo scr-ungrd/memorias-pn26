@@ -1,0 +1,41 @@
+---
+title: "Sesión paralela 28. Invertir en prevención: responsabilidad fiscal y sostenibilidad en la gestión del riesgo de desastres"
+---
+
+## Nota conceptual
+
+:::{#tabla-sp28-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Invertir en prevención: responsabilidad fiscal y sostenibilidad en la gestión del riesgo de desastres |
+| **Organización anfitriona** | ORFE — Universidad La Salle México |
+| **Contacto principal** | Diana Caicedo E. — ORFE, La Salle México |
+| **Suplente** | Jaider Agudelo — ORFE / Universidad Nacional de Colombia |
+| **Organización Co-Anfitriona** | FUNSEMEVI — Nariño Joven — Universidad La Salle México — Fundación Almalina — GNDR — REDLAC de Mujeres para la RRD |
+| **Contacto principal** | Betty Enríquez — FUNSEMEVI · Christian Benítez — Universidad La Salle México |
+| **Suplente** | Mateo Narváez — Fundación Almalina |
+| **Punto Focal UNGRD** | Katherine Hernández Bohórquez — Subdirección General |
+:::
+
+<style>
+#tabla-sp28-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-sp28-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-sp28-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Espacio paralelo de carácter técnico-participativo. Cuatro fases: 1) Intervención marco sobre la desconexión entre gestión del riesgo y planificación fiscal. 2) Panel corto de alto nivel con actores de academia y sector público internacional. 3) Ejercicio participativo guiado para identificar barreras, oportunidades y acciones concretas. 4) Síntesis estructurada y construcción de mensajes clave orientados a tomadores de decisión. |
+| Objetivo(s) | 1. Analizar la relación entre la responsabilidad fiscal y la gestión del riesgo de desastres, evidenciando la necesidad de incorporar el riesgo como variable estructural en la planeación y programación presupuestal del Estado. <br><br> 2. Identificar mecanismos técnicos e institucionales que permitan fortalecer la inversión en prevención, incluyendo el etiquetado del gasto, la medición del impacto fiscal de los desastres y la articulación entre los sectores de hacienda, planeación y gestión del riesgo. <br><br> 3. Generar insumos y recomendaciones orientadas a tomadores de decisión para avanzar en la construcción de una hoja de ruta que integre el enfoque de sostenibilidad fiscal en la gobernanza del riesgo de desastres. |
+| Resultado(s) medible(s) | 1. Documento de conclusiones con al menos 3 recomendaciones concretas para la incorporación del enfoque de responsabilidad fiscal en la GRD. <br> 2. Identificación de al menos 2 barreras institucionales y 2 oportunidades de articulación entre los sectores de hacienda, planeación y GRD. <br> 3. Participación activa de asistentes, con registro de intervenciones y aportes en el ejercicio participativo. <br> 4. Construcción de un mapa preliminar de actores clave (mínimo 5 actores) para impulsar la agenda de responsabilidad fiscal en la RRD. <br> 5. Documento de informe del evento. <br> 6. Resumen breve para el día siguiente. |
+| Descripción general | La sesión propone abrir un espacio de reflexión y diálogo técnico sobre la relación entre la responsabilidad fiscal y la gestión del riesgo de desastres, posicionando la inversión en prevención como un elemento central para la sostenibilidad del Estado. En un contexto donde los desastres continúan generando impactos crecientes sobre las finanzas públicas, la sesión busca cuestionar el enfoque reactivo predominante y promover una visión anticipatoria que integre el riesgo en la planificación y asignación de recursos. <br><br> A través de un formato participativo, se abordarán temas clave como la incorporación del riesgo en la programación presupuestal, el etiquetado del gasto en prevención, la medición del impacto fiscal de los desastres y la articulación entre sectores estratégicos como hacienda, planeación y gestión del riesgo. La sesión está dirigida a tomadores de decisión, funcionarios públicos, academia y actores territoriales, y busca generar insumos concretos para fortalecer la gobernanza del riesgo con enfoque fiscal. |
+| Enfoque(s) y Eje(s) transversal(es) | **Enfoque principal:** Comunidades de aprendizaje y participación. <br><br> **Ejes transversales:** Género, diversidad e inclusión. Enfoque diferencial e interseccional en la lectura del riesgo. Enfoque de derechos humanos. Ciencia, tecnología e innovación basada en evidencia. Adaptación al cambio climático y enfoque Eco-RRD. Accesibilidad universal, diseño inclusivo y no discriminación. |
+| Preguntas | ¿Cómo puede la responsabilidad fiscal transformar la gestión del riesgo de desastres de un enfoque reactivo a uno preventivo y sostenible? <br> ¿De qué manera integrar el riesgo de desastres en la planeación y programación presupuestal del Estado mejora la eficiencia del gasto público? <br> ¿Qué mecanismos técnicos e institucionales son necesarios para implementar el etiquetado del gasto en prevención y medir el impacto fiscal de los desastres? <br> ¿Cuáles son las principales barreras para la articulación entre los sectores de hacienda, planeación y gestión del riesgo, y cómo superarlas? <br> ¿Cómo incorporar enfoques de derechos humanos, género y territorialidad en las decisiones fiscales relacionadas con la gestión del riesgo? <br> ¿Qué rol puede desempeñar la academia en la generación de evidencia y el fortalecimiento de capacidades para una gestión del riesgo con enfoque fiscal? <br> ¿Qué acciones concretas pueden adoptar los tomadores de decisión para posicionar la prevención como una inversión estratégica y no como un gasto? |
+| Conferencistas y/o facilitadores | **Diana Caicedo** — GNDR y Coordinadora del Observatorio de la RedLAC de Mujeres para la RRD <br> **Jaider Agudelo** — Estudiante de Derecho, Universidad Nacional de Colombia (UNAL) e integrante de ORFE |
+:::

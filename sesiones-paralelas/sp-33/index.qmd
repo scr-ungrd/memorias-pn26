@@ -1,0 +1,47 @@
+---
+title: "Sesión paralela 33. Respuesta Humanitaria Inclusiva: Una apuesta centrada en las mujeres y personas con discapacidad"
+---
+
+## Nota conceptual
+
+:::{#tabla-sp33-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Respuesta Humanitaria Inclusiva: Una apuesta centrada en las mujeres y personas con discapacidad |
+| **Organización anfitriona** | CARE Colombia |
+| **Contacto principal** | Emma Tangarife |
+| **Suplente** | Andrés Sarmiento |
+| **Organización Co-Anfitriona** | Humanity & Inclusion (HI) |
+| **Contacto principal** | Hernando Enríquez |
+| **Suplente** | Carol Hernández |
+| **Punto Focal UNGRD** | Carlos Rodríguez |
+:::
+
+<style>
+#tabla-sp33-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-sp33-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-sp33-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Sesión paralela 33. |
+| Objetivo(s) | 1. Posicionar el modelo de intervención en donde se integra el enfoque de género con el de inclusión como una apuesta innovadora, pertinente y oportuna para la atención humanitaria a víctimas del conflicto armado y a población migrante y refugiada en Colombia. <br><br> 2. Destacar el modelo de impulso de las voces de los liderazgos locales incluidas las OPD (organizaciones de personas con discapacidad) como elemento fundamental para la planeación, ejecución y evaluación de las intervenciones de la asistencia humanitaria. <br><br> 3. Movilizar los productos de incidencia en formatos accesibles, así como sus resultados y recomendaciones a los diferentes actores de interés. |
+| Resultado(s) medible(s) | Video del modelo con QR de más productos. |
+| Descripción general | CARE Colombia y Humanity & Inclusion desarrollaron un modelo de respuesta integral en protección y salud a personas afectadas por migración, violencia y desplazamiento, en especial a mujeres, NNA y personas con discapacidad, integrando acciones de preparación con enfoque inclusivo para desastres, fortalecimiento de capacidades, provisión de información, sensibilización e incidencia. <br><br> El modelo se alineó con las cuatro prioridades del Marco de Sendai: se desarrollaron análisis rápidos de género y discapacidad (ARGD) para identificar necesidades diferenciadas en territorios afectados por crisis (Prioridad 1). Se implementó mediante alianzas entre organizaciones y autoridades locales, fortaleciendo la capacidad institucional y comunitaria con enfoque interseccional centrado en protección, salud e inclusión (Prioridad 2). Se impulsaron acciones que fortalecieron la salud física y mental, la salud sexual y reproductiva y la rehabilitación funcional, contribuyendo a disminuir vulnerabilidades ante emergencias (Prioridad 3). Se integraron acciones de preparación para desastres, servicios móviles y estrategias de sensibilización en territorios dispersos y de difícil acceso (Prioridad 4). <br><br> Este modelo contribuyó a una gestión del riesgo más inclusiva, equitativa y sostenible en Colombia, especialmente en contextos históricamente marginados y altamente expuestos a múltiples crisis, con un foco en las niñas, mujeres, personas con discapacidad y poblaciones vulnerables, para no dejar a nadie atrás. |
+| Enfoque(s) y Eje(s) transversal(es) | **Enfoques:** Comunidades de aprendizaje y participación. Territorialización y financiamiento de la GRD. |
+| Preguntas | ¿En qué contexto se desarrolló el proyecto y a quiénes quería beneficiar? <br> ¿Por qué pensar un enfoque en género y discapacidad para la atención de emergencias humanitarias, prevención del desastre y la atención a las crisis? <br> ¿Cómo lograr que la atención del riesgo y del desastre priorice desde la preparación el enfoque de género y discapacidad? <br> ¿Cuáles serían las recomendaciones que el proyecto puede compartir con otras organizaciones acerca de las buenas prácticas y retos identificados? |
+| Conferencistas y/o facilitadores | **Catalina Vargas** — Directora País, CARE Colombia; feminista con más de 18 años de experiencia en el sector humanitario y respuestas regionales en América Latina y el Caribe con enfoque de triple nexo <br><br> **Hernando Enríquez** — Director País, Humanity & Inclusion; abogado penalista nariñense con trayectoria en defensa de derechos de comunidades vulnerables en Colombia y Ecuador |
+:::
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1u8EYX_XGabnR9WO2yNg0xJ-gDRKAsPig/preview" width="100%" height="480" allowfullscreen>
+
+</iframe>

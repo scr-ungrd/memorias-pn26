@@ -1,0 +1,12 @@
+---
+title: Desalinización de agua mediante energía solar en La Guajira
+author:
+- name: Mike Boomer
+  affiliations:
+    - name: CESVI, La Guajira, Colombia
+  corresponding: true
+---
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1xHQmW3NnCC_fK9RRhAP_yk0rLle_t3v2/preview" width="100%" height="480" allowfullscreen></iframe>

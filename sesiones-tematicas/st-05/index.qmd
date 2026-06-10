@@ -1,0 +1,41 @@
+---
+title: "Nueva política pública para desplazamiento por desastres y eventos de evolución lenta"
+---
+
+## Nota conceptual
+
+:::{#tabla-st05-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Nueva política pública para desplazamiento por desastres y eventos de evolución lenta |
+| **Organización anfitriona** | PNUD |
+| **Contacto principal** | Hugo Mármol — hugo.marmol@undp.org |
+| **Suplente** | Jonathan Ballesteros — jonathan.ballesteros@undp.org |
+| **Organización Co-Anfitriona** | Ministerio de Ambiente y Desarrollo Sostenible |
+| **Contacto principal** | Zoraida Piedrahita — zpiedrahita@minambiente.gov.co |
+| **Suplente** | Martha Ochoa — mochoa@minambiente.gov.co |
+| **Punto Focal UNGRD** | Mara Kerguelen — mara.kerguelen@gestiondelriesgo.gov.co |
+:::
+
+<style>
+#tabla-st05-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-st05-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-st05-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Sesión Plenaria |
+| Objetivo(s) | Promover la discusión sobre el análisis de los desafíos y necesidades del SINA, SNGRD y SISCLIMA en el marco de sus roles y competencias, sobre cómo pueden incorporar desde la política pública un enfoque de soluciones duraderas para el desplazamiento por desastres, de manera que la respuesta institucional trascienda la atención temporal y se articule con procesos de adaptación al cambio climático, recuperación resiliente, estabilización socioeconómica y reducción de nuevas condiciones de riesgo. |
+| Resultado(s) medible(s) | Presentación de la hoja de ruta para la construcción de la política pública de desplazamiento interno asociado a desastres y eventos de evolución lenta, construida entre el Ministerio de Ambiente y el PNUD. <br><br> Conjunto de recomendaciones priorizadas, acordadas por los panelistas, que identifican los ajustes normativos, institucionales y de coordinación necesarios para integrar el desplazamiento por desastres y eventos de evolución lenta en la gobernanza del SINA, SNGRD y SISCLIMA. Este insumo alimenta directamente el proceso de reglamentación de la nueva ley de desplazamiento climático. |
+| Descripción general | El desplazamiento por desastres constituye una de las principales manifestaciones del riesgo no gestionado en los territorios, especialmente en contextos de vulnerabilidad social, ocupación de zonas de riesgo, pobreza, informalidad urbana y efectos del cambio climático. En Colombia, los eventos asociados a inundaciones, movimientos en masa, sequías y otros fenómenos hidrometeorológicos y geológicos generan procesos recurrentes de evacuación, reubicación y desplazamiento que afectan los medios de vida, el acceso a vivienda, la cohesión social y las condiciones de estabilización socioeconómica. La sesión propone abordar el desplazamiento por desastres y las soluciones duraderas desde los roles y competencias establecidos para el SINA, SNGRD y SISCLIMA desde las fases de planificación, preparación, respuesta y recuperación post desastre. La sesión se relaciona principalmente con las Prioridades 2, 3 y 4 del Marco de Sendai y con el Plan de Acción Regional para las Américas. |
+| Enfoque(s) y eje(s) transversal(es) | **Enfoques:** Planeación y ordenamiento que incorpora la GRD · Preparación y recuperación oportuna · Territorialización y financiamiento de la GRD <br> **Ejes transversales:** Adaptación al cambio climático · Ciencia, tecnología e innovación |
+| Preguntas | Teniendo en cuenta la aprobación del congreso sobre la nueva ley de desplazamiento climático ¿cuáles serán los principales retos para avanzar en la reglamentación y arreglos institucionales de esta nueva legislación? <br> ¿Cómo se integra al ordenamiento territorial y a la política de gestión del riesgo el fenómeno del desplazamiento por desastres y eventos de evolución lenta? <br> ¿Qué reflexión genera las siguientes líneas de acción para abordar el desplazamiento por desastres: conocimiento, gobernanza y arreglos institucionales, medidas de gestión integral, y participación comunitaria? <br> ¿Cuáles son los principales cuellos de botella de gobernanza (roles, coordinación, descentralización de recursos) y qué medidas concretas fortalecerán el desempeño del SINA, SNGRD y SISCLIMA frente a desplazamiento por desastres? |
+| Conferencistas y/o facilitadores | María Fernanda Torres Penagos — Directora de Cambio Climático y Gestión del Riesgo, Ministerio de Ambiente y Desarrollo Sostenible · Ana Milena Prada Uribe — Subdirectora para el Conocimiento del Riesgo, UNGRD · Javier Pava Sánchez — Director de Ambiente y Desarrollo Sostenible, DNP · Erika Castro Buitrago — Delegada para los Derechos Colectivos y del Ambiente, Defensoría del Pueblo · Pablo Escribano — Especialista Temático Regional Migración, Medio Ambiente y Cambio Climático, OIM |
+:::

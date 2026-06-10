@@ -1,0 +1,41 @@
+---
+title: "Diálogo de Alto Nivel 3. Corredores de Resiliencia: Desayuno con PNUD"
+---
+
+## Nota conceptual
+
+:::{#tabla-an03-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Corredores de Resiliencia: conectando a las personas, la naturaleza y el manejo integrado del fuego para la adaptación climática |
+| **Fecha y hora** | 22 de mayo — 7:30 a.m. a 9:30 a.m. |
+| **Categoría** | Cooperación internacional — Organismo multilateral |
+| **Contraparte** | Programa de las Naciones Unidas para el Desarrollo (PNUD) |
+| **Carpeta Drive** | AN3-DESAYUNO PNUD |
+:::
+
+<style>
+#tabla-an03-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-an03-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-an03-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Perfil de la contraparte | El PNUD es la agencia líder del Sistema de Naciones Unidas para el desarrollo sostenible, con amplia trayectoria en Colombia en temas de gobernanza, cambio climático, gestión del riesgo, biodiversidad, construcción de paz y fortalecimiento territorial. Lidera la implementación del proyecto "Corredores de Resiliencia: conectando a las personas, la naturaleza y el manejo integrado del fuego para la adaptación climática", con apoyo del Gobierno de Canadá. |
+| Contexto del espacio | Lanzamiento oficial del proyecto Corredores de Resiliencia en el marco de la PN26. El espacio presenta el alcance, componentes y esquema de implementación del proyecto, y fortalece alianzas institucionales para la gestión integral del fuego, la adaptación climática y la restauración de ecosistemas. Contempla la formalización de memorandos de entendimiento orientados a fortalecer acciones de prevención de incendios y gestión de riesgos climáticos. |
+| Temas prioritarios | Gestión integral del fuego. Adaptación al cambio climático. Prevención de incendios forestales. Restauración regenerativa. Coordinación interinstitucional. Fortalecimiento territorial. |
+| Descripción general | El proyecto integra manejo del fuego, restauración ecosistémica, adaptación climática y fortalecimiento institucional bajo un enfoque territorial y multisectorial, promoviendo articulación entre actores nacionales, locales y cooperación internacional. Existe afinidad estratégica con la UNGRD por el interés común en fortalecer acciones preventivas frente a incendios forestales y riesgos asociados al cambio climático. |
+| Mensajes estratégicos | El proyecto Corredores de Resiliencia fortalece la articulación entre gestión del riesgo, adaptación climática y conservación de ecosistemas. <br><br> La prevención de incendios forestales requiere trabajo coordinado entre instituciones nacionales, cooperación internacional y territorios. <br><br> La cooperación internacional contribuye al fortalecimiento de capacidades nacionales y territoriales. |
+| Oportunidades institucionales | Fortalecer la relación estratégica entre PNUD y UNGRD. Posicionar a la UNGRD como actor clave en prevención y reducción del riesgo climático. Consolidar alianzas para futuras iniciativas de adaptación y gestión del riesgo. |
+:::
+
+## Diapositivas de la sesión
+
+*Diapositivas no disponibles.*

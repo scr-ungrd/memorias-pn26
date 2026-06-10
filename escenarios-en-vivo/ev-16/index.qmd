@@ -1,0 +1,27 @@
+---
+title: El Semillero de Investigación en Educación para la Gestión Integral de Riesgo como estrategia para promover la formación investigativa en los estudiantes del programa Licenciatura en Biología de la Universidad Santo Tomás
+author:
+- name: Gustavo Laverde
+  affiliations:
+    - name: Universidad Santo Tomás, Bogotá D.C., Colombia
+  corresponding: true
+  email: gustavolaverde@usta.edu.co
+keywords:
+- Gestión del riesgo escolar
+- Investigación formativa
+- Semilleros de investigación
+abstract: |
+  La presente propuesta se desarrolla en el marco de la formación de estudiantes de Licenciatura en Biología de los diferentes Centros de Atención Universitaria (CAU) de la Universidad Santo Tomás y responde a la necesidad de fortalecer la Educación para la Gestión Integral del Riesgo en los contextos educativos. Partiendo del reconocimiento de los riesgos presentes y potenciales en los entornos sociales, ambientales y escolares, la iniciativa busca fundamentar conceptualmente a los estudiantes y potenciar su capacidad para formular, gestionar e implementar propuestas académicas orientadas al conocimiento, la reducción y el manejo del riesgo, desde una perspectiva de acción–reflexión que articula el ejercicio académico, la formación personal y el rol del futuro docente.
+
+  El objetivo general de la propuesta es desarrollar herramientas pedagógicas e investigativas que permitan a los estudiantes formular proyectos orientados a la Educación para la Gestión Integral del Riesgo, de acuerdo con las necesidades de las comunidades en el contexto nacional. La metodología se fundamenta en la Investigación Formativa y el trabajo colaborativo, articulados a través del Semillero de Investigación SEGIR. A partir de intereses comunes, se desarrollan encuentros académicos en los que se identifican problemáticas relevantes de las comunidades educativas que dan origen a proyectos de investigación.
+
+  Entre los principales logros alcanzados se destacan la participación de los estudiantes en encuentros nacionales e internacionales de semilleros de investigación, la publicación de artículos en revistas de divulgación y el reconocimiento de proyectos de grado con mención meritoria. En conjunto, la propuesta contribuye a la formación integral de docentes en Biología con competencias investigativas, comunicativas y socioeducativas, capaces de incidir de manera crítica y propositiva en la gestión del riesgo desde el ámbito educativo.
+categories:
+- Comunidades de aprendizaje y participación
+---
+
+**Perfil quién presenta el trabajo:** Licenciado en Biología de la Universidad Pedagógica Nacional, Especialista en Gerencia Educacional de la Universidad Pedagógica y Tecnológica de Colombia, Magister en Gestión y Evaluación Educativa de la Universidad Santo Tomás. Docente de tiempo completo en el programa de la Licenciatura en Biología de la Universidad Santo Tomás y Líder del Semillero de Investigación SEGIR (Semillero en Educación para la Gestión Integral del Riesgo).
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1XjUTU5r7HJU-68aTyzPeGtXd2_HRYDAD/preview" width="100%" height="480" allowfullscreen></iframe>

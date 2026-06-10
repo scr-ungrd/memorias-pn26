@@ -1,0 +1,31 @@
+---
+title: "Nichos y Semilleros, comunicación con rostro y manos para la acción"
+author:
+- name: Claudia Patricia Coca Galeano
+  affiliations:
+    - name: UNGRD, Bogotá, Colombia
+  corresponding: true
+  email: claudia.coca@gestiondelriesgo.gov.co
+keywords:
+- Gestión del riesgo
+- Comunicación del riesgo
+- Nichos de comunicación
+- Semilleros de participación
+- Gobernanza participativa
+abstract: |
+  Las Estrategias Nacionales de Comunicación del Riesgo y Participación buscan transformar la gestión del riesgo de desastres (GRD) mediante un cambio de paradigma en la comunicación y la participación ciudadana, a través de nichos de comunicación y semilleros de participación.
+
+  Prevalece la divulgación institucional, unidireccional y técnica que excluye procesos dialógicos de comunicación y otros sistemas de conocimiento ancestral y social. Ante este escenario, el objetivo de la "Estrategia Nacional para una Comunicación del Riesgo con Rostro" es orientar la producción de contenidos e información situada, comprensible y aplicable, que vaya más allá de las amenazas, que tenga en cuenta a las personas, las diferentes formas de habitar el territorio, sus sistemas de conocimiento, vulnerabilidades, capacidades y potencialidades; en sinergia con las entidades productoras de conocimiento y las autoridades territoriales. Por su parte, la "Estrategia Nacional para una Gobernanza Participativa" busca aumentar el involucramiento en la toma de decisiones a partir del entrenamiento en rutas exitosas de acción participativa y convergencia con la institucionalidad.
+
+  La metodología empleada para la formulación de las estrategias fue mixta y correlacional, desarrollada en cuatro fases: revisión documental de tendencias globales, consulta directa a 43 grupos focales diversos (incluyendo comunidades indígenas, afrocolombianas, campesinas, jóvenes y personas con discapacidad), sistematización de hallazgos y validación multinivel con actores del SNGRD.
+
+  Los resultados del diagnóstico revelaron barreras críticas como el uso de lenguaje excesivamente técnico, la falta de acceso tecnológico en zonas rurales y la desconfianza institucional. La conclusión destaca que la comunicación del riesgo debe transitar del "extractivismo social" hacia la coproducción de contenidos, reconociendo a las comunidades como protagonistas de la comunicación.
+categories:
+- Comunidades de aprendizaje y participación
+---
+
+**Perfil quién presenta el trabajo:** PhD en Ciencias Humanas y Sociales (CES - UNAL), Magíster en Medio Ambiente y Desarrollo (UNAL), Especialista en Gerencia Social de Proyectos (ESAP), Especialista en Pedagogía para el Desarrollo (UNAD), Licenciada (UNAL). 26 años de experiencia en diseño, implementación y evaluación de proyectos de gestión social, investigación, educación y comunicación en procesos de gestión del riesgo y adaptación al cambio climático en organizaciones públicas y privadas y del sector de hidrocarburos. Más de 27 publicaciones, docente investigadora y catedrática universitaria.
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1B3pBOczHKgRRCzzotlNbuJv4VCdvpCRB/preview" width="100%" height="480" allowfullscreen></iframe>

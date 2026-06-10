@@ -1,0 +1,34 @@
+---
+title: Riesgos asociados a la gestión de residuos sólidos en Colombia
+author:
+- name: Mónica Marcela Caro Medina
+  affiliations:
+    - name: Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD), Subdirección para el Conocimiento del Riesgo, Bogotá, Colombia
+  corresponding: true
+  email: monicamcaro@gmail.com
+keywords:
+- Residuos sólidos
+- Cambio climático
+- Economía circular
+- Riesgos tecnológicos
+- Gestión ambiental
+abstract: |
+  La gestión de residuos sólidos en Colombia enfrenta retos estructurales asociados al incremento en la generación de desechos, la limitada vida útil de los sitios de disposición final, y la persistencia de prácticas inadecuadas que pueden derivar en eventos con consecuencias ambientales, sociales y sanitarias. En este contexto, los espacios destinados a la recuperación, tratamiento y disposición final de residuos se configuran como escenarios de riesgo, donde la interacción entre factores tecnológicos, naturales y antrópicos puede desencadenar emergencias como incendios, explosiones, deslizamientos o contaminación de fuentes hídricas.
+
+  El presente trabajo tiene como objetivo identificar, caracterizar y analizar los riesgos asociados a la gestión de residuos sólidos en Colombia, con el fin de fortalecer el conocimiento del riesgo y aportar insumos técnicos para la toma de decisiones en el marco de la gestión del riesgo de desastres.
+
+  Para ello, se empleó un enfoque metodológico integral basado en la revisión de literatura científica, el análisis de información proveniente de entidades nacionales y la aplicación de la metodología probabilista CAPRA, que permite evaluar de manera cuantitativa las amenazas, vulnerabilidades y niveles de exposición. El estudio integra variables técnicas, ambientales y operativas, y considera diferentes tipologías de riesgos, incluyendo tecnológicos, estructurales, biosanitarios, ambientales, geológicos y Natech, asociados a infraestructuras como rellenos sanitarios, estaciones de transferencia y plantas de tratamiento.
+
+  Como resultado, se identificaron factores críticos como la sobrecarga operativa de los rellenos, la generación y manejo inadecuado de lixiviados y biogás, la inestabilidad geotécnica de los terrenos y la exposición de comunidades cercanas. Asimismo, se evidencian brechas en la planificación territorial, la gestión institucional y la implementación de tecnologías sostenibles, lo que incrementa la probabilidad de ocurrencia de eventos adversos y sus impactos.
+
+  Se concluye que la gestión de residuos sólidos debe abordarse desde un enfoque integral de gestión del riesgo, que priorice la prevención, el monitoreo y la planificación basada en evidencia. Se recomienda fortalecer los instrumentos de política pública, promover la transición hacia modelos de economía circular, mejorar la articulación institucional y consolidar sistemas de información que permitan anticipar escenarios de riesgo.
+categories:
+- Preparación y recuperación oportuna
+- Datos, modelación, IA, innovación social y herramientas digitales
+---
+
+**Perfil quién presenta el trabajo:** Mónica Caro Medina es geóloga, máster en Seguridad de la Tecnosfera y Ph.D. en Ciencias de la Tierra, con una sólida trayectoria en investigación aplicada al cambio climático, la sostenibilidad ambiental y la gestión de residuos sólidos. Su formación académica, desarrollada en Rusia bajo becas internacionales, se ha enfocado en la integración de soluciones tecnológicas, industriales y de política pública para el manejo de residuos en contextos urbanos. Cuenta con experiencia profesional en entidades como la UNGRD, el MME y el SGC, donde ha trabajado en la identificación y análisis de riesgos asociados a la gestión de residuos, así como en proyectos de cambio climático y cooperación internacional.
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1hVHXYbVHrwEJbJf5rXc9xZKaHxnTJmXm/preview" width="100%" height="480" allowfullscreen></iframe>

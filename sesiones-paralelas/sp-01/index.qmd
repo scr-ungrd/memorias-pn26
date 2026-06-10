@@ -4,7 +4,7 @@ title: "Sesión paralela 1. Colombia ante las Amenazas Extraterrestres: Ciencia,
 
 ## Nota conceptual
 
-:::{#tabla-sp01-info}
+::: {#tabla-sp01-info}
 |  |  |
 |:-----------------------------------|:-----------------------------------|
 | **Título de la sesión** | Colombia ante las Amenazas Extraterrestres: Ciencia, Riesgo y Política Pública |
@@ -17,6 +17,7 @@ title: "Sesión paralela 1. Colombia ante las Amenazas Extraterrestres: Ciencia,
 | **Punto Focal UNGRD** | Mauricio Romero, UNGRD |
 :::
 
+```{=html}
 <style>
 #tabla-sp01-info tbody tr:first-child {
   background-color: #00ACA8;
@@ -27,8 +28,9 @@ title: "Sesión paralela 1. Colombia ante las Amenazas Extraterrestres: Ciencia,
   color: #fff;
 }
 </style>
+```
 
-:::{#tabla-sp01-desc}
+::: {#tabla-sp01-desc}
 | Sección | Descripción |
 |:-----------------------------|:-----------------------------------------|
 | Metodología / Tipo de sesión | Panel de discusión (si se habilita, se mostraran videos) |

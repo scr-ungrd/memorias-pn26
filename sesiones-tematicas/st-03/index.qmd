@@ -1,0 +1,41 @@
+---
+title: "Anticipación en Acción"
+---
+
+## Nota conceptual
+
+:::{#tabla-st03-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Anticipación en Acción |
+| **Organización anfitriona** | Cruz Roja Colombiana |
+| **Contacto principal** | Eduard Ruiz Morales — Gestor de Conocimiento del Riesgo |
+| **Suplente** | Christian Giraldo — Oficial en Gestión del Riesgo de Desastres |
+| **Organización Co-Anfitriona** | FAO Colombia · Start Network · Mercy Corps |
+| **Contacto principal** | Julian Watkinson (FAO/NORCAP) · Miguel Cotes (Start Network – CADENA) · Nicolas Beltrán (Mercy Corps) |
+| **Suplente** | David Pulido (FAO) · Carol Hernández (Start Network – Humanity and Inclusion) · Lauren Petersen-Green (Mercy Corps) |
+| **Punto Focal UNGRD** | Sonia Bejarano — Subdirección General UNGRD |
+:::
+
+<style>
+#tabla-st03-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-st03-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-st03-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Sesión Temática (Invitación mixta) — 105 min. (1) Bienvenida (5 min); (2) Warm up — Dinámica con herramienta digital para abordaje de conceptos de acción anticipatoria, a cargo de Simon Quesseveur, Cruz Roja Alemana (15 min); (3) Presentaciones de contexto general — estado actual, conclusiones y retos globales y regionales (15 min): Carlos Aldana (Anticipation Hub/Cruz Roja Alemana), Rebeca Muñoz/Julian Watkinson (GTAA LAC/IFRC), Sonia Bejarano (UNGRD); (4) Experiencias en Colombia (25 min): PMA — Marco de Inundación en Chocó, Cruz Roja Colombiana — PAT Sequías, FAO — fenómeno La Niña, Start Network — trabajo inter-organizacional, Mercy Corps — Huracanes en San Andrés; (5) Panel de alto nivel (35 min); (6) Declaración conjunta y cierre (10 min). |
+| Objetivo(s) | Establecer un abordaje común de las Acciones Anticipatorias, a través del diálogo y el intercambio de experiencias sobre sus conceptos y enfoques promovidos por diferentes actores humanitarios en Colombia. |
+| Resultado(s) medible(s) | Al finalizar la sesión se espera firmar una declaración conjunta que permita avanzar en la implementación de acciones anticipatorias en Colombia, de manera coordinada y armonizada. |
+| Descripción general | Los temas de la sesión se relacionan con el Marco de Acción de Sendai en dos prioridades: Prioridad 1 (comprender el riesgo de desastres), en la medida en que las Acciones Anticipatorias parten de la comprensión de las características de una amenaza para el seguimiento a pronósticos y definición de umbrales; y Prioridad 4 (aumentar la preparación para casos de desastre a fin de dar una respuesta eficaz y "reconstruir mejor"). El Marco también señala que invertir antes del desastre, con base en el riesgo, es más rentable que depender solo de la respuesta, promoviendo mecanismos como seguros paramétricos, fondos de contingencia y financiamiento basado en pronósticos. Las acciones anticipatorias constituyen además un instrumento clave para la implementación del Plan de Acción Regional del Marco de Sendai en las Américas. |
+| Enfoque(s) y eje(s) transversal(es) | **Enfoques:** A. Comunidades de aprendizaje y participación: intercambio de experiencias y saberes técnicos, fortaleciendo capacidades institucionales a través de un diálogo multisectorial. B. Planeación y ordenamiento que incorpora la GRD: alternativas de integración de las acciones anticipatorias en instrumentos de planificación territorial y sectorial. C. Territorialización y financiamiento de la GRD: análisis de mecanismos financieros sostenibles, innovadores y previsibles para anticipar, reducir y transferir riesgos. <br> **Eje transversal:** Ciencia, tecnología e innovación: datos, modelación, inteligencia artificial, innovación social y herramientas digitales. |
+| Preguntas | ¿Qué criterios deben considerarse para la definición de activadores (triggers) y ventanas de tiempo para las acciones anticipatorias? <br> ¿Cómo fortalecer la articulación entre actores humanitarios, gobierno y comunidades para una implementación efectiva y coordinada? <br> ¿Cómo podemos escalar el financiamiento en Colombia de manera sostenible? <br> ¿De qué manera la analítica de datos, la modelación y las tecnologías digitales pueden mejorar la toma de decisiones anticipadas? |
+| Conferencistas y/o facilitadores | Carlos Aldana (Anticipation Hub/Cruz Roja Alemana) · Rebeca Muñoz/Julian Watkinson (GTAA LAC/IFRC) · Sonia Bejarano (UNGRD) · PMA · Cruz Roja Colombiana · FAO · Start Network · Mercy Corps <br><br> **Panel de alto nivel:** Director Ejecutivo Cruz Roja Colombiana · Ghisliane Echeverry Prieto (Directora IDEAM) · Chiara Capozio (Head of Office, OCHA Colombia) · Samuel Castro González (Secretaría de GRD de San Andrés, Providencia y Santa Catalina) · Jorge Tejada (Start Network) |
+:::

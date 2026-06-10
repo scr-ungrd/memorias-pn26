@@ -1,0 +1,42 @@
+---
+title: "Laboratorio de Aprendizaje 7. Memorias que caben en la mano: cómo comunicar el riesgo"
+---
+
+## Nota conceptual
+
+:::{#tabla-la07-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Memorias que caben en la mano: cómo comunicar el riesgo |
+| **Organización anfitriona** | UNGRD — MAGMA Museo Interactivo del Riesgo |
+| **Contacto principal** | Diana Alexandra Mancera Gamboa |
+| **Suplente** | Fabio Alejandro Jiménez |
+| **Punto Focal UNGRD** | Comunicación del riesgo a través de la museología |
+:::
+
+<style>
+#tabla-la07-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-la07-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-la07-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Laboratorio. Experiencia inmersiva que integra museología social, narrativas participativas y GRD. Tres momentos: creación de "museos en papel", curaduría colaborativa, y activación de maletas didácticas territoriales. |
+| Objetivo(s) | 1. Explorar la comunicación del riesgo desde lo humano, mediante la construcción de relatos basados en experiencias y memorias territoriales. <br><br> 2. Aplicar metodologías participativas de museología social para la co-creación de narrativas sobre riesgos y desastres. <br><br> 3. Visibilizar el rol de las comunidades en la generación de conocimiento en GRD. <br><br> 4. Posicionar el enfoque del MAGMA Museo del Riesgo como estrategia innovadora de apropiación social del conocimiento. |
+| Resultado(s) medible(s) | Producción de museos en papel "Museos de Bolsillo" (mínimo 6–10 prototipos colectivos) con narrativas sobre riesgo. Mapa de afinidades curatoriales. Construcción colectiva del concepto de un "Museo de Museos del Riesgo". Activación de las 6 maletas didácticas (Tumaco, Puerto Inírida, Bogotá, Tibú, Cartagena e Isla Salamanca). |
+| Descripción general | Este laboratorio propone una experiencia inspirada en la obra Boîte-en-valise de Marcel Duchamp — el "museo portátil" — aplicada a la gestión del riesgo: un museo que viaja, se construye colectivamente y se activa desde las experiencias de las personas. El laboratorio se desarrolla en tres momentos: (1) los participantes crean un "museo en papel" a partir de objetos, recuerdos o experiencias relacionadas con el riesgo, adaptando la metodología "Museo para mí" del Museo Nacional de Colombia; (2) curaduría colaborativa donde los participantes agrupan sus creaciones según afinidades narrativas y co-crean un "Museo de Museos del Riesgo"; (3) activación sorpresiva de seis maletas didácticas de MAGMA desarrolladas en distintos territorios del país. |
+| Enfoque(s) y eje(s) transversal(es) | **A. Comunidades de aprendizaje y participación:** construcción colectiva de conocimiento mediante el intercambio de experiencias, saberes técnicos y conocimientos locales. <br> **Ciencia, tecnología e innovación:** innovación social y herramientas digitales; impulso a la apropiación social del conocimiento. |
+| Preguntas | ¿Qué estrategias de comunidades de aprendizaje y participación (laboratorios, escenarios en vivo, juntanza étnica, discapacidad) han demostrado impacto y cómo se escalan con enfoque diferencial? |
+| Conferencistas y/o facilitadores | **Diana Alexandra Mancera Gamboa** — Diseñadora Industrial, Magíster en Museología y Gestión del Patrimonio (Universidad Nacional de Colombia). Líder de MAGMA, Museo Interactivo del Riesgo, UNGRD. <br> **Fabio Alejandro Jiménez** — Magíster en Museología y Gestión del Patrimonio (Universidad Nacional de Colombia). Museógrafo en MAGMA, UNGRD. |
+:::
+
+## Diapositivas de la sesión
+
+*Diapositivas no disponibles.*

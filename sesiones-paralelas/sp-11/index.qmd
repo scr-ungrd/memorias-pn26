@@ -1,0 +1,41 @@
+---
+title: "Sesión paralela 11. Reducir el Riesgo y Salvaguardar la Biodiversidad: Estrategias Integradas de Resiliencia"
+---
+
+## Nota conceptual
+
+:::{#tabla-sp11-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Reducir el Riesgo y Salvaguardar la Biodiversidad: Estrategias Integradas de Resiliencia |
+| **Organización anfitriona** | Unidad Nacional de Gestión del Riesgo de Desastres (UNGRD) |
+| **Contacto principal** | Santiago Naranjo Posada |
+| **Suplente** | Vivian Olarte Reyes |
+| **Organización Co-Anfitriona** | Oficina de las Naciones Unidas para la Reducción del Riesgo de Desastres (UNDRR), Departamento Nacional de Planeación (DNP), Ministerio de Ambiente y Desarrollo Sostenible (MADS), Instituto Humboldt (IAvH) |
+| **Contacto principal** | Diana Mendoza, Olga Nieto, Beatriz Pozuelo |
+| **Suplente** | Ronald Ayazo |
+| **Punto Focal UNGRD** | Carolina Salgado |
+:::
+
+<style>
+#tabla-sp11-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-sp11-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-sp11-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Sesión paralela. Panel con enfoque participativo mediante el cual se busca recoger experiencias institucionales y miradas técnicas sobre la relación entre las estrategias para la reducción del riesgo de desastres, los ecosistemas y la protección de la biodiversidad. Un moderador guiará la charla con preguntas compartidas previamente con los panelistas. Al final, habrá una ronda de recomendaciones clave y una relatoría técnica irá tomando nota de los aportes, desafíos y oportunidades para fortalecer las estrategias de eco-reducción en el país. |
+| Objetivo(s) | Propiciar un diálogo interinstitucional que permita analizar el papel de la biodiversidad como soporte para la reducción del riesgo de desastres en Colombia, identificando avances, oportunidades, desafíos y criterios territoriales para la implementación de estrategias de eco-reducción y Soluciones Basadas en la Naturaleza. |
+| Resultado(s) medible(s) | Informe de la sesión. |
+| Descripción general | Bajo el Convenio de Diversidad Biológica (CDB) se destaca el papel central de los ecosistemas y la biodiversidad para abordar los desafíos de la Reducción del Riesgo de Desastres (RRD) y la Adaptación al Cambio Climático (ACC). Estos enfoques, conocidos como Soluciones Basadas en la Naturaleza (SbN) o Enfoques basados en Ecosistemas, están respaldados por el Marco de Sendai para la Reducción del Riesgo de Desastres, el Acuerdo de París (COP21) y los Objetivos de Desarrollo Sostenible (ODS), destacando importantes ventajas ligadas a los servicios ecosistémicos, el costo-beneficio, la resiliencia y la adaptación al cambio climático. Es necesario incluirlas en los instrumentos de planificación territorial y sus componentes programáticos. |
+| Enfoque(s) y eje(s) transversal(es) | Adaptación al Cambio Climático desde el enfoque de Eco-Reducción (Eco-RRD). <br> Planeación y ordenamiento que incorpora la GRD. |
+| Preguntas | ¿Qué lineamientos técnicos o financieros está desarrollando el DNP para que la inversión en "infraestructura natural" sea tratada con la misma rigurosidad que la infraestructura física en el Plan Nacional de Desarrollo? <br> ¿Cómo puede la experiencia de Colombia integrando biodiversidad y RRD servir como estándar para actualizar los indicadores de progreso del Marco de Sendai a nivel regional? <br> ¿Qué criterios recomienda el Instituto Humboldt para priorizar territorios y diseñar intervenciones de eco-reducción que integren riesgo, servicios ecosistémicos y cambio climático? <br> ¿Cuáles son las principales limitaciones normativas, técnicas o institucionales para la implementación de medidas de eco-reducción desde el MADS, y qué ajustes serían necesarios para superarlas? |
+| Conferencistas y/o facilitadores | Santiago Naranjo, Sebastián Garzón, Vivian Olarte, Diana Mendoza, Olga Nieto, Carolina Salgado, Sandra Rodríguez, Ronald Ayazo, Ricardo Lozano <br> **Facilitadores:** Beatriz Pozuelo |
+:::

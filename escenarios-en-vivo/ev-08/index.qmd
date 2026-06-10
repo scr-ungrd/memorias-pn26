@@ -1,0 +1,27 @@
+---
+title: Evaluación del procedimiento de atención de pacientes lesionados por sustancias químicas no identificadas en los servicios de urgencias
+author:
+- name: Jairo Andrés Restrepo Páramo
+  affiliations:
+    - name: Medellín, Colombia
+  corresponding: true
+  email: jrestrepo.gestiondelriesgo@gmail.com
+keywords:
+- Riesgo químico
+- Respuesta hospitalaria
+- Protocolo de atención
+- Contaminación química
+- Emergencia hospitalaria
+abstract: |
+  Según la legislación actual (Resolución 1802 de 1989 y Resolución 3100 de 2019), las clínicas y hospitales deben tener un Comité Hospitalario de Emergencias y un Plan Hospitalario de Emergencias. Esto es esencial para actuar eficazmente en situaciones de emergencia o desastre, tanto internas como externas. Una situación de emergencia poco común pero significativa es la atención de pacientes con sustancias químicas, que puede generar materiales tóxicos y requerir evacuación.
+
+  El personal de salud debe estar capacitado, contar con equipos de protección y seguir las fases de mitigación, preparación, respuesta y recuperación, reduciendo el riesgo de contaminación. El personal de salud entonces debe contar con conocimientos, estar preparados, contar con entrenamiento y dotación de equipos de protección personal y enmarcar la atención en las fases de manejo de estas situaciones, garantizando de antemano que los procedimientos elaborados sean socializados y practicados, disminuyendo así el riesgo de contaminación del personal y de las áreas.
+categories:
+- Preparación y recuperación oportuna
+---
+
+**Perfil quién presenta el trabajo:** Especialista en Gestión del Riesgo de Desastres con 16 años de trayectoria liderando procesos de resiliencia territorial y empresarial. Experto en la aplicación de la Ley 1523 de 2012 y el Decreto 2157 de 2017, con amplia experiencia en el diseño de Planes Hospitalarios de Emergencias y programas de Hospitales Seguros (OPS/OMS). Auditor en continuidad del negocio (ISO 22301) y gestión de riesgos (ISO 31000), con capacidad probada para asesorar comités de emergencias y acreditar procesos bajo estándares internacionales de Joint Commission International.
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1QtFbE6VRyhDUbnESdIU0fpZyaeAQ-P07/preview" width="100%" height="480" allowfullscreen></iframe>

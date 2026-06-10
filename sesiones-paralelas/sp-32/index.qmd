@@ -1,0 +1,41 @@
+---
+title: "Sesión paralela 32. Hacia territorios resilientes en Colombia: orientaciones conceptuales para política e inversión pública"
+---
+
+## Nota conceptual
+
+:::{#tabla-sp32-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Hacia territorios resilientes en Colombia: orientaciones conceptuales para política e inversión pública |
+| **Organización anfitriona** | Dirección de Ambiente y Desarrollo Sostenible del Departamento Nacional de Planeación |
+| **Contacto principal** | Javier Pava |
+| **Suplente** | Claudia Liliana Merchán — Diana Patricia Mendoza |
+| **Organización Co-Anfitriona** | N/A |
+| **Contacto principal** | N/A |
+| **Suplente** | N/A |
+| **Punto Focal UNGRD** | Lizeth Abril |
+:::
+
+<style>
+#tabla-sp32-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-sp32-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-sp32-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Sesión paralela 32. Panel. |
+| Objetivo(s) | Promover la integración de la resiliencia frente a perturbaciones en las políticas de desarrollo y planificación del país. |
+| Resultado(s) medible(s) | 1. Consolidar aportes al marco conceptual sobre la construcción de resiliencia frente a perturbaciones como eje central en la formulación de políticas públicas. <br> 2. Recopilar insumos para la implementación de la estrategia nacional de resiliencia socioecológica con enfoque territorial. |
+| Descripción general | Colombia enfrenta crisis sin precedentes donde los desafíos sociales, económicos y ambientales se retroalimentan y amplifican entre sí. Esta complejidad se ve agravada por la insuficiente capacidad institucional para desplegar políticas públicas transformadoras, lo cual erosiona los esfuerzos para construir un desarrollo productivo, sostenible y resiliente, incrementando las brechas socioeconómicas de las poblaciones más vulnerables. <br><br> En el marco del Plan Nacional de Desarrollo 2022–2026 "Colombia Potencia Mundial de la Vida", el Departamento Nacional de Planeación propone la construcción de la **Estrategia Nacional de Resiliencia Socioecológica con enfoque territorial y comunitario**, como un instrumento de gestión pública que busca orientar decisiones multisectoriales y multiescalares que fortalezcan la capacidad de los territorios para transformarse, adaptarse y enfrentar perturbaciones presentes y futuras. <br><br> La resiliencia se concibe como la capacidad de los territorios para transformarse, adaptarse y responder ante entornos de alta incertidumbre, construida mediante intervenciones proactivas antes de que se materialice una perturbación. El espacio se alinea con el Plan Nacional de Desarrollo, el Marco de Sendai, los ODS, el Acuerdo de París, la Nueva Agenda Urbana, el Pacto Climático de Glasgow y el Marco Mundial de Kunming-Montreal. |
+| Enfoque(s) y Eje(s) transversal(es) | **Enfoques:** Planeación y Ordenamiento que incorpora la GRD. Territorialización y financiamiento de la GRD. |
+| Preguntas | ¿Cómo se incorpora la GRD y la adaptación al cambio climático en instrumentos de ordenamiento (POT/PBOT/EOT) y de planificación (PDGRD/PMGRD), y qué innovaciones normativas se requieren para escalarla? <br> ¿Qué aprendizajes del PND 2022–2026 deben capitalizarse y qué ajustes proponen para orientar el camino 2026–2030 en GRD, resiliencia y adaptación? <br> ¿Cuáles son los principales cuellos de botella de gobernanza (roles, coordinación, descentralización de recursos) y qué medidas concretas fortalecerán el desempeño del SNGRD? |
+| Conferencistas y/o facilitadores | **Moderadora:** Claudia Liliana Merchán — Subdirectora de Cambio Climático y Gestión del Riesgo de Desastres, DNP <br><br> **Panelistas:** Javier Pava Sánchez — Director de Ambiente y Desarrollo Sostenible, DNP · Luis Bonilla Ortiz-Arrieta — Oficial de Asuntos Económicos, Oficina Regional para las Américas y el Caribe, UNDRR · Gustavo Wilches-Chaux — Profesor-Investigador, Facultad de Ciencias Sociales y Humanas, Universidad Externado de Colombia |
+:::

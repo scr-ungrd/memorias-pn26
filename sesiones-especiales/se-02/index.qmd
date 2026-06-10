@@ -1,0 +1,41 @@
+---
+title: "Mujeres artesanas, territorio y gestión del riesgo: experiencias que tejen resiliencia"
+---
+
+## Nota conceptual
+
+:::{#tabla-se02-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Mujeres artesanas, territorio y gestión del riesgo: experiencias que tejen resiliencia |
+| **Organización anfitriona** | UNGRD — SRR — Proyecto Entre Tejidos |
+| **Contacto principal** | Catherine Agudelo Rico |
+| **Suplente** | Patricia Hernández Gómez |
+| **Organización Co-Anfitriona** | PNUD |
+| **Contacto principal** | Lina Gallego |
+| **Suplente** | |
+| **Punto Focal UNGRD** | Patricia Hernández Gómez |
+:::
+
+<style>
+#tabla-se02-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-se02-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-se02-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Espacio distribuido en dos momentos: (1) Panel participativo con enfoque de diálogo de saberes, centrado en la intervención de mujeres artesanas participantes del proyecto Entre Tejidos (1 hora); (2) Taller "Tejiendo territorios: liderazgo, autocuidado y mediación de conflictos con enfoque de género en contextos de riesgo" (1 hora 30 minutos). Salón organizado en modo círculo de palabra. |
+| Objetivo(s) | Generar un espacio de diálogo de saberes que visibilice y posicione las experiencias de mujeres artesanas en la gestión comunitaria del riesgo de desastres, con el fin de aportar insumos, aprendizajes y recomendaciones que fortalezcan la comprensión del riesgo, la gobernanza y la incorporación de enfoques de género, interculturalidad y participación comunitaria en la PN26 y en la región. <br><br> Fortalecer el liderazgo y el autocuidado de las mujeres participantes del proyecto, cocreando colectivamente principios y rutas metodológicas propias para la mediación de conflictos comunitarios y el abordaje de las violencias basadas en género en contextos de riesgo. |
+| Resultado(s) medible(s) | Insumo técnico de sistematización (documento síntesis con experiencias, aprendizajes clave, prácticas comunitarias y elementos con potencial de réplica). <br><br> Identificación de al menos cuatro (4) prácticas comunitarias lideradas por mujeres relacionadas con prevención, adaptación o respuesta frente a amenazas. <br><br> Al menos tres (3) intervenciones del público que evidencien reflexión, diálogo y apropiación de los contenidos del panel. <br><br> Memoria audiovisual y/o fotográfica del panel como insumo para visibilización y fortalecimiento de redes. |
+| Descripción general | En el marco de la Plataforma Nacional para la GRD, el proyecto Entre Tejidos: Artesanas Reduciendo el Riesgo de Desastres propone una sesión orientada a visibilizar y posicionar el rol de las mujeres artesanas en la gestión comunitaria del riesgo, a partir de sus experiencias territoriales, saberes ancestrales y prácticas cotidianas de cuidado de la vida. En diversos territorios de Colombia, las mujeres han sostenido históricamente acciones de prevención, adaptación y respuesta frente a múltiples amenazas mediante prácticas asociadas al cuidado del agua, la protección de semillas, la gestión de los ecosistemas y la organización comunitaria. Estas acciones, aunque frecuentemente invisibilizadas en los marcos institucionales, constituyen formas concretas de reducción del riesgo y fortalecimiento de la resiliencia territorial. El espacio contribuye a la Prioridad 1 del Marco de Sendai (comprender el riesgo) y a la Prioridad 2 (fortalecer la gobernanza del riesgo), y se articula con el Plan de Acción Regional para las Américas en lo relacionado con la promoción de enfoques inclusivos, el reconocimiento del conocimiento local y la incorporación de perspectivas de género. |
+| Enfoque(s) y eje(s) transversal(es) | **Enfoques:** A. Comunidades de aprendizaje y participación · C. Territorialización y financiamiento de la GRD <br> **Ejes transversales:** Adaptación al Cambio Climático desde el enfoque de Eco-Reducción (Eco-RRD) · Ciencia, tecnología e innovación (innovación social) |
+| Preguntas | ¿Qué situaciones o eventos están afectando actualmente sus territorios y cómo impactan la vida de sus comunidades? <br> ¿Qué prácticas desarrollan las mujeres en sus territorios para prevenir, enfrentar o adaptarse a estos riesgos? <br> ¿Qué conocimientos, saberes o enseñanzas ancestrales orientan estas acciones de cuidado y protección del territorio? <br> ¿De qué manera el riesgo afecta de forma diferenciada a las mujeres y qué respuestas han construido desde sus roles en la comunidad? <br> ¿Qué aprendizajes de sus territorios consideran que deberían ser tenidos en cuenta en la gestión del riesgo a nivel nacional y regional? <br> ¿Qué es necesario fortalecer para que las experiencias y saberes de las mujeres tengan mayor reconocimiento e incidencia en la toma de decisiones sobre el riesgo? |
+| Conferencistas y/o facilitadores | 4 mujeres participantes del proyecto Entre Tejidos, de diferentes perfiles: autoridades, mayores, brigadistas indígenas, jóvenes, pertenecientes a comunidades indígenas o campesinas. <br><br> **Moderadora:** Catherine Agudelo Rico — Ingeniera forestal, coordinadora del Proyecto Entre Tejidos, Subdirección para la Reducción del Riesgo, UNGRD. |
+:::

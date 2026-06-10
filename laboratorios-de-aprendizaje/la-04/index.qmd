@@ -1,0 +1,45 @@
+---
+title: "Laboratorio de Aprendizaje 4. Género, datos y paz: aprendizajes del Bootcamp para transformar la GRD en Colombia"
+---
+
+## Nota conceptual
+
+:::{#tabla-la04-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Género, datos y paz: aprendizajes del Bootcamp para transformar la GRD en Colombia |
+| **Organización anfitriona** | GIZ |
+| **Contacto principal** | Alejandra Barragán |
+| **Suplente** | Erika Ramírez / Sofía Roa |
+| **Organización Co-Anfitriona** | Red de las Américas y el Caribe de Mujeres para la RRD, UNDRR y ONU Mujeres |
+| **Contacto principal Co-Anfitriona** | Giovanna P. Osorio Ospina |
+| **Suplente Co-Anfitriona** | Aline Marsicano / Paola Sanabria |
+| **Punto Focal UNGRD** | Fernanda Otero |
+:::
+
+<style>
+#tabla-la04-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-la04-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-la04-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Laboratorio de aprendizaje. Dos momentos: (1) socialización de experiencias y aprendizajes del Bootcamp en Inteligencia Artificial y Feminismo de Datos; (2) conversación participativa para construir una ruta preliminar de institucionalización del enfoque de género en la UNGRD. |
+| Objetivo(s) | **General:** Visibilizar aprendizajes y herramientas surgidas del bootcamp en IA y feminismo de datos, y traducirlos en recomendaciones concretas para fortalecer la incorporación del enfoque de género, interseccional, territorial y de paz en la GRD en Colombia, alineado con el Plan de Acción de Género del Marco de Sendai. <br><br> **Específicos:** (1) Compartir experiencias prácticas del bootcamp sobre cómo los datos, la IA y el feminismo de datos pueden contribuir a una GRD más inclusiva. (2) Construir participativamente una ruta preliminar de institucionalización para la UNGRD. (3) Articular estas recomendaciones con el Plan de Acción de Género del Marco de Sendai (Sendai GAP), prioridades 1 y 4. |
+| Resultado(s) medible(s) | Socialización de al menos 2–3 aprendizajes/casos prácticos derivados del Bootcamp relacionados con las prioridades 1 y 4. Construcción participativa de una matriz o ruta con recomendaciones priorizadas con alineación explícita al Sendai GAP. Identificación de actores clave para la institucionalización del enfoque. |
+| Descripción general | El laboratorio se desarrolla en dos momentos. En el primero se comparten experiencias del Bootcamp en Inteligencia Artificial y Feminismo de Datos, resaltando su aporte al fortalecimiento de capacidades de organizaciones de sociedad civil en GRD y producción de conocimiento con enfoque de género. En el segundo momento se desarrolla una conversación participativa para construir una ruta preliminar de institucionalización de este enfoque en la UNGRD. La sesión integra el marco del sello de los 10 años del Acuerdo de Paz, promoviendo reflexión sobre cómo los conflictos y desigualdades territoriales generan riesgos adicionales para mujeres, pueblos indígenas y comunidades afrodescendientes. |
+| Enfoque(s) y eje(s) transversal(es) | **Enfoque A — Comunidades de aprendizaje y participación.** <br> **Eje — Ciencia, tecnología e innovación:** datos, modelación, inteligencia artificial, innovación social y herramientas digitales. |
+| Preguntas | ¿Qué aprendizajes del PND 2022–2026 deben capitalizarse y qué ajustes se proponen para orientar el camino 2027–2031 en GRD? |
+| Conferencistas y/o facilitadores | Erika Ramírez — GIZ <br> Giovanna P. Osorio — Red LAC Mujeres RRD <br> Alejandra Barragán — GIZ <br> Sofía Roa — GIZ <br> Juliana Galvis — Datasketch <br> Ana Henao — Datasketch <br> Sandra Bernal — UNGRD |
+:::
+
+## Diapositivas de la sesión
+
+*Diapositivas no disponibles.*

@@ -1,0 +1,47 @@
+---
+title: "Los Animales en la Gestión del Riesgo de Desastres"
+---
+
+## Nota conceptual
+
+:::{#tabla-se06-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Los Animales en la Gestión del Riesgo de Desastres |
+| **Organización anfitriona** | Unidad Nacional para la Gestión del Riesgo de Desastres |
+| **Contacto principal** | Naydú Pineda González |
+| **Suplente** | Javier Medina · Dexy Montejo |
+| **Organización Co-Anfitriona** | N/A |
+| **Contacto principal** | N/A |
+| **Suplente** | N/A |
+| **Punto Focal UNGRD** | Naydú Pineda · Javier Medina · Dexy Montejo |
+:::
+
+<style>
+#tabla-se06-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-se06-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-se06-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Panel y juego didáctico. Panel con invitados de entidades del gobierno y entidades operativas del SNGRD, orientado por preguntas sobre la inclusión de los animales en la Política Nacional para la GRD. Seguido por un juego didáctico en el que los participantes se encontrarán con animales de los diferentes grupos (compañía, producción y silvestres) en diferentes escenarios: (1) Fauna silvestre expuesta a incendios; (2) Animales de producción atrapados en inundación; (3) Animales de producción expuestos a ceniza volcánica; (4) Animales de compañía durante un sismo; (5) Cadáveres de animales de producción. Los participantes seleccionan la acción de respuesta a desarrollar en las matrices de acciones de respuesta impresas e instaladas en el espacio. |
+| Objetivo(s) | 1. Socializar e impulsar la apropiación de los 2 nuevos principios que aporta la Ley 2474 de 2025 sobre la Política Nacional para la GRD en relación con los animales. <br><br> 2. Socializar el Protocolo de Atención para los Animales en Situaciones de Emergencia y los avances de la UNGRD en la inclusión de los animales en la Política Nacional de GRD. <br><br> 3. Dar a conocer las acciones de respuesta que deben brindar las entidades para atender a los diferentes grupos de animales. <br><br> 4. Inculcar el rol de los custodios de los animales en el marco de las situaciones de emergencia. |
+| Resultado(s) medible(s) | Material para un juego didáctico y encuesta final. |
+| Descripción general | Se propone la realización de un panel en el que se discuta acerca de la inclusión de los animales en la Política Nacional para la Gestión del Riesgo de Desastres, con invitados de las entidades del gobierno y entidades operativas del SNGRD, con base en preguntas orientadoras. Seguido por un juego didáctico en que los participantes se encontrarán con animales de los diferentes grupos en diferentes escenarios de emergencia y deberán seleccionar la acción de respuesta correcta de las matrices de acciones de respuesta. |
+| Enfoque(s) y eje(s) transversal(es) | **Eje transversal:** Ciencia, tecnología e innovación: datos, modelación, inteligencia artificial, innovación social y herramientas digitales. |
+| Preguntas | ¿Por qué fue necesario incluir de manera explícita a los animales en la gestión del riesgo de desastres en Colombia? ¿Cuál es el alcance de esta norma? <br> ¿Cómo se deben preparar los municipios y departamentos para proteger a los animales durante las emergencias? <br> ¿Qué lineamientos clave establece el Protocolo de Atención para los Animales en Situaciones de Emergencia y cómo se aplica en el territorio? <br> ¿Qué papel cumplen las comunidades en esta nueva visión de la gestión del riesgo de desastres? |
+| Conferencistas y/o facilitadores | |
+:::
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/19GcdVDNMWa9KbLOfnB3WDE1ps7ri8IY-/preview" width="100%" height="480" allowfullscreen>
+
+</iframe>

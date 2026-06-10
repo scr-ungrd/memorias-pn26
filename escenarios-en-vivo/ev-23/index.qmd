@@ -1,0 +1,46 @@
+---
+title: "De la socialización a la apropiación: innovación institucional para activar la gobernanza del riesgo en el marco del Decreto 2157"
+author:
+- name: Adriana L. Correa Arango
+  affiliations:
+    - name: Corporación Centro de Ciencia y Tecnología de Antioquia, Medellín, Colombia
+  corresponding: true
+  email: alcorreaa@cta.org.co
+- name: Sandra P. Castro Madrid
+  affiliations:
+    - name: Corporación Centro de Ciencia y Tecnología de Antioquia, Medellín, Colombia
+- name: Freddy A. Vahos Arias
+  affiliations:
+    - name: Corporación Centro de Ciencia y Tecnología de Antioquia, Medellín, Colombia
+- name: Juan F. Figueroa Alzate
+  affiliations:
+    - name: Corporación Centro de Ciencia y Tecnología de Antioquia, Medellín, Colombia
+- name: John E. Gómez Torres
+  affiliations:
+    - name: Corporación Centro de Ciencia y Tecnología de Antioquia, Medellín, Colombia
+- name: Johanna Flórez Chacón
+  affiliations:
+    - name: Corporación Centro de Ciencia y Tecnología de Antioquia, Medellín, Colombia
+keywords:
+- Gestión del riesgo de desastres
+- Gobernanza del riesgo
+- Planificación de la gestión del riesgo de desastres
+- Socialización Expandida para la gestión del riesgo
+- Innovación institucional
+abstract: |
+  La Gestión del Riesgo de Desastres (GRD) en Colombia ha avanzado en su desarrollo normativo, particularmente con la implementación del Decreto 2157 de 2017, que adopta directrices para la elaboración de los Planes de GRD de las entidades públicas y privadas, como instrumento clave de planificación territorial. No obstante, persiste una brecha entre su elaboración técnica y su apropiación efectiva en los territorios. En la práctica, la socialización suele limitarse a informar, sin activar capacidades ni generar decisiones articuladas en los Consejos Municipales de Gestión del Riesgo de Desastres (CMGRD).
+
+  La ponencia propone transformar la socialización en un proceso estratégico de apropiación y articulación territorial, fortaleciendo la gobernanza y la corresponsabilidad entre actores institucionales, comunitarios y sectoriales. La metodología se basa en el modelo de "Socialización Expandida para la Gobernanza del Riesgo (SEGR)", que plantea tres niveles: comprensión, interiorización y corresponsabilidad. Incluye estrategias de traducción del lenguaje técnico, construcción participativa de escenarios y generación de espacios deliberativos que promueven decisiones informadas.
+
+  Como caso aplicado, se presenta la experiencia desarrollada con ISAGEN y la Corporación Centro de Ciencia y Tecnología de Antioquia en municipios del área de influencia de centrales hidroeléctricas. Los resultados evidencian mayor capacidad para interpretar el riesgo, incremento en la participación efectiva, mejor integración de la GRD en la planeación local y fortalecimiento de la confianza entre actores.
+
+  Se concluye que la innovación institucional radica en la apropiación y uso de los instrumentos. Se recomienda fortalecer la socialización como espacio de construcción colectiva e incorporar metodologías participativas que articulen gestión del riesgo y ordenamiento territorial, consolidando una gobernanza basada en la corresponsabilidad.
+categories:
+- Planeación y ordenamiento que incorpora la GRD
+---
+
+**Perfil quién presenta el trabajo:** Médica y cirujana de la Universidad Pontificia Bolivariana de Medellín, Magíster en Análisis y Gestión de Emergencias y Desastres de la Universidad de Oviedo en España, con amplia experiencia en gestión del riesgo, planeación territorial participativa y fortalecimiento de capacidades locales. Trayectoria docente e investigativa en salud pública y gestión del riesgo, experta en metodologías innovadoras de enseñanza, simulación y uso de herramientas para la toma de decisiones. Líder de proyectos de investigación operativa y procesos de apropiación social del conocimiento, diagnóstico comunitario y articulación institucional. Vinculada a la Cruz Roja Colombiana desde 1997.
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1dAUEv_S0fKnTLXtyIWzHHvZ5W2CdwROE/preview" width="100%" height="480" allowfullscreen></iframe>

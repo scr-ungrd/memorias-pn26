@@ -1,0 +1,41 @@
+---
+title: "Sesión paralela 15. Towards 'Caribbean Sea Resilience Framework Initiative' through advancing investment in Disaster Risk Reduction"
+---
+
+## Nota conceptual
+
+:::{#tabla-sp15-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Towards "Caribbean Sea Resilience Framework Initiative" through advancing investment in Disaster Risk Reduction |
+| **Organización anfitriona** | Japan International Cooperation Agency (JICA) |
+| **Contacto principal** | Angela Lizarazo |
+| **Suplente** |  |
+| **Organización Co-Anfitriona** | Caribbean Disaster Emergency Management Agency (CDEMA) |
+| **Contacto principal** | Naoki Matsumura |
+| **Suplente** |  |
+| **Punto Focal UNGRD** | Francisco Luque |
+:::
+
+<style>
+#tabla-sp15-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-sp15-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-sp15-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Panel de alto nivel con presentación magistral (High Level Panel Discussion with Keynote Presentation). |
+| Objetivo(s) | 1. Discutir los desafíos de la región Caribe en materia de reducción del riesgo de desastres y resiliencia. <br><br> 2. Explorar las iniciativas necesarias para mejorar las capacidades de inversión en RRD y avanzar hacia un marco de resiliencia para el Mar Caribe ("Caribbean Sea Resilience Framework"). <br><br> 3. Identificar oportunidades de cooperación Sur-Sur y Triangular para acelerar los esfuerzos de reducción del riesgo de desastres. <br><br> 4. Promover las prioridades del Marco de Sendai, en particular la importancia de la inversión pre-desastre y las iniciativas proactivas de RRD. |
+| Resultado(s) medible(s) | La sesión ofrecerá una dirección concreta de política sobre la "Caribbean Sea Resilience Framework Initiative" y una estrategia de cooperación para alcanzar el Marco de Sendai hacia 2030. |
+| Descripción general | Más de 30 países bordean el Mar Caribe, incluida Colombia. La región es especialmente vulnerable a diversas amenazas, y los riesgos han ido aumentando por los efectos del cambio climático. El Gobierno de Colombia ha promovido la cooperación con la región Caribe, y en octubre de 2025 se lanzó un proyecto de cooperación triangular con JICA para la Protección de Arrecifes de Coral y la Gestión del Riesgo de Desastres. <br><br> JICA propone establecer un marco de RRD y resiliencia que abarque todo el Mar Caribe. La sesión reunirá a expertos de América Latina y el Caribe para discutir los desafíos regionales y las futuras direcciones hacia el logro del Marco de Sendai para la Reducción del Riesgo de Desastres. El panel se alinea con la Prioridad 3 del Marco de Sendai, que promueve la inversión proactiva en reducción del riesgo de desastres. |
+| Enfoque(s) y Eje(s) transversal(es) | Desarrollo de capacidades. Coordinación multisectorial. Adaptación al cambio climático. Gobernanza y fortalecimiento institucional. Cooperación Sur-Sur y Triangular. |
+| Preguntas | ¿Qué tipo de marco de cooperación internacional/regional y qué estrategia son necesarios para superar los desafíos recientes de reducción del riesgo de desastres y construir resiliencia de manera más efectiva en la región? |
+| Conferencistas y/o facilitadores | **Moderadora:** Ms. Haruna Mori — Program in Charge para la región Caribe, Oficina JICA República Dominicana <br><br> **Presentación:** Mr. Naoki Matsumura — Asesor Regional de Políticas de RRD de JICA ante CDEMA <br><br> **Panelistas:** Carlos Carrillo Arenas — Director General UNGRD, Colombia · Nahuel Arenas — Deputy Chief Oficina Regional para las Américas y el Caribe, UNDRR · Naoki Matsumura — Asesor Regional JICA/CDEMA |
+:::

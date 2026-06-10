@@ -1,0 +1,32 @@
+---
+title: "Una experiencia integrada de gestión del riesgo: tecnología + comunidad + institucionalidad"
+author:
+- name: Andrés López Rosada
+  affiliations:
+    - name: Corporación Autónoma Regional del Valle del Cauca (CVC), Cali, Colombia
+  corresponding: true
+- name: Iván F. Otalvaro Calle
+  affiliations:
+    - name: Pontificia Universidad Javeriana, Cali, Colombia
+- name: Sandra L. Galarza Molina
+  affiliations:
+    - name: Pontificia Universidad Javeriana, Cali, Colombia
+- name: Juan C. Paz Roa
+  affiliations:
+    - name: Pontificia Universidad Javeriana, Cali, Colombia
+keywords:
+- Avenidas torrenciales
+- Control de torrentes
+- Inteligencia artificial
+abstract: |
+  Las avenidas torrenciales constituyen uno de los fenómenos hidrometeorológicos más destructivos en regiones de montaña, debido a su alta capacidad de arrastre, velocidad y carga de sedimentos. A pesar de su potencial de impacto sobre infraestructura, ecosistemas y comunidades, su gestión ha recibido históricamente menor atención en comparación con otros riesgos como los sismos, particularmente en términos de monitoreo, modelación y preparación comunitaria. Este trabajo se sitúa en el municipio de Guadalajara de Buga, donde la cuenca del río Guadalajara presenta condiciones geomorfológicas propicias para la ocurrencia de avenidas torrenciales. La interacción entre el fenómeno natural y la expansión urbana sobre zonas de protección hídrica incrementa la vulnerabilidad del territorio, en un contexto donde Buga cumple un papel estratégico como nodo urbano, económico y social en la región.
+
+  En este contexto, se presenta un proyecto de cooperación academia–autoridad ambiental orientado a la identificación y priorización de alternativas de mitigación, incluyendo soluciones convencionales, intervenciones en cuenca y enfoques basados en la naturaleza, evaluadas mediante análisis multicriterio. El proyecto integra el diseño conceptual de un modelo de inteligencia artificial para la simulación y predicción hidrometeorológica, el planteamiento de un complemento automatizado para el sistema de alertas tempranas y la caracterización social e institucional del territorio. En conjunto, los resultados se presentan como diseños conceptuales, prototipos y caracterizaciones integradas que evidencian la viabilidad de articular la evaluación de alternativas de mitigación con herramientas de analítica avanzada y procesos participativos.
+
+  La experiencia resalta que la gestión efectiva del riesgo frente a avenidas torrenciales requiere no solo soluciones estructurales, sino la integración de tecnología, institucionalidad y comunidad para avanzar hacia enfoques más preventivos y adaptativos. Finalmente, se identifica la necesidad de transitar de una gestión reactiva hacia una cultura preventiva, donde la educación, la articulación institucional y el ordenamiento territorial constituyan pilares fundamentales para la reducción sostenible del riesgo.
+categories:
+- Preparación y recuperación oportuna
+- Datos, modelación, IA, innovación social y herramientas digitales
+---
+
+**Perfil quién presenta el trabajo:** Andrés López Rosada es Ingeniero Agrícola, Especialista en Ingeniería de Recursos Hídricos. Profesional Especializado del Grupo de Gestión del Riesgo y Cambio Climático de la Corporación Autónoma Regional del Valle del Cauca – CVC. Con más de 15 años de experiencia profesional en evaluación y valoración de estudios hidrológicos e hidráulicos, gestión del riesgo y planificación territorial.

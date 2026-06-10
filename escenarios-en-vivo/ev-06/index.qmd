@@ -1,0 +1,31 @@
+---
+title: "AmbientAcción Juvenil: contribuciones de un proyecto de cooperación internacional"
+author:
+- name: Giovanna Andrade de Oliveira
+  affiliations:
+    - name: Universidad Metropolitana, Barranquilla, Brasil
+  corresponding: true
+  email: proyectonorec@unimetro.edu.co
+- name: Maryenis Galván Potes
+  affiliations:
+    - name: Universidad Metropolitana, Barranquilla, Colombia
+keywords:
+- Resiliencia comunitaria
+- Cooperación internacional
+- Efectos del clima
+- Educación en salud ambiental
+abstract: |
+  La zona costera del departamento del Atlántico se caracteriza por su bioma de bosque seco tropical, lo que hace que presente altas temperaturas, bajas precipitaciones y prolongados períodos de sequía. Por su parte, durante las temporadas de lluvias, la región enfrenta dificultades en la gestión del agua debido a la insuficiente infraestructura de drenaje. En municipios como Tubará, Juan de Acosta y Piojó, es posible observar la incidencia de fenómenos como inundaciones, sequías y deslizamientos de tierra.
+
+  El objetivo del programa de extensión "Ambientacción", promovido por el proyecto de cooperación internacional "Fortalecimiento de capacidades para la resiliencia local", desarrollado en alianza por la Universidad Metropolitana (Colombia) y la Universidad de São Caetano do Sul (Brasil), con financiación de la Agencia de Cooperación para el Intercambio (Noruega), es fortalecer las capacidades de respuesta comunitaria ante los efectos climáticos extremos a través de la enseñanza y la construcción de resiliencia. Con un enfoque modular y en colaboración con escuelas fijas ubicadas en los municipios citados, el proyecto lleva tres años en marcha y mantiene su metodología basada en actividades prácticas, lúdicas y artísticas con temáticas que van desde el reconocimiento del territorio y sus riesgos climáticos, hasta sus impactos físicos y mentales y cómo responder ante estas situaciones.
+
+  Los resultados de este programa se traducen en el fortalecimiento de habilidades como el trabajo colaborativo y la resolución de problemas, la apropiación de conocimientos prácticos aplicables al contexto local y una mayor participación juvenil en las actividades relacionadas con el medio ambiente y la resiliencia local. El desarrollo de espacios de formación participativa sobre el cambio climático, la resiliencia comunitaria, la salud y la gestión de riesgos es esencial para el fortalecimiento de las capacidades locales que hacen que una comunidad esté mejor preparada frente a los retos y riesgos del cambio climático.
+categories:
+- Comunidades de aprendizaje y participación
+---
+
+**Perfil quién presenta el trabajo:** Maryenis Galván Potes: Psicóloga, especialista en Desarrollo Familiar, magíster en Educación, docente del Programa de Psicología, coordinadora del proyecto de Cooperación Internacional Fortalecimiento de Capacidades para la Resiliencia Local. Docente de la Secretaria de Educación del Departamento del Atlántico.
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/10M4xuFIBisLsIMtQvlNgKwFN_EINtQOU/preview" width="100%" height="480" allowfullscreen></iframe>

@@ -1,0 +1,25 @@
+---
+title: Repensando la inclusión de los grupos étnicos en el financiamiento y los seguros contra riesgos de desastre en Colombia
+author:
+- name: Cristian Camilo Fernández Lopera
+  affiliations:
+    - name: Observatorio del Riesgo (OSIRIS), Centro de Estudios Sociales, Universidad de Coimbra, Coimbra, Portugal
+  corresponding: true
+  email: ccfernandez@ces.uc.pt
+keywords:
+- Cambio climático
+- Protección financiera contra riesgos de desastre
+- Gestión de riesgos de desastre
+- Inclusión social
+- Grupos étnicos
+abstract: |
+  Examinamos las necesidades de los actores comunitarios y las estrategias de adaptación en relación con el financiamiento y los seguros contra riesgos de desastre en Colombia. Mediante entrevistas semiestructuradas y análisis cualitativo, se identificaron barreras estructurales, como la falta de conocimiento sobre el tema y la débil coordinación intersectorial para implementar acciones a nivel local. A pesar de esto, los actores comunitarios de grupos indígenas expresaron interés en implementar mecanismos inclusivos de financiamiento y seguros contra riesgos de desastre, adaptados a su entorno cultural y natural. Los grupos indígenas valoraron particularmente la posibilidad de transferencia de riesgos con compensación en especie y la creación de "fondos de riesgo" regionales para reducir los impactos económicos de las amenazas relacionadas con el clima. Las comunidades manifestaron su disposición a participar en esquemas de seguros climáticos si se respetan su cultura y autonomía dentro del marco de la justicia climática. Para promover la inclusión de los grupos étnicos en el financiamiento y los seguros contra riesgos de desastre, recomendamos fortalecer la coordinación intersectorial, adaptar las herramientas de planificación de la gestión del riesgo de desastre y la protección financiera a las capacidades locales y establecer estrategias de comunicación participativas. Indicamos que la investigación futura debería orientarse a mejorar los mecanismos logísticos, reducir la dependencia de la ayuda estatal y minimizar la dependencia de los pagos de seguros.
+categories:
+- Territorialización y financiamiento de la GRD
+---
+
+**Perfil quién presenta el trabajo:** Cristian Camilo Fernández es investigador en temas de análisis de riesgos, gestión del riesgo de desastres y protección financiera, es magister en Gestión del Riesgos Climáticos y doctor en Financiamiento del Riesgo y Políticas Públicas. Cuenta con 12 años de experiencia específica, trabajando en análisis interseccionales de vulnerabilidad a desastres que incluyen género y etnicidad. Ha trabajado en los sectores multilateral, público, privado y académico en Asia Central, Europa y Sudamérica.
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1bdKUOdGpbFFISZ-GBebn0Jqyn3QqVPVx/preview" width="100%" height="480" allowfullscreen></iframe>

@@ -1,0 +1,47 @@
+---
+title: "Ancestralidad que protege: voces afrocolombianas, raizales y palenqueras para la resiliencia territorial"
+---
+
+## Nota conceptual
+
+:::{#tabla-se10-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Ancestralidad que protege: voces afrocolombianas, raizales y palenqueras para la resiliencia territorial |
+| **Organización anfitriona** | UNDRR |
+| **Contacto principal** | Beatriz García Pozuelo |
+| **Suplente** | Arlez Enrique Romaña Martinez — arlez.romana@gestiondelriesgo.gov.co |
+| **Organización Co-Anfitriona** | UNGRD |
+| **Contacto principal** | Luis Oswaldo Martelo Ortiz — luis.martelo@gestiondelriesgo.gov.co |
+| **Suplente** | Arminda Isabel Lang Mosquera — arminda.lang@gestiondelriesgo.gov.co |
+| **Punto Focal UNGRD** | Alberto Granés Maya |
+:::
+
+<style>
+#tabla-se10-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-se10-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-se10-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Conversatorio técnico-participativo entre representantes de la UNGRD y delegados de las comunidades Negras, Afrocolombianas, Raizales y Palenqueras, orientado al fortalecimiento del diálogo intercultural y la articulación de conocimientos. Ejes orientadores: (1) Diálogo de saberes — reconocimiento en igualdad de condiciones del conocimiento técnico-institucional y los saberes ancestrales y comunitarios; (2) Gestión del riesgo con enfoque diferencial étnico; (3) Participación comunitaria — construcción colectiva donde las comunidades son reconocidas como actores fundamentales. Actores: comunidades negras, pueblo raizal, comunidades palenqueras y profesionales de la UNGRD. La sesión incorpora además una muestra cultural como espacio pedagógico, simbólico y de construcción de memoria colectiva, reconociendo música, oralidad, cantos tradicionales, tambores, prácticas espirituales y manifestaciones artísticas como herramientas de comunicación comunitaria y transmisión intergeneracional de saberes. |
+| Objetivo(s) | Propiciar un espacio de diálogo intercultural e intercambio de conocimientos entre las comunidades Negras, Afrocolombianas, Raizales y Palenqueras y la Plataforma Nacional, orientado al reconocimiento, fortalecimiento e incorporación de los saberes ancestrales, territoriales y comunitarios en los procesos de conocimiento del riesgo, reducción del riesgo de desastres y fortalecimiento de la resiliencia territorial en sus comunidades. |
+| Resultado(s) medible(s) | |
+| Descripción general | La sesión busca generar recomendaciones concretas para la plataforma nacional a través de la participación de comunidades Negras, Afrocolombianas, Raizales y Palenqueras. Se reconoce cómo la música, la oralidad, los cantos tradicionales, los tambores, las prácticas espirituales y las manifestaciones artísticas han constituido herramientas fundamentales para la comunicación comunitaria, la difusión de alertas, la preservación de la memoria histórica de eventos adversos, la transferencia intergeneracional de saberes y el fortalecimiento de las capacidades organizativas y de respuesta comunitaria en contextos de emergencia, adaptación y transformación territorial. |
+| Enfoque(s) y eje(s) transversal(es) | |
+| Preguntas | |
+| Conferencistas y/o facilitadores | |
+:::
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1CL6jLMuSUGWrdpbJPz1PE8z5GQ2oVlZv/preview" width="100%" height="480" allowfullscreen>
+
+</iframe>

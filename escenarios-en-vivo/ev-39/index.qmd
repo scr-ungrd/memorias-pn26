@@ -1,0 +1,35 @@
+---
+title: Sistemas de alerta temprana e inteligencia artificial para la gestión del riesgo de incendios forestales en Colombia
+author:
+- name: Alejandro Casallas Garcia
+  affiliations:
+    - name: Universidad Sergio Arboleda, Instituto de Estudios y Servicios Ambientales (IDEASA), Bogotá, Colombia
+  corresponding: true
+  email: alejandro.casallas@correo.usa.edu.co
+- name: Ellie Anne Lopez-Barrera
+  affiliations:
+    - name: Universidad Sergio Arboleda, Instituto de Estudios y Servicios Ambientales (IDEASA), Bogotá, Colombia
+keywords:
+- Sistemas de alerta temprana
+- Incendios forestales
+- Calidad del aire
+- Aprendizaje automático
+- Gestión del riesgo de desastres
+abstract: |
+  Los incendios forestales y la contaminación atmosférica representan amenazas críticas para los ecosistemas, la salud pública y el bienestar socioeconómico en Colombia y la región amazónica. En este contexto, los tres estudios presentados abordan el diseño e implementación de sistemas de alerta temprana (SAT) basados en técnicas de inteligencia artificial y aprendizaje automático (ML), orientados a la gestión del riesgo de desastres en diferentes territorios colombianos.
+
+  El primer estudio construye un SAT para incendios forestales en Cundinamarca y Magdalena integrando dos modelos de ML: una red neuronal convolucional 3D (3D-CNN) que estima condiciones meteorológicas a partir de datos satelitales, y una red convolucional de corrección de sesgo del modelo WRF. Sus resultados permiten calcular el Índice Meteorológico de Incendio (FWI) diario y, combinados con un clasificador Naïve-Bayes sobre cobertura del suelo, estiman la probabilidad de ocurrencia de incendios 24 horas antes del evento. La integración de la vulnerabilidad ecológica y socioeconómica permite generar mapas de riesgo diario y formular medidas preventivas para autoridades territoriales.
+
+  El segundo estudio analiza la dinámica territorial en Cartagena del Chairá, Amazonía colombiana, identificando la interacción entre factores meteorológicos, cobertura del suelo y condiciones socioeconómicas —particularmente el índice de Gini, bajo nivel educativo y desplazamiento por grupos armados— como los principales impulsores de la susceptibilidad a incendios. Mediante escenarios climáticos futuros y análisis de sensibilidad con ML, el estudio demuestra que el calentamiento proyectado podría generar condiciones propicias para incendios durante todo el año.
+
+  El tercer estudio diseña un SAT para calidad del aire (PM2.5) en Bogotá, combinando un modelo estocástico con una red neuronal recurrente bidireccional convolucional (1D-BDLM), logrando una precisión del 93 ± 4 % en la predicción del riesgo por grupos poblacionales con 24 horas de anticipación. En conjunto, estos estudios demuestran que la integración de ML, datos satelitales, modelos meteorológicos y análisis socioeconómico constituye un enfoque robusto y replicable para el fortalecimiento de la gestión territorial del riesgo de desastres en Colombia.
+categories:
+- Preparación y recuperación oportuna
+- Datos, modelación, IA, innovación social y herramientas digitales
+---
+
+**Perfil quién presenta el trabajo:** Ellie Anne López-Barrera es PhD en Ciencias Ambientales, investigadora principal del Grupo IDEASA-Medio Ambiente y Sostenibilidad (A1, MinCiencias), adscrito a la Universidad Sergio Arboleda. Su trabajo se centra en el análisis ambiental aplicado, la gestión del riesgo de desastres y el uso de herramientas de inteligencia artificial para el estudio de amenazas como incendios forestales, contaminación del aire y eventos hidrometeorológicos extremos. Ha liderado proyectos financiados por MinCiencias y CYTED en Colombia e Iberoamérica, con publicaciones en revistas Q1 y participación en redes internacionales de investigación ambiental.
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/142OznxC1uClNo_OUb3CyF5-X9vocKKCO/preview" width="100%" height="480" allowfullscreen></iframe>

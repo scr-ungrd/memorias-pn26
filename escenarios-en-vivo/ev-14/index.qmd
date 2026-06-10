@@ -1,0 +1,51 @@
+---
+title: "Escuelas Rurales Seguras: Modelo de apropiación social y herramientas tecnológicas para la gestión del riesgo en Antioquia"
+author:
+- name: Carlos A. Blandón U.
+  affiliations:
+    - name: Universidad EIA, Envigado, Colombia
+  corresponding: true
+  email: carlos.blandon@eia.edu.co
+- name: Ricardo L. Bonett D.
+  affiliations:
+    - name: Universidad de Medellín, Colombia
+- name: John Jairo Gallego
+  affiliations:
+    - name: Universidad de Barcelona, España
+- name: Albeiro Rendón
+  affiliations:
+    - name: Universidad Nacional, Medellín, Colombia
+- name: Dirsa M. Feliciano
+  affiliations:
+    - name: Universidad EIA, Envigado, Colombia
+- name: Sandra M. Palacio
+  affiliations:
+    - name: Universidad de Medellín, Colombia
+- name: Johana Ramirez
+  affiliations:
+    - name: Universidad de Medellín, Colombia
+- name: Savvas Saloustros
+  affiliations:
+    - name: Ecole Polytechnique de Lausanne (EPFL), Lausanne, Suiza
+keywords:
+- Vulnerabilidad multiamenaza
+- Proceso de Jerarquía Analítica
+- Mampostería no reforzada
+- Diálogo de saberes
+- Participación comunitaria
+abstract: |
+  En Colombia, la alta vulnerabilidad de la infraestructura educativa rural frente a amenazas naturales como sismos, inundaciones, deslizamientos y vendavales representa un desafío crítico para la seguridad y la continuidad académica. La falta de datos actualizados en territorios de difícil acceso genera una brecha significativa entre la información científica y la capacidad de respuesta local. Este trabajo presenta un marco tecnológico integrado para la recuperación de información y evaluación rápida de la vulnerabilidad multiamenaza, orientado a fortalecer la resiliencia mediante la apropiación social del conocimiento. El núcleo del proyecto es la herramienta móvil "Escuelas Rurales Seguras", cuya funcionalidad fue validada mediante un exhaustivo trabajo de campo en más de 20 municipios de Antioquia, donde se recolectó información técnica de más de 100 instituciones educativas.
+
+  La metodología integra procesos de ciencia ciudadana con el Proceso de Jerarquía Analítica (AHP) y modelos de aprendizaje automático para clasificar niveles de riesgo regional. Un componente esencial de esta intervención fue la participación directa de más de 40 docentes y 50 niños, para quienes se diseñaron herramientas pedagógicas específicas, tales como cartillas y juegos didácticos, con el fin de lograr un impacto profundo en la percepción cultural del riesgo. De manera complementaria, el marco incluye soluciones físicas sostenibles como el refuerzo estructural con guadua y bioingeniería para taludes.
+
+  Los resultados demuestran que la plataforma permite una categorización eficiente y masiva de la vulnerabilidad, validando su eficacia en zonas con limitaciones de conectividad. Los hallazgos resaltan que el acompañamiento lúdico y el levantamiento participativo de datos no solo agilizan el diagnóstico de la infraestructura, sino que actúan como una estrategia de sensibilización que transforma el conocimiento técnico en acciones de autoprotección. Se concluye que el uso de herramientas digitales, respaldado por un trabajo comunitario sólido y herramientas de formación adaptadas, es fundamental para democratizar el acceso a la información especializada.
+categories:
+- Comunidades de aprendizaje y participación
+- Datos, modelación, IA, innovación social y herramientas digitales
+---
+
+**Perfil quién presenta el trabajo:** Carlos Andrés Blandón es ingeniero civil, magister en ingeniería estructural de la Universidad de los Andes, con especialización en ingeniería sísmica en Japón y doctorado en ingeniería sísmica de la Universidad de Pavia en Italia; realizó investigación postdoctoral en la Universidad de California en San Diego. Tiene más de 25 años de experiencia en ingeniería estructural, con énfasis en estructuras de concreto, prefabricados, reducción de riesgos y monitoreo estructural. Es profesor de la Universidad EIA en Envigado, Antioquia.
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1Q0q26Fpt4fZ7LD5TwkJSXIXEFqUrR4lj/preview" width="100%" height="480" allowfullscreen></iframe>

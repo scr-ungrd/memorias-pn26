@@ -1,0 +1,45 @@
+---
+title: "Laboratorio de Aprendizaje 2. Innovación social para la participación en GRD"
+---
+
+## Nota conceptual
+
+:::{#tabla-la02-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Innovación social para la participación en GRD |
+| **Organización anfitriona** | UNGRD |
+| **Contacto principal** | Julián Camilo Arana |
+| **Suplente** | Jesica Alvarado / Juan Sebastián Espinoza |
+| **Organización Co-Anfitriona** | Instituto Distrital de Gestión de Riesgos y Cambio Climático (IDIGER) |
+| **Contacto principal Co-Anfitriona** | Claudia Elizabeth Rodríguez Ávila |
+| **Suplente Co-Anfitriona** | Nasly Salamanca |
+| **Punto Focal UNGRD** | Alberto Granés Maya |
+:::
+
+<style>
+#tabla-la02-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-la02-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-la02-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Laboratorio participativo con enfoque de aprendizaje colectivo. Cuatro momentos: activación inicial, contextualización y reflexión colectiva, construcción de propuestas por estaciones temáticas, y plenaria de priorización. |
+| Objetivo(s) | 1. Analizar los desafíos para la incorporación efectiva de la participación comunitaria y el enfoque diferencial en los mecanismos de UNGRD e IDIGER (planes comunitarios GRD, "Mujeres Resi-Scientes", Comedores Populares de Emergencia, Red Social de Gestión de Riesgos). <br><br> 2. Identificar prácticas territoriales que fortalezcan la articulación entre los mecanismos mencionados. <br><br> 3. Promover el intercambio de experiencias entre actores territoriales del SNGRD. <br><br> 4. Construir recomendaciones concretas para fortalecer la gobernanza participativa del riesgo en Colombia. |
+| Resultado(s) medible(s) | Matriz comparativa con desafíos, buenas prácticas y recomendaciones de política pública. Documento síntesis con al menos 5 recomendaciones accionables para fortalecimiento institucional y 5 prácticas replicables a nivel territorial. |
+| Descripción general | La sesión se inscribe en el marco de la PN26 como espacio de gobernanza participativa del riesgo, en coherencia con las prioridades 1 y 2 del Marco de Sendai. Incorpora elementos de laboratorios ciudadanos donde actores institucionales y comunitarios intercambian experiencias e identifican desafíos comunes. El laboratorio se desarrolla en cuatro momentos: (1) activación inicial con preguntas de entrada para identificar percepciones y tensiones sobre la participación comunitaria; (2) contextualización de los mecanismos de UNGRD e IDIGER; (3) rotación por estaciones temáticas para formular recomendaciones; (4) plenaria de priorización para consolidar hallazgos. La sesión incorpora enfoque diferencial (étnico, de género, territorial) en toda la convocatoria. |
+| Enfoque(s) y eje(s) transversal(es) | **Enfoque principal — Comunidades de aprendizaje y participación.** <br> **Enfoques complementarios:** Territorialización y financiamiento de la GRD; Planeación y ordenamiento que incorpora la GRD. |
+| Preguntas | ¿Cuáles son los principales obstáculos que limitan la participación comunitaria efectiva y la incorporación del enfoque diferencial en la GRD? <br> ¿Qué prácticas o estrategias territoriales han fortalecido la participación comunitaria y el enfoque diferencial? <br> ¿Qué recomendaciones concretas se proponen para fortalecer la participación en las políticas e instrumentos de GRD? |
+| Conferencistas y/o facilitadores | **Facilitación UNGRD:** Equipo del Grupo Articulador Social y Comunitario y Comedores Populares de Emergencia. <br> **Facilitación IDIGER:** Profesionales de las áreas de educación, investigación, participación comunitaria y gestión local. <br> **Dinamizadores:** Diego Julián Sánchez González · Martha Cecilia Guanga Olaya · Claudia Benavides Idarraga. |
+:::
+
+## Diapositivas de la sesión
+
+*Diapositivas no disponibles.*

@@ -1,0 +1,41 @@
+---
+title: "Sesión paralela 23. El Ejército Colombiano, pilar fundamental de la Gestión del Riesgo"
+---
+
+## Nota conceptual
+
+:::{#tabla-sp23-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | El Ejército Colombiano, pilar fundamental de la Gestión del Riesgo |
+| **Organización anfitriona** | Escuela de Ingenieros Militares (ESING) — Ejército Nacional de Colombia |
+| **Contacto principal** | Ing. Claudia Patricia Gómez Rendón — Asesora Programa MGRyD |
+| **Suplente** |  |
+| **Organización Co-Anfitriona** |  |
+| **Contacto principal** |  |
+| **Suplente** |  |
+| **Punto Focal UNGRD** |  |
+:::
+
+<style>
+#tabla-sp23-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-sp23-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-sp23-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Sesión paralela. Panel de discusión multisectorial con conferencistas del Ejército Nacional, academia militar y organismos de respuesta. |
+| Objetivo(s) | Analizar el papel estratégico del Ejército Nacional y de las fuerzas militares en el fortalecimiento del Sistema Nacional de Gestión del Riesgo de Desastres (SNGRD), destacando sus capacidades operativas, logísticas, académicas y de cooperación interinstitucional para la prevención, preparación, respuesta y recuperación ante emergencias y desastres en Colombia. |
+| Resultado(s) medible(s) | Informe de resultado del panel con conclusiones, recomendaciones y mensajes clave para el fortalecimiento del SNGRD. |
+| Descripción general | La sesión abordó la evolución del Ejército Nacional como actor fundamental dentro de la gestión del riesgo de desastres en Colombia, resaltando especialmente el trabajo de la Brigada de Atención y Prevención de Desastres (BRIAD) y de la Escuela de Ingenieros Militares (ESING). Se expusieron experiencias operativas en atención de emergencias relacionadas con incendios forestales, sequías, atención humanitaria en zonas de frontera y apoyo en territorios vulnerables como La Guajira y Norte de Santander. <br><br> Se destacó el papel de la academia militar en la formación especializada en gestión del riesgo, ingeniería militar y resiliencia climática, consolidándose como referente nacional y regional mediante programas de maestría, cooperación internacional y futuras apuestas doctorales orientadas a la investigación científica y tecnológica aplicada. <br><br> La discusión se enmarcó en la Ley 1523 de 2012 y el Marco de Sendai 2015–2030, particularmente en fortalecimiento de capacidades, gobernanza del riesgo, innovación tecnológica y preparación para la respuesta. |
+| Enfoque(s) y Eje(s) transversal(es) | **Enfoques:** Preparación y recuperación oportuna. Gobernanza del riesgo y fortalecimiento institucional. <br><br> **Ejes transversales:** Ciencia, tecnología e innovación: datos, modelación, inteligencia artificial. Adaptación al cambio climático y resiliencia territorial. |
+| Preguntas | ¿Cuáles son las capacidades operativas, logísticas y académicas del Ejército Nacional para la atención de emergencias y desastres en Colombia? <br> ¿Cómo fortalecer la articulación entre fuerzas militares, cuerpos de bomberos, academia y entidades del SNGRD para garantizar respuestas interoperables? <br> ¿De qué manera la modernización tecnológica y la modelación predictiva pueden mejorar la capacidad de respuesta ante escenarios de riesgo cada vez más complejos? |
+| Conferencistas y/o facilitadores | **Moderador:** Dr. Carlos Iván Márquez Pérez — Asesor Federación Nacional de Departamentos, Presidente Cruz Roja Colombiana Seccional Norte de Santander, Ex Director General UNGRD <br><br> **Conferencistas:** Coronel Wilson Martínez Escobar — Comandante BRIAD · Teniente Coronel Luis Alberto Reales Triana — Director ESING · Ing. Claudia Patricia Gómez Rendón — Asesora MGRyD, ESING · Dr. William Tovar Segura — Subdirector de Gestión del Riesgo, Bomberos Bogotá · Sgto. Viceprimero Francisco David Ramos Cuesta — Suboficial Gestión del Riesgo, COING |
+:::

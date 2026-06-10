@@ -1,0 +1,41 @@
+---
+title: "Sesión paralela 24. De la naturaleza al territorio: validación técnica de la Adaptación Basada en Ecosistemas (AbE) para su integración en la gestión del riesgo climático"
+---
+
+## Nota conceptual
+
+:::{#tabla-sp24-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | De la naturaleza al territorio: validación técnica de la Adaptación Basada en Ecosistemas (AbE) para su integración en la gestión del riesgo climático |
+| **Organización anfitriona** | Ministerio de Ambiente y Desarrollo Sostenible — Dirección de Cambio Climático y Gestión del Riesgo / Grupo de adaptación |
+| **Contacto principal** | Luis Alberto Guerra Vargas — Sandra Milena Rodríguez Pena, Profesional Especializado DCCGR |
+| **Suplente** | Suyapa Barón López — Paola Andrea Molina Suárez — María Fernanda López Romero |
+| **Organización Co-Anfitriona** |  |
+| **Contacto principal** |  |
+| **Suplente** |  |
+| **Punto Focal UNGRD** |  |
+:::
+
+<style>
+#tabla-sp24-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-sp24-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-sp24-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Sesión paralela 24. Charla magistral interactiva y participativa. Tres momentos: 1) Presentación magistral de la ruta de actualización de la Guía AbE con interacción digital (Mentimeter, QR, cuestionarios forms). 2) Trabajo en 5 grupos aplicando la Herramienta para Identificación, Clasificación y Organización de Medidas con Enfoque AbE. 3) Mural de resultados donde los participantes registran recomendaciones, sugerencias y experiencias. |
+| Objetivo(s) | Presentar los avances de la actualización de la guía de Adaptación Basada en Ecosistemas (AbE) para promover su integración y posicionamiento como herramienta fundamental en la gestión del riesgo climático, impulsando enfoques de adaptación al cambio climático a nivel nacional. |
+| Resultado(s) medible(s) | Validación técnica de criterios de implementación de AbE. Listado de Medidas AbE según situación de aplicación. Validación de criterios AbE. Batería de indicadores AbE. Documento síntesis de recomendaciones técnicas para la actualización de la guía AbE. |
+| Descripción general | La sesión presentará los avances en la actualización de la guía de Adaptación Basada en Ecosistemas (AbE), liderada por el Ministerio de Ambiente y Desarrollo Sostenible, destacando su posicionamiento como herramienta fundamental para la gestión del riesgo climático en Colombia. Se abordará su contribución a la integración de enfoques de adaptación al cambio climático en los procesos de planificación, reducción y manejo del riesgo de desastres. <br><br> La guía se articula con las prioridades del Marco de Sendai 2015–2030: comprensión del riesgo (Prioridad 1) mediante el uso del conocimiento ecosistémico; fortalecimiento de la gobernanza (Prioridad 2) al promover la articulación interinstitucional; inversión en resiliencia (Prioridad 3) al impulsar soluciones basadas en la naturaleza como alternativas costo-efectivas; y preparación y recuperación (Prioridad 4) al incorporar criterios de resiliencia ecosistémica. <br><br> En coherencia con el Plan Nacional de Adaptación al Cambio Climático (PNACC), la AbE aporta al cumplimiento de metas de adaptación, fortalecimiento de la resiliencia territorial y reducción de la vulnerabilidad frente a riesgos climáticos, promoviendo la integración de soluciones basadas en la naturaleza en instrumentos de planificación sectorial y territorial. |
+| Enfoque(s) y Eje(s) transversal(es) | **Enfoques:** Comunidades de aprendizaje y participación. Planeación y ordenamiento que incorpora la GRD. <br><br> **Eje transversal:** Adaptación al Cambio Climático desde el enfoque de Eco-Reducción (Eco-RRD). |
+| Preguntas | ¿Qué experiencias de AbE se han implementado en su territorio? <br> ¿Qué acciones de conservación, restauración o uso sostenible (AbE) con fines de adaptación se han implementado para enfrentar amenazas climáticas específicas en su región? <br> ¿Qué amenazas o impactos climáticos prioritarios afectan actualmente a su territorio? <br> ¿Qué medidas de AbE se han implementado y qué resultados concretos han generado en la gestión del riesgo o adaptación? <br> ¿Qué barreras u oportunidades principales han encontrado durante la implementación de estas medidas? <br> ¿Existen indicadores técnicos para el monitoreo y seguimiento de los resultados obtenidos? <br> ¿En alguno de los instrumentos de planificación territorial se han incorporado medidas AbE? ¿En cuáles instrumentos? ¿Cuáles medidas? |
+| Conferencistas y/o facilitadores | Sandra Milena Rodríguez — Profesional Especializado DCCGR, MinAmbiente <br> Suyapa Barón López — MinAmbiente <br> Paola Andrea Molina Suárez — MinAmbiente <br> María Fernanda López Romero — MinAmbiente |
+:::

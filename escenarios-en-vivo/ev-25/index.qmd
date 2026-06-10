@@ -1,0 +1,27 @@
+---
+title: Monitoreo comunitario del caño Rabón en Guaranda, Sucre (subregión La Mojana) para la generación de alertas tempranas frente a inundaciones del río Cauca
+author:
+- name: Argemiro Andrés Tuirán Jiménez
+  affiliations:
+    - name: Alcaldía de Guaranda, Sucre, Colombia
+  corresponding: true
+  email: gestionderiesgo@guaranda-sucre.gov.co
+keywords:
+- SAT
+- Mojana
+- Inundaciones
+- Rio Cauca
+- Comunidades
+abstract: |
+  El municipio de Guaranda, ubicado en la subregión de La Mojana, enfrenta inundaciones recurrentes asociadas al desbordamiento del río Cauca, lo que genera afectaciones en los medios de vida, la seguridad alimentaria y la infraestructura local. La ausencia de sistemas de monitoreo continuo a escala comunitaria ha limitado históricamente la capacidad de anticipación y respuesta oportuna frente a posibles eventos de ruptura en puntos críticos del sistema hídrico.
+
+  El objetivo de esta iniciativa ha sido fortalecer los mecanismos de alerta temprana mediante la implementación de un sistema comunitario de monitoreo hidrológico en el caño Rabón, que permita conocer de manera periódica el comportamiento de los niveles del río Cauca y mejorar la toma de decisiones en la gestión del riesgo de desastres.
+
+  La metodología se basa en un enfoque participativo que articula a la comunidad, representada por la Junta de Acción Comunal de Nueva Esperanza, con la Alcaldía Municipal de Guaranda. A través de la instalación de una estación limnimétrica, la comunidad realiza mediciones periódicas del nivel del agua, las cuales son reportadas a la Oficina de Gestión del Riesgo de Desastres. Esta información es analizada y comparada con los visores hidrológicos del IDEAM, permitiendo identificar variaciones significativas y posibles riesgos de rompimiento en puntos previamente caracterizados como críticos. A partir de este análisis, se generan alertas tempranas que son remitidas a la Gobernación de Sucre para la activación de las rutas de atención, y posteriormente reportadas a la Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD).
+
+  Como resultado, se ha fortalecido la capacidad de monitoreo local, mejorando los tiempos de respuesta ante eventos de creciente y facilitando la articulación interinstitucional. Asimismo, se ha promovido la apropiación comunitaria del conocimiento y la corresponsabilidad en la gestión del riesgo. Se concluye que la implementación de sistemas comunitarios de monitoreo hidrológico constituye una estrategia efectiva para la generación de alertas tempranas en territorios vulnerables. Se recomienda su fortalecimiento, sostenibilidad e integración en políticas públicas, así como su replicabilidad en otras zonas con condiciones similares.
+categories:
+- Preparación y recuperación oportuna
+---
+
+**Perfil quién presenta el trabajo:** Soy Biólogo con más de 4 años de experiencia en la gestión del riesgo de desastres específicamente en fenómenos de inundaciones lentas en la subregión de la mojana, actualmente me desempeño como coordinador de riesgo de desastres del municipio de Guaranda (Sucre) y hago parte de la RJRRD COL como Enlace Departamental de Sucre.

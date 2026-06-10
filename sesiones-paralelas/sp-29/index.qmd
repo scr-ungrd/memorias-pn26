@@ -1,0 +1,41 @@
+---
+title: "Sesión paralela 29. ¿Quién paga el riesgo? Financiamiento de la resiliencia en contextos de alta exposición a desastres"
+---
+
+## Nota conceptual
+
+:::{#tabla-sp29-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | ¿Quién paga el riesgo? Financiamiento de la resiliencia en contextos de alta exposición a desastres |
+| **Organización anfitriona** | UNDRR |
+| **Contacto principal** | Luis Bonilla |
+| **Suplente** | Mabel Marulanda |
+| **Organización Co-Anfitriona** |  |
+| **Contacto principal** |  |
+| **Suplente** |  |
+| **Punto Focal UNGRD** | José Luis Flórez |
+:::
+
+<style>
+#tabla-sp29-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-sp29-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-sp29-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Panel de discusión de alto nivel con formato moderado. Combina intervenciones de panelistas con preguntas guiadas en formato conversacional, orientado a generar reflexión estratégica y posicionar mensajes clave sobre el financiamiento de la inversión pública en reducción del riesgo de desastres y resiliencia. |
+| Objetivo(s) | 1. Analizar los principales desafíos en el financiamiento de la reducción del riesgo de desastres y la resiliencia en contextos de alto riesgo de desastres. <br><br> 2. Discutir el rol del financiamiento público y privado en la inversión en resiliencia. <br><br> 3. Identificar barreras estructurales que limitan la incorporación del riesgo en la inversión pública y privada. <br><br> 4. Posicionar recomendaciones clave para mejorar e incrementar el financiamiento de la resiliencia en sectores críticos. |
+| Resultado(s) medible(s) | Identificación de mensajes clave de política sobre financiamiento de la resiliencia. Generación de insumos para discusión regional sobre inversión pública y resiliencia. Sensibilización de actores clave sobre la importancia de marcos de financiamiento para la reducción del riesgo. Síntesis de ideas y recomendaciones surgidas del panel. |
+| Descripción general | El aumento en la frecuencia e intensidad de los desastres en América Latina y el Caribe plantea desafíos crecientes para la sostenibilidad de la inversión pública. La región enfrenta pérdidas económicas significativas asociadas principalmente a eventos hidrometeorológicos, lo que pone en evidencia la necesidad de fortalecer la resiliencia de la inversión pública y privada. <br><br> El financiamiento de la RRD se ha convertido en un tema prioritario en la implementación del Marco de Sendai, particularmente en relación con su Prioridad 3, orientada a invertir en resiliencia. Los desafíos radican tanto en la disponibilidad de recursos financieros como en la forma en que se toman las decisiones de inversión: en muchos casos las instituciones no cuentan con los instrumentos de financiamiento necesarios y las inversiones se diseñan sin incorporar de manera sistemática el análisis de riesgo, generando activos vulnerables y pérdidas económicas recurrentes. <br><br> La sesión se realiza en el contexto del proyecto de Marcos de Financiamiento para la RRD impulsado por UNDRR en alianza con la UNGRD, el DNP y el Ministerio de Hacienda. El panel contribuirá a los objetivos del Marco de Sendai al promover la integración del riesgo en la inversión pública y fortalecer la articulación entre financiamiento y resiliencia, en línea con el Plan de Acción Regional para las Américas. |
+| Enfoque(s) y Eje(s) transversal(es) | **Enfoque:** Territorialización y financiamiento de la GRD. <br><br> **Temas:** Financiamiento del riesgo de desastres. Resiliencia fiscal. Planificación e inversión pública. Alianzas público-privadas. Desarrollo sostenible. |
+| Preguntas | ¿Por qué persiste la inversión pública vulnerable a desastres? <br> ¿Qué limita la incorporación del análisis de riesgo en la planificación y financiamiento de la inversión pública? <br> ¿Cuáles instrumentos financieros son más asequibles y efectivos para incrementar la resiliencia en la inversión pública? <br> ¿Qué acciones concretas se pueden implementar para mejorar el financiamiento para la inversión en resiliencia en el corto plazo? |
+| Conferencistas y/o facilitadores | **Moderador:** Luis Bonilla Ortiz Arrieta — Oficial de Asuntos Económicos, UNDRR <br><br> **Panelistas:** Dra. Isabel Cristina Arboleda López — Jefe de Oficina Asesora de Planeación e Información, UNGRD · Dr. Julián Ernesto Vargas — Product Development, FINDETER · Dr. John Neftali Mojica Morales — Coordinador Grupo Gestión Integral de Riesgos, Dirección General de Crédito Público y Tesoro Nacional, Ministerio de Hacienda y Crédito Público · Dr. Javier Pava Sánchez — Director de Ambiente y Desarrollo Sostenible, DNP |
+:::

@@ -1,0 +1,41 @@
+---
+title: "Sesión paralela 19. Animales y desastres, una mirada desde la sociedad civil para fortalecer la resiliencia de los territorios"
+---
+
+## Nota conceptual
+
+:::{#tabla-sp19-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Animales y desastres, una mirada desde la sociedad civil para fortalecer la resiliencia de los territorios |
+| **Organización anfitriona** | Unidad Nacional para la Gestión del Riesgo de Desastres |
+| **Contacto principal** | Naydú Pineda González |
+| **Suplente** | Javier Medina — Dexy Montejo |
+| **Organización Co-Anfitriona** | Red Global de la Sociedad Civil para la Reducción de Desastres — Proyecto ALA - Grupo HTM |
+| **Contacto principal** | Julia Inés Lema Vélez — Luis Carlos Sarmiento |
+| **Suplente** | Carolina García Londoño |
+| **Punto Focal UNGRD** | Naydú Pineda — Javier Medina — Dexy Montejo |
+:::
+
+<style>
+#tabla-sp19-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-sp19-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-sp19-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Panel de expertos abierto al público, duración de 40 minutos el primer día del evento. 4 invitados, incluyendo una persona de la UNGRD. |
+| Objetivo(s) | 1. Analizar, desde una perspectiva técnica y multisectorial, la integración del enfoque de protección y bienestar animal para los tres grupos de animales —de compañía, producción y silvestres— en la gestión del riesgo de desastres. <br><br> 2. Identificar retos, oportunidades y acciones que fortalezcan la resiliencia territorial, la protección de los medios de vida y el bienestar animal en Colombia, involucrando a la sociedad civil. <br><br> 3. Fomentar el diálogo interinstitucional para generar alianzas y acciones concretas que integren este enfoque en programas, políticas y proyectos. |
+| Resultado(s) medible(s) | Síntesis técnica del panel con conclusiones y recomendaciones, identificando retos y oportunidades para la integración del enfoque de protección y bienestar animal en la GRD. Hoja de ruta con recomendaciones para la inclusión del enfoque en la GRD, con la participación de las organizaciones de la sociedad civil. |
+| Descripción general | El panel aborda la integración del enfoque de protección y bienestar animal —de compañía, producción y silvestres— en la gestión del riesgo de desastres (GRD), reconociendo su papel fundamental en la resiliencia de los territorios, la protección de los medios de vida, el equilibrio de los ecosistemas y el bienestar de las comunidades. <br><br> Este espacio se enmarca en las prioridades de la UNDRR y el Marco de Sendai 2015–2030, que reconoce la importancia de proteger los medios de vida y los bienes de producción, incluidos los animales. El párrafo 30 (literal p) establece la necesidad de reforzar la protección de los medios de vida, incluido el ganado y los animales de labor. La Meta global C sobre reducción de pérdidas económicas directas y las Prioridades 1, 3 y 4 del Marco reconocen la necesidad de comprender, proteger y recuperar los sistemas productivos y socioecológicos, dentro de los cuales los animales constituyen un elemento clave para la resiliencia. |
+| Enfoque(s) y Eje(s) transversal(es) | **Enfoques:** Comunidades de aprendizaje y participación. Planeación y ordenamiento que incorpora la GRD. Territorialización y financiamiento de la GRD. Preparación para la respuesta y recuperación oportuna. <br><br> **Ejes transversales:** Adaptación al cambio climático (Eco-RRD). Ciencia, tecnología e innovación: datos, modelación, inteligencia artificial, innovación social y herramientas digitales. |
+| Preguntas | ¿Cómo se ha integrado el enfoque de animales (de compañía, producción y silvestres) en la gestión del riesgo de desastres en contextos internacionales, y qué lecciones podrían aplicarse en Colombia? <br> ¿Qué acciones concretas deberían priorizarse en Colombia en los próximos años para integrar de manera efectiva el enfoque de protección y bienestar animal en la GRD? <br> ¿Cuáles son los errores más comunes en la atención de emergencias relacionadas con animales y cómo pueden evitarse desde la preparación? <br> ¿Cómo asegurar que este enfoque se traduzca en inversiones reales y sostenibles en los territorios? |
+| Conferencistas y/o facilitadores | Julia Inés Lema Vélez <br> Diego Hernández Pulido <br> Luis Carlos Sarmiento — Proyecto ALA <br> Naydú Pineda González — UNGRD |
+:::

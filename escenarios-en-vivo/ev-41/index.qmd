@@ -1,0 +1,31 @@
+---
+title: "Desarrollo basado en el riesgo (DBR): Cauca, un estudio de caso"
+author:
+- name: Juan Pablo Prado Medina
+  affiliations:
+    - name: Uniautónoma del Cauca, Popayán, Colombia
+  corresponding: true
+  email: jp.prado@uniautonoma.edu.co
+keywords:
+- Gestión del riesgo de desastres
+- Desarrollo basado en el riesgo (DBR)
+- Resiliencia territorial
+- Planificación territorial
+- Territorios multiamenaza
+- Cambio climático
+abstract: |
+  El departamento del Cauca, en el suroccidente colombiano, representa uno de los territorios con mayor complejidad en gestión del riesgo del país: su diversidad geográfica y ecológica coexiste con una condición de alta vulnerabilidad frente a amenazas múltiples y simultáneas —sismos, deslizamientos, inundaciones, incendios y sequías— agravadas por el cambio climático y por factores antrópicos como la minería ilegal y los conflictos sociales. Esta realidad ha evidenciado que el desarrollo tradicionalmente promovido ha sido ciego al riesgo, generando un círculo vicioso de pérdidas recurrentes, reconstrucción ineficaz y vulnerabilidad acumulada, que afecta de manera desproporcionada a comunidades rurales, indígenas y afrodescendientes.
+
+  Frente a este escenario, la investigación "Desarrollo Basado en el Riesgo en la Gestión de Desastres: Cauca, un Estudio de Caso" propone una alternativa transformadora: el Desarrollo Basado en el Riesgo (DBR), un enfoque que integra la identificación, evaluación y gestión del riesgo como ejes centrales de la planificación territorial y la toma de decisiones públicas. Sustentada en un enfoque sistémico que articula desarrollo sostenible, gestión integral del riesgo y adaptación al cambio climático, la investigación combina análisis documental, entrevistas a actores clave y la experiencia directa en la coordinación del componente ambiental del Plan de Ordenamiento Departamental del Cauca, lo que le otorga tanto rigor metodológico como aplicabilidad práctica.
+
+  Su pertinencia es directa y estratégica. Colombia enfrenta el mismo desafío estructural que el Cauca evidencia a escala departamental: la desarticulación entre los instrumentos de planificación del desarrollo y los planes de gestión del riesgo. El DBR ofrece una metodología replicable, con enfoque diferencial y territorial, que puede ser apropiada por los actores del SNGRD en todos los municipios del país, contribuyendo al cumplimiento del Plan Nacional de Gestión del Riesgo de Desastres, el Plan Nacional de Adaptación al Cambio Climático y los objetivos del Marco de Sendai. Se recomienda que la gestión del riesgo deje de ser un componente marginal de la planificación y se convierta en la columna vertebral de un desarrollo territorial verdaderamente sostenible, equitativo y resiliente.
+categories:
+- Planeación y ordenamiento que incorpora la GRD
+- Adaptación al cambio climático desde el enfoque de Eco-Reducción (Eco-RRD)
+---
+
+**Perfil quién presenta el trabajo:** Ingeniero Ambiental (Universidad del Cauca), Magíster en Cambios Globales y Riesgo de Desastres (Universidad Católica de Manizales), Especialista en Gestión Integral del Riesgo de Desastres (Uniautónoma del Cauca). Docente de planta de la Uniautónoma del Cauca con más de 17 años de experiencia en el sector universitario. Auditor norma ISO 14001 (Bureau Veritas). Consultor y asesor en gestión ambiental, gestión del riesgo, cambio climático, ordenamiento territorial y saneamiento básico. Desde 2017 es asesor de gestión del riesgo en municipios y entidades del departamento del Cauca. Representante de ASIES CAUCA ante la Comisión Regional de Ordenamiento Territorial (CROT) y el Comité Municipal de Reducción del Riesgo de Desastres.
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1DwmdqaOWjdwZnUgCDlxoqizjJf_D1oYr/preview" width="100%" height="480" allowfullscreen></iframe>

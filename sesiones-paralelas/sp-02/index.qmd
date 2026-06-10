@@ -1,0 +1,47 @@
+---
+title: "Sesión paralela 2. Avances en el sistema de alertas por ciclones tropicales: evolución operativa e innovación"
+---
+
+## Nota conceptual
+
+:::{#tabla-sp02-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Avances en el sistema de alertas por ciclones tropicales: evolución operativa e innovación |
+| **Organización anfitriona** | Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD) |
+| **Contacto principal** | Tatiana Rodríguez Tobar |
+| **Suplente** | Joana Pérez |
+| **Organización Co-Anfitriona** | No aplica |
+| **Contacto principal** | No aplica |
+| **Suplente** | No aplica |
+| **Punto Focal UNGRD** | Tatiana Rodríguez Tobar |
+:::
+
+<style>
+#tabla-sp02-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-sp02-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-sp02-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Simposio de expertos. |
+| Objetivo(s) | Dar a conocer los avances tanto operativos como técnicos con los que cuenta la MTACT en el marco del Protocolo nacional de alertas por ciclones tropicales. <br><br> Socializar la misión de la MTACT y la meta a alcanzar con el Protocolo nacional de alertas por ciclones tropicales. |
+| Resultado(s) medible(s) | Una socialización con presentaciones cortas con los hitos de la MTACT y el énfasis en los avances técnicos a resaltar. |
+| Descripción general | Los avances en Colombia —uso de modelos numéricos, imágenes, integración de múltiples fuentes y análisis de información, y caracterización de escenarios de riesgo— contribuyen a una mejor comprensión del riesgo por ciclones tropicales. Las instituciones de la Mesa Técnica de Alertas por Ciclones Tropicales (MTACT), conformada por el IDEAM, la DIMAR, la Aerocivil, la FAC y la UNGRD, han trabajado en la mejora de la resolución espacial y temporal de los pronósticos y en el desarrollo de productos técnicos más claros para la toma de decisiones. <br><br> En términos del Marco de Sendai, esto fortalece la base científica del conocimiento del riesgo (Prioridad 1), la gobernanza interinstitucional (Prioridad 2), la inversión en sistemas de alerta temprana (Prioridad 3) y la preparación y respuesta efectiva (Prioridad 4). La articulación del Protocolo Nacional de alertas por ciclones tropicales con los instrumentos de gestión del riesgo territoriales, sectoriales y comunitarios es el horizonte estratégico de la MTACT. |
+| Enfoque(s) y eje(s) transversal(es) | **Enfoques:** Comunidades de aprendizaje y participación; Preparación y recuperación oportuna. <br> **Eje transversal:** Ciencia, tecnología e innovación: datos, modelación, inteligencia artificial, innovación social y herramientas digitales. |
+| Preguntas | ¿Qué avances tanto operativos como técnicos ha alcanzado la MTACT en materia de generación de alertas tempranas por ciclones tropicales? <br> ¿Qué se requiere para mejorar técnica y operativamente la emisión de alertas por ciclones tropicales por parte de la MTACT? <br> ¿Qué se necesita para hacer más eficiente el proceso de difusión de las alertas por ciclones tropicales? <br> ¿Cómo mejorar la articulación del protocolo nacional de alertas y plan nacional para la respuesta por ciclones tropicales con los instrumentos territoriales, sectoriales y comunitarios? |
+| Conferencistas y/o facilitadores | Dra. Claudia Urbano · Cr. Diana Carolina Rueda · Arquitecto Hernando Gómez Ricciulli <br> **Moderadora:** Tatiana Rodríguez Tobar |
+:::
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1AtE88981lX5rIhTR9QfH5Y9_HcnEbzPJ/preview" width="100%" height="480" allowfullscreen>
+
+</iframe>

@@ -1,0 +1,41 @@
+---
+title: "Sesión paralela 37. Preparación ante emergencias y movilidad humana"
+---
+
+## Nota conceptual
+
+:::{#tabla-sp37-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Preparación ante emergencias y movilidad humana |
+| **Organización anfitriona** | Organización Internacional para las Migraciones |
+| **Contacto principal** | Marta Leboreiro |
+| **Suplente** | María Gabriela Aguilar |
+| **Organización Co-Anfitriona** | Sociedad Nacional de la Cruz Roja Colombiana |
+| **Contacto principal** | Lina Marlene Dorado — Carlos Iván Márquez |
+| **Suplente** | Marinson Buitrago |
+| **Punto Focal UNGRD** | Fernanda Otero |
+:::
+
+<style>
+#tabla-sp37-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-sp37-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-sp37-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Sesión temática. Tres etapas: 1) Introducción (15 min) — presentación de la OIM sobre la integración de movilidad humana en la GRD, datos del diagnóstico Prepárate+, y buena práctica de la Cruz Roja Colombiana en Chocó. 2) Presentación de caso (15 min) — escenario basado en la realidad del Catatumbo. 3) Cierre y reflexión final (10 min) — priorización de desafíos y experiencias mediante plataforma interactiva SLIDO. |
+| Objetivo(s) | **Objetivo general:** Contribuir a una comprensión compartida sobre cómo integrar la movilidad humana en la gestión del riesgo de desastres en Colombia, identificando desafíos prioritarios y prácticas relevantes para fortalecer la acción del SNGRD. <br><br> **Objetivos específicos:** 1. Socializar los principales conceptos, enfoques y avances en Colombia en materia de GRD y movilidad humana. 2. Profundizar sobre los principales desafíos técnicos, institucionales y operativos del SNGRD para integrar la movilidad humana como componente transversal. 3. Visibilizar y reflexionar sobre prácticas y enfoques relevantes, incluido el enfoque anticipatorio, que ofrezcan aprendizajes útiles para otros contextos territoriales. |
+| Resultado(s) medible(s) | Síntesis de resultados de la sesión con acciones claras y buenas prácticas identificadas. Diagnóstico sobre la preparación ante emergencias en Colombia (Prepárate+). |
+| Descripción general | La preparación ante emergencias se relaciona con la Prioridad 4 del Marco de Sendai (aumentar la preparación para una respuesta eficaz y reconstruir mejor). La sesión propone entender la preparación desde una mirada prospectiva, multinivel, multisectorial, basada en información y vinculada a la recuperación. <br><br> El Marco de Sendai, sin mencionar explícitamente la movilidad humana, destaca la necesidad de anticipar y gestionar dinámicas asociadas a los desplazamientos por desastres, mediante enfoques integrales, inclusivos y basados en riesgo. Estos aspectos fueron abordados en el proyecto "Prepárate+" implementado por la OIM en coordinación con la UNGRD, que reconoció el estado de la preparación ante emergencias en el país desde una perspectiva basada en género, migración y desplazamiento. |
+| Enfoque(s) y Eje(s) transversal(es) | **Enfoque:** Preparación y recuperación oportuna. <br><br> **Eje transversal:** Ciencia, tecnología e innovación: datos, modelación, inteligencia artificial, innovación social y herramientas digitales. |
+| Preguntas | ¿Cómo se están articulando actualmente la gestión del riesgo de desastres y la gobernanza de la movilidad humana en Colombia, y qué vacíos persisten para una integración efectiva? <br> ¿De qué manera los riesgos de desastres afectan de forma diferenciada a personas desplazadas internas, migrantes, retornadas y comunidades receptoras en Colombia, y qué implicaciones tiene esto para las políticas públicas de GRD? <br> ¿Cómo puede fortalecerse la coordinación entre el SNGRD, las autoridades migratorias, los actores humanitarios y los gobiernos locales para que las acciones por desastres contribuyan a soluciones duraderas y no a nuevos ciclos de desplazamiento? <br> ¿Qué rol estratégico deben desempeñar los gobiernos locales y la sociedad civil en la preparación, respuesta y recuperación ante desastres en territorios con alta movilidad humana? |
+| Conferencistas y/o facilitadores | **Marta Leboreiro Núñez** — Coordinadora global de preparación ante emergencias, OIM; arquitecta con especialización en migración y asentamientos humanos <br> **María Gabriela Aguilar** — Consultora regional GRD y acción humanitaria, OIM América Latina y el Caribe; especialista en movilidad humana, género y niñez <br> **Lina Dorado González** — Líder Nacional del Equipo de GRD, Cruz Roja Colombiana; ex Subdirectora para el Conocimiento del Riesgo, UNGRD <br> **Carlos Iván Márquez Pérez** — Presidente Cruz Roja Colombiana Seccional Norte de Santander; ex Director General UNGRD |
+:::

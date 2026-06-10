@@ -1,0 +1,47 @@
+---
+title: "Sesión paralela 6. Escuelas resilientes: Un análisis en la política de gestión integral del riesgo y educación en emergencias desde la iniciativa del consorcio Creer en Arauca y Tumaco"
+---
+
+## Nota conceptual
+
+:::{#tabla-sp06-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Escuelas resilientes: Un análisis en la política de gestión integral del riesgo y educación en emergencias desde la iniciativa del consorcio Creer en Arauca y Tumaco |
+| **Organización anfitriona** | Save the Children Colombia |
+| **Contacto principal** | Julian Cortes |
+| **Suplente** | Marcela Saenz |
+| **Organización Co-Anfitriona** | World Organization of the Scout Movement — Scouts de Colombia |
+| **Contacto principal** | Natalia Santofimio Luján |
+| **Suplente** | Nataly Martínez Cuellar |
+| **Punto Focal UNGRD** | |
+:::
+
+<style>
+#tabla-sp06-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-sp06-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-sp06-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Sesión tipo foro-taller participativo orientada a la presentación de lecciones aprendidas en la gestión integral del riesgo escolar en Arauca y Tumaco. Los participantes se organizarán en subgrupos y rotarán por estaciones temáticas (Arauca, Tumaco y herramientas de acción humanitaria del proyecto EsParce Paz). En cada estación se desarrollará una micro dinámica práctica. El cierre se realizará en plenaria mediante una dinámica de síntesis participativa. La metodología combina el enfoque de aprendizaje experiencial del Movimiento Scout con intervenciones breves y dinámicas activas y rotativas en pequeños grupos. |
+| Objetivo(s) | Visibilizar las lecciones aprendidas en la implementación de la estrategia de gestión integral del riesgo escolar en el marco del consorcio Creer (Arauca, Tumaco, Buenaventura y Cauca), articulando el proyecto EsParce Paz como una apuesta para fortalecer la acción humanitaria con enfoque juvenil, comunitario y de construcción de paz. <br><br> Presentar de manera práctica las experiencias desarrolladas en los territorios, destacando logros, retos y aprendizajes clave en la gestión del riesgo escolar. |
+| Resultado(s) medible(s) | Informe con la presentación de resultados de las lecciones aprendidas de escuelas seguras. <br><br> Generación de recomendaciones técnicas para la articulación entre educación en emergencias, gestión del riesgo y acción humanitaria. <br><br> Participación activa de los asistentes a través de intervenciones, identificación colectiva de ideas clave, consolidación de mensajes principales y registro de aportes como insumo para la memoria del evento. |
+| Descripción general | La educación para la Reducción del Riesgo de Desastres (RRD) en Colombia ha cobrado una relevancia crítica en los últimos años debido a la combinación de amenazas naturales, antrópicas y derivadas del conflicto armado. El Consorcio CREER —Comunidades resilientes, escuelas resilientes—, conformado por Save the Children Colombia y otras organizaciones, ha implementado la gestión integral del riesgo escolar (GIRE) en Arauca y Tumaco, articulada con el Plan de Acción Nacional de Escuelas Seguras 2022–2026. <br><br> El proyecto CREER parte de un diagnóstico contundente: en 2023 los eventos violentos que afectaron la educación aumentaron un 53 % y el reclutamiento de menores por grupos armados creció un 500 %. La experiencia del Consorcio CREER demuestra que la educación en RRD y la integración de la GIRE en la política pública colombiana son fundamentales para garantizar escuelas como territorios protectores. El proyecto EsParce Paz, iniciativa de Scouts de Colombia, fortalece capacidades en jóvenes y actores comunitarios para la construcción de paz, el cuidado emocional y la acción humanitaria. |
+| Enfoque(s) y eje(s) transversal(es) | Comunidades de aprendizaje y participación. Educación en emergencias y gestión del riesgo escolar. |
+| Preguntas | ¿Cómo fortalecer la gestión integral del riesgo escolar en territorios con alta vulnerabilidad social y presencia de conflicto armado? <br> ¿Qué lecciones aprendidas del Consorcio CREER en Arauca y Tumaco pueden replicarse en otros contextos territoriales de Colombia? |
+| Conferencistas y/o facilitadores | Julian Cortes — Save the Children Colombia · Natalia Santofimio Luján — Scouts de Colombia · Equipo del Consorcio CREER |
+:::
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1p5aftyOy-69fw9uJDDStcqg6Z3FeJ7kt/preview" width="100%" height="480" allowfullscreen>
+
+</iframe>

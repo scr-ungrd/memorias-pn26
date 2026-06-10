@@ -1,0 +1,47 @@
+---
+title: "Sesión paralela 18. Implementación de la Política Pública de GRD en las IES Colombianas (Fase diagnóstica)"
+---
+
+## Nota conceptual
+
+:::{#tabla-sp18-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Implementación de la Política Pública de GRD en las IES Colombianas (Fase diagnóstica) |
+| **Organización anfitriona** | ASCUN |
+| **Contacto principal** | Carlos Arturo García |
+| **Suplente** | Dora Marcela Benítez Ramírez |
+| **Organización Co-Anfitriona** | REDULAC/RRD Capítulo Colombia, Ministerio de Educación Nacional y UNGRD |
+| **Contacto principal** | Leidy Marcela Jaramillo Reyes |
+| **Suplente** | Luis Carlos Martínez Medina |
+| **Punto Focal UNGRD** | Gobernanza y Territorio |
+:::
+
+<style>
+#tabla-sp18-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-sp18-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-sp18-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Presentación — sesión facilitada / Plenaria (45 min). Enfoque "De la evidencia a la acción", estructurado en tres momentos: diagnóstico, análisis y propuesta. |
+| Objetivo(s) | **General:** Definir los lineamientos estratégicos para la integración de la GRD en las funciones sustantivas (docencia, investigación y extensión) y en la operación administrativa de las IES colombianas. <br><br> **Específicos:** Presentar los resultados del diagnóstico nacional realizado previamente mediante consulta digital. Debatir las barreras y oportunidades de la academia en la implementación de la política pública de la GRD (Ley 1523 de 2012). Validar un borrador de propuesta de política o protocolo marco para el sector. |
+| Resultado(s) medible(s) | Documento de Diagnóstico consolidado sobre las capacidades actuales de las IES en GRD. Borrador de Acuerdo/Hoja de Ruta con compromisos de la academia para la reducción del riesgo hacia 2030. Relatoría para Plenaria con la presentación de los tres pilares (Diagnóstico, Análisis y Propuesta) ante los tomadores de decisión nacionales. |
+| Descripción general | La sesión se configura como un espacio estratégico de articulación interinstitucional orientado a sentar las bases para una política sectorial de resiliencia universitaria en Colombia. Liderada por ASCUN, en alianza con REDULAC/RRD Capítulo Colombia, el Ministerio de Educación Nacional y la UNGRD, esta iniciativa responde a la necesidad de integrar de manera sistemática la GRD en las funciones sustantivas y administrativas de las IES, en coherencia con la Ley 1523 de 2012 y los compromisos internacionales. <br><br> La iniciativa se alinea directamente con la Prioridad 2 del Marco de Sendai, relacionada con el fortalecimiento de la gobernanza del riesgo, reconociendo a las universidades como nodos clave de generación de conocimiento, innovación y transformación social. Como resultados concretos, se espera un informe diagnóstico nacional, un borrador de acuerdo por la resiliencia universitaria y una relatoría ejecutiva para la toma de decisiones a nivel nacional. |
+| Enfoque(s) y Eje(s) transversal(es) | **Enfoque:** Territorialización y financiamiento de la GRD. <br><br> **Ejes transversales:** Ciencia, tecnología e innovación: datos, modelación, inteligencia artificial, innovación social y herramientas digitales. Comunidades de aprendizaje y participación. Fortalecimiento de infraestructura resiliente. |
+| Preguntas | ¿Cuál es la capacidad real de respuesta y recuperación de las universidades colombianas ante desastres? <br> ¿Cómo puede la investigación universitaria alinearse con las necesidades de conocimiento del riesgo de los territorios (SNGRD)? <br> ¿Qué lineamientos mínimos debe tener una IES para ser considerada "Resiliente" en el marco de la PN26? |
+| Conferencistas y/o facilitadores | **Anfitrión:** Carlos Arturo García — ASCUN / REDULAC Colombia (Ing. Civil, Geotecnista, Director Maestría en GRD – Universidad del Quindío) <br><br> **Co-anfitriona:** Dora Marcela Benítez Ramírez — UPTC <br><br> **Moderadora:** Leidy Marcela Jaramillo Reyes — REDULAC Colombia (Profesora Maestría en GRD – Universidad del Quindío) |
+:::
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1RSvBxxWA6KqaD1tKWsbIeUPchTOHHI5D/preview" width="100%" height="480" allowfullscreen>
+
+</iframe>

@@ -1,0 +1,39 @@
+---
+title: Motores de ocurrencia de incendios en páramos de Colombia
+author:
+- name: Jhonatan Julián Díaz-Timoté
+  affiliations:
+    - name: Escuela de Ciencias e Ingeniería, Universidad del Rosario, Bogotá, Colombia
+  corresponding: true
+  email: Jhonatan.diaz@urosario.edu.co
+- name: Laura Obando-Cabrera
+  affiliations:
+    - name: Yale School of the Environment, Yale University, New Haven, CT, USA
+- name: Swanni T. Alvarado
+  affiliations:
+    - name: Departamento de Biología, Universidad Nacional de Colombia, Bogotá, Colombia
+- name: Stijn Hantson
+  affiliations:
+    - name: Escuela de Ciencias e Ingeniería, Universidad del Rosario, Bogotá, Colombia
+keywords:
+- Páramos
+- Área quemada
+- Actividades humanas
+- Variables climáticas
+- Manejo integrado
+abstract: |
+  Los páramos son ecosistemas estratégicos para el almacenamiento de carbono y la regulación hídrica de muchas ciudades andinas. Sin embargo, se ven afectados por incendios que pueden afectar su oferta de servicios ecosistémicos. La dinámica de estos incendios varía considerablemente entre páramos, por lo que es esencial comprender los factores que determinan esta variabilidad espacial.
+
+  Este estudio evalúa la influencia relativa de los factores antropogénicos y biofísicos en la ocurrencia de incendios en los páramos colombianos, analizando datos de áreas quemadas entre 2000 y 2022 mediante un modelo de Random Forest. Los resultados indican que la ocurrencia de incendios está determinada por la interacción entre las presiones humanas y las características biofísicas. La precipitación anual resultó la variable más importante, ya que las áreas con una precipitación menor a 1000–1500 mm/año se asociaron a mayor área quemada. La cobertura vegetal, evaluada mediante el Índice de Vegetación de Diferencia Normalizada (NDVI), mostró que los niveles de verdor intermedios (0,13–0,25) son los más propensos a la quema. Factores antropogénicos, tales como proximidad a edificios y zonas agrícolas, tuvieron un impacto significativo.
+
+  Los resultados muestran que la ocurrencia de incendios en los páramos no depende únicamente de las presiones humanas, sino que es el resultado del efecto combinado de factores antropogénicos y biofísicos. Entender este comportamiento y sus relaciones muestra la necesidad de un enfoque socio-ecológico que permita la gestión integrada y adaptativa en ecosistemas de alta montaña.
+categories:
+- Datos, modelación, IA, innovación social y herramientas digitales
+- Adaptación al cambio climático desde el enfoque de Eco-Reducción (Eco-RRD)
+---
+
+**Perfil quién presenta el trabajo:** Jhonatan Julian Díaz Timoté es ingeniero forestal, especialista SIG, con un magíster en manejo, uso y conservación del bosque, y candidato a doctor en ciencias naturales. Ha dedicado más de una década a investigar cómo los fenómenos naturales —como el fuego— interactúan con la huella humana y transforman el paisaje. Desde esta mirada busca comprender y anticipar los cambios en los ecosistemas, para tomar mejores decisiones de conservación, manejo territorial y planificación. Su experiencia combina ciencia, herramientas geoespaciales y trabajo en campo en diversas regiones de Colombia, orientado a traducir el conocimiento ecológico en soluciones concretas para la gestión del riesgo.
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1Ti4FyGZ9vo7GHJdD7WsVIzhrWMFMl_1W/preview" width="100%" height="480" allowfullscreen></iframe>

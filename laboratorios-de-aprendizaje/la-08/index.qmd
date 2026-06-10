@@ -1,0 +1,43 @@
+---
+title: "Laboratorio de Aprendizaje 8. Cartografía Participativa para la Gestión del Riesgo de Desastres"
+---
+
+## Nota conceptual
+
+:::{#tabla-la08-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Cartografía Participativa para la Gestión del Riesgo de Desastres |
+| **Organización anfitriona** | UNGRD |
+| **Contacto principal** | Evelin Langebeck Cuéllar |
+| **Organización Co-Anfitriona** | Humanitarian OpenStreetMap — Instituto de Tecnología de Geoinformación de Heidelberg (HeiGIT) |
+| **Contacto principal Co-Anfitriona** | Juan Arellano — Anne Schauss |
+| **Punto Focal UNGRD** | Evelin Langebeck Cuéllar — Subdirección para el Conocimiento del Riesgo |
+:::
+
+<style>
+#tabla-la08-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-la08-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-la08-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Laboratorio de aprendizaje con enfoque experiencial y colaborativo. Tres ejercicios prácticos de mapeo en tiempo real: (1) "Identificando con mi teléfono" con grupos de WhatsApp y Chatmap; (2) "Dibujando riesgos, narrando realidades" con SketchMapTool impreso; (3) "Digitalizando datos, creando mapas" con digitalización y visualización georreferenciada. |
+| Objetivo(s) | 1. Fortalecer las capacidades técnicas y comunitarias de los actores del SNGRD mediante un laboratorio práctico de cartografía participativa que integre herramientas digitales y metodologías colaborativas. <br><br> 2. Fortalecer la comprensión de la cartografía comunitaria como insumo para la planificación territorial. <br><br> 3. Desarrollar un ejercicio práctico de mapeo en tiempo real para identificar riesgos, capacidades y actores. <br><br> 4. Impulsar la apropiación de tecnologías abiertas para la sistematización de información comunitaria. |
+| Resultado(s) medible(s) | Materiales digitales de mapeo vía WhatsApp (Chatmap). Cartografía impresa con puntos de mapeo relevantes. Informe con digitalización de información mediante SketchMapTool, integración en plataformas abiertas y visualización colaborativa para instrumentos de planificación territorial. |
+| Descripción general | El laboratorio se fundamenta en la necesidad de consolidar procesos de generación y uso de información territorial que reconozcan la percepción social del riesgo y los saberes locales como insumos estratégicos. Retoma aprendizajes del proyecto de mapas comunitarios de la UNGRD. Los participantes desarrollan procesos de identificación de amenazas, vulnerabilidades, capacidades e infraestructura crítica sobre mapas base, que son posteriormente digitalizados, transformando el conocimiento local en datos geoespaciales estructurados, interoperables y utilizables en plataformas abiertas. Se alinea con las cuatro prioridades del Marco de Sendai y con el Plan de Acción Regional para las Américas. |
+| Enfoque(s) y eje(s) transversal(es) | **Enfoque A — Comunidades de aprendizaje y participación.** <br> **Eje transversal — Ciencia, tecnología e innovación:** datos, modelación, innovación social y herramientas digitales. |
+| Preguntas | ¿Cómo puede la cartografía participativa fortalecer la comprensión del riesgo desde el conocimiento comunitario? <br> ¿De qué manera herramientas abiertas como SketchMapTool transforman información local en datos útiles para la toma de decisiones? <br> ¿Cómo integrar los resultados del mapeo comunitario en instrumentos de planificación como los PMGRD y las EMRE? <br> ¿Cómo las tecnologías abiertas y el mapeo colaborativo pueden mejorar la preparación y respuesta ante desastres? |
+| Conferencistas y/o facilitadores | **Evelin Langebeck Cuéllar** — Coordinadora Mapas Comunitarios, SCR-UNGRD. MSc. en Desarrollo Sustentable y Gestión Ambiental. <br> **Anne Schauss** — Project Manager y Product Owner, HeiGIT (Universidad de Heidelberg). MSc. en Geoinformática con enfoque en GRD y Acción Anticipatoria. <br> **Juan Arellano Valdivia** — Especialista en comunidad y comunicaciones, Equipo Humanitario de OpenStreetMap. |
+:::
+
+## Diapositivas de la sesión
+
+*Diapositivas no disponibles.*

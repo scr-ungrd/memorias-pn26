@@ -1,0 +1,41 @@
+---
+title: "Formar para transformar: herramientas, resiliencia climática y aprendizajes territoriales"
+---
+
+## Nota conceptual
+
+:::{#tabla-st06-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Formar para transformar: herramientas, resiliencia climática y aprendizajes territoriales |
+| **Organización anfitriona** | UNDRR |
+| **Contacto principal** | Alinne Olvera |
+| **Suplente** | Cristóbal López Maciel |
+| **Organización Co-Anfitriona** | UNGRD |
+| **Contacto principal** | Blanca Yenith Torres Forero |
+| **Suplente** | Jonathan Montenegro |
+| **Punto Focal UNGRD** | Dennis Natalia Gómez |
+:::
+
+<style>
+#tabla-st06-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-st06-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-st06-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Taller — Formación de Formadores. Agenda: Bienvenida (0:00-0:03, UNDRR); Presentación "dónde estamos y a dónde vamos" (0:03-0:08, UNGRD); Panel con Nodos de Resiliencia — Manizales, Dosquebradas y Bogotá (0:08-0:30); Formación de formadores — introducción y metodología antes/durante/después del taller con UNDRR, Medellín y Cali (0:30-1:10); Q+A con Nodos de Resiliencia (1:10-1:20); Firma de compromiso — ciudades interesadas y Nodos (1:20-1:30). |
+| Objetivo(s) | Fortalecer capacidades técnicas para la aplicación de herramientas orientadas a la construcción de ciudades resilientes, en el marco de la iniciativa MCR2030. <br><br> 1. Brindar orientaciones metodológicas para la implementación de estas herramientas en contextos urbanos, con miras a facilitar su apropiación y réplica en otros territorios. <br><br> 2. Promover un espacio de aprendizaje e intercambio técnico en el que los Nodos de Resiliencia aporten reflexiones sobre avances, desafíos y buenas prácticas en la implementación de estrategias de resiliencia urbana. <br><br> 3. Favorecer el diálogo entre la orientación metodológica, la experiencia territorial y la reflexión institucional, contribuyendo a identificar recomendaciones para fortalecer la acción local en el marco del SNGRD y aportar insumos a la agenda internacional de RRD posterior a 2030. |
+| Resultado(s) medible(s) | Mayor comprensión metodológica sobre el uso, alcance y posibilidades de adaptación de estas herramientas en contextos urbanos y territoriales diversos, en particular en la elaboración de Planes Municipales de Gestión Integral del Riesgo. <br><br> Intercambio de experiencias, desafíos y buenas prácticas entre Nodos de Resiliencia y ciudades participantes. <br><br> Generación de aprendizajes prácticos que favorezcan la apropiación, réplica y fortalecimiento de capacidades en otros territorios. <br><br> Identificación de recomendaciones para fortalecer la acción territorial en el marco del SNGRD. <br><br> Generación de insumos técnicos que contribuyan a la reflexión sobre la agenda de RRD posterior al Marco de Sendai. |
+| Descripción general | En el marco de la implementación del Marco de Sendai y de la iniciativa MCR2030, resulta prioritario fortalecer las capacidades técnicas e institucionales de los actores territoriales responsables de promover procesos de resiliencia urbana. El taller de formación de formadores busca generar un espacio de fortalecimiento de capacidades orientado a la comprensión y aplicación de herramientas vinculadas a la construcción de ciudades resilientes, con énfasis en la utilidad para los procesos territoriales y en su potencial de réplica. La sesión abordará en particular cómo facilitar la aplicación del Anexo de Resiliencia Climática como instrumento que integra consideraciones climáticas dentro de los procesos de análisis, planificación y gestión local del riesgo. Contará con aportes de ciudades reconocidas como Nodos de Resiliencia dentro de la iniciativa MCR2030. |
+| Enfoque(s) y eje(s) transversal(es) | Planeación y Ordenamiento que incorpora la GRD · Territorialización · Adaptación al cambio climático |
+| Preguntas | ¿Cómo contribuyen estas herramientas a una mejor comprensión de los escenarios de riesgo, al fortalecimiento de la planificación territorial y a la toma de decisiones informada a nivel local? <br> ¿Qué aprendizajes, desafíos y buenas prácticas han identificado los Nodos de Resiliencia en la aplicación de enfoques e instrumentos orientados a la resiliencia urbana? <br> ¿Cuáles son los principales cuellos de botella de gobernanza, articulación y fortalecimiento territorial que limitan la acción local y qué recomendaciones podrían contribuir al fortalecimiento del SNGRD? <br> ¿Qué elementos, prioridades o enfoques deberían proyectarse desde la experiencia territorial hacia la agenda internacional de RRD posterior al Marco de Sendai? |
+| Conferencistas y/o facilitadores | **Moderador:** UNDRR <br><br> **Panelistas:** Representante de Medellín · Representante de Bogotá · Representante de Cali · Representante de Dosquebradas · Representante de Manizales |
+:::

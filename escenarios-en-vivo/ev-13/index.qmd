@@ -1,0 +1,43 @@
+---
+title: Escenarios de Incendios Forestales para Evaluar el Riesgo de Pérdida de Cobertura en una Zona Megadiversa del Caribe Colombiano
+author:
+- name: Ailin Cabrera
+  affiliations:
+    - name: Universidad Sergio Arboleda, Bogotá, Colombia
+    - name: Aqualogs SAS, Bogotá, Colombia
+  corresponding: true
+  email: ailindaianacabrera@gmail.com
+- name: Camilo Ferro
+  affiliations:
+    - name: Aqualogs SAS, Bogotá, Colombia
+- name: Alejandro Casallas
+  affiliations:
+    - name: Universidad Sergio Arboleda, Bogotá, Colombia
+    - name: IST-Bridge, Institute of Science and Technology Austria
+- name: Ellie Anne López-Barrera
+  affiliations:
+    - name: Universidad Sergio Arboleda, Bogotá, Colombia
+keywords:
+- Incendios forestales
+- Aprendizaje automático
+- Gestión del riesgo
+- Vulnerabilidad
+- Caribe colombiano
+abstract: |
+  El aumento de los incendios forestales en Suramérica, potencialmente exacerbado por el cambio climático, exige enfoques sostenibles para la reducción del riesgo. Este estudio analiza las condiciones meteorológicas propensas a incendios y evalúa la susceptibilidad en la región norte megadiversa de Colombia, en el área de la Sierra Nevada de Santa Marta (SNSM), reconocida como una de las reservas naturales más irremplazables del mundo.
+
+  Utilizando datos de puntos calientes de MODIS y VIIRS (2016–2021) junto con variables meteorológicas del reanálisis ERA5, se identificaron 6.385 eventos de incendios. Los resultados indican que la mayor concentración de incendios ocurre en las regiones sur y suroeste durante las temporadas DJF y MAM, caracterizadas por altas temperaturas, mínima precipitación, fuertes vientos y condiciones secas. Mediante un análisis de multicolinealidad (VIF) se seleccionaron nueve variables predictoras clave. Se compararon dos modelos de aprendizaje automático —redes neuronales artificiales (ANN) y bosques aleatorios (RF)—, encontrando que el modelo ANN combinado con simulaciones Monte Carlo ofreció el mejor desempeño probabilístico (HIT: 87,9%; FAR: 28,3%; POC: 95,7%).
+
+  La evaluación de vulnerabilidad global integró indicadores ecológicos (susceptibilidad neta de vegetación y amenaza de ecosistemas estratégicos) y socioeconómicos (interfaz urbano-forestal y capacidad de respuesta municipal). Los escenarios de riesgo generados muestran que la reducción de la temperatura del suelo disminuye el riesgo principalmente en altitudes bajas, mientras que el aumento del contenido del reservorio foliar resulta más efectivo en altitudes elevadas y en la región norte.
+
+  Como estrategias de sostenibilidad se proponen cinturones de árboles y barreras verdes contra incendios, mosaicos agroforestales con especies nativas, corredores forestales para conectividad ecológica, restauración de coberturas nativas, y el fortalecimiento de los Comités Municipales de Gestión del Riesgo. Los resultados destacan la importancia de medidas proactivas e integradas para mitigar el impacto de los incendios forestales en una de las zonas con mayor biodiversidad del mundo.
+categories:
+- Preparación y recuperación oportuna
+- Datos, modelación, IA, innovación social y herramientas digitales
+---
+
+**Perfil quién presenta el trabajo:** Ailin Cabrera es investigadora en ciencias ambientales y modelamiento de riesgos naturales, afiliada a la Universidad Sergio Arboleda y a Aqualogs SAS (Bogotá, Colombia). Su trabajo se enfoca en la aplicación de inteligencia artificial y simulaciones estocásticas para la predicción y gestión de incendios forestales en ecosistemas tropicales. Este estudio constituye la base de su tesis de pregrado y ha sido publicado en la revista Sustainability (MDPI, 2024). Su investigación contribuye al desarrollo de estrategias de adaptación al cambio climático y ordenamiento territorial sostenible en zonas megadiversas de Colombia.
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1XpRsdh0N_eeRcvvkpN-Wi1PqjeA195wj/preview" width="100%" height="480" allowfullscreen></iframe>

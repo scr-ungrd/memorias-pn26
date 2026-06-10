@@ -1,0 +1,39 @@
+---
+title: "Diálogo de Alto Nivel 1. Tejiendo Resiliencia: Red de Jóvenes para la Reducción del Riesgo de Desastres"
+---
+
+## Nota conceptual
+
+:::{#tabla-an01-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Tejiendo Resiliencia: Red de Jóvenes para la Reducción del Riesgo de Desastres |
+| **Organización anfitriona** | UNGRD — Red de Jóvenes para la Reducción del Riesgo de Desastres en Colombia (RJRRD COL) |
+| **Carpeta Drive** | AN1-TEJIENDO RESILIENCIA_RED DE JOVENES GRD |
+:::
+
+<style>
+#tabla-an01-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-an01-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-an01-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Contexto | La Red de Jóvenes para la Reducción del Riesgo de Desastres en Colombia (RJRRD COL), fundada el 22 de febrero de 2022, se ha consolidado como una de las iniciativas juveniles más importantes de las Américas y el Caribe en materia de gestión del riesgo. Cuenta con más de 550 jóvenes activos en los 32 departamentos del país. |
+| Rol de las juventudes | Las y los jóvenes han dejado de ser vistos únicamente como receptores de asistencia para consolidarse como actores estratégicos en la construcción de resiliencia y acción climática. Su capacidad de innovación, apropiación tecnológica y trabajo comunitario los posiciona como aliados clave para fortalecer la gobernanza del riesgo y promover soluciones con enfoque territorial. La UNDRR reconoce a las juventudes organizadas como actores fundamentales en los procesos de preparación, respuesta y reconstrucción frente a desastres. |
+| Referentes territoriales | El departamento de Casanare fue el primero en priorizar formalmente la participación juvenil mediante la estrategia "Jóvenes Unidos por un Futuro Resiliente". Municipios como La Dorada y Copacabana se han convertido en referentes donde el liderazgo juvenil ha contribuido al fortalecimiento de la toma de decisiones institucionales y comunitarias en GRD. |
+| Descripción general | Colombia enfrenta alta vulnerabilidad frente a fenómenos hidrometeorológicos extremos cuya intensidad puede aumentar por El Niño, La Niña y el cambio climático. Las juventudes cumplen un papel fundamental como agentes de cambio, articulando el conocimiento local con la innovación y las Soluciones basadas en la Naturaleza para fortalecer la resiliencia territorial. La sesión conmemora cuatro años de la RJRRD COL y presenta el "Manifiesto de la Generación de Cambio", que representa el compromiso de las juventudes colombianas con la protección de la vida, la acción climática y la construcción de resiliencia territorial. |
+| Enfoque(s) y eje(s) transversal(es) | Marco de Sendai 2015–2030 (reconocimiento de niñas, niños y jóvenes como actores clave). Gobernanza inclusiva. Justicia climática. Enfoque diferencial (mujeres, comunidades afrodescendientes, líderes rurales, población LGBTIQ+). |
+| Mensajes clave | "Tejiendo Resiliencia" simboliza el trabajo conjunto entre comunidades, instituciones y juventudes para enfrentar los desafíos del cambio climático y los desastres. <br><br> Desde la UNGRD se reafirma el compromiso con el fortalecimiento de espacios de participación juvenil en la gestión del riesgo y la adaptación al cambio climático. <br><br> Fortalecer a las juventudes es fortalecer la resiliencia de Colombia. |
+:::
+
+## Diapositivas de la sesión
+
+*Diapositivas no disponibles.*

@@ -1,0 +1,32 @@
+---
+title: Sistema de información en tiempo real para la clasificación y traslado de víctimas por avenidas torrenciales en la primera respuesta en salud
+author:
+- name: Dumar J. Figueredo Sanabria
+  affiliations:
+    - name: Escuela de Ingenieros Militares, Bogotá D.C., Colombia
+  corresponding: true
+  email: javierfigueredosanabria13@gmail.com
+keywords:
+- Gestión de riesgo
+- Avenida torrencial
+- Sistemas de información
+- Urgencias médicas
+- Salud pública
+abstract: |
+  En Colombia, las avenidas torrenciales se han consolidado como una de las amenazas hidrometeorológicas más críticas, afectando aproximadamente al 78% de los municipios y generando escenarios de trauma masivo que superan la capacidad de respuesta del sistema de salud. La fragmentación operativa, la limitada interoperabilidad entre actores y la ausencia de información en tiempo real ocasionan retrasos en la clasificación y traslado de víctimas, lo que conlleva a la pérdida de la "hora dorada" y al incremento de la mortalidad prevenible.
+
+  El objetivo de este trabajo fue proponer una alternativa tecnológica orientada a optimizar la gestión de clasificación y traslado de víctimas por avenidas torrenciales durante la primera respuesta en salud en Colombia. La investigación se desarrolló bajo un enfoque cuantitativo de tipo descriptivo, estructurado en tres fases: la caracterización de las zonas con mayor riesgo y la disponibilidad de recursos en salud (2020–2024); la identificación de métodos de triage validados para desastres; y el diseño de un sistema de información interoperable denominado GESTVIC, que integra la clasificación clínica de víctimas con los procesos de referencia y contrarreferencia.
+
+  Los resultados evidencian que los municipios más afectados concentran el 65% de las víctimas, mientras que la capacidad de respuesta en servicios de mediana y alta complejidad presenta déficits significativos. La propuesta GESTVIC permite integrar procesos de triage más precisos con la logística de atención, mejorando la trazabilidad de las víctimas y reduciendo los tiempos de respuesta.
+
+  Se concluye que la implementación de sistemas de información interoperables constituye una estrategia clave para fortalecer la resiliencia del sistema de salud frente a desastres. Se recomienda a los tomadores de decisiones impulsar políticas públicas que promuevan la transformación digital en la gestión del riesgo.
+categories:
+- Preparación y recuperación oportuna
+- Datos, modelación, IA, innovación social y herramientas digitales
+---
+
+**Perfil quién presenta el trabajo:** Médico, Especialista en Medicina de Emergencias y en Alta Gerencia, Magíster en Gestión del Riesgo y Desarrollo, con sólida trayectoria en el sector salud y la gestión del riesgo de desastres en Colombia. Cuenta con experiencia en liderazgo de equipos, coordinación interinstitucional y respuesta a emergencias complejas, especialmente en atención prehospitalaria y manejo de eventos con múltiples víctimas. Su línea investigativa se centra en la innovación y el uso de sistemas de información en tiempo real para optimizar el triage, la atención y el traslado de pacientes, fortaleciendo la resiliencia del sistema de salud y la toma de decisiones basada en evidencia.
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1xn707pDi40NoFNXVN_4NVKrodLtDMCc3/preview" width="100%" height="480" allowfullscreen></iframe>

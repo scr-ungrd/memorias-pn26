@@ -1,0 +1,30 @@
+---
+title: Modelo de intervención en gestión del riesgo de desastres desde la salud pública para fortalecer la respuesta a emergencias en los municipios de Córdoba
+author:
+- name: Yeshayah Yisrael David Hoyos Berrocal
+  affiliations:
+    - name: Montería, Córdoba, Colombia
+  corresponding: true
+  email: davidyisraelhoyos@gmail.com
+keywords:
+- Gestión del riesgo
+- Emergencias
+- Desastres
+- Salud pública
+- Córdoba
+abstract: |
+  El departamento de Córdoba enfrenta una alta vulnerabilidad frente a emergencias y desastres debido a su ubicación geográfica, condiciones climáticas, presencia de cuencas hidrográficas como el río Sinú, y factores socioeconómicos que incrementan el riesgo en comunidades urbanas y rurales. Entre las principales amenazas se encuentran inundaciones, sequías, deslizamientos, incendios forestales y eventos asociados al cambio climático, lo que evidencia debilidades en la planificación territorial, la capacidad de respuesta institucional y la articulación intersectorial en todos sus municipios.
+
+  El objetivo del presente plan es diseñar un modelo integral de gestión del riesgo de emergencias y desastres para el departamento de Córdoba que fortalezca la prevención, preparación, respuesta y recuperación, garantizando la protección de la vida, la salud pública y los medios de subsistencia de la población en todos sus municipios.
+
+  La metodología se basa en un enfoque mixto, integrando análisis documental, caracterización territorial del riesgo, revisión de capacidades institucionales locales y participación comunitaria. Se plantea una intervención estructurada en cuatro componentes: conocimiento del riesgo (identificación, análisis y monitoreo), reducción del riesgo (medidas estructurales y no estructurales), manejo de desastres (protocolos de respuesta, rutas de evacuación, fortalecimiento de brigadas y sistemas de alerta temprana) y gobernanza (articulación entre entidades territoriales, sector salud, organismos de socorro y comunidad). Además, se incorporan herramientas de planificación como mapas de riesgo municipales, simulacros, capacitación en primeros auxilios y estrategias de comunicación del riesgo.
+
+  Como resultados, se identifican brechas significativas en la capacidad operativa de algunos municipios, limitada disponibilidad de recursos técnicos y humanos, y deficiencias en la cultura de prevención. Sin embargo, también se evidencian oportunidades como la existencia de estructuras básicas de gestión del riesgo, el potencial de articulación con el sector salud pública y la disposición comunitaria para participar en procesos de capacitación. El plan permite establecer rutas claras de acción, protocolos estandarizados y mecanismos de coordinación interinstitucional que mejoran la eficiencia en la respuesta ante eventos adversos.
+
+  Se concluye que el fortalecimiento de la gestión del riesgo en Córdoba requiere una intervención integral, sostenida y basada en evidencia, que priorice la prevención y la preparación sobre la respuesta reactiva. Se recomienda consolidar políticas públicas que integren la gestión del riesgo con la salud pública, la planificación territorial y el desarrollo sostenible, así como garantizar inversión en infraestructura resiliente, formación del talento humano y sistemas de información.
+categories:
+- Preparación y recuperación oportuna
+- Datos, modelación, IA, innovación social y herramientas digitales
+---
+
+**Perfil quién presenta el trabajo:** Yeshayah Yisrael David Hoyos, especialista en higiene y seguridad industrial, con formación en primeros auxilios y planes de emergencia avalada por la Cruz Roja. Licenciado en educación física, recreación y deporte, y estudiante de maestría en Salud Pública. Orientado a la prevención de riesgos, seguridad y trabajo comunitario.

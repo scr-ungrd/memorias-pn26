@@ -1,0 +1,41 @@
+---
+title: "Sistemas de conocimientos indígenas en la planificación para la gestión del riesgo de desastres"
+---
+
+## Nota conceptual
+
+:::{#tabla-se05-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Sistemas de conocimientos indígenas en la planificación para la gestión del riesgo de desastres |
+| **Organización anfitriona** | Mesa Permanente de Concertación (MPC) — Organizaciones Indígenas Nacionales: AICO, AISO, CIT, CRIC, Gobierno Mayor, ONIC, OPIAC |
+| **Contacto principal** | Emerson Mopan — grd@cric-colombia.org |
+| **Suplente** | Designado del equipo técnico MPC |
+| **Organización Co-Anfitriona** | UNGRD — Subdirección |
+| **Contacto principal** | Julián Camilo Arana Moreno |
+| **Suplente** | Dalia Sanabria |
+| **Punto Focal UNGRD** | Willington Rocha Leon |
+:::
+
+<style>
+#tabla-se05-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-se05-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-se05-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Sesión temática de cuatro horas (media jornada) desarrollada en tres momentos: (1) Presentación de los avances de los procesos en sus dimensiones culturales, técnicas y políticas, evidenciando cómo el enfoque indígena aporta a los procesos de conocimiento, reducción y manejo del riesgo desde una visión cultural y territorial; (2) Espacios de diálogo que propicien la articulación y armonización de los instrumentos de planificación indígenas; (3) Plenaria — socialización de los aportes e insumos generados en las mesas de trabajo para fortalecer la planificación de la GRD en el SNGRD. |
+| Objetivo(s) | Visibilizar los sistemas de conocimientos de los pueblos indígenas en la agenda de la Plataforma Nacional de GRD, garantizando que los instrumentos normativos, los avances del Plan Nacional Indígena de Gestión del Riesgo de Desastres (PNIGRD) y el Modelo de Gestión Intercultural Indígena para la gestión del riesgo en la Amazonía Colombiana, se integren de manera efectiva en el diseño y ejecución de la política pública del SNGRD. <br><br> Socializar los avances técnicos, metodológicos y políticos del PNIGRD y del Modelo de Gestión Intercultural Indígena para la GRD en la Amazonía Colombiana. <br><br> Presentar los lineamientos estructurales de los instrumentos normativos indígenas en gestión del riesgo. <br><br> Fortalecer el diálogo intercultural entre pueblos indígenas y actores del SNGRD. <br><br> Identificar oportunidades de articulación institucional y fortalecimiento de capacidades. |
+| Resultado(s) medible(s) | Documento síntesis con los principales aportes de los pueblos indígenas a la política pública de GRD y recomendaciones para la incorporación del enfoque diferencial indígena en el SNGRD. <br><br> Registro de interacciones y actores institucionales interesados en articulación. <br><br> Alianzas estratégicas potenciales identificadas. |
+| Descripción general | La participación de las organizaciones indígenas en la Plataforma Nacional de GRD se configura como un escenario estratégico de incidencia, diálogo y posicionamiento político, en el marco del proceso de formulación del Plan Nacional Indígena de Gestión del Riesgo de Desastres (PNIGRD) y del Modelo de Gestión Intercultural Indígena para la gestión del riesgo en la Amazonía Colombiana. Esta propuesta, construida de manera conjunta por las siete organizaciones indígenas nacionales en el marco de la Mesa Permanente de Concertación, representa una apuesta por el reconocimiento de los sistemas propios de conocimiento, gobierno y gestión territorial como pilares fundamentales para la gestión del riesgo en Colombia. La sesión busca fortalecer la articulación entre las autoridades indígenas y las instituciones, contribuyendo a una gestión del riesgo más incluyente, intercultural y coherente con la diversidad territorial del país. |
+| Enfoque(s) y eje(s) transversal(es) | **Enfoques:** A. Comunidades de aprendizaje y participación · B. Planeación y ordenamiento que incorpora la GRD <br> **Eje transversal:** Adaptación al Cambio Climático desde el enfoque de Eco-Reducción (EcoRRD) |
+| Preguntas | ¿Cómo incorporar de manera efectiva el enfoque indígena en los instrumentos del SNGRD? <br> ¿Qué elementos del PNIGRD y el Modelo de Gestión Intercultural Indígena para la GRD en la Amazonía Colombiana pueden fortalecer la política pública nacional de gestión del riesgo? ¿Cómo se articulan al SNGRD? <br> ¿Cómo avanzar en la articulación entre sistemas propios indígenas y estructuras institucionales? <br> ¿Qué mecanismos permiten garantizar una participación efectiva de los pueblos indígenas en la toma de decisiones de la gestión del riesgo de desastres en los territorios? |
+| Conferencistas y/o facilitadores | Emerson Mopán — delegado de las 7 organizaciones indígenas nacionales (AICO, AISO, CIT, CRIC, Gobierno Mayor, ONIC, OPIAC), PNIGRD <br><br> Ana Raquel Cano Polania — delegada de la OPIAC, Modelo de Gestión Intercultural Indígena para la GRD en la Amazonía Colombiana |
+:::

@@ -1,0 +1,47 @@
+---
+title: "Sesión paralela 16. Riesgo NATECH en Colombia: gobernanza público-privada para la reducción de riesgos complejos y sistémicos"
+---
+
+## Nota conceptual
+
+:::{#tabla-sp16-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Riesgo NATECH en Colombia: gobernanza público-privada para la reducción de riesgos complejos y sistémicos |
+| **Organización anfitriona** | Responsabilidad Integral |
+| **Contacto principal** | Yezid Niño |
+| **Suplente** |  |
+| **Organización Co-Anfitriona** | Ecopetrol |
+| **Contacto principal** | Felipe Muñoz |
+| **Suplente** |  |
+| **Punto Focal UNGRD** | María Camila Suárez |
+:::
+
+<style>
+#tabla-sp16-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-sp16-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-sp16-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Sesión temática presencial con metodología combinada: conferencia magistral (Keynote), panel de discusión multisectorial y espacio interactivo para diálogo con el público y construcción de mensajes clave. |
+| Objetivo(s) | 1. Analizar el estado actual del riesgo NATECH en Colombia y su visibilidad dentro del Sistema Nacional de Gestión del Riesgo de Desastres. <br><br> 2. Promover la incorporación explícita del riesgo NATECH en las políticas públicas, instrumentos de planificación de la GRD y el ordenamiento territorial a nivel nacional y territorial. <br><br> 3. Destacar la corresponsabilidad público-privada en la gestión del riesgo NATECH y la necesidad de fortalecer capacidades conjuntas de conocimiento, reducción y preparación. <br><br> 4. Generar mensajes estratégicos que sirvan como insumo para el Manifiesto y el Informe Final de la Plataforma Nacional PN26. |
+| Resultado(s) medible(s) | Documento síntesis con mensajes clave y recomendaciones técnicas para la incorporación del riesgo NATECH en el SNGRD. Aportes concretos para el Manifiesto de la PN26, relacionados con gobernanza público-privada, riesgos compuestos y planificación territorial. Identificación de brechas normativas, técnicas y de capacidades para la gestión del riesgo NATECH en Colombia. |
+| Descripción general | El riesgo NATECH (Natural Hazard Triggering Technological Disasters) se configura cuando una amenaza de origen natural interactúa con infraestructuras, instalaciones o procesos tecnológicos e industriales, generando emergencias más complejas y encadenadas. En Colombia, los avances en gestión de amenazas naturales y regulación del riesgo tecnológico han sido abordados de forma separada; el riesgo NATECH, como fenómeno integrado y sistémico, aún no se reconoce ni incorpora explícitamente en los instrumentos de política pública ni de planificación territorial. <br><br> La sesión aborda el riesgo NATECH desde una mirada integral, resaltando la corresponsabilidad entre sector público y privado. A través de una conferencia magistral y un panel multisectorial, se discutirá el estado actual del riesgo NATECH en Colombia, la suficiencia de instrumentos existentes como la Ley 1523 de 2012, el Decreto 2157 y el Programa de Prevención de Accidentes Mayores (PPAM), y las oportunidades para fortalecer capacidades de respuesta especializada en empresas y organismos operativos. |
+| Enfoque(s) y Eje(s) transversal(es) | **Enfoques:** Planeación y ordenamiento que incorpora la GRD. Preparación y recuperación oportuna. <br><br> **Ejes transversales:** Ciencia, tecnología e innovación (análisis de riesgos compuestos, modelación, escenarios complejos). Adaptación al Cambio Climático desde el enfoque de Eco-Reducción (Eco-RRD). |
+| Preguntas | ¿Cuál es el estado actual del riesgo NATECH en Colombia y qué tan visible es dentro del SNGRD? <br> ¿Son suficientes los instrumentos de política pública y regulación existentes para abordar el riesgo NATECH de manera integral? <br> ¿Cómo fortalecer la articulación público-privada para la reducción, preparación y respuesta frente a emergencias NATECH? <br> ¿Cómo integrar el riesgo NATECH en la planificación de la GRD y el ordenamiento territorial a nivel nacional y territorial? <br> ¿Qué capacidades diferenciadas se requieren en empresas y organismos de respuesta para enfrentar este tipo de riesgos complejos? |
+| Conferencistas y/o facilitadores | **Keynote:** María Camila Suárez Piba — Experta en riesgo NATECH y riesgos tecnológicos y sistémicos <br><br> **Panelistas:** Ana Milena Prada — Subdirectora de Conocimiento del Riesgo, UNGRD · Representante sector empresarial (ANDI o Consejo Colombiano de Seguridad) · Representante sector minero-energético, Grupo Ecopetrol · Representante UNDRR — Enfoque del riesgo NATECH en el Marco de Sendai |
+:::
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1ALd4pOuj1_kX4GCgdLwiwpxaNMk5SWYI/preview" width="100%" height="480" allowfullscreen>
+
+</iframe>

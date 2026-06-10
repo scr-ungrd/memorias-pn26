@@ -1,0 +1,47 @@
+---
+title: "Oportunidades para la integración del conocimiento del riesgo sísmico en la GRD territorial"
+---
+
+## Nota conceptual
+
+:::{#tabla-st02-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Oportunidades para la integración del conocimiento del riesgo sísmico en la GRD territorial |
+| **Organización anfitriona** | Servicio Geológico Colombiano |
+| **Contacto principal** | Mónica Arcila |
+| **Suplente** | Miguel Mora |
+| **Organización Co-Anfitriona** | Unidad Nacional para la Gestión del Riesgo de Desastres |
+| **Contacto principal** | Mauricio Romero |
+| **Suplente** | Jairo Valcárcel |
+| **Punto Focal UNGRD** | Mauricio Romero |
+:::
+
+<style>
+#tabla-st02-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-st02-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-st02-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Sesión paralela, panel de expertos con apoyo audiovisual (duración 1 hora máximo). El moderador presentará un breve contexto de los objetivos y proyectos en el PNGRD y de los avances en la evaluación de la amenaza y riesgo sísmico. A continuación se abre el panel de discusión entre representantes de la academia, territorios, la UNGRD y el SGC, con preguntas específicas por experticia que marcan los ejes de discusión. |
+| Objetivo(s) | Identificar oportunidades para abordar la integración del conocimiento del riesgo sísmico en la GRD territorial en el corto, mediano y largo plazo. <br><br> 1. Identificar las oportunidades de mejora de la información generada en el MNRS y la plataforma de difusión para su incorporación efectiva en la GRD de los territorios. <br><br> 2. Identificar dificultades en lo sectorial y territorial para la apropiación e integración del conocimiento. <br><br> 3. Debatir sobre las oportunidades de la academia como ente técnico para la GRD en los territorios. <br><br> 4. Establecer acciones específicas en el corto, mediano y largo plazo para avanzar en el conocimiento del riesgo y en la integración del conocimiento en la GRD. |
+| Resultado(s) medible(s) | Resumen de las discusiones sostenidas en la sesión. |
+| Descripción general | El país ha avanzado en el conocimiento de la amenaza y riesgo sísmico, produciendo información, herramientas públicas y abiertas. No obstante, existen dificultades técnicas, operativas y administrativas para transformar ese conocimiento en acciones concretas en los territorios. La sesión busca identificar esas oportunidades y proponer acciones para abordarlas a través del diálogo entre representantes de la academia, los territorios, la UNGRD y el SGC. |
+| Enfoque(s) y eje(s) transversal(es) | |
+| Preguntas | |
+| Conferencistas y/o facilitadores | |
+:::
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1BC7wmhP2REUCiLRDkxOnxXAurV1QU3iT/preview" width="100%" height="480" allowfullscreen>
+
+</iframe>

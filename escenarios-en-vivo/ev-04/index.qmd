@@ -1,0 +1,40 @@
+---
+title: "Plataforma Web Puntos Críticos: Una herramienta digital para la Gestión de Riesgo de Desastres en el Departamento del Atlántico"
+author:
+- name: Sebástian Andrés Narváez Salcedo
+  affiliations:
+    - name: Corporación Autónoma Regional del Atlántico – C.R.A., Barranquilla, Colombia
+  corresponding: true
+  email: profesionalsgcc@crautonoma.gov.co
+- name: Ayari María Rojano Marín
+  affiliations:
+    - name: Corporación Autónoma Regional del Atlántico – C.R.A., Barranquilla, Colombia
+- name: Nairo David Tarazona Buitrago
+  affiliations:
+    - name: Corporación Autónoma Regional del Atlántico – C.R.A., Barranquilla, Colombia
+keywords:
+- Gestión del riesgo
+- Puntos críticos
+- Plataforma web
+- Prevención de desastres
+- Atlántico
+abstract: |
+  El departamento del Atlántico enfrenta diversos fenómenos amenazantes que generan puntos críticos con impactos sobre comunidades, infraestructura y ecosistemas, evidenciando la necesidad de mejorar el acceso a información oportuna y confiable para la gestión del riesgo. En este contexto, la Corporación Autónoma Regional del Atlántico (C.R.A.) desarrolló una iniciativa orientada a fortalecer el conocimiento territorial y apoyar la toma de decisiones.
+
+  El objetivo del proyecto es implementar una plataforma web que permita la consulta y captura de información sobre puntos críticos asociados a fenómenos amenazantes, facilitando su identificación, monitoreo y análisis por parte de actores institucionales y usuarios del territorio.
+
+  La metodología se basa en el desarrollo de una herramienta digital interactiva que integra la recopilación de datos georreferenciados, la participación de usuarios para el reporte de eventos y la visualización de información en tiempo real. Este enfoque promueve la articulación entre entidades, el uso de tecnologías de información geográfica y la actualización continua de datos relevantes para la gestión del riesgo.
+
+  Como resultado, se dispone de una plataforma que centraliza información clave sobre puntos críticos, mejora la accesibilidad a datos territoriales y fortalece la capacidad de respuesta y prevención ante posibles emergencias. Asimismo, se fomenta la participación y el flujo de información entre diferentes niveles de gestión.
+
+  En conclusión, la iniciativa contribuye a una gestión del riesgo más preventiva, informada y articulada. Se recomienda su fortalecimiento mediante la integración con otros sistemas de información, la ampliación de su cobertura y el impulso de políticas públicas que promuevan el uso de herramientas digitales para la reducción del riesgo de desastres.
+categories:
+- Comunidades de aprendizaje y participación
+- Datos, modelación, IA, innovación social y herramientas digitales
+---
+
+**Perfil quién presenta el trabajo:** Geólogo y desarrollador con experiencia en gestión de riesgo, recurso hídrico, sensores remotos, inteligencia artificial y desarrollo web.
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1yxke4FxqbvIuQmSCnyPept6JwcU7mp_c/preview" width="100%" height="480" allowfullscreen></iframe>

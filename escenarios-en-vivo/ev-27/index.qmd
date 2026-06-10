@@ -1,0 +1,15 @@
+---
+title: Fortalecimiento del monitoreo y la gestión de sequías en La Guajira (PROGESS)
+author:
+- name: Pier Maquilon
+  affiliations:
+    - name: Centro Internacional para la Investigación del Fenómeno de El Niño (CIIFEN), Guayaquil-Quito, Ecuador
+  corresponding: true
+- name: Kiana Valbuena Mejia
+  affiliations:
+    - name: Corporación Autónoma Regional de La Guajira (Corpoguajira), Riohacha, Colombia
+---
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1IByaDmoP8hBPazLGdRzsHLgHk0etcPKN/preview" width="100%" height="480" allowfullscreen></iframe>

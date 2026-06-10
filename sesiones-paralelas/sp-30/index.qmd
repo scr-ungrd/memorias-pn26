@@ -1,0 +1,41 @@
+---
+title: "Sesión paralela 30. El colapso climático y ambiental en Colombia: Diagnóstico para una resiliencia territorial sostenible"
+---
+
+## Nota conceptual
+
+:::{#tabla-sp30-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | El colapso climático y ambiental en Colombia: Diagnóstico para una resiliencia territorial sostenible |
+| **Organización anfitriona** | Universidad de Ciencias Aplicadas y Ambientales U.D.C.A. |
+| **Contacto principal** | María Camila Lesmes Parra |
+| **Suplente** | Ángela María Avella Vargas |
+| **Organización Co-Anfitriona** |  |
+| **Contacto principal** |  |
+| **Suplente** |  |
+| **Punto Focal UNGRD** | César Mauricio Serna Yepes |
+:::
+
+<style>
+#tabla-sp30-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-sp30-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-sp30-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Sesión paralela. Presentación. |
+| Objetivo(s) | **Objetivo general:** Identificar lineamientos ambientales para la resiliencia territorial sostenible en Colombia. <br><br> **Objetivos específicos:** Contrastar los resultados de las investigaciones realizadas en el marco de la Red de Investigadores del Cambio Climático de las Américas (RICCA). Fomentar la transferencia de conocimiento entre la academia (RICCA) y los actores involucrados en la implementación de modelos de gestión del riesgo. |
+| Resultado(s) medible(s) | Generación de conocimiento, fortalecimiento institucional, articulación y aplicación práctica, incluyendo: producción de documentos técnicos o académicos derivados de la compilación de investigaciones; elaboración de diagnósticos territoriales que integren variables climáticas, sociales y ambientales; lineamientos o recomendaciones adoptadas por instituciones; alianzas interinstitucionales o redes activadas; y formulación o ajuste de estrategias locales de resiliencia basadas en los lineamientos presentados. |
+| Descripción general | La sesión se articula principalmente con las Prioridades 1 (Comprender el riesgo) y 2 (Fortalecer la gobernanza) del Marco de Sendai 2015–2030, así como con los pilares del "Enfoque multiamenaza y sistémico" y la "Cooperación regional y subregional" del Plan de Acción Regional para la implementación del Marco de Sendai en las Américas. <br><br> La propuesta constituye un importante aporte para la comprensión del riesgo desde un enfoque multiamenaza y sistémico, a partir de la compilación de investigaciones realizadas en diferentes países del continente americano sobre los riesgos de desastres y el cambio climático, bajo la dirección de la red de cooperación internacional RICCA, lo cual resalta la importancia del trabajo colaborativo para atender problemas globales con iniciativas locales. <br><br> La presentación reúne lineamientos para fortalecer la resiliencia territorial de manera sostenible, un concepto clave para la gobernanza del riesgo y la articulación con los demás actores involucrados en el proceso. |
+| Enfoque(s) y Eje(s) transversal(es) | **Enfoques:** Comunidades de aprendizaje y participación. Planeación y ordenamiento que incorpora la GRD. <br><br> **Eje transversal:** Ciencia, tecnología e innovación: datos, modelación, inteligencia artificial, innovación social y herramientas digitales. |
+| Preguntas | ¿Qué lineamientos derivados del diagnóstico climático y ambiental de Colombia permiten orientar la actualización de los planes municipales y departamentales de gestión del riesgo hacia una resiliencia territorial sostenible? <br> ¿Cuáles de los hallazgos de la red RICCA en América son directamente transferibles al contexto colombiano, y qué condiciones territoriales, institucionales o normativas facilitarían o limitarían su adopción? <br> ¿Qué brechas concretas de articulación existen entre la academia, los Consejos Territoriales de Gestión del Riesgo y las comunidades en Colombia, y cómo puede la evidencia científica de RICCA contribuir a cerrarlas? <br> ¿Qué mecanismos concretos de cooperación entre Colombia y los países miembros de RICCA pueden institucionalizarse para fortalecer el conocimiento del riesgo y la resiliencia territorial? |
+| Conferencistas y/o facilitadores | **Oscar Luis Pyszczek** — Coordinador de la Red RICCA; Director Doctorado en Ciencias de la Sostenibilidad, U.D.C.A.; Posdoctor en Ciencias Humanas y Sociales, UBA; doctor en Geografía y magíster en Antropología Social <br><br> **María Camila Lesmes** — Ingeniera Geógrafa y Ambiental; docente especializada en SIG e investigadora, Facultad de Ciencias Ambientales y de la Sostenibilidad, U.D.C.A.; coordinadora de la Especialización en Gestión de Riesgos Climáticos |
+:::

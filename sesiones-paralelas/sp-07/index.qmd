@@ -1,0 +1,47 @@
+---
+title: "Sesión paralela 7. ¿Por qué y en dónde ocurren las avenidas torrenciales? Priorización de cuencas para estudios básicos de amenaza por avenidas torrenciales"
+---
+
+## Nota conceptual
+
+:::{#tabla-sp07-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | ¿Por qué y en dónde ocurren las avenidas torrenciales? Priorización de cuencas para estudios básicos de amenaza por avenidas torrenciales |
+| **Organización anfitriona** | Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD) |
+| **Contacto principal** | Joana Pérez Betancourt |
+| **Suplente** | Miguel Ángel Vanegas Ramos |
+| **Organización Co-Anfitriona** | No aplica |
+| **Contacto principal** | No aplica |
+| **Suplente** | No aplica |
+| **Punto Focal UNGRD** | Joana Pérez Betancourt |
+:::
+
+<style>
+#tabla-sp07-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-sp07-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-sp07-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Sesión paralela combinada. Presentación técnica de 20 minutos sobre los resultados nacionales de priorización, seguida de espacio de preguntas del público de 15 minutos para abordar la aplicabilidad de estos datos en los instrumentos de planificación de gestión del riesgo de desastres. |
+| Objetivo(s) | Presentar el esquema metodológico para la identificación de áreas de estudio a nivel municipal frente a avenidas torrenciales. <br><br> Socializar los resultados de la priorización nacional, destacando las 193 cuencas de prioridad alta identificadas según criterios de impacto social y de infraestructura. <br><br> Fomentar la integración de estos estudios básicos de amenaza en los planes municipales de gestión del riesgo y ordenamiento territorial. |
+| Resultado(s) medible(s) | Socialización del documento de Priorización de cuencas para estudios básicos de amenaza por avenidas torrenciales, para que los coordinadores territoriales utilicen la delimitación de las 586 cuencas priorizadas como insumo para los estudios básicos de amenaza. <br><br> Al menos 3 interacciones con el público de la sesión. |
+| Descripción general | Esta sesión expone el análisis de 1.640 eventos de emergencias por avenidas torrenciales registrados entre 1921 y 2021. La Subdirección para el Conocimiento del Riesgo (UNGRD) delimitó cuencas aferentes a 586 cabeceras municipales, clasificando la prioridad (Alta, Media, Baja) según el impacto en personas fallecidas, viviendas destruidas y acueductos afectados. El enfoque central es proporcionar una base técnica para que los departamentos más afectados, como Antioquia (247 eventos) y Huila (126 eventos), orienten sus inversiones de manera efectiva. |
+| Enfoque(s) y eje(s) transversal(es) | **Enfoque B:** Planeación y ordenamiento que incorpora la Gestión del Riesgo de Desastres. <br> **Eje transversal:** Ciencia, tecnología e innovación (uso de sistemas de información geográfica y datos históricos de desastres). |
+| Preguntas | ¿Cómo puede la evidencia histórica de emergencias guiar la priorización técnica de recursos para estudios de amenaza por avenida torrencial? <br> ¿Qué criterios de impacto son determinantes para declarar la prioridad de una cuenca en el ordenamiento territorial? |
+| Conferencistas y/o facilitadores | **Miguel Ángel Vanegas Ramos** — Ingeniero Civil y Magíster en Ingeniería Recursos Hidráulicos, Subdirección para el Conocimiento del Riesgo, UNGRD <br> **Joana Pérez Betancourt** — Ingeniera en recursos hídricos y gestión ambiental, Máster en Política Pública y Servicios Sociales, Subdirección para el Conocimiento del Riesgo, UNGRD |
+:::
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1mcME99vqF14YIJVK0jTwBCkUwjQ6lInk/preview" width="100%" height="480" allowfullscreen>
+
+</iframe>

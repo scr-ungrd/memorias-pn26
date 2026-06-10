@@ -1,0 +1,47 @@
+---
+title: "Sesión paralela 22. Del dato a la decisión: IA para la gestión del riesgo"
+---
+
+## Nota conceptual
+
+:::{#tabla-sp22-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Del dato a la decisión: IA para la gestión del riesgo |
+| **Organización anfitriona** | 3IS |
+| **Contacto principal** | Xitong Zhang |
+| **Suplente** | Carlos Puentes |
+| **Organización Co-Anfitriona** | Cruz Roja Colombiana |
+| **Contacto principal** | Lina Marlena Dorado González |
+| **Suplente** |  |
+| **Punto Focal UNGRD** | Mauricio Romero Torres |
+:::
+
+<style>
+#tabla-sp22-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-sp22-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-sp22-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Conversatorio tipo panel con cuatro panelistas y una persona moderadora. A través de preguntas orientadoras se abordan escenarios de análisis que facilitan un diálogo dinámico, con espacios para interacción con el público. |
+| Objetivo(s) | 1. Explorar las oportunidades y desafíos del uso de inteligencia artificial en la gestión del riesgo de desastres, especialmente en la transformación de datos en información útil para la toma de decisiones. <br><br> 2. Fomentar el diálogo entre actores del Sistema Nacional de Gestión del Riesgo de Desastres, academia y sector tecnológico, identificando puntos de convergencia para el uso de herramientas basadas en datos e inteligencia artificial. <br><br> 3. Discutir experiencias, casos y escenarios donde la inteligencia artificial puede aportar a mejorar procesos de análisis, monitoreo y respuesta ante eventos de riesgo. <br><br> 4. Identificar recomendaciones y orientaciones preliminares para el fortalecimiento del uso de inteligencia artificial en la gestión del riesgo de desastres en el país. |
+| Resultado(s) medible(s) | Documento técnico breve que recoja las principales reflexiones, aprendizajes y aportes de los panelistas y participantes, orientado a identificar oportunidades, desafíos y recomendaciones para el uso de la inteligencia artificial en la gestión del riesgo de desastres en Colombia. |
+| Descripción general | La sesión "Del dato a la decisión: IA para la gestión del riesgo" se articula directamente con las prioridades del Marco de Sendai 2015–2030, al promover el uso estratégico de datos e inteligencia artificial para fortalecer la comprensión del riesgo, la gobernanza, la inversión en resiliencia y la preparación para la respuesta. <br><br> Contribuye a la **Prioridad 1** (Comprender el riesgo) al explorar cómo la IA permite integrar grandes volúmenes de información de múltiples fuentes (datos satelitales, registros históricos, información territorial) para mejorar el análisis de amenazas, exposición y vulnerabilidad. Se vincula con la **Prioridad 2** (Fortalecer la gobernanza) al promover el diálogo interinstitucional entre el SNGRD, la academia y el sector tecnológico. Aporta a la **Prioridad 3** (Invertir en resiliencia) al visibilizar el potencial de la IA como habilitador de inversiones más eficientes y focalizadas basadas en evidencia. Contribuye a la **Prioridad 4** (Mejorar la preparación) al analizar cómo estas tecnologías pueden fortalecer los sistemas de monitoreo, alerta y respuesta. <br><br> En el contexto regional, la sesión se alinea con el Plan de Acción Regional para la Implementación del Marco de Sendai en las Américas, fomentando la innovación, la cooperación multisectorial y el fortalecimiento de capacidades para la gestión del riesgo basada en información. |
+| Enfoque(s) y Eje(s) transversal(es) | **Enfoques:** Comunidades de aprendizaje y participación. Preparación y recuperación oportuna. <br><br> **Eje transversal:** Ciencia, tecnología e innovación: datos, modelación, inteligencia artificial, innovación social y herramientas digitales. |
+| Preguntas | ¿Cómo puede la inteligencia artificial transformar los datos disponibles en insumos útiles para la toma de decisiones en la gestión del riesgo de desastres en Colombia? <br> ¿Qué capacidades, articulaciones y condiciones institucionales son necesarias para integrar el uso de inteligencia artificial en los procesos del Sistema Nacional de Gestión del Riesgo de Desastres? <br> ¿En qué procesos de la gestión del riesgo (conocimiento, reducción o manejo) la inteligencia artificial puede generar mayor valor en el contexto colombiano? |
+| Conferencistas y/o facilitadores | **Moderadora:** Xitong Zhang — Lead 3IS y PM EVIDEM <br><br> **Panelistas:** Alberto Castillo — AI Global Lead 3IS y Anticipa Project · Lina Dorado González — Líder de Gestión del Riesgo de Desastres, Cruz Roja Colombiana · Yull Fernando Salcedo — Director de Ventas Gobierno, Líder en Estrategia Geoespacial, Esri Colombia |
+:::
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1bVo5exfXhTwMlLlRzNUBrV3ulHa_hb2d/preview" width="100%" height="480" allowfullscreen>
+
+</iframe>

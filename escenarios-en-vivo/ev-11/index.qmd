@@ -1,0 +1,25 @@
+---
+title: Fortalecimiento comunitario para la gestión del riesgo de desastres
+author:
+- name: Gustavo Alfonso Peña de la Rosa
+  affiliations:
+    - name: Pasacaballos, Cartagena de Indias, Colombia
+  corresponding: true
+  email: gustavoa19pe@gmail.com
+keywords:
+- Gestión del riesgo
+- Resiliencia comunitaria
+- Prevención de desastres
+- Participación ciudadana
+- Vulnerabilidad
+abstract: |
+  La gestión del riesgo de desastres se ha convertido en un desafío prioritario en territorios vulnerables como las comunidades costeras y rurales de Cartagena, donde factores como el cambio climático, la urbanización no planificada y la limitada cultura de prevención aumentan la exposición a emergencias. Este trabajo tiene como objetivo fortalecer las capacidades comunitarias para la prevención, preparación y respuesta ante desastres, promoviendo la participación activa de la población.
+
+  La metodología se basa en un enfoque comunitario participativo, que incluye procesos de sensibilización, educación en gestión del riesgo, identificación de amenazas y vulnerabilidades, así como la organización de líderes locales para la construcción de planes de acción. Como resultado, se evidenció un mayor nivel de conocimiento en la comunidad sobre los riesgos existentes, así como un fortalecimiento en la organización social y la capacidad de respuesta ante posibles emergencias.
+
+  En conclusión, la gestión del riesgo de desastres desde un enfoque comunitario resulta fundamental para reducir vulnerabilidades y proteger vidas.
+categories:
+- Comunidades de aprendizaje y participación
+---
+
+**Perfil quién presenta el trabajo:** Gustavo Alfonso Peña de la Rosa es estudiante de Derecho, líder social y gestor comunitario en Pasacaballos, Cartagena. Ha participado en procesos comunitarios orientados a la gestión del riesgo de desastres, promoviendo la participación ciudadana, la educación y la prevención.

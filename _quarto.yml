@@ -14,22 +14,177 @@ book:
     - intro.qmd
     - part: plenarias/index.qmd
       chapters:
-        - plenarias/p-01/index.qmd
-        - plenarias/p-02/index.qmd
-        - plenarias/p-03/index.qmd
-        - plenarias/p-04/index.qmd
-        - plenarias/p-05/index.qmd
+        - text: "P1. Sistemas de conocimiento en alertas tempranas"
+          href: plenarias/p-01/index.qmd
+        - text: "P2. Conectando datos: lanzamiento del SNIGRD"
+          href: plenarias/p-02/index.qmd
+        - text: "P3. Infraestructura resiliente: evidencia e inversión"
+          href: plenarias/p-03/index.qmd
+        - text: "P4. Reconstruir mejor: recuperación post-desastre"
+          href: plenarias/p-04/index.qmd
+        - text: "P5. Manejo Integral del Fuego"
+          href: plenarias/p-05/index.qmd
     - part: sesiones-tematicas/index.qmd
-      chapters: []
+      chapters:
+        - sesiones-tematicas/st-01/index.qmd
+        - sesiones-tematicas/st-02/index.qmd
+        - sesiones-tematicas/st-03/index.qmd
+        - sesiones-tematicas/st-05/index.qmd
+        - sesiones-tematicas/st-06/index.qmd
     - part: sesiones-paralelas/index.qmd
       chapters:
-        - sesiones-paralelas/sp-01/index.qmd
+        - text: "SP1. Colombia ante amenazas extraterrestres"
+          href: sesiones-paralelas/sp-01/index.qmd
+        - text: "SP2. Alertas por ciclones tropicales: innovación operativa"
+          href: sesiones-paralelas/sp-02/index.qmd
+        - text: "SP4. Continuidad de operaciones ante desastres"
+          href: sesiones-paralelas/sp-04/index.qmd
+        - text: "SP5. Educación en gestión del riesgo a lo largo de la vida"
+          href: sesiones-paralelas/sp-05/index.qmd
+        - text: "SP6. Escuelas resilientes: GRD y educación en emergencias"
+          href: sesiones-paralelas/sp-06/index.qmd
+        - text: "SP7. Priorización de cuencas por avenidas torrenciales"
+          href: sesiones-paralelas/sp-07/index.qmd
+        - text: "SP8. Hospitales resilientes ante emergencias"
+          href: sesiones-paralelas/sp-08/index.qmd
+        - text: "SP9. Alianzas que transforman la gestión del riesgo"
+          href: sesiones-paralelas/sp-09/index.qmd
+        - text: "SP10. ¿Por qué se apagan los radares?"
+          href: sesiones-paralelas/sp-10/index.qmd
+        - text: "SP11. Riesgo y biodiversidad: resiliencia integrada"
+          href: sesiones-paralelas/sp-11/index.qmd
+        - text: "SP12. Camino hacia Tsunami Ready en Colombia"
+          href: sesiones-paralelas/sp-12/index.qmd
+        - text: "SP13. Anticipar, planificar y resistir: GRD"
+          href: sesiones-paralelas/sp-13/index.qmd
+        - text: "SP14. Gestión del riesgo en el sector agropecuario"
+          href: sesiones-paralelas/sp-14/index.qmd
+        - text: "SP15. Caribbean Sea Resilience Framework Initiative"
+          href: sesiones-paralelas/sp-15/index.qmd
+        - text: "SP16. Riesgo NATECH: gobernanza público-privada"
+          href: sesiones-paralelas/sp-16/index.qmd
+        - text: "SP17. CopernicusLAC: de la observación a la acción"
+          href: sesiones-paralelas/sp-17/index.qmd
+        - text: "SP18. Política de GRD en instituciones de educación superior"
+          href: sesiones-paralelas/sp-18/index.qmd
+        - text: "SP19. Animales y desastres: resiliencia territorial"
+          href: sesiones-paralelas/sp-19/index.qmd
+        - text: "SP20. Áreas protegidas, SINAP y riesgo climático"
+          href: sesiones-paralelas/sp-20/index.qmd
+        - text: "SP21. Semillas de resiliencia: el aula y el riesgo"
+          href: sesiones-paralelas/sp-21/index.qmd
+        - text: "SP22. Del dato a la decisión: IA para el riesgo"
+          href: sesiones-paralelas/sp-22/index.qmd
+        - text: "SP23. El Ejército Colombiano en la gestión del riesgo"
+          href: sesiones-paralelas/sp-23/index.qmd
+        - text: "SP24. Adaptación Basada en Ecosistemas (AbE) y riesgo climático"
+          href: sesiones-paralelas/sp-24/index.qmd
+        - text: "SP25. Género, datos e innovación territorial"
+          href: sesiones-paralelas/sp-25/index.qmd
+        - text: "SP27. Visión geoespacial para la transferencia del riesgo"
+          href: sesiones-paralelas/sp-27/index.qmd
+        - text: "SP28. Invertir en prevención: responsabilidad fiscal"
+          href: sesiones-paralelas/sp-28/index.qmd
+        - text: "SP29. ¿Quién paga el riesgo? Financiamiento de la resiliencia"
+          href: sesiones-paralelas/sp-29/index.qmd
+        - text: "SP30. Colapso climático en Colombia: resiliencia territorial"
+          href: sesiones-paralelas/sp-30/index.qmd
+        - text: "SP31. Supervisión basada en riesgos: servicios públicos"
+          href: sesiones-paralelas/sp-31/index.qmd
+        - text: "SP32. Territorios resilientes: política e inversión pública"
+          href: sesiones-paralelas/sp-32/index.qmd
+        - text: "SP33. Respuesta humanitaria inclusiva: mujeres y discapacidad"
+          href: sesiones-paralelas/sp-33/index.qmd
+        - text: "SP34. Espacios de paz en la ruralidad"
+          href: sesiones-paralelas/sp-34/index.qmd
+        - text: "SP35. Sistemas alimentarios resilientes: adaptación climática"
+          href: sesiones-paralelas/sp-35/index.qmd
+        - text: "SP37. Preparación ante emergencias y movilidad humana"
+          href: sesiones-paralelas/sp-37/index.qmd
+        - text: "SP38. Puentes con la Gente y para la Gente"
+          href: sesiones-paralelas/sp-38/index.qmd
     - part: sesiones-especiales/index.qmd
-      chapters: []
+      chapters:
+        - sesiones-especiales/se-01/index.qmd
+        - sesiones-especiales/se-02/index.qmd
+        - sesiones-especiales/se-03/index.qmd
+        - sesiones-especiales/se-05/index.qmd
+        - sesiones-especiales/se-06/index.qmd
+        - sesiones-especiales/se-07/index.qmd
+        - sesiones-especiales/se-08/index.qmd
+        - sesiones-especiales/se-10/index.qmd
     - part: laboratorios-de-aprendizaje/index.qmd
-      chapters: []
+      chapters:
+        - text: "LA1. Comunidades que transforman el riesgo en resiliencia"
+          href: laboratorios-de-aprendizaje/la-01/index.qmd
+        - text: "LA2. Innovación social para la participación en GRD"
+          href: laboratorios-de-aprendizaje/la-02/index.qmd
+        - text: "LA3. GRD e inclusión de personas con discapacidad"
+          href: laboratorios-de-aprendizaje/la-03/index.qmd
+        - text: "LA4. Género, datos y paz: Bootcamp GRD"
+          href: laboratorios-de-aprendizaje/la-04/index.qmd
+        - text: "LA6. Del satélite al cultivo: agricultura resiliente con WaPOR"
+          href: laboratorios-de-aprendizaje/la-06/index.qmd
+        - text: "LA7. Memorias que caben en la mano: comunicar el riesgo"
+          href: laboratorios-de-aprendizaje/la-07/index.qmd
+        - text: "LA8. Cartografía participativa para la GRD"
+          href: laboratorios-de-aprendizaje/la-08/index.qmd
+        - text: "LA9. Mesa Técnica Agroclimática para el riesgo sectorial"
+          href: laboratorios-de-aprendizaje/la-09/index.qmd
+        - text: "LA10. Explorando el SNIGRD"
+          href: laboratorios-de-aprendizaje/la-10/index.qmd
+    - part: dialogos-de-alto-nivel/index.qmd
+      chapters:
+        - dialogos-de-alto-nivel/an-01/index.qmd
+        - dialogos-de-alto-nivel/an-02/index.qmd
+        - dialogos-de-alto-nivel/an-03/index.qmd
     - part: escenarios-en-vivo/index.qmd
-      chapters: []
+      chapters:
+        - escenarios-en-vivo/ev-01/index.qmd
+        - escenarios-en-vivo/ev-02/index.qmd
+        - escenarios-en-vivo/ev-03/index.qmd
+        - escenarios-en-vivo/ev-04/index.qmd
+        - escenarios-en-vivo/ev-05/index.qmd
+        - escenarios-en-vivo/ev-06/index.qmd
+        - escenarios-en-vivo/ev-07/index.qmd
+        - escenarios-en-vivo/ev-08/index.qmd
+        - escenarios-en-vivo/ev-09/index.qmd
+        - escenarios-en-vivo/ev-10/index.qmd
+        - escenarios-en-vivo/ev-11/index.qmd
+        - escenarios-en-vivo/ev-12/index.qmd
+        - escenarios-en-vivo/ev-13/index.qmd
+        - escenarios-en-vivo/ev-14/index.qmd
+        - escenarios-en-vivo/ev-15/index.qmd
+        - escenarios-en-vivo/ev-16/index.qmd
+        - escenarios-en-vivo/ev-18/index.qmd
+        - escenarios-en-vivo/ev-19/index.qmd
+        - escenarios-en-vivo/ev-20/index.qmd
+        - escenarios-en-vivo/ev-21/index.qmd
+        - escenarios-en-vivo/ev-22/index.qmd
+        - escenarios-en-vivo/ev-23/index.qmd
+        - escenarios-en-vivo/ev-24/index.qmd
+        - escenarios-en-vivo/ev-25/index.qmd
+        - escenarios-en-vivo/ev-26/index.qmd
+        - escenarios-en-vivo/ev-27/index.qmd
+        - escenarios-en-vivo/ev-28/index.qmd
+        - escenarios-en-vivo/ev-29/index.qmd
+        - escenarios-en-vivo/ev-30/index.qmd
+        - escenarios-en-vivo/ev-31/index.qmd
+        - escenarios-en-vivo/ev-32/index.qmd
+        - escenarios-en-vivo/ev-33/index.qmd
+        - escenarios-en-vivo/ev-34/index.qmd
+        - escenarios-en-vivo/ev-35/index.qmd
+        - escenarios-en-vivo/ev-36/index.qmd
+        - escenarios-en-vivo/ev-37/index.qmd
+        - escenarios-en-vivo/ev-38/index.qmd
+        - escenarios-en-vivo/ev-39/index.qmd
+        - escenarios-en-vivo/ev-40/index.qmd
+        - escenarios-en-vivo/ev-41/index.qmd
+        - escenarios-en-vivo/ev-42/index.qmd
+        - escenarios-en-vivo/ev-43/index.qmd
+        - escenarios-en-vivo/ev-44/index.qmd
+        - escenarios-en-vivo/ev-45/index.qmd
+        - escenarios-en-vivo/ev-46/index.qmd
     - part: posters/index.qmd
       chapters: []
     - summary.qmd

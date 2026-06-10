@@ -1,0 +1,39 @@
+---
+title: Evaluación del riesgo sísmico de Antioquia
+author:
+- name: Ana B. Acevedo
+  affiliations:
+    - name: Universidad EAFIT, Medellín, Colombia
+  corresponding: true
+  email: aaceved14@eafit.edu.co
+- name: Sebastián Carrascal
+  affiliations:
+    - name: Universidad EAFIT, Medellín, Colombia
+- name: Juan F. Betancur
+  affiliations:
+    - name: Universidad EAFIT, Medellín, Colombia
+- name: Juan S. Evans
+  affiliations:
+    - name: Universidad EAFIT, Medellín, Colombia
+keywords:
+- Riesgo sísmico
+- Gestión del riesgo
+- Exposición
+- Vulnerabilidad
+abstract: |
+  Los municipios del departamento de Antioquia se encuentran ubicados en zonas de amenaza sísmica media a alta según la norma sismorresistente actual, lo que denota la necesidad de cuantificar los riesgos que esta amenaza pueda generar. La historia de sismos pasados, en donde se han registrado afectaciones humanas y económicas importantes en Antioquia, pone en evidencia la vulnerabilidad de la infraestructura.
+
+  El Departamento Administrativo de Gestión del Riesgo de Desastre de Antioquia (DAGRAN) lideró la evaluación del riesgo sísmico de las edificaciones residenciales de la zona urbana de 115 municipios (excluyendo la subregión del Valle de Aburrá), la cual fue realizada por la Universidad EAFIT. Para realizar esta evaluación se integraron modelos de amenaza sísmica y de vulnerabilidad existentes con un modelo de exposición desarrollado para Antioquia que incluye un total de 310.667 edificaciones, 1.578.999 habitantes y un costo de reposición de 64.926.072 millones de pesos colombianos. La gran mayoría de las edificaciones de la zona de estudio (77 %) son de mampostería no reforzada, las cuales carecen de ductilidad y no son apropiadas para resistir las fuerzas sísmicas.
+
+  En el estudio se realizó una evaluación probabilística del riesgo, clave para la planeación a largo plazo, que estimó el riesgo anualizado y el periodo de retorno de las afectaciones. A nivel Antioquia se estimó una pérdida económica anual esperada del 0,15 %; el número anual promedio de edificaciones con daño completo corresponde al 0,55 ‰; el número anual de fallecidos, heridos y desplazados corresponde al 0,4 ‰, 2,3 ‰ y 9,52 %, respectivamente.
+
+  Para cada municipio se seleccionaron dos escenarios de riesgo que permiten visualizar las áreas con mayores afectaciones, lo que proporciona información útil para la evaluación de medidas de reducción del riesgo y la generación de estrategias de preparación y respuesta ante sismos futuros. Para facilitar la divulgación de los resultados se generaron perfiles de riesgo y una herramienta de visualización que sirven como insumo para la toma de decisiones relacionadas con la gestión del riesgo sísmico, la planificación y la atención de emergencias.
+categories:
+- Datos, modelación, IA, innovación social y herramientas digitales
+---
+
+**Perfil quién presenta el trabajo:** Ana Beatriz Acevedo es profesora titular e investigadora de la Universidad EAFIT en Medellín, Colombia, con más de diez años de experiencia en la evaluación del riesgo. Es ingeniera civil de la Universidad Nacional de Colombia, con maestría y doctorado en ingeniería sísmica de la Universidad de Pavia, en Italia. Fue directora del sistema de alerta temprana del valle de Aburrá en el periodo 2021-2023. Actualmente es miembro de la junta directiva de la Asociación Internacional de Ingeniería Sísmica y editora de las revistas internacionales Earthquake Spectra e International Journal of Disaster Risk Reduction.
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1DbGXLHz2Guvyg3rCCvpq_2RwVDxt3gfl/preview" width="100%" height="480" allowfullscreen></iframe>

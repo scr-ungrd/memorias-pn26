@@ -1,0 +1,12 @@
+---
+title: "Los animales en la gestión del riesgo de desastres: alcances de la Ley 2474 de 2025"
+author:
+- name: Diego Almonacid Cifuentes
+  affiliations:
+    - name: Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD), Bogotá, Colombia
+  corresponding: true
+---
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1hy7vAbGacJjaOW5cPoxlW2AYB3Jsw25u/preview" width="100%" height="480" allowfullscreen></iframe>

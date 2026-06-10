@@ -1,0 +1,8 @@
+---
+title: "Gestión comunitaria del riesgo de desastres en territorios vulnerables a inundaciones: experiencia en Isla Los Milagros Tinajones"
+author:
+- name: Jaider Marrugo Villadiego
+  affiliations:
+    - name: Junta de Acción Comunal Isla Los Milagros Tinajones, San Bernardo del Viento, Córdoba, Colombia
+  corresponding: true
+---

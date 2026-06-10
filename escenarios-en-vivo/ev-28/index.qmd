@@ -1,0 +1,40 @@
+---
+title: "Gestión inclusiva del riesgo y discapacidad intelectual en la Fundación Lupines: estrategia formativa para la preparación ante emergencias"
+author:
+- name: Juan Felipe Flórez Montoya
+  affiliations:
+    - name: Politécnico Colombiano Jaime Isaza Cadavid, Medellín, Colombia
+  corresponding: true
+  email: juan_florez02082@elpoli.edu.co
+- name: Jennifer Londoño Rojo
+  affiliations:
+    - name: Politécnico Colombiano Jaime Isaza Cadavid, Medellín, Colombia
+- name: Manuel Zapata Ramírez
+  affiliations:
+    - name: Politécnico Colombiano Jaime Isaza Cadavid, Medellín, Colombia
+- name: Luis Miguel Monsalve Barrera
+  affiliations:
+    - name: Politécnico Colombiano Jaime Isaza Cadavid, Medellín, Colombia
+keywords:
+- Gestión del riesgo
+- Discapacidad intelectual
+- Preparación ante emergencias
+- Simulacros
+- Inclusión
+abstract: |
+  La preparación ante emergencias en personas con discapacidad intelectual sigue enfrentando barreras comunicativas, organizacionales y pedagógicas que limitan una respuesta segura y oportuna en contextos institucionales. En ese marco, este trabajo tuvo como objetivo evaluar el efecto de una estrategia formativa inclusiva orientada a fortalecer la preparación ante emergencias en la Fundación Lupines, en Medellín.
+
+  Se desarrolló un estudio mixto con tres componentes: una encuesta diagnóstica aplicada a 36 estudiantes con discapacidad intelectual y 26 educadores; una intervención pedagógica basada en apoyos visuales, pictogramas, modelado, análisis de tareas, repetición guiada y comunicación accesible; y una evaluación posprueba con asignación aleatoria de 30 participantes a grupo experimental y grupo control. Se compararon tiempos de evacuación y errores observados en simulacros de incendio y sismo, y se integraron hallazgos cuantitativos y cualitativos.
+
+  Los resultados mostraron una base institucional favorable, con alta participación previa en simulacros y percepción positiva de seguridad, pero también brechas en el reconocimiento funcional del punto de encuentro, la señalización, los protocolos específicos y los recursos adaptados. La intervención redujo el tiempo de evacuación en incendio en 9,3 % y en sismo en 11,9 %, con un efecto significativo y grande en el escenario sísmico. Además, se identificaron como facilitadores el reconocimiento de rutas, el trabajo en equipo y el saber qué hacer, mientras que las principales barreras estuvieron en el conteo en el punto de encuentro y la coordinación para evitar rezagos.
+
+  Se concluye que la estrategia es factible y replicable en instituciones semejantes, siempre que se acompañe de protocolos específicos, capacitación periódica, comunicación accesible y articulación interinstitucional.
+categories:
+- Comunidades de aprendizaje y participación
+---
+
+**Perfil quién presenta el trabajo:** Juan Felipe Flórez Montoya es Ingeniero en Higiene y Seguridad Ocupacional, Magíster en Cambios Globales y Riesgo de Desastres, especialista en Ingeniería Ambiental y en Sistemas Preparativos de Emergencias y Desastres, y Tecnólogo Agropecuario. Cuenta con más de 25 años de experiencia en gestión del riesgo en sectores público y privado, en contextos urbanos y rurales. Actualmente es docente líder en el Politécnico Colombiano Jaime Isaza Cadavid y fundador del semillero GRED. Es referente regional en modelos comunitarios de gestión del riesgo e inclusión de personas con discapacidad, y miembro de la Sociedad Colombiana de Gestión del Riesgo de Desastres.
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1Trh3ONk7EARulkNnPx17J1dK5xWUd5cS/preview" width="100%" height="480" allowfullscreen></iframe>

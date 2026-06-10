@@ -1,0 +1,37 @@
+---
+title: La jugada seria, juventud que está cambiando la gestión del riesgo en Colombia
+author:
+- name: Juan Castrillón
+  affiliations:
+    - name: Red de Jóvenes para la Reducción del Riesgo de Desastres de Colombia (RJRRD COL), Medellín, Colombia
+  corresponding: true
+- name: Zulma Acosta
+  affiliations:
+    - name: RJRRD COL, Bogotá, Colombia
+- name: Andrés Lemos
+  affiliations:
+    - name: RJRRD COL, Puerto Tejada, Cauca, Colombia
+- name: Indri Carrascal
+  affiliations:
+    - name: RJRRD COL, Pelaya, Colombia
+keywords:
+- Juventudes
+- Participación
+- Incidencia
+- Territorio
+- Cambio climático
+abstract: |
+  La gestión del riesgo de desastres en Colombia ha tenido históricamente una participación juvenil limitada, muchas veces simbólica. Frente a este reto, la Red de Jóvenes para la Reducción del Riesgo de Desastres de Colombia (RJRRD COL) ha construido, desde 2022, un proceso vivo que conecta formación, acción territorial e incidencia, demostrando que las juventudes no solo participan: lideran, transforman y proponen soluciones reales.
+
+  El objetivo de esta propuesta es visibilizar, de manera innovadora y cercana, los hitos más significativos de la red, evidenciando cómo la acción juvenil ha venido cambiando la forma en que se entiende y gestiona el riesgo en distintos territorios del país. La metodología se desarrolla como un escenario dinámico y participativo: a través de un dado de seis caras, cada lanzamiento activa un hito clave de la red (formación, encuentros nacionales, articulación territorial, escenarios internacionales, alianzas y acciones comunitarias), materializados en la construcción simbólica de una pirámide de cajas.
+
+  Como resultados, la red ha logrado fortalecer capacidades en jóvenes líderes, ampliar su presencia en múltiples territorios, posicionarse en espacios de diálogo e incidencia, y consolidar alianzas que potencian su impacto. Se concluye que integrar a las juventudes en los procesos de gobernanza no es opcional, sino necesario para construir territorios más resilientes. Se recomienda a los tomadores de decisión fortalecer mecanismos de participación incidente, abrir espacios formales para la juventud en la planificación y gestión del riesgo, y reconocer a las redes juveniles como aliadas estratégicas.
+categories:
+- Comunidades de aprendizaje y participación
+---
+
+**Perfil quién presenta el trabajo:** Zulma Acosta: Tecnóloga en Salud Ocupacional, Profesional en Salud Ocupacional, con más de 10 años de experiencia en el área. Especialista en prevención, reducción y atención de desastres, actualmente voluntaria de Cruz Roja Colombiana. Participa con el rol de oficial estratégica de la RJRRD COL desde 2024.
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1EzSpcqFtv_CfMNHrKQwctjwat29jC7dk/preview" width="100%" height="480" allowfullscreen></iframe>

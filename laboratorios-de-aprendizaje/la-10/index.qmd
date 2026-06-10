@@ -1,0 +1,41 @@
+---
+title: "Laboratorio de Aprendizaje 10. Explorando el SNIGRD"
+---
+
+## Nota conceptual
+
+:::{#tabla-la10-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Laboratorio de Aprendizaje: Explorando el SNIGRD |
+| **Organización anfitriona** | UNGRD |
+| **Contacto principal** | Laura Alejandra Castillo Pedraza — laura.castillo@gestiondelriesgo.gov.co |
+| **Punto Focal UNGRD** | Gina Velásquez |
+:::
+
+<style>
+#tabla-la10-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-la10-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-la10-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Laboratorio de aprendizaje. Sesión guiada desde tarima, centrada en la presentación del portal del SNIGRD y la demostración en vivo de sus implementaciones. Módulos presentados: Módulo de Fuentes de Financiación, Módulo de PNGRD, y Geoportal (experto: Steven Mora). Los participantes siguen las demostraciones desde sus propios dispositivos con guía paso a paso. |
+| Objetivo(s) | Presentar de manera práctica y demostrativa los aplicativos desarrollados por la UNGRD (Módulo de Fuentes de Financiación, Módulo de PNGRD y Geoportal) para apoyar la GRD en sus diferentes componentes. <br><br> Facilitar que los actores del SNGRD interactúen directamente con las herramientas digitales para identificar su potencial de uso en los niveles territorial, sectorial y nacional. <br><br> Recoger realimentación técnica de los usuarios sobre funcionalidades, usabilidad y necesidades adicionales. |
+| Resultado(s) medible(s) | Registro de asistentes que interactuaron con cada uno de los aplicativos durante la sesión. Realimentación de los participantes con valoración de cada herramienta en términos de utilidad, usabilidad y potencial de adopción. Informe de resultados del laboratorio incorporado en el Informe Final de la PN26. |
+| Descripción general | Colombia enfrenta la necesidad urgente de fortalecer los sistemas de información y capacidades tecnológicas del SNGRD, como condición habilitante para avanzar en la implementación del Marco de Sendai (prioridades 1 y 4). La UNGRD ha impulsado el desarrollo de diversas soluciones tecnológicas orientadas a apoyar procesos misionales del sistema, facilitar la gestión de la información y mejorar la toma de decisiones en los diferentes niveles territoriales. El laboratorio es un espacio práctico e interactivo donde los asistentes conocen estas herramientas de primera mano, comprenden sus funcionalidades y exploran su aplicación en contextos locales, departamentales y nacionales. Se incluyen demostraciones en vivo, exploración guiada de prototipos funcionales y recolección de retroalimentación. |
+| Enfoque(s) y eje(s) transversal(es) | **A. Comunidades de aprendizaje y participación** — el laboratorio promueve el intercambio de saberes técnicos y fortalece capacidades institucionales para el uso de herramientas digitales en GRD. <br> **C. Territorialización y financiamiento de la GRD** — soluciones tecnológicas orientadas a planeación, inversión y gestión de recursos. <br> **Eje — Ciencia, tecnología e innovación:** uso estratégico de la información e interoperabilidad de sistemas. |
+| Preguntas | ¿Cómo las herramientas del SNIGRD mejoran la comprensión del riesgo y apoyan la toma de decisiones en los niveles territorial, sectorial y nacional? <br> ¿Qué necesidades de mejora identifican los usuarios de los aplicativos del SNIGRD para fortalecer su adopción? |
+| Conferencistas y/o facilitadores | **Laura Alejandra Castillo Pedraza** — Chairman y moderadora, UNGRD. <br> **Steven Mora** — Geoportal, UNGRD. <br> Experto en Módulo de Fuentes de Financiación (pendiente por definir). <br> Experto en Módulo de PNGRD (pendiente por definir). |
+:::
+
+## Diapositivas de la sesión
+
+*Diapositivas no disponibles.*

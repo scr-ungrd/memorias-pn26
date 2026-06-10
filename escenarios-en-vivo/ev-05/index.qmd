@@ -1,0 +1,11 @@
+---
+title: Estrategia de recuperación de la comunidad Raizal Ubicada en el sector de Casa Baja y Bahía Agua Mansa de la isla de providencia
+author:
+- name: Heidy Hernandez Ramirez
+  affiliations:
+    - name: UNGRD-SRR
+---
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1BSu-YAuqw8H1aP0lGzsjXsCe4iKlYPTm/preview" width="100%" height="480" allowfullscreen></iframe>

@@ -1,0 +1,47 @@
+---
+title: "Sesión paralela 5. Educación en gestión del riesgo a lo largo de la vida"
+---
+
+## Nota conceptual
+
+:::{#tabla-sp05-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Educación en gestión del riesgo a lo largo de la vida |
+| **Organización anfitriona** | Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD) |
+| **Contacto principal** | Luisa Fernanda Cadena |
+| **Suplente** | Laura Salgado |
+| **Organización Co-Anfitriona** | Ministerio de Educación |
+| **Contacto principal** | Febe Lucia Ruiz |
+| **Suplente** | Liliana Rodríguez |
+| **Punto Focal UNGRD** | Laura Salgado |
+:::
+
+<style>
+#tabla-sp05-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-sp05-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-sp05-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Conversatorio. |
+| Objetivo(s) | Analizar los desafíos actuales en la educación para la GRD desde la niñez hasta la edad adulta, y cómo el conocimiento ancestral y la innovación digital pueden coexistir en la formación ciudadana. <br><br> Fomentar el uso de la ruta metodológica del Plan Nacional de Capacitación para identificar necesidades de formación por grupos poblacionales, asegurando que la educación formal y la informal se articulen para crear una verdadera cultura del riesgo. |
+| Resultado(s) medible(s) | Recomendaciones técnicas para que el Ministerio de Educación y la UNGRD incorporen el enfoque de "educación a lo largo de la vida" en el Plan Nacional de Gestión del Riesgo de Desastres. |
+| Descripción general | Esta sesión paralela se justifica como un componente para alcanzar la resiliencia estructural y sistémica que persigue la PN26. Se reconoce que la educación no es una acción aislada, sino un proceso continuo que debe permear todas las etapas del desarrollo humano para transformar la cultura de la gestión del riesgo en Colombia. <br><br> La sesión se alinea directamente con la Prioridad 1 del Marco de Sendai, que enfatiza la necesidad de comprender el riesgo de desastres en todas sus dimensiones. Al fomentar un aprendizaje que integre el conocimiento técnico con los saberes ancestrales y locales, se empodera a la ciudadanía para tomar decisiones informadas, reduciendo la vulnerabilidad desde la niñez hasta la edad adulta. Bajo el enfoque de Comunidades de aprendizaje y participación, este espacio permitirá identificar brechas en la formación actual y proponer estrategias pedagógicas inclusivas y pertinentes. |
+| Enfoque(s) y eje(s) transversal(es) | Comunidades de aprendizaje y participación. |
+| Preguntas | NA |
+| Conferencistas y/o facilitadores | Alexander Duque — Ministerio de Educación · ICBF (por definir) · William Gaviria — Universidad de Manizales · Confederación Nacional de Acción Comunal (por definir) |
+:::
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1qCiJrahc9IZ3-8ffI_dZLi4J-uhe3v_c/preview" width="100%" height="480" allowfullscreen>
+
+</iframe>

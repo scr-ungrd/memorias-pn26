@@ -1,0 +1,29 @@
+---
+title: Diseñar estrategias de manejo para los movimientos en masa asociados a erosión según las características de la cuenca baja del río Fonce
+author:
+- name: Francisco David Ramos Cuesta
+  affiliations:
+    - name: Escuela de Ingenieros Militares, Bogotá, Colombia
+  corresponding: true
+keywords:
+- Movimientos en masa
+- Erosión
+- Desertificación
+- Medidas no estructurales
+- Vetiver
+abstract: |
+  Los movimientos en masa asociados a procesos de erosión y desertificación constituyen una problemática recurrente en la cuenca baja del río Fonce, donde la combinación de pendientes, lluvias intensas, degradación del suelo, cambios en el uso del territorio y limitada apropiación social del riesgo incrementa la inestabilidad del terreno y la exposición de las comunidades rurales. En este contexto, el estudio tuvo como objetivo diseñar estrategias de manejo para los movimientos en masa asociados a erosión, ajustadas a las características biofísicas y sociales del área de estudio.
+
+  La metodología se estructuró en tres componentes. Primero, se realizó la caracterización de la amenaza mediante revisión documental de antecedentes de ocurrencia, análisis de estudios de evaluación y caracterización territorial, y priorización de zonas críticas para la intervención. Segundo, se formuló un dosier de medidas no estructurales y de bioingeniería orientado a la prevención, mitigación y preparación comunitaria, priorizando alternativas de bajo costo y alta replicabilidad, entre ellas la restauración ecológica, las zanjas de infiltración, las terrazas de contención natural, la restauración de riberas y la revegetalización con pasto vetiver y especies nativas. Tercero, se diseñó una estrategia de participación social y apropiación del conocimiento, materializada en cartillas pedagógicas y talleres comunitarios dirigidos a fortalecer la identificación de señales de inestabilidad, el monitoreo local y la implementación de medidas prácticas en el territorio.
+
+  Como resultado, el estudio plantea medidas adaptadas a las condiciones del terreno y a las dinámicas sociales de la cuenca, así como una cartilla educativa sobre el uso del pasto vetiver como solución basada en la naturaleza para el control de la erosión y la reducción del riesgo por deslizamientos. Se concluye que la articulación entre análisis territorial, medidas no estructurales y herramientas de educación ambiental fortalece la transferencia del conocimiento en gestión del riesgo y aporta estrategias aplicables y replicables en otros contextos rurales del país.
+categories:
+- Comunidades de aprendizaje y participación
+- Adaptación al cambio climático desde el enfoque de Eco-Reducción (Eco-RRD)
+---
+
+**Perfil quién presenta el trabajo:** Francisco D. Ramos Cuesta es ingeniero ambiental y especialista en Biotecnología Agroambiental. Actualmente es candidato a magíster en Gestión del Riesgo y Desarrollo en la Escuela de Ingenieros Militares, donde adelanta su tesis sobre movimientos en masa asociados a erosión y desertificación en la cuenca baja del río Fonce. Su trayectoria académica se orienta al análisis territorial del riesgo, la degradación del suelo y la formulación de medidas no estructurales para la reducción del riesgo de desastres. Su trabajo integra enfoque territorial, participación comunitaria y soluciones basadas en la naturaleza aplicadas a contextos rurales de Colombia.
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1XIxJHIfT13M7d5p-BUMDJgz6nxk8nCbg/preview" width="100%" height="480" allowfullscreen></iframe>

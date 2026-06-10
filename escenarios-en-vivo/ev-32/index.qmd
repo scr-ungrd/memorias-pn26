@@ -1,0 +1,27 @@
+---
+title: Experiencias en la elaboración y puesta en marcha de planes de gestión del riesgo de desastres de las entidades públicas y privadas (Decreto 2157 de 2017)
+author:
+- name: Fernando Andrés Ospina Lema
+  affiliations:
+    - name: CIRMAC S.A.S., Colombia
+  corresponding: true
+keywords:
+- Decreto 2157
+- PGRDEPP
+- Entidades públicas y privadas
+- Armonización territorial
+abstract: |
+  Desde la creación del Decreto 2157 de 2017, por medio del cual se adoptaron las directrices generales para la elaboración de los planes de gestión del riesgo de desastres de las entidades públicas y privadas (PGRDEPP), se han suscitado diferentes planteamientos y diversos interrogantes para su elaboración, puesta en marcha y articulación con otros instrumentos de planificación al interior de estas entidades y en los territorios donde se localiza la infraestructura asociada a las actividades que pueden significar riesgo de desastres para la sociedad y el ambiente.
+
+  El objetivo de la presentación es identificar oportunidades de mejora respecto a los diferentes planteamientos e interrogantes para la elaboración, puesta en marcha y articulación con otros instrumentos de planificación internos y externos de los PGRDEPP.
+
+  La metodología contempla la presentación de diversos casos de elaboración y aproximación al cumplimiento de los componentes del Decreto y cómo se ha interpretado frente a otros documentos relacionados exigidos por la ANLA, ministerios, entre otros. Como hallazgos generales se identificaron temas transversales como: la definición y alcance de obras civiles de importancia local, regional y departamental; los enfoques para sistemas lineales; el nivel de detalle en la caracterización de amenazas, vulnerabilidad y riesgo; el abordaje de amenazas exógenas y endógenas; la definición de escenarios susceptibles de desastre; el desarrollo cartográfico; la articulación con términos de referencia de entidades nacionales; la armonización territorial; y la puesta en marcha y seguimiento del plan.
+
+  Se concluye con recomendaciones técnicas para mayor precisión del Decreto, recomendaciones sectoriales para unificar criterios técnicos mínimos, recomendaciones a entidades y municipios para lograr la armonización territorial, y la propuesta de armonizar términos de referencia para reducir el número de instrumentos de gestión del riesgo.
+categories:
+- Planeación y ordenamiento que incorpora la GRD
+---
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1Npax8eBVpZmubjrWH-urknScvm66J7d9/preview" width="100%" height="480" allowfullscreen></iframe>

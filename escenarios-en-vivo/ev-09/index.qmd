@@ -1,0 +1,31 @@
+---
+title: "Responsabilidad Social y Gestión de riesgo de desastres: del Estado paternalista al ciudadano preventivo"
+author:
+- name: Eduardo Vélez Soto
+  affiliations:
+    - name: Universidad Internacional del Conocimiento e Investigación (UNICI), México
+  corresponding: true
+  email: eduardovelezsoto@outlook.com
+keywords:
+- Gestión del riesgo
+- Corresponsabilidad territorial
+- Ciudadanía preventiva
+- Asistencialismo estatal
+- Resiliencia comunitaria
+abstract: |
+  En Colombia y América Latina, la gestión del riesgo de desastres ha operado históricamente bajo un modelo de Estado paternalista que concentra los recursos en la respuesta a emergencias y relega a las comunidades a un rol pasivo de damnificadas. Este enfoque reactivo y centralizado invisibiliza las causas sociales de la vulnerabilidad y genera un "efecto rebote", donde la asistencia continua perpetúa la dependencia y reproduce la exposición al peligro en los mismos territorios. Frente a esta crisis del asistencialismo, el propósito central es deconstruir la monopolización estatal de la seguridad y fundamentar la transición hacia un paradigma de corresponsabilidad territorial, orientado a consolidar una ciudadanía preventiva capaz de actuar como cogestora activa frente a las amenazas de su entorno.
+
+  Para abordar esta transformación, la investigación articula la sociología del riesgo con la teoría de la estructuración social, proponiendo un marco analítico empírico que se aplica a cinco estudios de caso contrastantes en Colombia: Medellín, Manizales, Tunja, Mocoa y La Guajira. El enfoque metodológico evalúa dinámicas territoriales e introduce instrumentos de medición técnica y social, destacando el Índice de Corresponsabilidad Territorial (ICT) y la Escala de Ciudadanía Preventiva (ECP). Estas métricas permiten valorar el impacto de herramientas participativas como la cartografía social comunitaria y los sistemas de alerta temprana híbridos.
+
+  Los resultados demuestran que la tecnología y la infraestructura son insuficientes para proteger la vida si no están ancladas en el capital social. Territorios que integran la memoria histórica barrial, saberes ancestrales y liderazgo comunitario logran una alta corresponsabilidad y mitigan el impacto de las amenazas naturales. Por el contrario, los modelos desconectados del saber local y fundamentados en la asistencia tardía, como el evidenciado antes de la tragedia de Mocoa, reflejan una ineficacia sistémica. La evidencia constata que la resiliencia colectiva es directamente proporcional al grado de confianza interinstitucional y a la organización vecinal.
+
+  En conclusión, el riesgo no puede delegarse, debe cogestionarse mediante una alianza horizontal. Para la política pública y la gestión estatal, esto implica la urgencia de invertir la balanza presupuestal para financiar la prevención sostenida antes que la reacción post-desastre. Se recomienda instituir contratos sociales del riesgo que reconozcan legal y financieramente a las redes de vigías y comités barriales como activos formales del Estado. Igualmente, es imperativo integrar la gestión del riesgo como eje transversal en el sistema educativo y traducir la información técnica a lenguajes locales para democratizar la toma de decisiones y avanzar definitivamente hacia territorios autónomos y preventivos.
+categories:
+- Comunidades de aprendizaje y participación
+---
+
+**Perfil quién presenta el trabajo:** Eduardo Vélez Soto, doctor en Gestión Integral del Riesgo de Desastres con más de 35 años de trayectoria en la GRD. Consultor internacional (UNDRR, USAID) y nacional con la UNGRD. Experto en gobernanza territorial, Marco de Sendai y resiliencia comunitaria. Combina la docencia académica en instituciones de México, Honduras y Colombia, con la autoría de obras especializadas en corresponsabilidad ciudadana. Su carrera destaca por la coordinación de crisis en Latinoamérica y el Caribe, habiendo sido galardonado como Mejor Servidor Público de Colombia y premiado por la UNDRR por sus aportes a la innovación social en la gestión del riesgo en resiliencia comunitaria.
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/174Ip8ImQ-kfZCeB40k5MXTmGvX2_INbw/preview" width="100%" height="480" allowfullscreen></iframe>

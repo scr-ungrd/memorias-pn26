@@ -1,0 +1,47 @@
+---
+title: "Sesión paralela 10. ¿Por qué se apagan los radares? El reto de mantener vivos los ojos del país frente a las lluvias y eventos extremos"
+---
+
+## Nota conceptual
+
+:::{#tabla-sp10-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | ¿Por qué se apagan los radares? El reto de mantener vivos los ojos del país frente a las lluvias y eventos extremos |
+| **Organización anfitriona** | Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD) |
+| **Contacto principal** | Christian Euscátegui C. |
+| **Suplente** | Andrés Benavides P. |
+| **Organización Co-Anfitriona** | N/A |
+| **Contacto principal** | |
+| **Suplente** | |
+| **Punto Focal UNGRD** | Laura Salgado |
+:::
+
+<style>
+#tabla-sp10-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-sp10-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-sp10-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Panel de discusión: sesión técnica de alto nivel conducida por la Subdirección de Conocimiento del Riesgo (SCR) de la UNGRD, con la participación de expertos nacionales para abordar los desafíos estratégicos en la sostenibilidad, operación y aprovechamiento masivo de los radares meteorológicos en Colombia. |
+| Objetivo(s) | Identificar las barreras administrativas, financieras y técnicas que limitan la sostenibilidad operativa de la red nacional de radares. <br><br> Definir estrategias de interoperabilidad entre los diferentes operadores (IDEAM, Aerocivil, SIATA, IDIGER) para consolidar un flujo de datos nacional. <br><br> Analizar el impacto del procesamiento y disponibilidad de datos masivos (Big Data) en la optimización de las alertas tempranas para sectores productivos. <br><br> Establecer la hoja de ruta para la gobernanza del Sistema Nacional de Radares Meteorológicos de Colombia (SNRMC), bajo el liderazgo técnico del IDEAM y el liderazgo administrativo de la UNGRD. |
+| Resultado(s) medible(s) | **Hoja de Ruta del SNRMC:** Documento técnico-administrativo con las recomendaciones para la integración y sostenibilidad del sistema. <br><br> **Acuerdo de Interoperabilidad:** Lineamientos generales para la estandarización de datos entre entidades operadoras y su integración al SNGRD. <br><br> **Acta de Intencionalidad Interinstitucional:** Documento suscrito por los representantes de las entidades panelistas para formalizar el compromiso de cooperación técnica y financiera hacia el SNRMC. |
+| Descripción general | Esta sesión responde directamente a la Prioridad 1 del Marco de Sendai (Comprender el riesgo de desastres) y a la Prioridad 4 (Mejorar la preparación para una respuesta eficaz). En el contexto colombiano, la red de radares es la infraestructura crítica para la acción anticipatoria. <br><br> Asegurar su funcionamiento continuo es vital para reducir la vulnerabilidad ante eventos hidrometeorológicos extremos. La sesión se alinea con el Plan Nacional de Gestión del Riesgo de Desastres 2015–2030, al fortalecer el conocimiento del riesgo mediante la innovación tecnológica y la articulación institucional, garantizando que el monitoreo en tiempo real se traduzca en seguridad humana y competitividad económica. |
+| Enfoque(s) y eje(s) transversal(es) | **Enfoque:** Preparación y recuperación oportuna: fortalecimiento de los sistemas de alerta temprana (SAT) y las capacidades operativas para una respuesta eficaz ante emergencias. <br> **Eje transversal:** Ciencia, tecnología e innovación: fortalecimiento de sistemas de información, análisis de datos y modelación de escenarios de riesgo y clima; interoperabilidad de sistemas y uso estratégico de la información para anticipar riesgos. |
+| Preguntas | ¿Cuáles han sido las lecciones aprendidas sobre la sostenibilidad de los radares y por qué la desarticulación técnica sigue siendo una barrera para la efectividad de las alertas tempranas? <br> ¿Cómo pueden la SCR-UNGRD y el IDEAM consolidar un modelo de gobernanza que garantice que el SNRMC sea una infraestructura de Estado? <br> Ante la diversidad tecnológica del país (Vaisala, Baron, EEC), ¿cuál es el camino para lograr una estandarización de datos que permita un procesamiento masivo? <br> ¿Qué mecanismos de financiamiento innovadores pueden proponerse para pasar de una gestión reactiva a un modelo de operación continua que blinde la disponibilidad del dato 24/7? <br> ¿Cómo transformar el monitoreo en tiempo real y la modelación de escenarios de riesgo en acciones de comunicación claras que fortalezcan la capacidad de respuesta de las comunidades y sectores estratégicos? |
+| Conferencistas y/o facilitadores | **Jorge Enrique Saltarín** — Consultor Externo, Ingeniero Electrónico con más de 25 años de experiencia en el sector aeronáutico <br> **Mario Enrique Ardila Hernández** — Profesional Aeronáutico, Aeronáutica Civil <br> **Jorge Andrés González** — Coordinador de Grupo de Planeación Operativa, IDEAM |
+:::
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1UqqesxJswnMqtlWoilr5SDwvQChShTq0/preview" width="100%" height="480" allowfullscreen>
+
+</iframe>

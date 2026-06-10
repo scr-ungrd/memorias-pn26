@@ -1,0 +1,47 @@
+---
+title: "Sesión paralela 12. Camino hacia Tsunami Ready en Colombia: Capacidades, desafíos y articulación institucional"
+---
+
+## Nota conceptual
+
+:::{#tabla-sp12-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Camino hacia Tsunami Ready en Colombia: Capacidades, desafíos y articulación institucional |
+| **Organización anfitriona** | Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD) |
+| **Contacto principal** | Anlly Melissa Guerrero Castillo |
+| **Suplente** | |
+| **Organización Co-Anfitriona** | Dirección General Marítima (DIMAR) |
+| **Contacto principal** | Mary Rengifo |
+| **Suplente** | |
+| **Punto Focal UNGRD** | Mauricio Romero |
+:::
+
+<style>
+#tabla-sp12-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-sp12-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-sp12-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Sesión combinada: presentación técnica y panel de discusión. La sesión iniciará con una presentación técnica sobre el estado actual de las capacidades institucionales, técnicas, operativas y territoriales de Colombia para avanzar hacia la implementación del programa Tsunami Ready. Posteriormente, un panel de discusión con representantes de entidades técnicas, operativas y territoriales analizará los principales desafíos para la implementación en el país y las oportunidades de articulación interinstitucional. |
+| Objetivo(s) | Analizar el estado actual de las capacidades institucionales, técnicas y territoriales de Colombia para avanzar hacia la implementación del programa Tsunami Ready. <br><br> Identificar los principales desafíos normativos, operativos, técnicos y comunitarios para fortalecer la preparación frente a la amenaza por tsunami en zonas costeras del país. <br><br> Discutir el papel de la articulación interinstitucional entre entidades del conocimiento, monitoreo, alerta, gestión del riesgo y autoridades territoriales en la consolidación de comunidades más resilientes. <br><br> Promover la reflexión sobre rutas de acción que permitan integrar el enfoque Tsunami Ready en los instrumentos de planificación, preparación y gestión del riesgo de desastres. |
+| Resultado(s) medible(s) | Matriz síntesis con principales capacidades identificadas, desafíos priorizados y oportunidades de articulación institucional para avanzar hacia Tsunami Ready en Colombia. <br><br> Identificación de componentes estratégicos para una hoja de ruta nacional o territorial orientada al fortalecimiento de comunidades preparadas frente a tsunami. <br><br> Recomendaciones preliminares para incorporar el enfoque de preparación comunitaria, alerta temprana y respuesta ante tsunami en instrumentos de planificación y gestión del riesgo. |
+| Descripción general | Colombia, por su condición bioceánica y la exposición de múltiples comunidades costeras a la amenaza de tsunami, enfrenta el reto de fortalecer de manera progresiva sus capacidades para la reducción del riesgo y la preparación ante este tipo de eventos. Este desafío no se limita al monitoreo y la alerta, sino que exige una visión integral que articule el conocimiento científico, la planificación territorial, la preparación comunitaria, la coordinación institucional y la capacidad de respuesta. <br><br> El enfoque Tsunami Ready representa una oportunidad para promover territorios costeros más preparados y resilientes, a partir del cumplimiento progresivo de capacidades relacionadas con la identificación y comprensión de la amenaza, la comunicación del riesgo, la preparación para la evacuación, la respuesta institucional y la apropiación social del conocimiento. Avanzar en esta ruta requiere reconocer las capacidades ya existentes en Colombia, tanto desde las entidades técnico-científicas como desde las instituciones responsables de la gestión del riesgo y la respuesta a emergencias. |
+| Enfoque(s) y eje(s) transversal(es) | A. Comunidades de aprendizaje y participación. <br> B. Planeación y ordenamiento que incorpora la GRD. <br> C. Territorialización y fortalecimiento de capacidades. <br> D. Preparación y recuperación oportuna. <br> **Ejes transversales:** Ciencia, tecnología e innovación; Participación comunitaria y apropiación social del conocimiento; Adaptación y resiliencia territorial. |
+| Preguntas | ¿Con qué capacidades cuenta actualmente Colombia para avanzar hacia el enfoque Tsunami Ready? <br> ¿Cuáles son los principales desafíos técnicos, institucionales, sociales y territoriales para su implementación? <br> ¿Qué papel cumplen las entidades nacionales, territoriales, científicas y operativas en este proceso? <br> ¿Cómo fortalecer la articulación institucional para consolidar comunidades costeras más preparadas frente a tsunami? <br> ¿De qué manera pueden integrarse estos avances en instrumentos de planificación, preparación y gestión del riesgo? <br> ¿Qué condiciones mínimas deberían priorizarse para desarrollar procesos progresivos o pilotos de implementación en el país? |
+| Conferencistas y/o facilitadores | Representantes de entidades técnico-científicas vinculadas al monitoreo, evaluación y conocimiento de la amenaza de tsunami · Especialistas en gestión del riesgo de desastres y preparación para la respuesta · Autoridades o representantes territoriales de municipios costeros con avances en preparación comunitaria · Delegados del Sistema Nacional de Detección y Alerta por Tsunami (SNDAT) y Punto Focal ante UNESCO |
+:::
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1JZa3RHceB40_UmEgJpJ9UxixGqjABKvw/preview" width="100%" height="480" allowfullscreen>
+
+</iframe>
