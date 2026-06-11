@@ -2363,13 +2363,24 @@
     ]
   },
   {
+    "objectID": "posters/pt-01/index.html",
+    "href": "posters/pt-01/index.html",
+    "title": "Guía Metodológica para la Formulación del PMGRD",
+    "section": "",
+    "text": "Poster\nPerfil quién presenta el trabajo: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id tincidunt ante. Proin at faucibus sem. Suspendisse quis velit quam. Vivamus eget maximus nisl, non semper nulla. Curabitur condimentum, ipsum vitae ultrices gravida, lorem lacus posuere elit, ut feugiat velit ante sed diam. Maecenas et ipsum ultrices, dignissim sem eget, rutrum sapien. Nullam et mollis dolor. Pellentesque sit amet nisi auctor, interdum elit vitae, finibus nibh. Aenean et finibus mi, et cursus tellus. In fermentum eu turpis tristique porta. Nam vulputate, odio ut molestie consequat, risus tortor suscipit urna, sit amet gravida velit.",
+    "crumbs": [
+      "Posters",
+      "<span class='chapter-number'>112</span>  <span class='chapter-title'>PT1. Guía Metodológica para la Formulación del PMGRD</span>"
+    ]
+  },
+  {
     "objectID": "summary.html",
     "href": "summary.html",
     "title": "Summary",
     "section": "",
     "text": "In summary, this book has no content whatsoever.",
     "crumbs": [
-      "<span class='chapter-number'>112</span>  <span class='chapter-title'>Summary</span>"
+      "<span class='chapter-number'>113</span>  <span class='chapter-title'>Summary</span>"
     ]
   },
   {
