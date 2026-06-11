@@ -1,0 +1,25 @@
+---
+title: Guía Metodológica para la Formulación del PMGRD 
+author:
+- name: Nombre Apellido
+  affiliations:
+    - name: Institición, ciudad
+  corresponding: true
+  email: mail@test.test
+keywords:
+- consectetur
+- consectetur
+- consectetur
+- consectetur
+abstract: |
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id tincidunt ante. Proin at faucibus sem. Suspendisse quis velit quam. Vivamus eget maximus nisl, non semper nulla. Curabitur condimentum, ipsum vitae ultrices gravida, lorem lacus posuere elit, ut feugiat velit ante sed diam. Maecenas et ipsum ultrices, dignissim sem eget, rutrum sapien. Nullam et mollis dolor. Pellentesque sit amet nisi auctor, interdum elit vitae, finibus nibh. Aenean et finibus mi, et cursus tellus. In fermentum eu turpis tristique porta. Nam vulputate, odio ut molestie consequat, risus tortor suscipit urna, sit amet gravida velit.
+categories:
+- Comunidades de aprendizaje y participación
+- Datos, modelación, IA, innovación social y herramientas digitales
+---
+
+**Perfil quién presenta el trabajo:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id tincidunt ante. Proin at faucibus sem. Suspendisse quis velit quam. Vivamus eget maximus nisl, non semper nulla. Curabitur condimentum, ipsum vitae ultrices gravida, lorem lacus posuere elit, ut feugiat velit ante sed diam. Maecenas et ipsum ultrices, dignissim sem eget, rutrum sapien. Nullam et mollis dolor. Pellentesque sit amet nisi auctor, interdum elit vitae, finibus nibh. Aenean et finibus mi, et cursus tellus. In fermentum eu turpis tristique porta. Nam vulputate, odio ut molestie consequat, risus tortor suscipit urna, sit amet gravida velit.
+
+## Poster
+
+<iframe src="https://drive.google.com/file/d/14AxUmGtN6q36p247P9RxZmYiUnvzVQQl/preview" width="100%" height="700" allowfullscreen></iframe>

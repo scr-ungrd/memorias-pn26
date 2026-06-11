@@ -186,7 +186,9 @@ book:
         - escenarios-en-vivo/ev-45/index.qmd
         - escenarios-en-vivo/ev-46/index.qmd
     - part: posters/index.qmd
-      chapters: []
+      chapters:
+        - text: "PT1. Guía Metodológica para la Formulación del PMGRD"
+          href: posters/pt-01/index.qmd
     - summary.qmd
     - references.qmd
 

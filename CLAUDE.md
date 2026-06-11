@@ -17,6 +17,9 @@ quarto render
 # Compilar solo un capítulo
 quarto render sesiones-paralelas/sp-01/index.qmd
 
+# Publicar en GitHub Pages
+quarto publish gh-pages
+
 # Extraer ID de Google Drive de un archivo local sincronizado
 xattr -l "ruta/al/archivo.pptx" | grep 'com.google.drivefs.item-id'
 
@@ -55,6 +58,8 @@ Cada sección tiene un `index.qmd` de portada (solo `title:` en frontmatter) y s
 
 Cada `index.qmd` tiene exactamente tres bloques. Ver `sesiones-paralelas/sp-01/index.qmd` como referencia canónica.
 
+La estructura de H2 de cada `index.qmd` de sesión es fija: `## Nota conceptual` → `## Diapositivas de la sesión` → `## Video de la sesión`.
+
 **1. Nota conceptual** — dos tablas Markdown en divs con ID:
 - `#tabla-{id}-info`: tabla de dos columnas sin encabezado (datos de organización)
 - `#tabla-{id}-desc`: tabla con encabezado `Sección | Descripción`
@@ -77,7 +82,7 @@ Cada `index.qmd` tiene exactamente tres bloques. Ver `sesiones-paralelas/sp-01/i
 
 En plenarias el `<style>` va suelto (no dentro de ` ```{=html} ` ), en sp-01 va dentro de un bloque ` ```{=html} `. Ambas formas funcionan; usar la forma suelta (sin bloque raw) para las sesiones nuevas para consistencia con plenarias.
 
-**3. Diapositivas** — iframe de Google Drive o Google Slides. Si no hay PPTX, escribir `*Diapositivas no disponibles.*` en lugar del iframe:
+**3. Diapositivas** — sección `## Diapositivas de la sesión` con iframe de Google Drive o Google Slides. Si no hay PPTX, escribir `*Diapositivas no disponibles.*` en lugar del iframe:
 
 ```html
 <!-- Archivo Drive (PPTX subido) -->
@@ -87,7 +92,7 @@ En plenarias el `<style>` va suelto (no dentro de ` ```{=html} ` ), en sp-01 va 
 <iframe src="https://docs.google.com/presentation/d/{PRESENTATION_ID}/embed?start=false&loop=false&delayms=3000" width="100%" height="480" allowfullscreen></iframe>
 ```
 
-**4. Video** — iframe de YouTube con timestamp en segundos:
+**4. Video** — sección `## Video de la sesión` con iframe de YouTube con timestamp en segundos:
 
 ```html
 <iframe src="https://www.youtube.com/embed/{VIDEO_ID}?start={SECONDS}" width="100%" height="480" allowfullscreen></iframe>
@@ -95,7 +100,7 @@ En plenarias el `<style>` va suelto (no dentro de ` ```{=html} ` ), en sp-01 va 
 
 ## Plantilla escenarios-en-vivo
 
-Las sesiones `ev-NN` tienen una estructura completamente diferente al resto: **sin tablas, sin iframes**. Solo frontmatter YAML + párrafo de perfil.
+Las sesiones `ev-NN` tienen una estructura diferente al resto: **sin tablas de nota conceptual**. La mayoría incluye `## Diapositivas de la sesión` con iframe cuando el ponente subió diapositivas. La base es frontmatter YAML + párrafo de perfil; el iframe es opcional pero frecuente (presente en ~33 de 46 ev).
 
 ```yaml
 ---
@@ -133,6 +138,10 @@ categories:
 Cuando no hay .docx disponible (o el archivo tiene solo Lorem ipsum): usar frontmatter minimal con solo `title` y `author`, sin abstract/keywords/categories/perfil.
 
 **ev-17 no existe** — era duplicado de ev-05, fue omitido deliberadamente.
+
+## Archivos raíz pendientes
+
+- `index.qmd` — actualmente contiene el placeholder por defecto de Quarto ("This is a Quarto book…"). Debe reemplazarse con el prefacio real del libro.
 
 ## Errores conocidos / YAML
 
