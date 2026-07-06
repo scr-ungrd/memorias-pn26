@@ -861,6 +861,21 @@ ul.task-list li input[type="checkbox"] {
 </section>
 
 </main> <!-- /main -->
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  document.querySelectorAll('.sidebar-item-section').forEach(function (section) {
+    var toggle = section.querySelector('.sidebar-item-toggle');
+    if (!toggle) return;
+    var targetId = toggle.getAttribute('data-bs-target');
+    if (!targetId) return;
+    var collapseEl = document.querySelector(targetId);
+    if (!collapseEl) return;
+    collapseEl.classList.remove('show');
+    toggle.setAttribute('aria-expanded', 'false');
+    toggle.classList.add('collapsed');
+  });
+});
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
