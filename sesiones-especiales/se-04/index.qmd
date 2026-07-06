@@ -1,0 +1,45 @@
+---
+title: "Infraestructura de transporte resiliente al clima: avances y desafíos para Colombia"
+---
+
+## Nota conceptual
+
+:::{#tabla-se04-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Infraestructura de transporte resiliente al clima: avances y desafíos para Colombia |
+| **Organización anfitriona** | Ministerio de Transporte |
+| **Contacto principal** | Ginna Castro — gcastro@mintransporte.gov.co |
+| **Suplente** | Alfary Salazar — ysalazar@mintransporte.gov.co |
+| **Organización Co-Anfitriona** | Instituto Nacional de Vías (Invias) · Agencia Nacional de Infraestructura (ANI) |
+| **Contacto principal** | Jairo William Torres Becerra — jtorresb@invias.gov.co · Sandra Bohórquez Piña — sbohorquez@ani.gov.co |
+| **Suplente** | Angie Lorena Téllez Peña — atellez@invias.gov.co · Jorge Montaña — jmontana@ani.gov.co |
+| **Punto Focal UNGRD** | Gina Velásquez — gina.velasquez@gestiondelriesgo.gov.co |
+:::
+
+<style>
+#tabla-se04-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-se04-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-se04-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Panel de discusión y presentación. |
+| Objetivo(s) | Promover el intercambio de conocimientos, experiencias y lineamientos técnicos para fortalecer la incorporación de la gestión del riesgo de desastres y la adaptación al cambio climático en el ciclo de vida de los proyectos de infraestructura de transporte, contribuyendo a la toma de decisiones informadas, la articulación interinstitucional y el desarrollo de la resiliencia del sector transporte en Colombia. |
+| Resultado(s) medible(s) | Informe sobre la sesión desarrollada. <br><br> Copia digital del informe final del proyecto Fortalecimiento de la Resiliencia Climática de la Infraestructura Vial en Colombia. <br><br> Copia digital de Lineamientos de Infraestructura Verde Vial (LIVV). <br><br> Documento del Plan de Gestión del Riesgo para los modos de transporte concesionados. <br><br> Documento de Lineamientos de Gestión del Riesgo de Desastres para la Infraestructura de Transporte. |
+| Descripción general | A través del panel se expondrán las estrategias implementadas y las experiencias acumuladas por el sector transporte en materia de gestión del riesgo de desastres y construcción de resiliencia climática. Se analizará el papel de la cooperación internacional en el abordaje de estas temáticas y se compartirán perspectivas y aprendizajes asociados a los procesos de transferencia de conocimiento y fortalecimiento de capacidades. Asimismo, se examinarán medidas orientadas a reducir la vulnerabilidad del sector frente a amenazas como inundaciones y deslizamientos, entre ellas, la incorporación del corredor geotécnico como unidad de análisis del riesgo, los lineamientos de infraestructura verde vial y la gestión del riesgo en distintos modos de transporte. Además, se abordarán los principales retos y oportunidades derivados de estas iniciativas, con el propósito de orientar la toma de decisiones y continuar avanzando en el desarrollo de la resiliencia del sector. <br><br> Por otra parte, se realizará la presentación de los Lineamientos de Gestión del Riesgo (LGRD), los cuales constituyen el marco estratégico y operativo para incorporar la gestión integral del riesgo de desastres (GRD) y la adaptación al cambio climático (ACC) en todas las fases del ciclo de vida de los proyectos de infraestructura vial de la Red Vial Nacional (RVN), tanto en tramos concesionados como no concesionados. |
+| Enfoque(s) y eje(s) transversal(es) | **Enfoques:** Comunidades de aprendizaje y participación · Planeación y ordenamiento que incorpora la GRD · Preparación y recuperación oportuna <br><br> **Eje transversal:** Adaptación al Cambio Climático desde el enfoque de Eco-Reducción (Eco-RRD) · Ciencia, tecnología e innovación |
+| Preguntas | ¿Cuáles son los avances y retos del sector transporte frente a la integración de la resiliencia climática en la gestión de la infraestructura? <br> ¿Cómo se puede fortalecer la toma de decisiones y la gobernanza del sector transporte, incorporando transversalmente la gestión del riesgo de desastres y la adaptación al cambio climático? <br> ¿Cómo se puede incrementar la resiliencia de la infraestructura vial, integrando medidas de prevención, mitigación y adaptación en las diferentes fases de su ciclo de vida? <br> ¿Qué implica fortalecer la capacidad de respuesta y recuperación del sector transporte ante emergencias? |
+| Conferencistas y/o facilitadores | **Panelistas:** Liliana María Ospina Arias — Viceministra de Infraestructura, Ministerio de Transporte · Gina Paola Castro Jessen — Asesora del despacho, Ministerio de Transporte · Sandra Patricia Bohórquez Piña — Gerente del Grupo Interno Ambiental, ANI · Jairo William Torres Becerra — Subdirector de Gestión del Riesgo, INVIAS · Adriana Lucia Rico Albarracín — Líder de la Dimensión Técnica, Grupo de Sostenibilidad, INVIAS <br><br> **Moderadora:** Alfary Salazar Medina — Ministerio de Transporte <br><br> **Conferencistas:** David Fernando López Patiño — Profesional Contratista, INVIAS · Angie Lorena Téllez Peña — Profesional Especializada, INVIAS · Andrés Felipe Velasco Romero — Profesional Especializado, INVIAS |
+:::
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1JkIZbSrKkaHWosn7bRSwaxJ7FjCbZQIR/preview" width="100%" height="480" allowfullscreen></iframe>

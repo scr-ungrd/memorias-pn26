@@ -1,15 +1,45 @@
 <script>
 document.addEventListener('DOMContentLoaded', function () {
-  document.querySelectorAll('.sidebar-item-section').forEach(function (section) {
+  var STORAGE_KEY = 'pn26-sidebar-expanded';
+  var sections = document.querySelectorAll('.sidebar-item-section');
+  var savedRaw = localStorage.getItem(STORAGE_KEY);
+  var isFirstVisit = savedRaw === null;
+  var expanded = isFirstVisit ? [] : JSON.parse(savedRaw);
+
+  sections.forEach(function (section) {
     var toggle = section.querySelector('.sidebar-item-toggle');
     if (!toggle) return;
     var targetId = toggle.getAttribute('data-bs-target');
     if (!targetId) return;
     var collapseEl = document.querySelector(targetId);
     if (!collapseEl) return;
-    collapseEl.classList.remove('show');
-    toggle.setAttribute('aria-expanded', 'false');
-    toggle.classList.add('collapsed');
+    var sectionId = targetId.replace('#', '');
+
+    // First visit: collapse everything. Subsequent visits: restore saved state.
+    if (isFirstVisit || expanded.indexOf(sectionId) === -1) {
+      collapseEl.classList.remove('show');
+      toggle.setAttribute('aria-expanded', 'false');
+      toggle.classList.add('collapsed');
+    }
+
+    // Save state on each toggle click
+    toggle.addEventListener('click', function () {
+      var isOpen = toggle.getAttribute('aria-expanded') === 'true';
+      var list = JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]');
+      if (isOpen) {
+        // Currently open → will close → remove from list
+        list = list.filter(function (id) { return id !== sectionId; });
+      } else {
+        // Currently closed → will open → add to list
+        if (list.indexOf(sectionId) === -1) list.push(sectionId);
+      }
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(list));
+    });
   });
+
+  // Initialize storage on first visit
+  if (isFirstVisit) {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify([]));
+  }
 });
 </script>

@@ -111,14 +111,24 @@ book:
           href: sesiones-paralelas/sp-38/index.qmd
     - part: sesiones-especiales/index.qmd
       chapters:
-        - sesiones-especiales/se-01/index.qmd
-        - sesiones-especiales/se-02/index.qmd
-        - sesiones-especiales/se-03/index.qmd
-        - sesiones-especiales/se-05/index.qmd
-        - sesiones-especiales/se-06/index.qmd
-        - sesiones-especiales/se-07/index.qmd
-        - sesiones-especiales/se-08/index.qmd
-        - sesiones-especiales/se-10/index.qmd
+        - text: "SE1. Gestión del riesgo y adaptación: una mirada ambiental"
+          href: sesiones-especiales/se-01/index.qmd
+        - text: "SE2. Artesanas, territorio y GRD: tejiendo resiliencia"
+          href: sesiones-especiales/se-02/index.qmd
+        - text: "SE3. Acciones municipales para la RRD y adaptación climática"
+          href: sesiones-especiales/se-03/index.qmd
+        - text: "SE4. Infraestructura de transporte resiliente al clima"
+          href: sesiones-especiales/se-04/index.qmd
+        - text: "SE5. Conocimientos indígenas en la planificación para GRD"
+          href: sesiones-especiales/se-05/index.qmd
+        - text: "SE6. Los animales en la gestión del riesgo de desastres"
+          href: sesiones-especiales/se-06/index.qmd
+        - text: "SE7. Gestión integral de la erosión costera en Colombia"
+          href: sesiones-especiales/se-07/index.qmd
+        - text: "SE8. Final Hackathon: innovación en SAT de bajo costo"
+          href: sesiones-especiales/se-08/index.qmd
+        - text: "SE10. Ancestralidad que protege: voces afrocolombianas"
+          href: sesiones-especiales/se-10/index.qmd
     - part: laboratorios-de-aprendizaje/index.qmd
       chapters:
         - text: "LA1. Comunidades que transforman el riesgo en resiliencia"
