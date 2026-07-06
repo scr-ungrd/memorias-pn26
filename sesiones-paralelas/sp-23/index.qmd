@@ -10,11 +10,6 @@ title: "Sesión paralela 23. El Ejército Colombiano, pilar fundamental de la Ge
 | **Título de la sesión** | El Ejército Colombiano, pilar fundamental de la Gestión del Riesgo |
 | **Organización anfitriona** | Escuela de Ingenieros Militares (ESING) — Ejército Nacional de Colombia |
 | **Contacto principal** | Ing. Claudia Patricia Gómez Rendón — Asesora Programa MGRyD |
-| **Suplente** |  |
-| **Organización Co-Anfitriona** |  |
-| **Contacto principal** |  |
-| **Suplente** |  |
-| **Punto Focal UNGRD** |  |
 :::
 
 <style>
@@ -39,3 +34,7 @@ title: "Sesión paralela 23. El Ejército Colombiano, pilar fundamental de la Ge
 | Preguntas | ¿Cuáles son las capacidades operativas, logísticas y académicas del Ejército Nacional para la atención de emergencias y desastres en Colombia? <br> ¿Cómo fortalecer la articulación entre fuerzas militares, cuerpos de bomberos, academia y entidades del SNGRD para garantizar respuestas interoperables? <br> ¿De qué manera la modernización tecnológica y la modelación predictiva pueden mejorar la capacidad de respuesta ante escenarios de riesgo cada vez más complejos? |
 | Conferencistas y/o facilitadores | **Moderador:** Dr. Carlos Iván Márquez Pérez — Asesor Federación Nacional de Departamentos, Presidente Cruz Roja Colombiana Seccional Norte de Santander, Ex Director General UNGRD <br><br> **Conferencistas:** Coronel Wilson Martínez Escobar — Comandante BRIAD · Teniente Coronel Luis Alberto Reales Triana — Director ESING · Ing. Claudia Patricia Gómez Rendón — Asesora MGRyD, ESING · Dr. William Tovar Segura — Subdirector de Gestión del Riesgo, Bomberos Bogotá · Sgto. Viceprimero Francisco David Ramos Cuesta — Suboficial Gestión del Riesgo, COING |
 :::
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1unCx1XnxwCEOLmHkzaSPcvP5a7Loz5YD/preview" width="100%" height="480" allowfullscreen></iframe>

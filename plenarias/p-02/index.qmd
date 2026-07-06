@@ -11,9 +11,6 @@ title: "Plenaria 2. Conectando datos, salvando vidas: Lanzamiento del SNIGRD"
 | **Organización anfitriona** | Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD) |
 | **Contacto principal** | Isabel Cristina Arboleda López |
 | **Suplente** | Andrés Cabanzo |
-| **Organización Co-Anfitriona** | N/A |
-| **Contacto principal** | N/A |
-| **Suplente** | N/A |
 | **Punto Focal UNGRD** | Gina Velásquez, UNGRD |
 :::
 
@@ -42,9 +39,9 @@ title: "Plenaria 2. Conectando datos, salvando vidas: Lanzamiento del SNIGRD"
 
 ## Diapositivas de la sesión
 
-::: {.callout-note}
-Las diapositivas de esta sesión estarán disponibles próximamente. Actualiza este bloque con el enlace de Google Drive o el iframe de Google Slides.
-:::
+<iframe src="https://drive.google.com/file/d/113fXi7g89A_A5O9TymNeEZTp4MFhl0jU/preview" width="100%" height="480" allowfullscreen>
+
+</iframe>
 
 ## Video de la sesión
 

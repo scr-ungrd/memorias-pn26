@@ -1,3 +1,7 @@
----
-title: "Sesiones temáticas"
----
+## Sesiones temáticas
+
+1. [Ciencia al Servicio de la Vida: Servicios Climáticos para Monitoreo Continuo de Alertas Tempranas y su aplicación para la gestión de riesgos agropecuarios](st-01/index.qmd)
+2. [Oportunidades para la integración del conocimiento del riesgo sísmico en la GRD territorial](st-02/index.qmd)
+3. [Anticipación en Acción](st-03/index.qmd)
+4. [Nueva política pública para desplazamiento por desastres y eventos de evolución lenta](st-05/index.qmd)
+5. [Formar para transformar: herramientas, resiliencia climática y aprendizajes territoriales](st-06/index.qmd)

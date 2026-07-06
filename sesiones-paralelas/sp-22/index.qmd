@@ -13,7 +13,6 @@ title: "Sesión paralela 22. Del dato a la decisión: IA para la gestión del ri
 | **Suplente** | Carlos Puentes |
 | **Organización Co-Anfitriona** | Cruz Roja Colombiana |
 | **Contacto principal** | Lina Marlena Dorado González |
-| **Suplente** |  |
 | **Punto Focal UNGRD** | Mauricio Romero Torres |
 :::
 
@@ -42,6 +41,9 @@ title: "Sesión paralela 22. Del dato a la decisión: IA para la gestión del ri
 
 ## Diapositivas de la sesión
 
-<iframe src="https://drive.google.com/file/d/1bVo5exfXhTwMlLlRzNUBrV3ulHa_hb2d/preview" width="100%" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/1h1qSjYp__QwKZs9xujg1XDb0wJbcfZmq/preview" width="100%" height="480" allowfullscreen></iframe>
 
-</iframe>
+## Video de la sesión
+
+<iframe src="https://www.youtube.com/embed/95yXGK0awCs?start=10322" width="100%" height="480" allowfullscreen></iframe>
+

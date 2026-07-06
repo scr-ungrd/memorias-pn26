@@ -39,3 +39,9 @@ title: "Anticipación en Acción"
 | Preguntas | ¿Qué criterios deben considerarse para la definición de activadores (triggers) y ventanas de tiempo para las acciones anticipatorias? <br> ¿Cómo fortalecer la articulación entre actores humanitarios, gobierno y comunidades para una implementación efectiva y coordinada? <br> ¿Cómo podemos escalar el financiamiento en Colombia de manera sostenible? <br> ¿De qué manera la analítica de datos, la modelación y las tecnologías digitales pueden mejorar la toma de decisiones anticipadas? |
 | Conferencistas y/o facilitadores | Carlos Aldana (Anticipation Hub/Cruz Roja Alemana) · Rebeca Muñoz/Julian Watkinson (GTAA LAC/IFRC) · Sonia Bejarano (UNGRD) · PMA · Cruz Roja Colombiana · FAO · Start Network · Mercy Corps <br><br> **Panel de alto nivel:** Director Ejecutivo Cruz Roja Colombiana · Ghisliane Echeverry Prieto (Directora IDEAM) · Chiara Capozio (Head of Office, OCHA Colombia) · Samuel Castro González (Secretaría de GRD de San Andrés, Providencia y Santa Catalina) · Jorge Tejada (Start Network) |
 :::
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/14azDrdIloQYABc13TyhET59kRJZBcV3e/preview" width="100%" height="480" allowfullscreen>
+
+</iframe>

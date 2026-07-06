@@ -11,9 +11,6 @@ title: "Sesión paralela 2. Avances en el sistema de alertas por ciclones tropic
 | **Organización anfitriona** | Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD) |
 | **Contacto principal** | Tatiana Rodríguez Tobar |
 | **Suplente** | Joana Pérez |
-| **Organización Co-Anfitriona** | No aplica |
-| **Contacto principal** | No aplica |
-| **Suplente** | No aplica |
 | **Punto Focal UNGRD** | Tatiana Rodríguez Tobar |
 :::
 
@@ -42,6 +39,6 @@ title: "Sesión paralela 2. Avances en el sistema de alertas por ciclones tropic
 
 ## Diapositivas de la sesión
 
-<iframe src="https://drive.google.com/file/d/1AtE88981lX5rIhTR9QfH5Y9_HcnEbzPJ/preview" width="100%" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/10RoEAVXk40rqQB7klGs9sUwd_HhU2DgI/preview" width="100%" height="480" allowfullscreen>
 
 </iframe>

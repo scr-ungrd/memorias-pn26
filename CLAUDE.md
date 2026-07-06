@@ -47,10 +47,10 @@ sesiones-especiales/        se-01…03, 05…08, 10 (8 sesiones, faltan se-04/09
 laboratorios-de-aprendizaje/ la-01…04, 06…10  (9 sesiones, falta la-05)
 dialogos-de-alto-nivel/     an-01…03           (3 sesiones)
 escenarios-en-vivo/         ev-01…16, ev-18…46  (45 sesiones, sin ev-17)
-posters/                                       (sin sesiones aún — prefijo: po)
+posters/                    pt-01                (1 sesión, prefijo: pt)
 ```
 
-Prefijo para los IDs de tabla: quitar guiones del prefijo de carpeta (`sp01`, `ev01`, `po01`, etc.).
+Prefijo para los IDs de tabla: quitar guiones del prefijo de carpeta (`sp01`, `ev01`, `pt01`, etc.).
 
 Cada sección tiene un `index.qmd` de portada (solo `title:` en frontmatter) y subcarpetas `{prefijo}-{NN}/index.qmd` para cada sesión.
 
@@ -139,9 +139,15 @@ Cuando no hay .docx disponible (o el archivo tiene solo Lorem ipsum): usar front
 
 **ev-17 no existe** — era duplicado de ev-05, fue omitido deliberadamente.
 
-## Archivos raíz pendientes
+## Plantilla posters
 
-- `index.qmd` — actualmente contiene el placeholder por defecto de Quarto ("This is a Quarto book…"). Debe reemplazarse con el prefacio real del libro.
+Las sesiones `pt-NN` siguen la misma plantilla que escenarios-en-vivo (frontmatter YAML + párrafo de perfil, sin tablas de nota conceptual), pero con `## Poster` en lugar de `## Diapositivas de la sesión`:
+
+```html
+## Poster
+
+<iframe src="https://drive.google.com/file/d/{FILE_ID}/preview" width="100%" height="700" allowfullscreen></iframe>
+```
 
 ## Errores conocidos / YAML
 

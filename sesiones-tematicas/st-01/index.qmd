@@ -1,5 +1,5 @@
 ---
-title: "Plenaria paralela: Ciencia al Servicio de la Vida: Servicios Climáticos para Monitoreo Continuo de Alertas Tempranas y su aplicación para la gestión de riesgos agropecuarios"
+title: "Ciencia al Servicio de la Vida: Servicios Climáticos para Monitoreo Continuo de Alertas Tempranas y su aplicación para la gestión de riesgos agropecuarios"
 ---
 
 ## Nota conceptual

@@ -11,9 +11,6 @@ title: "Sesión paralela 10. ¿Por qué se apagan los radares? El reto de manten
 | **Organización anfitriona** | Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD) |
 | **Contacto principal** | Christian Euscátegui C. |
 | **Suplente** | Andrés Benavides P. |
-| **Organización Co-Anfitriona** | N/A |
-| **Contacto principal** | |
-| **Suplente** | |
 | **Punto Focal UNGRD** | Laura Salgado |
 :::
 
@@ -42,6 +39,6 @@ title: "Sesión paralela 10. ¿Por qué se apagan los radares? El reto de manten
 
 ## Diapositivas de la sesión
 
-<iframe src="https://drive.google.com/file/d/1UqqesxJswnMqtlWoilr5SDwvQChShTq0/preview" width="100%" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/1V4FDKVTrGr3P9_n8bTQrIN_qH7dLwY1B/preview" width="100%" height="480" allowfullscreen>
 
 </iframe>

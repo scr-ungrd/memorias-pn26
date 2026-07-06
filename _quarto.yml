@@ -2,16 +2,17 @@ project:
   type: book
 
 book:
-  title: "memorias-pn26"
-  author: "Norah Jones"
-  date: "5/30/2026"
+  title: "Memorias de la Primera Plataforma Nacional para la Gestión del Riesgo de Desastres"
+  date: "7/06/2026"
   sidebar:
+    collapsed: true
     tools:
       - icon: github
         href: https://github.com/scr-ungrd/memorias-pn26
   chapters:
     - index.qmd
-    - intro.qmd
+    - nota-conceptual.qmd
+    - agenda.qmd
     - part: plenarias/index.qmd
       chapters:
         - text: "P1. Sistemas de conocimiento en alertas tempranas"
@@ -26,11 +27,16 @@ book:
           href: plenarias/p-05/index.qmd
     - part: sesiones-tematicas/index.qmd
       chapters:
-        - sesiones-tematicas/st-01/index.qmd
-        - sesiones-tematicas/st-02/index.qmd
-        - sesiones-tematicas/st-03/index.qmd
-        - sesiones-tematicas/st-05/index.qmd
-        - sesiones-tematicas/st-06/index.qmd
+        - text: "ST1. Servicios climáticos para alertas tempranas y riesgo agropecuario"
+          href: sesiones-tematicas/st-01/index.qmd
+        - text: "ST2. Conocimiento del riesgo sísmico en la GRD territorial"
+          href: sesiones-tematicas/st-02/index.qmd
+        - text: "ST3. Anticipación en Acción"
+          href: sesiones-tematicas/st-03/index.qmd
+        - text: "ST5. Política pública para desplazamiento por desastres"
+          href: sesiones-tematicas/st-05/index.qmd
+        - text: "ST6. Formar para transformar: resiliencia climática territorial"
+          href: sesiones-tematicas/st-06/index.qmd
     - part: sesiones-paralelas/index.qmd
       chapters:
         - text: "SP1. Colombia ante amenazas extraterrestres"

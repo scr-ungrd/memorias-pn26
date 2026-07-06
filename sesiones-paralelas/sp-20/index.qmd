@@ -11,9 +11,6 @@ title: "Sesión paralela 20. Áreas Protegidas y gestión del riesgo climático:
 | **Organización anfitriona** | Parques Nacionales Naturales de Colombia |
 | **Contacto principal** | Gipsy Vivian Arenas Hernández — Jefe Oficina Gestión del Riesgo |
 | **Suplente** | Juan Carlos Orrego — Contratista Oficina de Gestión del Riesgo |
-| **Organización Co-Anfitriona** | N/A |
-| **Contacto principal** | N/A |
-| **Suplente** | N/A |
 | **Punto Focal UNGRD** | Josselyn Bryan Arboleda |
 :::
 
@@ -39,3 +36,7 @@ title: "Sesión paralela 20. Áreas Protegidas y gestión del riesgo climático:
 | Preguntas | ¿Por qué la conservación de ecosistemas y las áreas protegidas deberían considerarse una infraestructura estratégica para la seguridad hídrica y la reducción del riesgo de desastres en Colombia? <br> ¿Qué evidencias, indicadores o información hacen falta para demostrar el valor de las áreas protegidas en la reducción de pérdidas y daños asociados a desastres y cambio climático? <br> ¿Cómo pueden las autoridades ambientales —como PNNC y las CAR—, el sistema de gestión del riesgo y los gobiernos territoriales fortalecer la coordinación para el conocimiento y reducción de riesgos, la respuesta y la restauración post-desastres? <br> ¿Qué oportunidades existen para movilizar inversión pública, cooperación internacional y financiamiento climático alrededor de soluciones basadas en la naturaleza y resiliencia territorial que vinculen a las áreas protegidas? <br> ¿Cómo afectan el conflicto armado, las economías ilegales, la deforestación y la ocupación no planificada la capacidad de las áreas protegidas para funcionar como activos estratégicos para la seguridad hídrica y la reducción del riesgo? <br> ¿Cómo fortalecer el diálogo social y la participación de las comunidades en la protección de ecosistemas estratégicos y en la construcción de territorios más resilientes? |
 | Conferencistas y/o facilitadores | **Moderador:** Luisz Olmedo Martínez — Director General, Parques Nacionales Naturales de Colombia <br><br> **Panelistas:** Yoagen Germaine Díaz Fontecha — Director de Gestión del Ordenamiento Ambiental y Territorial, CAR Cundinamarca · Jimena Puyana — Gerente de Ambiente y Desarrollo Sostenible, PNUD Colombia · Javier Pava Sánchez — Director de Ambiente y Desarrollo Sostenible, DNP · Néstor Roberto Garzón Cadena — Profesional Especializado, Dirección de Cambio Climático y Gestión del Riesgo, Ministerio de Ambiente y Desarrollo Sostenible |
 :::
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1RBdlrwbgB3WxbxuqvRCMk0JH56hJILET/preview" width="100%" height="480" allowfullscreen></iframe>

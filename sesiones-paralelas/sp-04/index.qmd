@@ -39,3 +39,9 @@ title: "Sesión paralela 4. Protegiendo e impulsando el desarrollo a nivel terri
 | Preguntas | ¿Cómo pueden las cadenas de suministro resilientes proteger los medios de vida, el empleo y el abastecimiento de bienes esenciales en los territorios más expuestos a riesgos climáticos y de desastres en Colombia? <br> ¿Qué responsabilidades diferenciadas y complementarias corresponden al sector público, privado y logístico para garantizar la continuidad de operaciones antes, durante y después de eventos disruptivos? <br> ¿Cómo integrar de manera efectiva la gestión del riesgo de desastres y el cambio climático en las decisiones de inversión pública y privada en infraestructura productiva y logística? <br> ¿Qué barreras normativas, financieras y operativas limitan hoy la continuidad de las cadenas de suministro y cómo pueden superarse desde la articulación público–privada? <br> ¿De qué manera pueden las comunidades locales participar activamente en la prevención, la preparación y la recuperación de las cadenas productivas y logísticas territoriales? |
 | Conferencistas y/o facilitadores | **Moderación:** Luis Bonilla, Oficial de Asuntos Económicos — UNDRR <br><br> **Panelistas:** Representante del sector privado con experiencia en gestión del riesgo y continuidad de operaciones · Representante de gobierno local (alcaldía o gobernación) · Representante del sector logístico y portuario — Cámara Marítima y Portuaria de la ANDI |
 :::
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1Lf6tZj-cSIsxbw_9qq6maCm3E6Y15tLw/preview" width="100%" height="480" allowfullscreen>
+
+</iframe>

@@ -39,3 +39,9 @@ title: "Sesión paralela 11. Reducir el Riesgo y Salvaguardar la Biodiversidad: 
 | Preguntas | ¿Qué lineamientos técnicos o financieros está desarrollando el DNP para que la inversión en "infraestructura natural" sea tratada con la misma rigurosidad que la infraestructura física en el Plan Nacional de Desarrollo? <br> ¿Cómo puede la experiencia de Colombia integrando biodiversidad y RRD servir como estándar para actualizar los indicadores de progreso del Marco de Sendai a nivel regional? <br> ¿Qué criterios recomienda el Instituto Humboldt para priorizar territorios y diseñar intervenciones de eco-reducción que integren riesgo, servicios ecosistémicos y cambio climático? <br> ¿Cuáles son las principales limitaciones normativas, técnicas o institucionales para la implementación de medidas de eco-reducción desde el MADS, y qué ajustes serían necesarios para superarlas? |
 | Conferencistas y/o facilitadores | Santiago Naranjo, Sebastián Garzón, Vivian Olarte, Diana Mendoza, Olga Nieto, Carolina Salgado, Sandra Rodríguez, Ronald Ayazo, Ricardo Lozano <br> **Facilitadores:** Beatriz Pozuelo |
 :::
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1cToDHDnWJhkSSaS_w0DpN6dkJpcl3OSf/preview" width="100%" height="480" allowfullscreen>
+
+</iframe>

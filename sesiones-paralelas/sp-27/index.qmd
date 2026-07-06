@@ -39,3 +39,7 @@ title: "Sesión paralela 27. Cuando los datos se vuelven protección: Visión ge
 | Preguntas | ¿Qué tan protegidos están realmente los hogares, las empresas y el Estado frente a desastres en Colombia, y dónde están las principales brechas de protección financiera? <br> ¿Cómo puede la información geoespacial y los datos del sector asegurador mejorar la toma de decisiones en planificación territorial y política pública? <br> ¿Qué está impidiendo una articulación efectiva entre sector público y asegurador para gestionar el riesgo de desastres de manera integral? |
 | Conferencistas y/o facilitadores | **Carlos Varela** — Ingeniero Civil, Máster en Ingeniería Civil y MBA, Especialista en Seguros y Seguridad Social, investigador en gestión de riesgos y seguros, Fasecolda <br><br> **Carlos Molina** — Director de la Cámara Técnica de Propiedad e Ingeniería, Fasecolda; impulsor del proyecto GeoFasecolda y esquemas de información para el análisis de exposición catastrófica y acumulación de riesgos |
 :::
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1l7x7HXfVgRW0Qbqap4CYQhMRRQieJhii/preview" width="100%" height="480" allowfullscreen></iframe>

@@ -13,8 +13,6 @@ title: "Plenaria 4. Reconstruir mejor: intercambio de experiencias y lecciones a
 | **Suplente** | Lina María Gallego Serna — lina.gallego.serna@undp.org |
 | **Organización Co-Anfitriona** | Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD) |
 | **Contacto principal** | Lizeth Abril — lizeth.abril@gestiondelriesgo.gov.co |
-| **Suplente** |  |
-| **Punto Focal UNGRD** |  |
 :::
 
 <style>
@@ -41,10 +39,7 @@ title: "Plenaria 4. Reconstruir mejor: intercambio de experiencias y lecciones a
 :::
 
 ## Diapositivas de la sesión
-
-::: {.callout-note}
-Las diapositivas de esta sesión estarán disponibles próximamente. Actualiza este bloque con el enlace de Google Drive o el iframe de Google Slides.
-:::
+<iframe src="https://drive.google.com/file/d/1P6ucTELlVp8Qn4l_Kd6V3zGOuoxZO4yq/preview" width="100%" height="480" allowfullscreen>
 
 ## Video de la sesión
 

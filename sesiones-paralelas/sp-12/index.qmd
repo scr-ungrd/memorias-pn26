@@ -42,6 +42,5 @@ title: "Sesión paralela 12. Camino hacia Tsunami Ready en Colombia: Capacidades
 
 ## Diapositivas de la sesión
 
-<iframe src="https://drive.google.com/file/d/1JZa3RHceB40_UmEgJpJ9UxixGqjABKvw/preview" width="100%" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/1-I1QQbMN2C9ixqjzvtJI36LE5mKvt3hF/preview" width="100%" height="480" allowfullscreen></iframe>
 
-</iframe>

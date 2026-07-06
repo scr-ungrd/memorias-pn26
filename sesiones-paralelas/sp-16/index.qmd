@@ -42,6 +42,5 @@ title: "Sesión paralela 16. Riesgo NATECH en Colombia: gobernanza público-priv
 
 ## Diapositivas de la sesión
 
-<iframe src="https://drive.google.com/file/d/1ALd4pOuj1_kX4GCgdLwiwpxaNMk5SWYI/preview" width="100%" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/18FjM14NUiwHhYCa5rG8Oc-dv_Joz-X5W/preview" width="100%" height="480" allowfullscreen></iframe>
 
-</iframe>

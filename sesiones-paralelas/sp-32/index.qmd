@@ -11,9 +11,6 @@ title: "Sesión paralela 32. Hacia territorios resilientes en Colombia: orientac
 | **Organización anfitriona** | Dirección de Ambiente y Desarrollo Sostenible del Departamento Nacional de Planeación |
 | **Contacto principal** | Javier Pava |
 | **Suplente** | Claudia Liliana Merchán — Diana Patricia Mendoza |
-| **Organización Co-Anfitriona** | N/A |
-| **Contacto principal** | N/A |
-| **Suplente** | N/A |
 | **Punto Focal UNGRD** | Lizeth Abril |
 :::
 
@@ -39,3 +36,8 @@ title: "Sesión paralela 32. Hacia territorios resilientes en Colombia: orientac
 | Preguntas | ¿Cómo se incorpora la GRD y la adaptación al cambio climático en instrumentos de ordenamiento (POT/PBOT/EOT) y de planificación (PDGRD/PMGRD), y qué innovaciones normativas se requieren para escalarla? <br> ¿Qué aprendizajes del PND 2022–2026 deben capitalizarse y qué ajustes proponen para orientar el camino 2026–2030 en GRD, resiliencia y adaptación? <br> ¿Cuáles son los principales cuellos de botella de gobernanza (roles, coordinación, descentralización de recursos) y qué medidas concretas fortalecerán el desempeño del SNGRD? |
 | Conferencistas y/o facilitadores | **Moderadora:** Claudia Liliana Merchán — Subdirectora de Cambio Climático y Gestión del Riesgo de Desastres, DNP <br><br> **Panelistas:** Javier Pava Sánchez — Director de Ambiente y Desarrollo Sostenible, DNP · Luis Bonilla Ortiz-Arrieta — Oficial de Asuntos Económicos, Oficina Regional para las Américas y el Caribe, UNDRR · Gustavo Wilches-Chaux — Profesor-Investigador, Facultad de Ciencias Sociales y Humanas, Universidad Externado de Colombia |
 :::
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1hhJU-PcNvwinc8gyxrNsdPFoIsy5pyyc/preview" width="100%" height="480" allowfullscreen></iframe>
+

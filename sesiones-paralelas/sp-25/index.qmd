@@ -39,3 +39,7 @@ title: "Sesión paralela 25. Género, datos e innovación: Del compromiso global
 | Preguntas | ¿Cómo puede el Plan de Acción de Género de Sendai fortalecer la resiliencia comunitaria frente a la variabilidad climática, y qué ajustes son necesarios para que sus principios se traduzcan en políticas y acciones efectivas a nivel territorial? <br> ¿Qué transformaciones institucionales, de gobernanza y de financiamiento se requieren para garantizar la participación y el liderazgo significativo de las mujeres en la gestión del riesgo de desastres, en contextos de amenazas climáticas crecientes y múltiples desigualdades? <br> ¿Cómo pueden la inteligencia artificial, el feminismo de datos y las nuevas capacidades digitales contribuir a una gestión del riesgo con enfoque de género e interseccionalidad en Colombia y América Latina? |
 | Conferencistas y/o facilitadores | Nahuel Arenas García — Jefe Oficina Regional para las Américas y el Caribe, UNDRR <br> Ana Grace Cabrera Cordón — Coordinadora Área de Mujeres, Paz y Seguridad y Acción Humanitaria, ONU Mujeres Guatemala <br> Beatriz Pozuelo — Coordinadora de programas de cambio climático y biodiversidad, UNDRR Américas y Caribe <br> Ana Milena Prada Uribe — Subdirectora de Conocimiento, UNGRD <br> Giovanna P. Osorio Ospina — Representante REDLAC Mujeres para la RRD <br> Miguel Franco — Director Centro de Educación para la Paz, UPN |
 :::
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1XAeI3zn_NZmcLrrVi0MDQREYAmg-b2cA/preview" width="100%" height="480" allowfullscreen></iframe>
