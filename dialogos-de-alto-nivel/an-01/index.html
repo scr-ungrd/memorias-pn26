@@ -395,42 +395,47 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../sesiones-especiales/se-01/index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Encuentro de Experiencias en la Gestión del Riesgo de Desastres y la Adaptación al Cambio Climático, Una Mirada Ambiental (2026)</span></a>
+  <a href="../../sesiones-especiales/se-01/index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">SE1. Gestión del riesgo y adaptación: una mirada ambiental</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../sesiones-especiales/se-02/index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Mujeres artesanas, territorio y gestión del riesgo: experiencias que tejen resiliencia</span></a>
+  <a href="../../sesiones-especiales/se-02/index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">SE2. Artesanas, territorio y GRD: tejiendo resiliencia</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../sesiones-especiales/se-03/index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Acciones municipales para la Reducción del Riesgo de Desastres y la Adaptación al Cambio Climático</span></a>
+  <a href="../../sesiones-especiales/se-03/index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">SE3. Acciones municipales para la RRD y adaptación climática</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../sesiones-especiales/se-05/index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Sistemas de conocimientos indígenas en la planificación para la gestión del riesgo de desastres</span></a>
+  <a href="../../sesiones-especiales/se-04/index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">SE4. Infraestructura de transporte resiliente al clima</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../sesiones-especiales/se-06/index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Los Animales en la Gestión del Riesgo de Desastres</span></a>
+  <a href="../../sesiones-especiales/se-05/index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">SE5. Conocimientos indígenas en la planificación para GRD</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../sesiones-especiales/se-07/index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Hacia la gestión integral de la erosión costera en Colombia: Comunidades, ecosistemas y economía resiliente al clima</span></a>
+  <a href="../../sesiones-especiales/se-06/index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">SE6. Los animales en la gestión del riesgo de desastres</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../sesiones-especiales/se-08/index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Final del Hackathon: innovación en Sistemas de Alerta Temprana de bajo costo</span></a>
+  <a href="../../sesiones-especiales/se-07/index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">SE7. Gestión integral de la erosión costera en Colombia</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../sesiones-especiales/se-10/index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Ancestralidad que protege: voces afrocolombianas, raizales y palenqueras para la resiliencia territorial</span></a>
+  <a href="../../sesiones-especiales/se-08/index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">SE8. Final Hackathon: innovación en SAT de bajo costo</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../sesiones-especiales/se-10/index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">SE10. Ancestralidad que protege: voces afrocolombianas</span></a>
   </div>
 </li>
       </ul>
@@ -902,17 +907,47 @@ ul.task-list li input[type="checkbox"] {
 </main> <!-- /main -->
 <script>
 document.addEventListener('DOMContentLoaded', function () {
-  document.querySelectorAll('.sidebar-item-section').forEach(function (section) {
+  var STORAGE_KEY = 'pn26-sidebar-expanded';
+  var sections = document.querySelectorAll('.sidebar-item-section');
+  var savedRaw = localStorage.getItem(STORAGE_KEY);
+  var isFirstVisit = savedRaw === null;
+  var expanded = isFirstVisit ? [] : JSON.parse(savedRaw);
+
+  sections.forEach(function (section) {
     var toggle = section.querySelector('.sidebar-item-toggle');
     if (!toggle) return;
     var targetId = toggle.getAttribute('data-bs-target');
     if (!targetId) return;
     var collapseEl = document.querySelector(targetId);
     if (!collapseEl) return;
-    collapseEl.classList.remove('show');
-    toggle.setAttribute('aria-expanded', 'false');
-    toggle.classList.add('collapsed');
+    var sectionId = targetId.replace('#', '');
+
+    // First visit: collapse everything. Subsequent visits: restore saved state.
+    if (isFirstVisit || expanded.indexOf(sectionId) === -1) {
+      collapseEl.classList.remove('show');
+      toggle.setAttribute('aria-expanded', 'false');
+      toggle.classList.add('collapsed');
+    }
+
+    // Save state on each toggle click
+    toggle.addEventListener('click', function () {
+      var isOpen = toggle.getAttribute('aria-expanded') === 'true';
+      var list = JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]');
+      if (isOpen) {
+        // Currently open → will close → remove from list
+        list = list.filter(function (id) { return id !== sectionId; });
+      } else {
+        // Currently closed → will open → add to list
+        if (list.indexOf(sectionId) === -1) list.push(sectionId);
+      }
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(list));
+    });
   });
+
+  // Initialize storage on first visit
+  if (isFirstVisit) {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify([]));
+  }
 });
 </script>
 <script id="quarto-html-after-body" type="application/javascript">
