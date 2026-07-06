@@ -203,7 +203,7 @@ bibliography: references.bib
 format:
   html:
     number-sections: false
-    collapse-level: 1
+    include-after-body: _collapse-sidebar.html
     theme:
       - cosmo
       - brand
