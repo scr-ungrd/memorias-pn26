@@ -42,4 +42,4 @@ title: "Laboratorio de Aprendizaje 2. Innovación social para la participación 
 
 ## Diapositivas de la sesión
 
-*Diapositivas no disponibles.*
+<iframe src="https://drive.google.com/file/d/1VQSY1i8L5APKma_-VSHSoIus--niBtiG/preview" width="100%" height="480" allowfullscreen></iframe>

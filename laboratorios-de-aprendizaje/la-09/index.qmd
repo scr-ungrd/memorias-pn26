@@ -42,4 +42,4 @@ title: "Laboratorio de Aprendizaje 9. Mesa Técnica Agroclimática para la gesti
 
 ## Diapositivas de la sesión
 
-*Diapositivas no disponibles.*
+<iframe src="https://drive.google.com/file/d/1tKON0rYHBLP7hCIYGCoxHooTkHojpY5f/preview" width="100%" height="480" allowfullscreen></iframe>

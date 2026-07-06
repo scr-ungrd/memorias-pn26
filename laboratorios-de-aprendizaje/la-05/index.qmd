@@ -1,0 +1,45 @@
+---
+title: "Gobernanza desde la base: el rol transformador de las organizaciones de la Sociedad Civil en la gestión del riesgo de Colombia"
+---
+
+## Nota conceptual
+
+:::{#tabla-la05-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | Gobernanza desde la base: el rol transformador de las organizaciones de la Sociedad Civil en la gestión del riesgo de Colombia |
+| **Organización anfitriona** | GNDR — Red Global de Organizaciones de la Sociedad Civil para la Reducción del Riesgo de Desastres |
+| **Contacto principal** | Carolina García Londoño — cargalon@gmail.com |
+| **Suplente** | Lizeth Quintero — lizeth.quinterog@udea.edu.co |
+| **Organización Co-Anfitriona** | Sociedad Colombiana de Geología (SCG), Capítulo Antioquia · Presentes Corporación · Fundación para la Gestión de Riesgos (FGR) · Organización Nariño Joven · Asociación Colombiana de Geólogos y Geofísicos de la Energía (ACGGP) · Fundación HTM · Proyecto ALA - Animales Latinoamérica |
+| **Contacto principal** | Johanna Carolina Flórez Chacón — johanna.florez@presentes.co |
+| **Suplente** | Didier Ferney Pedreros Vega — dpedreros@gestiondelriesgo.org |
+| **Punto Focal UNGRD** | Mauricio Romero |
+:::
+
+<style>
+#tabla-la05-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-la05-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-la05-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Laboratorio de aprendizaje — World Café (Café del Mundo). |
+| Objetivo(s) | Visibilizar el conocimiento local y comunitario de las OSC como insumo clave para la comprensión del riesgo en los territorios colombianos. <br><br> Fortalecer la gobernanza participativa de las OSC como puentes entre el Estado y las comunidades, promoviendo procesos de toma de decisiones inclusivos, legítimos y alineados con el Marco de Sendai 2015–2030. <br><br> Construir colectivamente estrategias que fortalezcan los flujos de información entre actores locales y nacionales en gestión del riesgo. |
+| Resultado(s) medible(s) | Informe de la sesión que recopila los principales hallazgos y aprendizajes del World Café, recogiendo las voces y experiencias compartidas por los participantes. <br><br> Hoja de ruta con recomendaciones concretas para fortalecer la participación de las OSC en los mecanismos oficiales de gestión del riesgo en Colombia. <br><br> Herramienta de mapeo participativo construida colectivamente durante la sesión, que visualiza los flujos de información entre comunidades, OSC y entidades del Estado. |
+| Descripción general | Esta sesión interactiva tiene como objetivo visibilizar el rol crítico de las Organizaciones de la Sociedad Civil (OSC) en la gestión del riesgo de Colombia. El espacio se concibe no solo como una muestra de experiencias, sino como un análisis técnico de cómo la acción comunitaria acelera el cumplimiento de los compromisos globales en el territorio colombiano. <br><br> Luego de una breve introducción en la que se presenta la GNDR y los miembros presentes en la sesión (25 minutos), se desarrolla la sesión tipo Café del Mundo — World Café (40 minutos), con cuatro actividades simultáneas: los asistentes se dividen en cuatro grupos, cada uno en una mesa, y rotan cada 10 minutos hasta participar de las cuatro. <br><br> **Mesas 1 y 3 — Ejemplos de las OSC en la GRD:** se socializan ejemplos de proyectos integrales y multisectoriales de gestión del riesgo desarrollados por OSC, apoyados en fotografías del proceso. <br><br> **Mesa 2 — Retos de las OSC en la gestión del riesgo:** se compilan los retos identificados por los participantes. <br><br> **Mesa 4 — Oportunidades y fortalezas de las OSC en la gestión del riesgo:** se compilan las oportunidades y fortalezas identificadas por los participantes. <br><br> Al final se realiza un cierre participativo (25 minutos) donde los asistentes reflexionan sobre el rol de las OSC en la GRD y formulan recomendaciones para fortalecer su participación en los mecanismos oficiales de gestión del riesgo en Colombia. <br><br> La sesión se estructura bajo las prioridades del Marco de Sendai (2015–2030): **Prioridad 1 — comprender el riesgo:** las OSC aportan a la formación de las comunidades locales de modo horizontal, integrando la perspectiva de quienes viven la vulnerabilidad diariamente. <br> **Prioridad 2 — fortalecer la gobernanza:** las OSC actúan como puentes de coordinación entre el Estado y las comunidades, aportando a la construcción de confianza y a una toma de decisiones participativa y legítima. <br> **Prioridad 3 — invertir en resiliencia:** las OSC desarrollan proyectos que integran la reducción del riesgo a los medios de vida, promoviendo modelos de inversión comunitaria. <br><br> En concordancia con la actualización del Plan de Acción Regional (PAR) para las Américas, la sesión enfatiza la inclusión y la diversidad, mostrando cómo las OSC implementan metodologías donde mujeres, jóvenes y comunidades étnicas lideran la identificación de amenazas y la implementación de medidas de adaptación y mitigación, alineándose también con el énfasis del PAR en el enfoque de ecosistemas. |
+| Enfoque(s) y eje(s) transversal(es) | **Enfoques:** A. Comunidades de aprendizaje y participación · C. Territorialización y financiamiento de la GRD · D. Preparación y recuperación oportuna <br><br> **Eje transversal:** Adaptación al Cambio Climático desde el enfoque de Eco-Reducción (Eco-RRD) |
+| Preguntas | ¿Cuál es el papel de las Organizaciones de la Sociedad Civil (OSC) en la gestión del riesgo? <br> ¿Cómo suele ser el flujo de información entre los diferentes actores de la gestión del riesgo y cómo debería ser? <br> ¿Cómo pueden las OSC aportar en la construcción de confianza entre los diferentes actores de la gestión del riesgo? |
+| Conferencistas y/o facilitadores | Carolina García Londoño — Punto Focal para Colombia de GNDR; Presidenta Capítulo Antioquia, Sociedad Colombiana de Geología · Johanna Carolina Flórez Chacón — Líder Ambiental y Gestión del Riesgo, Presentes Corporación · Diana Caicedo Enríquez — Representante de América del Sur ante la Junta Directiva Global de GNDR, Organización Nariño Joven · Didier Ferney Pedreros Vega — Fundación para la Gestión del Riesgo (FGR) · Flover Rodríguez Portillo — Director Ejecutivo, Asociación Colombiana de Geólogos y Geofísicos de la Energía (ACGGP) · Julia Inés Lema Vélez — Fundación HTM · Luis C. Sarmiento M. — Proyecto ALA - Animales Latinoamérica · Juan Daniel Gutiérrez Cardona — Fundación Mensajeros del Sol (FUMSOL) · Diana Torres — Cruz Roja Seccional Antioquia · Juliana Osorio — Fundación Mensajeros del Sol (FUMSOL) · Alejandro Arias — AURORA Comunicaciones |
+:::
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1Qf_0cDIYm7--v7LaerOWzZHF4hdOVI0o/preview" width="100%" height="480" allowfullscreen></iframe>

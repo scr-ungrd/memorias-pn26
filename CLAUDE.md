@@ -44,7 +44,7 @@ plenarias/                  p-01 … p-05        (5 sesiones)
 sesiones-tematicas/         st-01…03, 05…06    (5 sesiones, falta st-04)
 sesiones-paralelas/         sp-01…25, 27…38   (35 sesiones, faltan sp-03/26/36)
 sesiones-especiales/        se-01…10            (10 sesiones)
-laboratorios-de-aprendizaje/ la-01…04, 06…10  (9 sesiones, falta la-05)
+laboratorios-de-aprendizaje/ la-01…10           (10 sesiones)
 dialogos-de-alto-nivel/     an-01…03           (3 sesiones)
 escenarios-en-vivo/         ev-01…16, ev-18…46  (45 sesiones, sin ev-17)
 posters/                    pt-01                (1 sesión, prefijo: pt)
@@ -171,7 +171,7 @@ Siempre usar el número de la agenda oficial para el ID del libro.
 
 ### Sesiones no incluidas (no estaban en agenda PDF v4)
 
-SP3-CAMPESINOS, SP26, SP36, SP39, SP40, SP42, SP44, ST04-SERVICIO-SOCIAL, ST07-EMERGENCIAS-MOVILIDAD, ST08-MOVILIDAD-HUMANA, LA05-GOBERNANZA-SOCIEDAD-CIVIL
+SP3-CAMPESINOS, SP26, SP36, SP39, SP40, SP42, SP44, ST04-SERVICIO-SOCIAL, ST07-EMERGENCIAS-MOVILIDAD, ST08-MOVILIDAD-HUMANA
 
 ## Nota: SE04-MINTRANSPORTE y SP26
 

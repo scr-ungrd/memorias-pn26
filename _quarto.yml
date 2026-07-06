@@ -11,7 +11,7 @@ book:
         href: https://github.com/scr-ungrd/memorias-pn26
   chapters:
     - index.qmd
-    - nota-conceptual.qmd
+    - acerca-de.qmd
     - agenda.qmd
     - part: plenarias/index.qmd
       chapters:
@@ -141,6 +141,8 @@ book:
           href: laboratorios-de-aprendizaje/la-03/index.qmd
         - text: "LA4. Género, datos y paz: Bootcamp GRD"
           href: laboratorios-de-aprendizaje/la-04/index.qmd
+        - text: "LA5. Gobernanza desde la base: rol de las OSC en la GRD"
+          href: laboratorios-de-aprendizaje/la-05/index.qmd
         - text: "LA6. Del satélite al cultivo: agricultura resiliente con WaPOR"
           href: laboratorios-de-aprendizaje/la-06/index.qmd
         - text: "LA7. Memorias que caben en la mano: comunicar el riesgo"
@@ -207,7 +209,6 @@ book:
       chapters:
         - text: "PT1. Guía Metodológica para la Formulación del PMGRD"
           href: posters/pt-01/index.qmd
-    - summary.qmd
     - references.qmd
 
 bibliography: references.bib

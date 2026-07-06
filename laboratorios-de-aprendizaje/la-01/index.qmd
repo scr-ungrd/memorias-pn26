@@ -41,4 +41,4 @@ title: "Laboratorio de Aprendizaje 1. Comunidades que transforman el riesgo en r
 
 ## Diapositivas de la sesión
 
-*Diapositivas no disponibles.*
+<iframe src="https://drive.google.com/file/d/13VLlQJqYAPVgLXOeH2bzux1rPi51jGv3/preview" width="100%" height="480" allowfullscreen></iframe>

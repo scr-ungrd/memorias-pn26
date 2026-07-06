@@ -1,3 +1,16 @@
 ---
 title: "Laboratorios de aprendizaje"
 ---
+
+## Laboratorios de aprendizaje
+
+1. [Comunidades que transforman el riesgo en resiliencia](la-01/index.qmd)
+2. [Innovación social para la participación en GRD](la-02/index.qmd)
+3. [Gestión del Riesgo de Desastres para la Inclusión de Personas con Discapacidad](la-03/index.qmd)
+4. [Género, datos y paz: aprendizajes del Bootcamp para transformar la GRD en Colombia](la-04/index.qmd)
+5. [Gobernanza desde la base: el rol transformador de las organizaciones de la Sociedad Civil en la gestión del riesgo de Colombia](la-05/index.qmd)
+6. [Del satélite al cultivo: gestión del agua para una agricultura resiliente con WaPOR](la-06/index.qmd)
+7. [Memorias que caben en la mano: cómo comunicar el riesgo](la-07/index.qmd)
+8. [Cartografía Participativa para la Gestión del Riesgo de Desastres](la-08/index.qmd)
+9. [Mesa Técnica Agroclimática para la gestión del riesgo sectorial](la-09/index.qmd)
+10. [Explorando el SNIGRD](la-10/index.qmd)
