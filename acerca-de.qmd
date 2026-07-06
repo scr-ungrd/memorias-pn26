@@ -207,3 +207,6 @@ Estos resultados constituyen la base para la implementación de estrategias conc
 - Aforo esperado: entre 600 a 800 por día, con espacios considerados de 100 a 300 personas en sesiones temáticas y de 30 a 50 personas en espacios como laboratorio de aprendizaje y escenarios en vivo.
 
 [^1]: Una sesión es un segmento de tiempo que desarrolla una temática definida siguiendo una metodología previamente acordada.
+
+
+
