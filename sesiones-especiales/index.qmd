@@ -1,3 +1,16 @@
 ---
 title: "Sesiones especiales"
 ---
+
+## Sesiones especiales
+
+1. [Encuentro de Experiencias en la Gestión del Riesgo de Desastres y la Adaptación al Cambio Climático, Una Mirada Ambiental (2026)](se-01/index.qmd)
+2. [Mujeres artesanas, territorio y gestión del riesgo: experiencias que tejen resiliencia](se-02/index.qmd)
+3. [Acciones municipales para la Reducción del Riesgo de Desastres y la Adaptación al Cambio Climático](se-03/index.qmd)
+4. [Infraestructura de transporte resiliente al clima: avances y desafíos para Colombia](se-04/index.qmd)
+5. [Sistemas de conocimientos indígenas en la planificación para la gestión del riesgo de desastres](se-05/index.qmd)
+6. [Los Animales en la Gestión del Riesgo de Desastres](se-06/index.qmd)
+7. [Hacia la gestión integral de la erosión costera en Colombia: Comunidades, ecosistemas y economía resiliente al clima](se-07/index.qmd)
+8. [Final del Hackathon: innovación en Sistemas de Alerta Temprana de bajo costo](se-08/index.qmd)
+9. [Gestión integral del riesgo en el sector agropecuario: retos institucionales, capacidades e instrumentos para la política pública](se-09/index.qmd)
+10. [Ancestralidad que protege: voces afrocolombianas, raizales y palenqueras para la resiliencia territorial](se-10/index.qmd)

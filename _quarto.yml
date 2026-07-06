@@ -127,6 +127,8 @@ book:
           href: sesiones-especiales/se-07/index.qmd
         - text: "SE8. Final Hackathon: innovación en SAT de bajo costo"
           href: sesiones-especiales/se-08/index.qmd
+        - text: "SE9. Gestión integral del riesgo en el sector agropecuario"
+          href: sesiones-especiales/se-09/index.qmd
         - text: "SE10. Ancestralidad que protege: voces afrocolombianas"
           href: sesiones-especiales/se-10/index.qmd
     - part: laboratorios-de-aprendizaje/index.qmd
