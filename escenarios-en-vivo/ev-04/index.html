@@ -11,7 +11,7 @@
 <meta name="author" content="Nairo David Tarazona Buitrago">
 <meta name="keywords" content="Gestión del riesgo, Puntos críticos, Plataforma web, Prevención de desastres, Atlántico">
 
-<title>Plataforma Web Puntos Críticos: Una herramienta digital para la Gestión de Riesgo de Desastres en el Departamento del Atlántico – Memorias de la Primera Plataforma Nacional para la Gestión del Riesgo de Desastres</title>
+<title>Plataforma Web Puntos Críticos: Una herramienta digital para la Gestión de Riesgo de Desastres en el Departamento del Atlántico – Memorias PN26</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -102,7 +102,7 @@ ul.task-list li input[type="checkbox"] {
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
-      <a href="../../">Memorias de la Primera Plataforma Nacional para la Gestión del Riesgo de Desastres</a> 
+      <a href="../../">Memorias PN26</a> 
         <div class="sidebar-tools-main">
     <a href="https://github.com/scr-ungrd/memorias-pn26" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-github"></i></a>
 </div>
@@ -896,47 +896,17 @@ ul.task-list li input[type="checkbox"] {
 </main> <!-- /main -->
 <script>
 document.addEventListener('DOMContentLoaded', function () {
-  var STORAGE_KEY = 'pn26-sidebar-expanded';
-  var sections = document.querySelectorAll('.sidebar-item-section');
-  var savedRaw = localStorage.getItem(STORAGE_KEY);
-  var isFirstVisit = savedRaw === null;
-  var expanded = isFirstVisit ? [] : JSON.parse(savedRaw);
-
-  sections.forEach(function (section) {
+  document.querySelectorAll('.sidebar-item-section').forEach(function (section) {
     var toggle = section.querySelector('.sidebar-item-toggle');
     if (!toggle) return;
     var targetId = toggle.getAttribute('data-bs-target');
     if (!targetId) return;
     var collapseEl = document.querySelector(targetId);
     if (!collapseEl) return;
-    var sectionId = targetId.replace('#', '');
-
-    // First visit: collapse everything. Subsequent visits: restore saved state.
-    if (isFirstVisit || expanded.indexOf(sectionId) === -1) {
-      collapseEl.classList.remove('show');
-      toggle.setAttribute('aria-expanded', 'false');
-      toggle.classList.add('collapsed');
-    }
-
-    // Save state on each toggle click
-    toggle.addEventListener('click', function () {
-      var isOpen = toggle.getAttribute('aria-expanded') === 'true';
-      var list = JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]');
-      if (isOpen) {
-        // Currently open → will close → remove from list
-        list = list.filter(function (id) { return id !== sectionId; });
-      } else {
-        // Currently closed → will open → add to list
-        if (list.indexOf(sectionId) === -1) list.push(sectionId);
-      }
-      localStorage.setItem(STORAGE_KEY, JSON.stringify(list));
-    });
+    collapseEl.classList.remove('show');
+    toggle.setAttribute('aria-expanded', 'false');
+    toggle.classList.add('collapsed');
   });
-
-  // Initialize storage on first visit
-  if (isFirstVisit) {
-    localStorage.setItem(STORAGE_KEY, JSON.stringify([]));
-  }
 });
 </script>
 <script id="quarto-html-after-body" type="application/javascript">

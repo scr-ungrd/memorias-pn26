@@ -8,7 +8,7 @@
 
 <meta name="dcterms.date" content="2026-07-06">
 
-<title>Memorias de la Primera Plataforma Nacional para la Gestión del Riesgo de Desastres</title>
+<title>Memorias PN26</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -98,7 +98,7 @@ ul.task-list li input[type="checkbox"] {
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
-      <a href="./">Memorias de la Primera Plataforma Nacional para la Gestión del Riesgo de Desastres</a> 
+      <a href="./">Memorias PN26</a> 
         <div class="sidebar-tools-main">
     <a href="https://github.com/scr-ungrd/memorias-pn26" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-github"></i></a>
 </div>
@@ -805,7 +805,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#acerca-de-estas-memorias" id="toc-acerca-de-estas-memorias" class="nav-link active" data-scroll-target="#acerca-de-estas-memorias">Acerca de estas memorias</a></li>
+  <li><a href="#memorias-de-la-primera-plataforma-nacional-para-la-gestión-del-riesgo-de-desastres---pn26" id="toc-memorias-de-la-primera-plataforma-nacional-para-la-gestión-del-riesgo-de-desastres---pn26" class="nav-link active" data-scroll-target="#memorias-de-la-primera-plataforma-nacional-para-la-gestión-del-riesgo-de-desastres---pn26">Memorias de la Primera Plataforma Nacional para la Gestión del Riesgo de Desastres - PN26</a>
+  <ul class="collapse">
+  <li><a href="#acerca-de-estas-memorias" id="toc-acerca-de-estas-memorias" class="nav-link" data-scroll-target="#acerca-de-estas-memorias">Acerca de estas memorias</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -814,7 +817,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Memorias de la Primera Plataforma Nacional para la Gestión del Riesgo de Desastres</h1>
+<h1 class="title">Memorias PN26</h1>
 </div>
 
 
@@ -837,6 +840,8 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="memorias-de-la-primera-plataforma-nacional-para-la-gestión-del-riesgo-de-desastres---pn26" class="level1">
+<h1>Memorias de la Primera Plataforma Nacional para la Gestión del Riesgo de Desastres - PN26</h1>
 <p><img src="images/LOGO DEF PN26_Horizontal_fecha.png" class="img-fluid"></p>
 <section id="acerca-de-estas-memorias" class="level2">
 <h2 class="anchored" data-anchor-id="acerca-de-estas-memorias">Acerca de estas memorias</h2>
@@ -846,51 +851,22 @@ ul.task-list li input[type="checkbox"] {
 
 
 </section>
+</section>
 
 </main> <!-- /main -->
 <script>
 document.addEventListener('DOMContentLoaded', function () {
-  var STORAGE_KEY = 'pn26-sidebar-expanded';
-  var sections = document.querySelectorAll('.sidebar-item-section');
-  var savedRaw = localStorage.getItem(STORAGE_KEY);
-  var isFirstVisit = savedRaw === null;
-  var expanded = isFirstVisit ? [] : JSON.parse(savedRaw);
-
-  sections.forEach(function (section) {
+  document.querySelectorAll('.sidebar-item-section').forEach(function (section) {
     var toggle = section.querySelector('.sidebar-item-toggle');
     if (!toggle) return;
     var targetId = toggle.getAttribute('data-bs-target');
     if (!targetId) return;
     var collapseEl = document.querySelector(targetId);
     if (!collapseEl) return;
-    var sectionId = targetId.replace('#', '');
-
-    // First visit: collapse everything. Subsequent visits: restore saved state.
-    if (isFirstVisit || expanded.indexOf(sectionId) === -1) {
-      collapseEl.classList.remove('show');
-      toggle.setAttribute('aria-expanded', 'false');
-      toggle.classList.add('collapsed');
-    }
-
-    // Save state on each toggle click
-    toggle.addEventListener('click', function () {
-      var isOpen = toggle.getAttribute('aria-expanded') === 'true';
-      var list = JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]');
-      if (isOpen) {
-        // Currently open → will close → remove from list
-        list = list.filter(function (id) { return id !== sectionId; });
-      } else {
-        // Currently closed → will open → add to list
-        if (list.indexOf(sectionId) === -1) list.push(sectionId);
-      }
-      localStorage.setItem(STORAGE_KEY, JSON.stringify(list));
-    });
+    collapseEl.classList.remove('show');
+    toggle.setAttribute('aria-expanded', 'false');
+    toggle.classList.add('collapsed');
   });
-
-  // Initialize storage on first visit
-  if (isFirstVisit) {
-    localStorage.setItem(STORAGE_KEY, JSON.stringify([]));
-  }
 });
 </script>
 <script id="quarto-html-after-body" type="application/javascript">
