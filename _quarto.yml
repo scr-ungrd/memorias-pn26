@@ -224,8 +224,8 @@ format:
     theme:
       light: [cosmo, brand, custom.scss]
       dark: [darkly, brand, custom.scss]
-  pdf:
-    documentclass: scrreprt
+  # pdf:
+  #   documentclass: scrreprt
 
 
 

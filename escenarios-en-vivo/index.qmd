@@ -2,7 +2,7 @@
 title: "Escenarios en vivo"
 ---
 
-Espacio de transmisión y demostración en tiempo real de trabajos, herramientas y experiencias aplicadas a la gestión del riesgo de desastres, presentados durante la Plataforma Nacional 2026.
+Fueron conferencias de formato corto, conciso y rápido (15 minutos) que se realizaron en un espacio abierto para que los expositores presenten de manera atractiva y didáctica sus experiencias innovadoras y significativas, el nuevo conocimiento, las nuevas tecnologías, o los resultados de sus proyectos. La selección de expositores se realizó mediante convocatoria pública y previo concurso, a través de un proceso transparente de evaluación y selección llevado a cabo por un jurado calificador designado. 
 
 <ul class="nav nav-pills mb-4 mt-3" id="live-tabs" role="tablist">
   <li class="nav-item" role="presentation">
