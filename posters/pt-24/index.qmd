@@ -1,0 +1,24 @@
+---
+title: 'Olas de Calor, Alianza por la Amazonía y Pronóstico Basado en Impacto'
+author:
+- name: Cruz Roja Colombiana
+  affiliations:
+    - name: Bogotá, Colombia
+keywords:
+- Olas de calor
+- Amazonía
+- Pronóstico basado en impacto
+- Adaptación climática
+- Gestión del riesgo
+abstract: |
+  **Ciudades por la Acción Climática.** El proyecto, implementado en las ciudades de Neiva (Huila) y Sincelejo (Sucre), surge en un contexto de creciente vulnerabilidad urbana frente a los efectos del cambio climático, particularmente por la ocurrencia de altas temperaturas e inundaciones. Su objetivo es fortalecer la resiliencia urbana mediante acciones lideradas localmente, con un enfoque participativo estructurado en dos fases: diagnóstico y preparación, e implementación de acciones de adaptación urbana (estudios de percepción de calor, análisis de islas de calor, Redes por la Acción Climática, transferencias monetarias para resiliencia, protocolo de acción ante altas temperaturas en Neiva y co-diseño de soluciones en Sincelejo). Se logró fortalecer el conocimiento del riesgo, consolidar espacios de coordinación interinstitucional e implementar soluciones locales adaptadas al contexto.
+
+  **Alianza por la Amazonía (2025-2035).** Surge en un contexto de creciente deterioro socioambiental en la región amazónica, donde se ha perdido el 18% de los bosques y un 17% adicional se encuentra degradado. Su objetivo es desarrollar un enfoque armonizado e integral frente a los riesgos asociados al cambio climático (inundaciones, sequías, incendios forestales) en los nueve países de la región, mediante tres pilares: gestión del riesgo y acción climática anticipatoria; medios de vida sostenibles y resilientes; y salud, bienestar mental y equilibrio espiritual, articulados con los sistemas nacionales (SNGRD, SISCLIMA, SINA). Como resultados se destacan la consolidación de una hoja de ruta regional y el fortalecimiento de la gobernanza climática.
+
+  **Implementación de los Pronósticos Basados en Impacto (PBI).** Ante la brecha entre la información hidrometeorológica generada en Colombia y su uso efectivo en la toma de decisiones, esta hoja de ruta establece un proceso progresivo para implementar Pronósticos Basados en Impacto, integrando información de amenaza, exposición y vulnerabilidad en tres fases: fortalecimiento de capacidades y pilotos territoriales; consolidación operativa e integración interinstitucional; y escalamiento y sostenibilidad. Se identificaron brechas en interoperabilidad de datos y en la comunicación del riesgo, y se recomienda fortalecer la articulación entre el IDEAM, la UNGRD y los actores territoriales.
+categories:
+- Comunidades de aprendizaje y participación
+- Adaptación al cambio climático desde el enfoque de Eco-Reducción (Eco-RRD)
+---
+
+**Perfil quién presenta el trabajo:** Cruz Roja Colombiana.

@@ -1,0 +1,28 @@
+---
+title: Impacto del cambio de cobertura del suelo en el evento extremo de Mocoa en 2017
+author:
+- name: Charlotte Audeoud
+  affiliations:
+    - name: Universidad del Rosario, Bogotá, Colombia
+  corresponding: true
+  email: charlotte.audeoud@urosario.edu.co
+keywords:
+- Mocoa
+- Cobertura del suelo
+- Deforestación
+- WRF
+- Escorrentía
+abstract: |
+  El evento de precipitaciones extremas y avenidas torrenciales ocurrido en Mocoa en 2017 generó impactos devastadores, evidenciando la alta vulnerabilidad de las cuencas andino-amazónicas frente a lluvias intensas. Aunque muchos estudios se han centrado en el papel de la precipitación extrema, el rol de los cambios en la cobertura del suelo en la respuesta hidrológica sigue siendo menos explorado. Este trabajo tiene como objetivo evaluar el impacto de la transformación de la cobertura del suelo entre 1985 y 2017 sobre la precipitación y la escorrentía durante este evento.
+
+  Para ello, se realizaron simulaciones numéricas utilizando el modelo atmosférico WRF, incorporando dos escenarios de uso del suelo representativos de 1985 y 2017. La metodología consistió en mantener constantes las condiciones meteorológicas del evento, modificando únicamente la cobertura del suelo para aislar su efecto sobre los procesos hidrológicos. Se analizaron variables como la precipitación total y la escorrentía superficial y subsuperficial a escala de cuenca.
+
+  Los resultados muestran que no se observan diferencias significativas en la precipitación entre ambos escenarios, lo que indica que el cambio de cobertura del suelo no afecta de manera notable la generación de lluvia en este caso. Sin embargo, se evidencia un aumento de la escorrentía superficial en el escenario de 2017, asociado a la deforestación y la conversión de áreas naturales en zonas agrícolas. Este cambio implica una menor infiltración y una respuesta hidrológica más rápida e intensa de la cuenca.
+
+  Estos hallazgos sugieren que los cambios en el uso del suelo pueden amplificar los impactos de eventos extremos. En este sentido, el estudio resalta la importancia de integrar la gestión del uso del suelo en las estrategias de reducción del riesgo de desastres, particularmente en regiones donde la presión sobre los ecosistemas es elevada.
+categories:
+- Planeación y ordenamiento que incorpora la GRD
+- Datos, modelación, IA, innovación social y herramientas digitales
+---
+
+**Perfil quién presenta el trabajo:** Ingeniera generalista graduada de la Escuela Superior de Física y Química Industrial de París (ESPCI), con maestría en ciencias políticas enfocada en gestión de proyectos de desarrollo en el ámbito internacional de la Universidad París 1 Panthéon-Sorbonne. Se acercó a las ciencias del clima y a la hidrología mediante un voluntariado desde Francia en Colombia. Actualmente trabaja en modelación hidroclimática de fenómenos extremos de precipitación y avenidas torrenciales en el grupo de investigación Interacciones Ecosistemas-Clima de la Universidad del Rosario.

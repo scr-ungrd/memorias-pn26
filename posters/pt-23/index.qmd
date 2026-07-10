@@ -1,0 +1,27 @@
+---
+title: Manejo de animales en situación de emergencia, caso de éxito Municipio de Guaranda (Sucre), Subregión de la Mojana
+author:
+- name: Argemiro Andrés Tuirán Jiménez
+  affiliations:
+    - name: Red de Jóvenes para la Reducción del Riesgo de Desastres, Guaranda, Colombia
+  corresponding: true
+  email: argemiro.tuiran@gmail.com
+keywords:
+- Animales
+- Mojana
+- Inundaciones
+- Emergencia
+abstract: |
+  El municipio de Guaranda enfrenta escenarios recurrentes de emergencia, particularmente asociados a inundaciones, que incrementan la vulnerabilidad sanitaria de los animales de producción y compañía. Esta situación impacta directamente la seguridad alimentaria, los medios de vida rurales y la salud pública, debido al riesgo de propagación de enfermedades zoonóticas y a la limitada inclusión de los animales en los procesos de gestión del riesgo de desastres.
+
+  El objetivo de esta intervención fue acompañar las jornadas lideradas por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO), orientadas a la atención integral en salud animal en zonas rurales del municipio de Guaranda, mediante acciones de vacunación, desparasitación, valoración clínica y caracterización de las comunidades beneficiarias, así como el fortalecimiento de capacidades locales para la respuesta ante emergencias.
+
+  La metodología se desarrolló bajo un enfoque territorial y participativo en veredas priorizadas por su cercanía a zonas afectadas por inundaciones. Se realizaron visitas prediales con autorización de los propietarios, permitiendo la identificación, clasificación y evaluación clínica básica de los animales. De manera complementaria, se brindaron orientaciones en bioseguridad, manejo sanitario y tenencia responsable, y se activaron rutas de atención institucional en casos que lo requirieron. Paralelamente, se implementaron brigadas veterinarias y procesos de entrega de insumos médicos especializados.
+
+  Como resultado, se logró la atención de más de 47.000 animales de diferentes especies, evidenciando una amplia cobertura territorial y un impacto significativo en la mejora de las condiciones sanitarias. Se concluye que la integración de la salud animal en la gestión del riesgo de desastres es un componente esencial para la resiliencia territorial, y se recomienda fortalecer la articulación entre entidades y promover su incorporación en políticas públicas.
+categories:
+- Preparación y recuperación oportuna
+- Adaptación al cambio climático desde el enfoque de Eco-Reducción (Eco-RRD)
+---
+
+**Perfil quién presenta el trabajo:** Biólogo con más de 4 años de experiencia en la gestión del riesgo de desastres, específicamente en fenómenos de inundaciones lentas en la subregión de la Mojana. Actualmente se desempeña como coordinador de riesgo de desastres del municipio de Guaranda (Sucre) y hace parte de la RJRRD COL como Enlace Departamental de Sucre.

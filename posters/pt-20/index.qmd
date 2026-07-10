@@ -1,0 +1,39 @@
+---
+title: 'Integración del conocimiento del riesgo en los Proyectos Ambientales Escolares y en los Proyectos Educativos Comunitarios: fortaleciendo la resiliencia escolar en tierra de volcanes'
+author:
+- name: Leidy Castaño
+  affiliations:
+    - name: Cruz Roja Colombiana, Bogotá D.C., Colombia
+- name: Carolina Chirán
+  affiliations:
+    - name: Cruz Roja Colombiana, Bogotá D.C., Colombia
+- name: Harold Arbeláez
+  affiliations:
+    - name: Cruz Roja Colombiana, Bogotá D.C., Colombia
+- name: Jesús Chicaiza
+  affiliations:
+    - name: Cruz Roja Colombiana, Bogotá D.C., Colombia
+- name: Eduard Ruiz
+  affiliations:
+    - name: Cruz Roja Colombiana, Bogotá D.C., Colombia
+  corresponding: true
+  email: eduard.ruiz@cruzrojacolombiana.org
+keywords:
+- Conocimiento del Riesgo
+- Actividad volcánica
+- Proyectos Ambientales Escolares
+- Proyectos Educativos Comunitarios
+- Resiliencia comunitaria
+abstract: |
+  El trabajo aborda la incorporación del conocimiento del riesgo volcánico en el ámbito escolar en los departamentos de Caldas, Tolima y Nariño, donde la influencia de la actividad volcánica y la cercanía incrementan el riesgo de las comunidades educativas. Esta situación evidencia una brecha entre el conocimiento técnico generado por entidades especializadas y su apropiación efectiva por parte de docentes, estudiantes y padres de familia, lo que limita la reducción del riesgo de desastres asociados a la actividad volcánica.
+
+  El objetivo del trabajo es promover el conocimiento del riesgo volcánico en los Proyectos Ambientales Escolares (PRAE) y los Proyectos Educativos Comunitarios (PEC) como una estrategia para fortalecer las capacidades locales y la resiliencia comunitaria desde el entorno educativo, consolidando a las instituciones educativas como espacios clave para la apropiación social del conocimiento del riesgo.
+
+  La metodología se basa en un enfoque participativo que articula la educación con la gestión del riesgo de desastres: desarrollo e implementación de herramientas pedagógicas, contenidos contextualizados al entorno volcánico, procesos de formación docente y actividades que fomentan la participación activa de estudiantes en la identificación de amenazas, vulnerabilidades y capacidades, integrando estos contenidos en los PRAE y PEC.
+
+  Como resultados, se evidencian avances en la comprensión del riesgo volcánico por parte de la comunidad educativa, una mayor apropiación del conocimiento técnico, el fortalecimiento de capacidades para la toma de decisiones informadas y una participación más activa de estudiantes y docentes en procesos de prevención y preparación. Se concluye que la integración del riesgo volcánico en los PRAE y PEC contribuye significativamente a la formación de comunidades educativas más resilientes, ofreciendo una base replicable y escalable para otros contextos de amenaza volcánica en el país.
+categories:
+- Comunidades de aprendizaje y participación
+---
+
+**Perfil quién presenta el trabajo:** Profesional con experiencia de alrededor de 13 años en la gestión del riesgo de desastres, aportando al fortalecimiento de capacidades comunitarias e institucionales que promuevan la reducción de vulnerabilidades y el fortalecimiento de la resiliencia. Licenciado en Educación en Ciencias Naturales de la Universidad del Tolima, Economista de la Universidad EAN y Magíster en Gestión del Riesgo de Desastres y Atención de Emergencias de la Universidad de Costa Rica, con formación en acciones anticipatorias, análisis de impacto cruzado y sistemas de información geográfica para la reducción del riesgo. Actualmente se desempeña como Gestor Nacional de Conocimiento del Riesgo en la Cruz Roja Colombiana.

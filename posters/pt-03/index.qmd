@@ -1,0 +1,35 @@
+---
+title: Análisis del riesgo climático de la cuenca del río Guatapurí y su relación con la sostenibilidad del territorio de Valledupar, Cesar
+author:
+- name: Martín Ovalle
+  affiliations:
+    - name: Escuela de Ciencias e Ingeniería, Ciencias del Sistema Tierra, Universidad del Rosario, Bogotá, Colombia
+  corresponding: true
+  email: martin.ovalle@urosario.edu.co
+- name: Ailyn Fandiño
+  affiliations:
+    - name: Escuela de Ciencias e Ingeniería, Ciencias del Sistema Tierra, Universidad del Rosario, Bogotá, Colombia
+  email: ailyn.fandino@urosario.edu.co
+keywords:
+- Cambio climático
+- Recurso hídrico
+- Cuenca hidrográfica
+- Vulnerabilidad
+- Riesgo
+- Adaptación
+- Mitigación
+- Río Guatapurí
+abstract: |
+  El cambio climático representa una amenaza significativa para sistemas hídricos dependientes, como la cuenca del río Guatapurí en Valledupar, Cesar, donde el recurso hídrico es fundamental para la sostenibilidad del territorio. En este contexto, la cuenca presenta una creciente vulnerabilidad asociada a la variabilidad climática y a la ocurrencia de amenazas como sequías, inundaciones, incendios forestales y olas de calor.
+
+  Este estudio tiene como objetivo analizar la vulnerabilidad hídrica y el riesgo climático de la cuenca del río Guatapurí, mediante el enfoque del Plan Integral de Gestión del Cambio Climático Territorial (PIGCCT). La metodología se basa en el análisis de instrumentos de planificación territorial (POT, PDT, PGRD, POMCA y PIGCCT) y el uso de herramientas climáticas como climogramas históricos para evaluar la variabilidad climática y eventos extremos asociados a fenómenos como El Niño y La Niña.
+
+  El análisis realizado con Climate Engine indica una tendencia al aumento de la temperatura y una marcada variabilidad en las precipitaciones, caracterizada por la intensificación de periodos de déficit hídrico extremo, lo que incrementa el estrés sobre la cuenca. Asimismo, se identifican amenazas relevantes como inundaciones, sequías, incendios forestales y olas de calor, configurando un escenario de alto riesgo climático que afecta el recurso hídrico y las actividades productivas del territorio.
+
+  Se concluye que la cuenca del río Guatapurí presenta alta sensibilidad al cambio climático, por lo que es necesario fortalecer la integración de la gestión del riesgo en los instrumentos de planificación territorial, promoviendo estrategias de adaptación y manejo sostenible del recurso hídrico para garantizar la resiliencia del territorio.
+categories:
+- Planeación y ordenamiento que incorpora la GRD
+- Adaptación al cambio climático desde el enfoque de Eco-Reducción (Eco-RRD)
+---
+
+**Perfil quién presenta el trabajo:** Martín Ovalle y Ailyn Fandiño son estudiantes del pregrado en Ciencias del Sistema Tierra de la Universidad del Rosario, con un enfoque multidisciplinario en el análisis del cambio climático, la gestión del recurso hídrico y la planificación territorial. Su trabajo se orienta a la evaluación de la vulnerabilidad, los riesgos y las amenazas climáticas mediante el uso de instrumentos como el PIGCCT, con énfasis en la adaptación y mitigación frente al cambio climático en territorios dependientes del recurso hídrico. César Mauricio Serna Yepes, quien acompaña el trabajo, es profesor de mitigación y adaptación al cambio climático y de riesgos, amenazas, vulnerabilidad y desastres en la Universidad del Rosario.

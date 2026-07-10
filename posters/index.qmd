@@ -1,3 +1,187 @@
 ---
 title: "Posters"
 ---
+
+<div class="table-responsive">
+<table class="table table-hover align-middle">
+<thead class="table-primary">
+<tr><th>Título</th><th style="width:280px">Autor(es)</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="pt-01/index.qmd">Actualización del EDAN para Latinoamérica</a>
+  </td>
+  <td class="small">Krisnader García</td>
+</tr>
+<tr>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="pt-02/index.qmd">Análisis de fuentes de contaminación del aire en Vichada mediante modelación atmosférica y monitoreo con sensores de bajo costo</a>
+  </td>
+  <td class="small">Stijn Hantson, Nathalia Celis</td>
+</tr>
+<tr>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="pt-03/index.qmd">Análisis del riesgo climático de la cuenca del río Guatapurí y su relación con la sostenibilidad del territorio de Valledupar, Cesar</a>
+  </td>
+  <td class="small">Martín Ovalle, Ailyn Fandiño</td>
+</tr>
+<tr>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="pt-04/index.qmd">Atención Humanitaria a Población Vulnerable por la Emergencia Invernal en Chocó</a>
+  </td>
+  <td class="small">Paolin Andrade Quiñones, Jorge Sarmiento</td>
+</tr>
+<tr>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="pt-05/index.qmd">Brigadas Ambientales para la Gestión del Riesgo de Desastres en los municipios de su jurisdicción de Corpoboyacá</a>
+  </td>
+  <td class="small">Greicy J. Sánchez Díaz, Antonio De la Barrera Cárdenas</td>
+</tr>
+<tr>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="pt-06/index.qmd">Caracterización de las unidades geológicas superficiales (UGS) y subunidades geomorfológicas (SGMF) a escala 1:25.000 para el municipio de San Joaquín, Santander, como herramienta en la evaluación de los factores de inestabilidad superficial</a>
+  </td>
+  <td class="small">María Alejandra Navas Báez, Andrea Hernández Grimaldos</td>
+</tr>
+<tr>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="pt-07/index.qmd">De la modelación a la decisión: gestión del riesgo basada en evidencia</a>
+  </td>
+  <td class="small">Andrés Humberto Otálora Carmona, Ximena Andrea Lemaitre Ruiz, Daniel Felipe Arango Díaz</td>
+</tr>
+<tr>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="pt-08/index.qmd">De la respuesta reactiva a la prevención: Tecnología japonesa SABO y Sistemas de Alerta Temprana (SAT) para construir un futuro resiliente en Colombia</a>
+  </td>
+  <td class="small">Takahiro Shinchi</td>
+</tr>
+<tr>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="pt-09/index.qmd">De los datos a la anticipación: umbrales y triggers para la gestión del riesgo por sequías</a>
+  </td>
+  <td class="small">Eduard Ruiz, Christian Giraldo, Juan Bazo</td>
+</tr>
+<tr>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="pt-10/index.qmd">Diagnóstico de la Ley 1523 contra el Marco de Sendai de Reducción del Riesgo de Desastres</a>
+  </td>
+  <td class="small">Juan Carlos Torres Sánchez</td>
+</tr>
+<tr>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="pt-11/index.qmd">Diseño de un modelo de estadísticas de pérdidas y daños por desastres para la protección de la biodiversidad y el desarrollo territorial sostenible, un enfoque aplicado a los cuerpos de bomberos en Colombia</a>
+  </td>
+  <td class="small">Marco Antonio Candelo Padilla</td>
+</tr>
+<tr>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="pt-12/index.qmd">Diseño sistema de alerta temprana de incendios de cobertura vegetal en el municipio de Valledupar utilizando sensores remotos</a>
+  </td>
+  <td class="small">Eric Leonardo Perico Caicedo</td>
+</tr>
+<tr>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="pt-13/index.qmd">Estimación del riesgo sísmico y diseño de estrategias de mitigación para una zona periurbana del corregimiento de San Cristóbal, Medellín</a>
+  </td>
+  <td class="small">Kelly Johanna Zapata Trujillo</td>
+</tr>
+<tr>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="pt-14/index.qmd">Estrategia Dual para la reducción del riesgo y la adaptación al cambio climático: bioingeniería y Soluciones basadas en la Naturaleza para la estabilización de pasivos mineros en el Páramo de Guerrero</a>
+  </td>
+  <td class="small">Edgar Armando Malpica Correa</td>
+</tr>
+<tr>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="pt-15/index.qmd">Estrategias para suplir la falta de datos en la cuenca del río Tomarrazón para informar sobre el impacto de la extracción de áridos</a>
+  </td>
+  <td class="small">Andrea G.C. Nardini, Giacomo Pellegrini, Luca Mao, Yoiner Ariza, Fayder Herrera, Emirielys Ospino, Jairo R. Escobar V.</td>
+</tr>
+<tr>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="pt-16/index.qmd">Fortalecimiento comunitario para la reducción del riesgo de inundaciones y altas temperaturas en comunidades urbanas en Colombia</a>
+  </td>
+  <td class="small">María Camila Lozano Paris, Yaddy Christina Benavides Revelo</td>
+</tr>
+<tr>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="pt-17/index.qmd">Gestión Comunitaria del Riesgo como Modelo Escalable de Fortalecimiento de la Capacidad de Respuesta Territorial en Colombia</a>
+  </td>
+  <td class="small">Sandra Patricia Castro Madrid, Freddy A. Vahos Arias, Juan F. Figueroa Alzate, John E. Gómez Torres, Johanna Florez Chacón, Adriana L. Correa Arango</td>
+</tr>
+<tr>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="pt-18/index.qmd">Gestión del riesgo y adaptación al cambio climático en Leticia: integración entre ordenamiento territorial y la conservación amazónica</a>
+  </td>
+  <td class="small">Sebastián Millán Benítez, Andrés Felipe Castro</td>
+</tr>
+<tr>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="pt-19/index.qmd">Impacto del cambio de cobertura del suelo en el evento extremo de Mocoa en 2017</a>
+  </td>
+  <td class="small">Charlotte Audeoud</td>
+</tr>
+<tr>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="pt-20/index.qmd">Integración del conocimiento del riesgo en los Proyectos Ambientales Escolares y en los Proyectos Educativos Comunitarios: fortaleciendo la resiliencia escolar en tierra de volcanes</a>
+  </td>
+  <td class="small">Leidy Castaño, Carolina Chirán, Harold Arbeláez, Jesús Chicaiza, Eduard Ruiz</td>
+</tr>
+<tr>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="pt-21/index.qmd">Invertir en prevención: responsabilidad fiscal y sostenibilidad en la gestión del riesgo de desastres</a>
+  </td>
+  <td class="small">Diana Carolina Caicedo Enríquez, Lysed T. Soler Ladino, Jaider Agudelo Nacimiento, Nicolás Andrés Romero Arrieta, Valentina Bolaños, Christian Benítez Núñez</td>
+</tr>
+<tr>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="pt-22/index.qmd">Los manglares como ecosistemas estratégicos para la prevención de inundaciones, estudio de caso San Bernardo del Viento, Córdoba</a>
+  </td>
+  <td class="small">Marcela Guerrero, Miguel Ángel Díaz Salas</td>
+</tr>
+<tr>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="pt-23/index.qmd">Manejo de animales en situación de emergencia, caso de éxito Municipio de Guaranda (Sucre), Subregión de la Mojana</a>
+  </td>
+  <td class="small">Argemiro Andrés Tuirán Jiménez</td>
+</tr>
+<tr>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="pt-24/index.qmd">Olas de Calor, Alianza por la Amazonía y Pronóstico Basado en Impacto</a>
+  </td>
+  <td class="small">Cruz Roja Colombiana</td>
+</tr>
+<tr>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="pt-25/index.qmd">Projected changes in climate extremes across Colombia using NEX-GDDP-CMIP6 models</a>
+  </td>
+  <td class="small">Juan Felipe T. Bateman, Alvaro Avila-Diaz, Benjamin Quesada</td>
+</tr>
+<tr>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="pt-26/index.qmd">Protocolo de Apoyo Psicosocial en Contextos de Emergencias y Desastres</a>
+  </td>
+  <td class="small">Mildred Alexandra Vianchá-Pinzón, Sandra Rocío Castañeda Ferias, Astrid Constanza Vergara</td>
+</tr>
+<tr>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="pt-27/index.qmd">Transformaciones en la gestión del riesgo de desastres por vía de actuaciones reglamentarias</a>
+  </td>
+  <td class="small">Jorge-Eduardo Vásquez-Santamaría, Leidys-Helena Rivera-Quiroz</td>
+</tr>
+<tr>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="pt-28/index.qmd">Uso de tecnologías para el análisis de inundación en zonas urbanas, caso de estudio Quebrada el Tejar municipio de Ocaña, Norte de Santander</a>
+  </td>
+  <td class="small">Agustín A. Macgregor Torrado, Romel J. Gallardo A., Ray C. Ramírez Rincón</td>
+</tr>
+<tr>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="pt-29/index.qmd">Vulcanismo monogenético en Colombia y su potencial geoturístico</a>
+  </td>
+  <td class="small">Susana Osorio-Ocampo, Hugo Murcia, Laura Sánchez-Torres, Luis Álvaro Botero-Gómez, Alejandro Arias-Díaz, Ana Toro</td>
+</tr>
+</tbody>
+</table>
+</div>

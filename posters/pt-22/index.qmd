@@ -1,0 +1,24 @@
+---
+title: Los manglares como ecosistemas estratégicos para la prevención de inundaciones, estudio de caso San Bernardo del Viento, Córdoba
+author:
+- name: Marcela Guerrero
+  affiliations:
+    - name: Ingeniera Topográfica, Máster en Cambio Global, Recursos Naturales y Sostenibilidad, Escuela Superior de Administración Pública, Barranquilla, Colombia
+  corresponding: true
+  email: Marcela.guerrero@esap.edu.co
+- name: Miguel Ángel Díaz Salas
+  affiliations:
+    - name: Ingeniero Topográfico, Magíster en Gestión Urbana, Universidad Manuela Beltrán, Bogotá, Colombia
+  email: miguel.diazs@docentes.umb.edu.co
+keywords:
+- Manglar
+- Inundaciones
+- Ordenamiento territorial
+- Vulnerabilidad
+- Cobertura del suelo
+abstract: |
+  El trabajo que se presentará a continuación pretende evidenciar que los servicios ecosistémicos que brindan los manglares a las comunidades aledañas, específicamente frente a las inundaciones, también pueden ser un detonante de riesgo dado que, si estos ecosistemas no se encuentran en buenas condiciones, ya no cumplen con su función y se convierten en sinónimo de amenaza para las comunidades. En el desarrollo de esta investigación se muestra cómo la ausencia de delimitación de rondas hídricas, la inexistencia de medidas de protección y restricción sobre el uso del suelo en el ordenamiento territorial, la transformación acelerada de las coberturas de la tierra y el desconocimiento de las comunidades aledañas respecto del funcionamiento y de los beneficios de los manglares, ha originado el aumento de la exposición y de la vulnerabilidad de las comunidades frente a la recurrencia de las inundaciones.
+categories:
+- Planeación y ordenamiento que incorpora la GRD
+- Adaptación al cambio climático desde el enfoque de Eco-Reducción (Eco-RRD)
+---

@@ -1,0 +1,34 @@
+---
+title: Projected changes in climate extremes across Colombia using NEX-GDDP-CMIP6 models
+author:
+- name: Juan Felipe T. Bateman
+  affiliations:
+    - name: Programa de Ciencias del Sistema Tierra, Universidad del Rosario, Bogotá D.C., Colombia
+  corresponding: true
+  email: juanf.tabares@urosario.edu.co
+- name: Alvaro Avila-Diaz
+  affiliations:
+    - name: Programa de Ciencias del Sistema Tierra, Universidad del Rosario, Bogotá D.C., Colombia
+- name: Benjamin Quesada
+  affiliations:
+    - name: Programa de Ciencias del Sistema Tierra, Universidad del Rosario, Bogotá D.C., Colombia
+keywords:
+- Extremos climáticos
+- Modelos climáticos
+- Evaluación regional
+- Variabilidad
+- Cambio Climático
+abstract: |
+  Los extremos climáticos son cada vez más frecuentes e intensos a nivel global, lo que hace prioritario comprender su evolución para la gestión del riesgo climático. En el norte de Sudamérica, eventos recientes como sequías, lluvias intensas e inundaciones han evidenciado impactos significativos sobre la disponibilidad de agua, la infraestructura y los medios de vida. Colombia, en particular, presenta una alta vulnerabilidad debido a su compleja topografía, la diversidad de sus regímenes hidroclimáticos y marcadas desigualdades sociales. Aunque existen estudios sobre proyecciones climáticas medias, aún son limitados los análisis que abordan de manera integral los cambios en extremos climáticos mediante índices específicos a escala nacional.
+
+  Este estudio tiene como objetivo evaluar los cambios futuros en los extremos climáticos en Colombia utilizando proyecciones climáticas de alta resolución, reducidas de escala y corregidas por sesgo del CMIP6. Se analizaron 16 índices del marco ETCCDI, seleccionados para representar la duración, frecuencia e intensidad de los extremos. Las condiciones históricas (1985–2014), derivadas de datos grillados, se compararon con proyecciones para los periodos 2021–2050 y 2071–2100 bajo los escenarios SSP2-4.5 y SSP5-8.5. El análisis incluyó 31 modelos NEX-GDDP-CMIP6, evaluados frente a CHIRPS para precipitación y ERA5-Land para temperatura, permitiendo construir ensambles multimodelo para mejorar la robustez de los resultados.
+
+  Las proyecciones muestran un calentamiento consistente en todas las regiones del país. Los extremos cálidos aumentan bajo ambos escenarios, mientras que los extremos fríos disminuyen. Hacia mediados de siglo, la temperatura máxima anual se incrementa en más de 1 °C en todas las regiones, alcanzando hasta 1.8 °C en la Amazonia y la Orinoquía bajo el escenario más crítico. En cuanto a la precipitación, se observan patrones regionales contrastantes: los días secos consecutivos aumentan, especialmente en la Amazonia, mientras que la precipitación total y los días húmedos disminuyen en el Caribe y la Orinoquía, pero aumentan en el Pacífico. No obstante, los eventos de lluvia intensa tienden a intensificarse en casi todo el país.
+
+  En conclusión, Colombia enfrentará simultáneamente sequías más prolongadas y eventos de precipitación más intensos, lo que incrementa la complejidad del riesgo climático. A pesar de las limitaciones de los modelos, este estudio proporciona una base nacional robusta para apoyar la toma de decisiones en adaptación, gestión del riesgo y planificación territorial.
+categories:
+- Planeación y ordenamiento que incorpora la GRD
+- Datos, modelación, IA, innovación social y herramientas digitales
+---
+
+**Perfil quién presenta el trabajo:** Profesional en Ciencias del Sistema Tierra de la Universidad del Rosario con enfoque en ciencias del clima y del agua. Miembro del grupo de investigación ICE (Interacciones Clima-Ecosistemas) y del Semillero de Investigación DICEMAS (Dinámica Clima-Ecosistemas).

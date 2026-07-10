@@ -211,8 +211,35 @@ book:
         - escenarios-en-vivo/ev-46/index.qmd
     - part: posters/index.qmd
       chapters:
-        - text: "PT1. Guía Metodológica para la Formulación del PMGRD"
-          href: posters/pt-01/index.qmd
+        - posters/pt-01/index.qmd
+        - posters/pt-02/index.qmd
+        - posters/pt-03/index.qmd
+        - posters/pt-04/index.qmd
+        - posters/pt-05/index.qmd
+        - posters/pt-06/index.qmd
+        - posters/pt-07/index.qmd
+        - posters/pt-08/index.qmd
+        - posters/pt-09/index.qmd
+        - posters/pt-10/index.qmd
+        - posters/pt-11/index.qmd
+        - posters/pt-12/index.qmd
+        - posters/pt-13/index.qmd
+        - posters/pt-14/index.qmd
+        - posters/pt-15/index.qmd
+        - posters/pt-16/index.qmd
+        - posters/pt-17/index.qmd
+        - posters/pt-18/index.qmd
+        - posters/pt-19/index.qmd
+        - posters/pt-20/index.qmd
+        - posters/pt-21/index.qmd
+        - posters/pt-22/index.qmd
+        - posters/pt-23/index.qmd
+        - posters/pt-24/index.qmd
+        - posters/pt-25/index.qmd
+        - posters/pt-26/index.qmd
+        - posters/pt-27/index.qmd
+        - posters/pt-28/index.qmd
+        - posters/pt-29/index.qmd
     - galeria-fotografica.qmd
 
 format:

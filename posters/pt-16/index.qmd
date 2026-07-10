@@ -1,0 +1,31 @@
+---
+title: Fortalecimiento comunitario para la reducción del riesgo de inundaciones y altas temperaturas en comunidades urbanas en Colombia
+author:
+- name: María Camila Lozano Paris
+  affiliations:
+    - name: Cruz Roja Colombiana, Bogotá, Colombia
+  corresponding: true
+  email: maría.lozano@cruzrojacolombiana.org
+- name: Yaddy Christina Benavides Revelo
+  affiliations:
+    - name: Cruz Roja Colombiana, Bogotá, Colombia
+keywords:
+- Resiliencia climática
+- Inundaciones
+- Altas temperaturas
+- Área urbana
+- Medición de la resiliencia
+abstract: |
+  La intensificación de eventos hidrometeorológicos, como inundaciones y altas temperaturas, se ha incrementado debido a la variabilidad climática y al cambio climático, afectando de manera diferencial a las áreas urbanas. Estas presentan condiciones de mayor exposición asociadas a desigualdades socioeconómicas, limitaciones en la planificación territorial y déficits en saneamiento básico, lo que incrementa la vulnerabilidad de la población.
+
+  Desde 2022 se implementa el Proyecto de Resiliencia Climática Urbana, liderado por la Cruz Roja Colombiana con el apoyo de Z Zurich Foundation, orientado a fortalecer capacidades locales en adaptación al cambio climático y gestión del riesgo de desastres en comunidades vulnerables de Soacha, Barranquilla y Copacabana, mediante un enfoque participativo y territorial.
+
+  La priorización de comunidades se realizó mediante un análisis de riesgo que integró información de POT, POMCA, el Atlas de Riesgo de la UNGRD y trabajo de campo. En una primera etapa se desarrolló un diagnóstico participativo utilizando metodologías como CRMC y AVCA. En la segunda etapa se implementaron medidas de reducción del riesgo, incluyendo sistemas de alarma comunitaria, comités de primera respuesta y planes de gestión del riesgo comunitarios y escolares. La tercera etapa se enfocó en la sostenibilidad, mediante educación, comunicación y articulación interinstitucional, con microproyectos comunitarios de enfoque ambiental.
+
+  El proyecto alcanzó aproximadamente 30.000 personas en diez comunidades, consolidando procesos de articulación con autoridades ambientales y fortaleciendo capacidades locales para la gestión del riesgo y la adaptación. Actualmente continúa en una segunda fase iniciada en 2025 en Cundinamarca y Atlántico, ampliando su alcance hacia la gestión del riesgo por altas temperaturas.
+categories:
+- Comunidades de aprendizaje y participación
+- Adaptación al cambio climático desde el enfoque de Eco-Reducción (Eco-RRD)
+---
+
+**Perfil quién presenta el trabajo:** María Camila Lozano Paris: Ingeniera Ambiental con más de 8 años de experiencia profesional, especialista en Gestión Ambiental Urbana y en proyectos de cambio climático, y magíster en Mitigación y Adaptación al Cambio Climático. Actualmente se desempeña como Coordinadora Nacional del Proyecto de Resiliencia Climática Urbana en la Cruz Roja Colombiana. Yaddy Christina Benavides Revelo: Trabajadora Social y Especialista en Gestión de Proyectos con más de 13 años de experiencia liderando intervenciones humanitarias y de Gestión del Riesgo de Desastres, actualmente Oficial Técnico Comunitario Nacional del proyecto de Resiliencia Climática Urbana en la Cruz Roja Colombiana.

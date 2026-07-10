@@ -1,0 +1,32 @@
+---
+title: 'De la modelación a la decisión: gestión del riesgo basada en evidencia'
+author:
+- name: Andrés Humberto Otálora Carmona
+  affiliations:
+    - name: IDOM Consulting, Engineering, Architecture SAU, Bogotá, Colombia
+  corresponding: true
+  email: andres.otalora@idom.com
+- name: Ximena Andrea Lemaitre Ruiz
+  affiliations:
+    - name: IDOM Consulting, Engineering, Architecture SAU, Bogotá, Colombia
+- name: Daniel Felipe Arango Díaz
+  affiliations:
+    - name: IDOM Consulting, Engineering, Architecture SAU, Bogotá, Colombia
+keywords:
+- Cambio climático
+- Hidrología
+- Hidráulica
+- Mancha de inundación
+- Medidas de adaptación
+abstract: |
+  En la mayoría de las principales ciudades de Brasil, las zonas rurales se juntan rápidamente con las zonas urbanas altamente pobladas, haciendo que las construcciones habitacionales y la infraestructura se extiendan hasta las rondas hidráulicas de los cauces. Los eventos extremos generan condiciones que obligan a implementar políticas de gestión del riesgo que requieren estudios de vulnerabilidad, amenaza y riesgo por inundación, permitiendo a los tomadores de decisiones generar medidas que, en casos de alto riesgo, requieren reasentamientos de comunidades ubicadas en las zonas más vulnerables.
+
+  El objetivo del estudio es la estimación de la reducción del riesgo por inundación a partir de la elaboración de propuestas de adaptación, que incluyan procesos de reasentamiento para diferentes comunidades en cuatro ciudades de Brasil (Sao Paulo, Recife, Contagem, Goiânia y João Pessoa), considerando diferentes escenarios climáticos para eventos extraordinarios.
+
+  La metodología partió de series históricas de precipitación y temperatura, junto con valores de referencia de caudales y niveles de desbordamiento observados, para realizar estudios hidrológicos de las cuencas naturales y antrópicas en puntos de control de comunidades clave. Se combinó información secundaria y series hidrometeorológicas históricas de al menos 25 años con análisis de downscaling a partir de diferentes modelos climáticos globales, contrastados con información local, utilizando distintos escenarios de cambio climático definidos por el IPCC, junto con estudios de vulnerabilidad y riesgo.
+
+  Como resultado, se generaron simulaciones de diferentes escenarios climáticos que permitieron construir mapas de riesgo en comunidades altamente pobladas de Brasil, tanto para la condición actual como para la condición futura, y se definieron estrategias de reasentamiento y medidas de adaptación de corto, mediano y largo plazo. El estudio permitió evaluar la variabilidad de la climatología local en ciudades altamente pobladas a partir de los efectos del cambio climático global, desarrollando medidas de adaptación ante eventos hidrológicos extraordinarios que permiten a los tomadores de decisión generar estrategias y políticas públicas.
+categories:
+- Planeación y ordenamiento que incorpora la GRD
+- Datos, modelación, IA, innovación social y herramientas digitales
+---

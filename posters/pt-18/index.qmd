@@ -1,0 +1,32 @@
+---
+title: 'Gestión del riesgo y adaptación al cambio climático en Leticia: integración entre ordenamiento territorial y la conservación amazónica'
+author:
+- name: Sebastián Millán Benítez
+  affiliations:
+    - name: Departamento de Ciencias del Sistema Tierra, Escuela de Ciencias e Ingeniería, Universidad del Rosario, Bogotá D.C., Colombia
+  corresponding: true
+  email: juans.millan@urosario.edu.co
+- name: Andrés Felipe Castro
+  affiliations:
+    - name: Departamento de Ciencias del Sistema Tierra, Escuela de Ciencias e Ingeniería, Universidad del Rosario, Bogotá D.C., Colombia
+  email: andresfelipe.castrot@urosario.edu.co
+keywords:
+- Vulnerabilidad
+- Incendios
+- Gestión
+- Deforestación
+- Plan de Desarrollo
+abstract: |
+  El municipio de Leticia, ubicado en la Amazonía colombiana, enfrenta una creciente vulnerabilidad asociada a la deforestación, los cambios en el uso del suelo y la variabilidad climática, factores que han incrementado la susceptibilidad a incendios forestales como un riesgo emergente en el territorio. Este escenario se complejiza por la coexistencia de otras amenazas, como las inundaciones asociadas a la dinámica del río Amazonas, así como por su condición de frontera trinacional, lo que introduce retos adicionales para la gobernanza ambiental y la gestión integrada del riesgo.
+
+  Este trabajo tiene como objetivo analizar la incorporación del riesgo de incendios forestales y la adaptación al cambio climático en los instrumentos de planificación territorial del municipio, específicamente el PBOT, el POMCA y el Plan de Desarrollo. La metodología se basa en un análisis documental comparativo orientado a identificar vacíos, fortalezas y oportunidades de mejora en la integración de la gestión del riesgo dentro de dichos instrumentos.
+
+  Los resultados evidencian que, si bien los instrumentos reconocen la importancia de la conservación de los ecosistemas y el control de la deforestación como estrategias clave, presentan una limitada incorporación explícita del riesgo de incendios forestales como componente estructural del ordenamiento territorial. Asimismo, se identifican vacíos en la integración de enfoques específicos para la gestión del fuego, así como oportunidades para fortalecer la articulación entre planificación territorial, gestión ambiental y adaptación al cambio climático.
+
+  Se concluye que es necesario fortalecer la incorporación del riesgo de incendios en los instrumentos de planificación territorial, avanzando hacia la inclusión de enfoques como el manejo integral del fuego, que permitan mejorar la prevención, el monitoreo y la respuesta frente a incendios forestales en contextos amazónicos. Este fortalecimiento contribuiría a una mejor toma de decisiones y al aumento de la resiliencia territorial frente a los efectos del cambio climático.
+categories:
+- Planeación y ordenamiento que incorpora la GRD
+- Adaptación al cambio climático desde el enfoque de Eco-Reducción (Eco-RRD)
+---
+
+**Perfil quién presenta el trabajo:** Sebastián Millán Benítez y Andrés Felipe Castro son estudiantes de Ciencias del Sistema Tierra con un enfoque multidisciplinar, interesados en la comprensión integral de problemáticas ambientales y territoriales. Su trabajo se centra en la gestión del riesgo de desastres y el cambio climático, abordando la relación entre deforestación, incendios forestales y planificación territorial en contextos amazónicos. César Mauricio Serna Yepes, quien acompaña el trabajo, es profesor de mitigación y adaptación al cambio climático y de riesgos, amenazas, vulnerabilidad y desastres en la Universidad del Rosario.

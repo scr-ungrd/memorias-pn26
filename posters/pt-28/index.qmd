@@ -1,0 +1,34 @@
+---
+title: Uso de tecnologías para el análisis de inundación en zonas urbanas, caso de estudio Quebrada el Tejar municipio de Ocaña, Norte de Santander
+author:
+- name: Agustín A. Macgregor Torrado
+  affiliations:
+    - name: Universidad Francisco de Paula Santander Ocaña, Ocaña, Colombia
+  corresponding: true
+  email: aamacgregort@ufpso.edu.co
+- name: Romel J. Gallardo A.
+  affiliations:
+    - name: Universidad Francisco de Paula Santander Ocaña, Ocaña, Colombia
+- name: Ray C. Ramírez Rincón
+  affiliations:
+    - name: Universidad Francisco de Paula Santander Ocaña, Ocaña, Colombia
+keywords:
+- Modelación Hidráulica
+- Inundaciones Urbanas
+- Gestión del Riesgo de Desastres
+- Teledetección
+- HEC-RAS
+abstract: |
+  Las temporadas invernales en el municipio de Ocaña, Norte de Santander, han generado históricamente eventos de inundación en la cuenca del río Chiquito, afectando la calidad de vida de los habitantes, deteriorando viviendas e infraestructura, con pérdidas significativas. La infraestructura de drenaje, conformada por una canalización en estado avanzado de deterioro y un box culvert, resulta insuficiente para manejar los caudales extremos propios del régimen bimodal de precipitaciones, condición que se agrava por la deforestación de las zonas altas de la cuenca y la expansión urbana no planificada.
+
+  El objetivo del proyecto fue optimizar el sistema de drenaje urbano del río Chiquito mediante el diagnóstico hidráulico integral de la estructura existente y la identificación de áreas susceptibles a inundación, con el propósito de proveer insumos técnicos a las autoridades responsables de la gestión del riesgo de desastres en el municipio.
+
+  La investigación se desarrolló en cuatro fases: generación del Modelo Digital del Terreno (MDT) mediante drones; recopilación y procesamiento de información pluviométrica del IDEAM para calibrar caudales de diseño; modelación hidráulica en el software HEC-RAS integrando la geometría del terreno con los hidrogramas estimados; y análisis e interpretación de resultados para delimitar las zonas en riesgo de inundación.
+
+  Los resultados indicaron que los MDT obtenidos mediante drones permiten determinar de manera rápida y precisa los parámetros topográficos e hidráulicos requeridos para la modelación, evidenciando la insuficiencia de la capacidad hidráulica actual. La investigación demuestra que la combinación de tecnologías de teledetección con herramientas de modelación hidráulica constituye una estrategia eficiente y escalable para la gestión del riesgo de inundaciones en contextos urbanos con recursos limitados, permitiendo priorizar inversiones en infraestructura, actualizar planes municipales de gestión del riesgo y definir restricciones de uso del suelo en zonas de alta amenaza.
+categories:
+- Planeación y ordenamiento que incorpora la GRD
+- Datos, modelación, IA, innovación social y herramientas digitales
+---
+
+**Perfil quién presenta el trabajo:** Ingeniero Civil, Especialista en Geotecnia Ambiental y Magíster en Ingeniería Civil, con formación en Civil 3D, HEC-RAS y fotogrametría con dron. Docente de la Universidad Francisco de Paula Santander Ocaña desde 2011 en las áreas de suelos y recursos hídricos, así como consultor para entidades públicas y privadas. Miembro del grupo de investigación GIGMA desde 2009, en las líneas de Gestión del Riesgo, Recurso Hídrico y Mejoramiento del Suelo. Ha dirigido 18 trabajos de grado, participado como jurado en más de 20 evaluaciones, publicado 4 artículos indexados y presentado más de 5 ponencias en eventos nacionales e internacionales.

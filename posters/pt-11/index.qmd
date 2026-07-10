@@ -1,0 +1,30 @@
+---
+title: Diseño de un modelo de estadísticas de pérdidas y daños por desastres para la protección de la biodiversidad y el desarrollo territorial sostenible, un enfoque aplicado a los cuerpos de bomberos en Colombia
+author:
+- name: Marco Antonio Candelo Padilla
+  affiliations:
+    - name: Tuluá, Valle del Cauca, Colombia
+  corresponding: true
+  email: planeaciondesarrollo@bomberostulua.com.co
+keywords:
+- Gestión del riesgo de desastres
+- Pérdidas y daños
+- Econometría
+- Biodiversidad
+- Desarrollo territorial sostenible
+abstract: |
+  En Colombia, los desastres naturales y antrópicos generan impactos significativos sobre la población, la infraestructura y la biodiversidad, afectando de manera desproporcionada a territorios vulnerables y profundizando desigualdades sociales y económicas. A pesar de la recurrencia de estos eventos, persiste una limitada sistematización de datos sobre pérdidas y daños que permita dimensionar sus efectos reales y orientar decisiones basadas en evidencia. En este contexto, los cuerpos de bomberos, como primeros respondedores, constituyen una fuente estratégica de información que aún no ha sido plenamente aprovechada para el análisis económico y territorial.
+
+  El objetivo de este trabajo es diseñar un modelo estadístico de pérdidas y daños por desastres, basado en datos generados por los cuerpos de bomberos en Colombia, que permita medir y analizar impactos económicos, sociales y ambientales, con énfasis en la afectación a la biodiversidad y los servicios ecosistémicos.
+
+  La metodología propuesta integra un enfoque cuantitativo aplicado, que incluye la estandarización de variables e indicadores, la construcción de bases de datos georreferenciadas y la aplicación de modelos econométricos y técnicas de analítica de datos. Asimismo, se plantea la validación del modelo mediante estudios de caso en territorios priorizados, incorporando información sobre eventos como incendios forestales, inundaciones y deslizamientos, junto con variables socioeconómicas y ambientales.
+
+  Como resultado esperado, se propone la creación de un sistema estadístico replicable que transforme los datos operativos en información estratégica para la toma de decisiones. Este modelo permitirá estimar pérdidas económicas, identificar patrones territoriales de riesgo y evaluar impactos sobre la biodiversidad, contribuyendo a una mejor planificación y asignación de recursos públicos.
+
+  En conclusión, el desarrollo de este modelo fortalece la gestión del riesgo desde un enfoque económico y territorial, integrando la protección de la biodiversidad en los procesos de toma de decisiones. Sus implicaciones incluyen el diseño de políticas públicas basadas en evidencia, el fortalecimiento institucional de los cuerpos de bomberos y la promoción de estrategias de desarrollo sostenible orientadas a la reducción de vulnerabilidades y la construcción de territorios más resilientes.
+categories:
+- Planeación y ordenamiento que incorpora la GRD
+- Datos, modelación, IA, innovación social y herramientas digitales
+---
+
+**Perfil quién presenta el trabajo:** Ingeniero industrial - economista y tecnólogo en gobierno local, con experiencia en diagnóstico y análisis organizacional enfocado en la gestión del riesgo de desastres. Ha trabajado en el fortalecimiento institucional de cuerpos de bomberos, liderando procesos de planeación, formulación de proyectos y uso de datos para la toma de decisiones. Su enfoque integra economía aplicada, territorio y política pública, con interés en desarrollar soluciones sostenibles que contribuyan a la reducción de vulnerabilidades, la protección de la biodiversidad y el desarrollo territorial en Colombia.

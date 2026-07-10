@@ -1,0 +1,29 @@
+---
+title: Atención Humanitaria a Población Vulnerable por la Emergencia Invernal en Chocó
+author:
+- name: Paolin Andrade Quiñones
+  affiliations:
+    - name: Cruz Roja Colombiana, Bogotá, Colombia
+  corresponding: true
+  email: yudi.andrade@cruzrojacolombiana.org
+- name: Jorge Sarmiento
+  affiliations:
+    - name: Cruz Roja Colombiana, Bogotá, Colombia
+keywords:
+- Recuperación resiliente
+- Fortalecimiento de capacidades
+- Medios de vida
+- Transferencias monetarias
+abstract: |
+  El departamento del Chocó enfrenta una alta vulnerabilidad estructural agravada por eventos climáticos extremos. La reciente emergencia invernal afectó cerca del 85% del territorio y a más de 200.000 personas, generando pérdidas significativas en medios de vida, reducción de ingresos y debilitamiento de la economía local. Esta situación evidenció la necesidad de respuestas humanitarias que, además de atender necesidades inmediatas, promovieran la recuperación económica sostenible de las familias afectadas.
+
+  En este contexto, la Cruz Roja Colombiana fortaleció la recuperación temprana y la resiliencia económica de la población afectada mediante la implementación de programas de transferencias monetarias y apoyo a medios de vida, complementados con asistencia humanitaria básica. La intervención se desarrolló en los municipios de Quibdó, Istmina y Riosucio, priorizando el uso de transferencias monetarias (cash) como herramienta principal para la reactivación económica.
+
+  El enfoque metodológico incluyó un estudio de factibilidad para validar la viabilidad del mercado local y la capacidad de los proveedores financieros. Las familias beneficiarias participaron en procesos de formación en planes de negocio, y posteriormente recibieron transferencias monetarias condicionadas para la adquisición de insumos productivos, acompañadas de asistencia técnica y seguimiento, complementadas con entrega de alimentos y kits de tratamiento de agua.
+
+  Como resultado, el proyecto benefició directamente a 711 familias, superando las metas previstas; 144 de ellas recibieron transferencias monetarias, logrando reactivar sus actividades productivas y mejorar sus ingresos. En conclusión, las transferencias monetarias constituyen una estrategia efectiva para la recuperación económica en contextos de emergencia, al empoderar a las familias y generar impactos sostenibles en sus medios de vida.
+categories:
+- Preparación y recuperación oportuna
+---
+
+**Perfil quién presenta el trabajo:** Paolin Andrade Quiñones: Ingeniera Agrónoma de la Universidad de los Llanos, con especialización en Agricultura Familiar Campesina y experiencia en acompañamiento técnico y social a comunidades campesinas y étnicas; actualmente Oficial de Programas de Medios de Vida en la Cruz Roja Colombiana. Jorge Sarmiento: Psicólogo con especialización en formulación y evaluación de proyectos y maestría en gerencia de proyectos, con experiencia en cooperación internacional y acción humanitaria; actualmente Coordinador Nacional de Proyectos de Medios de Vida en la Cruz Roja Colombiana.
