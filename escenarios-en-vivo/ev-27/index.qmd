@@ -8,8 +8,26 @@ author:
 - name: Kiana Valbuena Mejia
   affiliations:
     - name: Corporación Autónoma Regional de La Guajira (Corpoguajira), Riohacha, Colombia
+keywords:
+- Sequías
+- Sistemas de alerta temprana
+- La Guajira
+- Ciencia ciudadana
+- Cooperación triangular
+- Cambio climático
+abstract: |
+  La ponencia presenta la experiencia del proyecto PROGESS, una iniciativa de cooperación triangular de la Unión Europea entre Colombia, Ecuador y España, integrada por CORPOGUAJIRA, CIIFEN y la Universidad Rovira i Virgili, con el acompañamiento de la Cooperación Técnica Alemana (GIZ) y la Agencia Presidencial para la Cooperación (APC-Colombia). El proyecto está orientado al fortalecimiento del monitoreo, la comunicación y la gestión de las sequías en el departamento de La Guajira, uno de los territorios más vulnerables del país frente a la variabilidad climática.
+
+  Esta experiencia se enmarca en la articulación entre la gestión del riesgo de desastres y la adaptación al cambio climático, contribuyendo al fortalecimiento de capacidades técnicas, institucionales y comunitarias. Su implementación aborda el fortalecimiento del Sistema de Alerta Temprana (SAT), a través de la rehabilitación y mejora del monitor de sequías de Colombia, la ampliación y optimización de redes hidrometeorológicas, y la integración de datos observados para mejorar la precisión en la toma de decisiones.
+
+  Asimismo, se destaca la implementación de la red de ciencia ciudadana VolunClima, que promueve la participación comunitaria en el monitoreo climático y la validación territorial de la información, fortaleciendo el vínculo entre conocimiento técnico y dinámicas locales. El proyecto incorpora un enfoque de articulación interinstitucional multinivel, integrando actores del orden local, nacional e internacional, y promoviendo el intercambio de conocimientos en el marco de la cooperación triangular. Incluye además acciones de fortalecimiento de capacidades, generación de escenarios de sequía y estrategias de comunicación del riesgo, con énfasis en la participación comunitaria y el enfoque diferencial a través de las comunidades étnicas.
+
+  Esta experiencia constituye una buena práctica replicable que evidencia avances, lecciones aprendidas y retos en la implementación de la GRD y la adaptación al cambio climático desde el SINA. Su presentación busca aportar insumos para fortalecer las capacidades a nivel territorial y la articulación entre el SINA y el SNGRD, en coherencia con los lineamientos de adaptación al cambio climático, contribuyendo a la gobernanza del riesgo y al desarrollo resiliente de los territorios.
+categories:
+- Preparación y recuperación oportuna
+- Adaptación al cambio climático desde el enfoque de Eco-Reducción (Eco-RRD)
 ---
 
 ## Diapositivas de la sesión
 
-<iframe src="https://drive.google.com/file/d/1IByaDmoP8hBPazLGdRzsHLgHk0etcPKN/preview" width="100%" height="480" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/1JU57nW2Dv_us7a2OeM00kpeu1xvD0XvF/preview" width="100%" height="480" allowfullscreen></iframe>

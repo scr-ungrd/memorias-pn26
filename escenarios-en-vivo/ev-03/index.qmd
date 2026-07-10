@@ -23,4 +23,8 @@ categories:
 - Preparación y recuperación oportuna
 ---
 
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1nP7hgX1d5GM-0Gu02huh_t3VEAYdL_3U/preview" width="100%" height="480" allowfullscreen></iframe>
+
 **Perfil quién presenta el trabajo:** Alexander Galindo L. es administrador ambiental, especialista en Economía Pública y Gestión Territorial, magíster en Desarrollo Regional y doctorando en Gestión Integral del Riesgo de Desastres. Cuenta con una sólida trayectoria en el sector público; se desempeñó como Director de Gestión del Riesgo del municipio de Pereira entre 2016 y 2023. Desde 2024 está vinculado a la Corporación Autónoma Regional de Risaralda (CARDER), donde ha ejercido como asesor de la Dirección General y actualmente se desempeña como Jefe de Control Interno de Gestión. Desde 2022 es docente catedrático en el programa de Administración Ambiental de la Universidad Tecnológica de Pereira, orientando la asignatura de Gestión del Riesgo de Desastres. Su trabajo se enfoca en la gobernanza de sistemas de alertas tempranas, la articulación institucional y el diseño de instrumentos de política pública con enfoque territorial.

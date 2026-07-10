@@ -3,9 +3,23 @@ title: Zonificación del Riesgo de deterioro del arbolado urbano
 author:
 - name: Cristian Camilo Hurtado
   affiliations:
-    - name: UNGRD
+    - name: UNGRD, Colombia
+  corresponding: true
+keywords:
+- Arbolado urbano
+- Gestión del riesgo urbano
+- Aprendizaje automático
+- Zonificación del riesgo
+- Servicios ecosistémicos
+abstract: |
+  [Resumen generado por IA] El arbolado urbano presta servicios ecosistémicos fundamentales para las ciudades; sin embargo, su deterioro o ausencia genera riesgos significativos como islas de calor, contaminación atmosférica, déficit hídrico, erosión del suelo y mayor exposición ante eventos climáticos extremos. Esta investigación propone una metodología de zonificación del riesgo de deterioro del arbolado urbano en Cali, Colombia, integrando variables climáticas —interpoladas mediante el método IDW a partir de estaciones del Plan de Ordenamiento Territorial (2010–2024)—, variables de infraestructura con buffers de influencia diferenciados, estrato socioeconómico y variables ambientales, junto con algoritmos de aprendizaje automático tipo Árboles de Decisión para identificar patrones de incidencia y seleccionar las variables más relevantes.
+
+  El análisis se realizó sobre las nueve especies nativas con mayor Índice de Valor de Importancia (IVI) en la ciudad. Los resultados revelan que la condición de ser especie nativa no garantiza una buena adaptación al entorno urbano, que los árboles jóvenes presentan mayor vulnerabilidad —posiblemente asociada a fallas en el establecimiento o manejo inicial— y que el deterioro está determinado principalmente por factores ambientales como clima y contaminación, más que por las características intrínsecas del árbol. La especie *Leucaena leucocephala* presentó un porcentaje de afectación del 74,9 %, un 5,3 % menos que el promedio de especies nativas (80,2 %). Como producto final se desarrolló un visor web con la cartografía generada por especie, que permite consulta pública y visualización interactiva de los resultados, constituyendo una herramienta de apoyo a la toma de decisiones en gestión ambiental preventiva y reducción de la vulnerabilidad urbana ante el cambio climático.
+categories:
+- Planeación y ordenamiento que incorpora la GRD
+- Datos, modelación, IA, innovación social y herramientas digitales
 ---
 
 ## Diapositivas de la sesión
 
-<iframe src="https://drive.google.com/file/d/1_diXa9OMocn8EdSOHE_QAuslL1JfMClT/preview" width="100%" height="480" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/1hjWsvndfA_m8Im484ouudheUnfI3HSLC/preview" width="100%" height="480" allowfullscreen></iframe>

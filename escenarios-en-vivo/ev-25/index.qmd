@@ -24,4 +24,8 @@ categories:
 - Preparación y recuperación oportuna
 ---
 
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1RHI7Z9eOSakDQUozA-uAqfWaybBppR9w/preview" width="100%" height="480" allowfullscreen></iframe>
+
 **Perfil quién presenta el trabajo:** Soy Biólogo con más de 4 años de experiencia en la gestión del riesgo de desastres específicamente en fenómenos de inundaciones lentas en la subregión de la mojana, actualmente me desempeño como coordinador de riesgo de desastres del municipio de Guaranda (Sucre) y hago parte de la RJRRD COL como Enlace Departamental de Sucre.

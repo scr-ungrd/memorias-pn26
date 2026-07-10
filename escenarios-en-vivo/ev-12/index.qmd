@@ -32,4 +32,4 @@ categories:
 
 ## Diapositivas de la sesión
 
-<iframe src="https://drive.google.com/file/d/18MjMaz5H-M97WBp9_iVExx9tAlCLLE2T/preview" width="100%" height="480" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/16oJhL6JAuOW6M8obsyitJ-6MueYwzNAQ/preview" width="100%" height="480" allowfullscreen></iframe>

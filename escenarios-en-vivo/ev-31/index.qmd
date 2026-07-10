@@ -29,4 +29,8 @@ categories:
 - Datos, modelación, IA, innovación social y herramientas digitales
 ---
 
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1ogMx2Ng0atHi01awbNkDkVulextr3M7O/preview" width="100%" height="480" allowfullscreen></iframe>
+
 **Perfil quién presenta el trabajo:** Andrés López Rosada es Ingeniero Agrícola, Especialista en Ingeniería de Recursos Hídricos. Profesional Especializado del Grupo de Gestión del Riesgo y Cambio Climático de la Corporación Autónoma Regional del Valle del Cauca – CVC. Con más de 15 años de experiencia profesional en evaluación y valoración de estudios hidrológicos e hidráulicos, gestión del riesgo y planificación territorial.

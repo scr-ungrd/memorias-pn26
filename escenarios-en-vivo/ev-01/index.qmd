@@ -18,6 +18,10 @@ categories:
 - Datos, modelación, IA, innovación social y herramientas digitales
 ---
 
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1ev7mdeHewRMikvPNe2HFQRil1sj9_BaT/preview" width="100%" height="480" allowfullscreen></iframe>
+
 **Perfil quién presenta el trabajo:** Ingeniera forestal, magíster en Manejo, Uso y Conservación del Bosque de la Universidad Distrital y candidata del Doctorado en Ciencias Naturales en la Universidad del Rosario (quinto semestre). Mi investigación actualmente se centra en las dinámicas vegetación–fuego en sabanas tropicales de la ecorregión Llanos (Colombia y Venezuela), con un enfoque multiescalar que integra experimentación ecológica en campo, análisis multitemporales de cambio de coberturas y revisión histórica del uso y manejo del fuego en la región. Cuento con once (11) años de experiencia profesional en el desarrollo de proyectos de consultoría ambiental e investigación aplicada, con énfasis en la inclusión de la gestión del riesgo por incendios forestales en instrumentos de ordenamiento territorial y en el estudio de la ecología del fuego en ecosistemas de bosque seco y sabanas tropicales.
 
 Mis ejes de investigación incluyen: ecología del fuego, interacciones fuego–herbivoría, biodiversidad en sabanas neotropicales, manejo adaptativo del fuego y gobernanza socioecológica en paisajes de la Orinoquía. Mi trabajo busca aportar evidencia empírica para comprender el papel ecológico del fuego en sabanas tropicales y contribuir a debates sobre políticas de manejo del fuego en Colombia. Mi interés en participar en este Coloquio radica en aportar evidencia experimental reciente al debate sobre el manejo del fuego en sabanas inundables, y dialogar con otras perspectivas que permitan comprender la Orinoquía no solo como ecosistema, sino como territorio históricamente configurado por prácticas productivas, dinámicas culturales y procesos naturales interdependientes.
