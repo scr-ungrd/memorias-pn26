@@ -1,4 +1,8 @@
-## Sesiones paralelas
+---
+title: "Sesiones paralelas"
+---
+
+Las sesiones paralelas fueron bloques de tiempo para desarrollar varias temáticas específicas, relacionadas con los enfoques de la Plataforma Nacional. Las sesiones se desarrollan siguiendo metodologías como charlas cortas, paneles o dinámicas grupales.
 
 1. [Colombia ante las Amenazas Extraterrestres: Ciencia, Riesgo y Política Pública](sp-01/index.qmd)
 2. [Avances en el sistema de alertas por ciclones tropicales: evolución operativa e innovación](sp-02/index.qmd)

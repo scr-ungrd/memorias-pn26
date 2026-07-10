@@ -149,3 +149,68 @@ nav[role="doc-toc"] a:hover {
 .sidebar .quarto-alternate-notebooks a:hover {
   color: #003a70;
 }
+
+/* ===== PLANTILLA ACADÉMICA (escenarios-en-vivo y todo el libro) ===== */
+
+// Badges de categorías temáticas
+.quarto-categories {
+  margin-top: 0.6rem;
+  margin-bottom: 0.2rem;
+}
+
+.quarto-category {
+  background-color: #00ACA8 !important;
+  color: #fff !important;
+  border: none !important;
+  border-radius: 0.25rem;
+  padding: 0.2em 0.65em;
+  font-size: 0.75rem;
+  font-weight: 500;
+  margin-right: 0.35rem;
+  margin-bottom: 0.3rem;
+  display: inline-block;
+}
+
+// Encabezados de metadatos (Autor / Institución)
+.quarto-title-meta-heading {
+  color: #81337e;
+  font-weight: 700;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  border-bottom: 2px solid #81337e;
+  padding-bottom: 0.2rem;
+  margin-bottom: 0.35rem;
+}
+
+// Bloque de abstract: borde izquierdo teal
+div.abstract {
+  border-left: 4px solid #00ACA8;
+  padding-left: 1rem;
+  margin-top: 1.2rem;
+}
+
+div.abstract .block-title {
+  color: #00ACA8;
+  font-weight: 700;
+  font-size: 0.82rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-bottom: 0.4rem;
+}
+
+// Bloque de palabras clave
+div.keywords {
+  border-left: 4px solid #81337e;
+  padding-left: 1rem;
+  margin-top: 0.8rem;
+}
+
+div.keywords .block-title {
+  color: #81337e;
+  font-weight: 700;
+  font-size: 0.82rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-bottom: 0.4rem;
+}

@@ -2,7 +2,7 @@
 title: "Laboratorios de aprendizaje"
 ---
 
-## Laboratorios de aprendizaje
+Fueron espacios para experimentar, intercambiar conocimientos, compartir metodologías, y co-crear soluciones para fortalecer la gestión del riesgo de desastres.
 
 1. [Comunidades que transforman el riesgo en resiliencia](la-01/index.qmd)
 2. [Innovación social para la participación en GRD](la-02/index.qmd)

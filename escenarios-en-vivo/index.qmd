@@ -2,8 +2,6 @@
 title: "Escenarios en vivo"
 ---
 
-## Escenarios en vivo
-
 Espacio de transmisión y demostración en tiempo real de trabajos, herramientas y experiencias aplicadas a la gestión del riesgo de desastres, presentados durante la Plataforma Nacional 2026.
 
 <ul class="nav nav-pills mb-4 mt-3" id="live-tabs" role="tablist">

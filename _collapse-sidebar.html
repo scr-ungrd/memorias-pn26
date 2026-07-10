@@ -1,15 +1,60 @@
 <script>
 document.addEventListener('DOMContentLoaded', function () {
-  document.querySelectorAll('.sidebar-item-section').forEach(function (section) {
+  var STORAGE_KEY = 'pn26-sidebar-expanded';
+  var sections = document.querySelectorAll('.sidebar-item-section');
+
+  // Detect which section contains the active link
+  var activeLink = document.querySelector('.sidebar-item-text.sidebar-link.active');
+  var activeSectionId = null;
+  if (activeLink) {
+    var parentSection = activeLink.closest('.sidebar-item-section');
+    if (parentSection) {
+      var activeToggle = parentSection.querySelector('.sidebar-item-toggle');
+      if (activeToggle) {
+        var activeTarget = activeToggle.getAttribute('data-bs-target');
+        if (activeTarget) activeSectionId = activeTarget.replace('#', '');
+      }
+    }
+  }
+
+  // Load saved state and ensure active section is included
+  var saved = JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]');
+  if (activeSectionId && saved.indexOf(activeSectionId) === -1) {
+    saved.push(activeSectionId);
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(saved));
+  }
+
+  // Apply state to every section
+  sections.forEach(function (section) {
     var toggle = section.querySelector('.sidebar-item-toggle');
     if (!toggle) return;
     var targetId = toggle.getAttribute('data-bs-target');
     if (!targetId) return;
     var collapseEl = document.querySelector(targetId);
     if (!collapseEl) return;
-    collapseEl.classList.remove('show');
-    toggle.setAttribute('aria-expanded', 'false');
-    toggle.classList.add('collapsed');
+    var sectionId = targetId.replace('#', '');
+
+    if (saved.indexOf(sectionId) !== -1) {
+      collapseEl.classList.add('show');
+      toggle.setAttribute('aria-expanded', 'true');
+      toggle.classList.remove('collapsed');
+    } else {
+      collapseEl.classList.remove('show');
+      toggle.setAttribute('aria-expanded', 'false');
+      toggle.classList.add('collapsed');
+    }
+
+    // Track manual toggles
+    toggle.addEventListener('click', function () {
+      var isOpen = toggle.getAttribute('aria-expanded') === 'true';
+      var list = JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]');
+      if (isOpen) {
+        list = list.filter(function (id) { return id !== sectionId; });
+      } else {
+        if (list.indexOf(sectionId) === -1) list.push(sectionId);
+      }
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(list));
+    });
   });
 });
 </script>

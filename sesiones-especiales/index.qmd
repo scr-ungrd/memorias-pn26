@@ -2,8 +2,6 @@
 title: "Sesiones especiales"
 ---
 
-## Sesiones especiales
-
 1. [Encuentro de Experiencias en la Gestión del Riesgo de Desastres y la Adaptación al Cambio Climático, Una Mirada Ambiental (2026)](se-01/index.qmd)
 2. [Mujeres artesanas, territorio y gestión del riesgo: experiencias que tejen resiliencia](se-02/index.qmd)
 3. [Acciones municipales para la Reducción del Riesgo de Desastres y la Adaptación al Cambio Climático](se-03/index.qmd)

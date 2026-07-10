@@ -1,4 +1,8 @@
-## Sesiones temáticas
+---
+title: "Sesiones temáticas"
+---
+
+las sesiones temáticas fueron bloques de tiempo para desarrollar varias temáticas específicas, relacionadas con los enfoques de la Plataforma Nacional. Las sesiones se desarrollan siguiendo metodologías como charlas cortas, paneles o dinámicas grupales.
 
 1. [Ciencia al Servicio de la Vida: Servicios Climáticos para Monitoreo Continuo de Alertas Tempranas y su aplicación para la gestión de riesgos agropecuarios](st-01/index.qmd)
 2. [Oportunidades para la integración del conocimiento del riesgo sísmico en la GRD territorial](st-02/index.qmd)

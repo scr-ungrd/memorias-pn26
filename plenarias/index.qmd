@@ -1,4 +1,14 @@
+<style>
+ol > li > a, ul > li > a {
+  font-weight: 600;
+  text-decoration: none;
+}
+</style>
+
 ## Plenarias
+
+Las sesiones plenarias fueron sesiones principales conducidas por expertos(as) nacionales y/o internacionales. Abordan los temas más importantes de la Plataforma Nacional.
+
 
 1. [Sistemas de conocimiento en las alertas tempranas: Un diálogo de saberes para salvar vidas](p-01/index.qmd)
 2. [Conectando datos, salvando vidas: Lanzamiento del SNIGRD](p-02/index.qmd)

@@ -5,4 +5,25 @@ author:
   affiliations:
     - name: Programa de las Naciones Unidas para el Desarrollo (PNUD), Colombia
   corresponding: true
+- name: Jenny Beltrán Pérez
+  affiliations:
+    - name: Programa de las Naciones Unidas para el Desarrollo (PNUD), Bogotá, Colombia
+keywords:
+- Inteligencia artificial
+- Análisis geoespacial
+- Gestión del riesgo de desastres
+- Recuperación post-desastre
+- Toma de decisiones
+abstract: |
+  El aumento en la frecuencia e intensidad de los desastres exige fortalecer el conocimiento del riesgo y mejorar la toma de decisiones en contextos de emergencia y recuperación. En este contexto, el modelo GeoIA, desarrollado por el Bureau de Crisis del Programa de las Naciones Unidas para el Desarrollo (PNUD), propone el uso de inteligencia artificial y análisis geoespacial para integrar datos multifuente y generar evidencia territorial oportuna.
+
+  El objetivo de este trabajo es presentar una herramienta que permite analizar daños, monitorear procesos de recuperación y apoyar la planificación territorial mediante el uso de imágenes satelitales, datos de drones e información poblacional e infraestructura. El enfoque combina modelos de inteligencia artificial con análisis multitemporal para identificar cambios en el entorno construido y evaluar condiciones de acceso a servicios esenciales.
+
+  Como aplicación, se presenta el caso de Sabana de la Mar (República Dominicana), donde se analizaron más de 4.600 estructuras tras el huracán Fiona, identificando patrones diferenciados de reconstrucción, deterioro y remoción. Adicionalmente, se integraron datos de accesibilidad a servicios esenciales para evidenciar brechas persistentes en el proceso de recuperación.
+
+  Los resultados demuestran que el uso de inteligencia artificial geoespacial permite generar información clave para orientar intervenciones en vivienda, infraestructura y servicios, así como priorizar acciones en contextos de recuperación post-desastre. En conclusión, GeoIA constituye una herramienta innovadora para fortalecer la toma de decisiones basada en datos, alineada con el Marco de Sendai, y con alto potencial de aplicación en el Sistema Nacional de Gestión del Riesgo de Desastres en Colombia.
+categories:
+- Datos, modelación, IA, innovación social y herramientas digitales
 ---
+
+**Perfil quién presenta el trabajo:** Jenny Beltrán Pérez es ingeniera geóloga y profesional del Programa de las Naciones Unidas para el Desarrollo (PNUD) en Colombia, con experiencia en gestión del riesgo de desastres, análisis geoespacial y uso de tecnologías emergentes para la toma de decisiones. Ha trabajado en el desarrollo e implementación de herramientas basadas en datos para el análisis de amenazas, evaluación de impactos y fortalecimiento de capacidades institucionales. Su trabajo se enfoca en la integración de inteligencia artificial y análisis territorial para apoyar procesos de preparación, respuesta y recuperación resiliente.

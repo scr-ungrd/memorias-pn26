@@ -5,6 +5,24 @@ author:
   affiliations:
     - name: CESVI, La Guajira, Colombia
   corresponding: true
+  email: mikeboomer@cesvi.org
+keywords:
+- Desalinización solar
+- Crisis hídrica
+- La Guajira
+- Comunidades Wayuu
+- Resiliencia comunitaria
+abstract: |
+  La Alta Guajira enfrenta una crisis hídrica estructural: precipitaciones mínimas, fuentes subterráneas de agua salina y comunidades rurales extremadamente remotas, donde el 78 % no tiene acceso a agua limpia. En respuesta, CESVI —organización humanitaria internacional presente en Colombia desde 2019— diseñó e implementó un modelo de plantas de desalinización de agua 100 % solar, liderado por comunidades indígenas Wayuu, que permite producir hasta 20.000 L/día de agua potable por unidad.
+
+  El sistema integra 24 paneles solares, tanques de almacenamiento, ósmosis inversa y prefiltración por arena, carbón y luz ultravioleta, con una capacidad de filtración de 2.000 L/hora, más de 25 años de vida útil proyectada y bajos costos operativos. Su diseño modular, con componentes disponibles en el mercado local, garantiza la replicabilidad y sostenibilidad sin dependencia de infraestructura eléctrica.
+
+  El modelo se ha implementado en tres comunidades de la Alta Guajira —Santa Ana (2022), Katanamana (2023) y Porshina (2024)—, con un impacto directo acumulado que supera las 15.000 personas. En cada sitio, CESVI forma a operadores locales desde el primer día del proyecto y promueve la constitución de Comités de Agua comunitarios, quienes recuperan costos operativos mediante acuerdos con escuelas locales y la generación de medios de vida alternativos: producción y venta de huevos, agua purificada e hielo.
+
+  Los resultados evidencian mejoras en higiene, salud y nutrición, reducción de la dependencia de carrotanques y fortalecimiento de la autonomía comunitaria. Las lecciones aprendidas señalan que la apropiación local y el desarrollo de capacidades son determinantes del éxito, y que las plantas de tamaño medio son más eficaces que las soluciones de gran escala con distribución centralizada. El modelo constituye una alternativa innovadora, sostenible y replicable para la gestión del riesgo asociado a la escasez de agua en territorios remotos y con alta vulnerabilidad climática.
+categories:
+- Preparación y recuperación oportuna
+- Adaptación al cambio climático desde el enfoque de Eco-Reducción (Eco-RRD)
 ---
 
 ## Diapositivas de la sesión

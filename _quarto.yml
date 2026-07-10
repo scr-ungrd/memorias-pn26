@@ -1,6 +1,8 @@
 project:
   type: book
 
+lang: es
+
 book:
   title: "Memorias PN26"
   date: "7/06/2026"

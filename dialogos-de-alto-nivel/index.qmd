@@ -2,8 +2,6 @@
 title: "Diálogos de Alto Nivel"
 ---
 
-## Diálogos de Alto Nivel
-
 1. [Tejiendo Resiliencia: Red de Jóvenes para la Reducción del Riesgo de Desastres](an-01/index.qmd)
 2. [Sesión Extraordinaria y Conjunta de Comités Técnicos Nacionales](an-02/index.qmd)
 3. [Corredores de Resiliencia: Desayuno con PNUD](an-03/index.qmd)

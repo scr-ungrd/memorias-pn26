@@ -8,8 +8,25 @@ author:
 - name: Daniel Pineda
   affiliations:
     - name: CORPOCALDAS, Manizales, Colombia
+keywords:
+- Soluciones Basadas en la Naturaleza
+- Bioingeniería
+- Participación comunitaria
+- Gestión del riesgo
+- Cuenca del Río Guarinó
+abstract: |
+  Esta ponencia presenta la integración de una Cartilla de alternativas de Soluciones Basadas en la Naturaleza (SbN), actualmente en proceso de elaboración por CORPOCALDAS, con las lecciones aprendidas durante aproximadamente 15 años en el Plan de Acción Integral (PAI) de la cuenca del Río Guarinó. El objetivo es demostrar cómo las SbN dejan de ser solo conceptos técnicos para convertirse en herramientas de autogestión comunitaria.
+
+  Se analizan técnicas de estabilización —como trinchos en guadua, filtros vivos y el uso de biomantos— detallando su correcta implementación según la nueva guía técnica. Esta "validación técnica del conocimiento empírico" se respalda con los resultados del PAI Guarinó, donde la comunidad no solo fue beneficiaria, sino ejecutora: el 49 % de la inversión se transformó en empleo local, mientras que el 64 % de las plantas utilizadas provinieron de viveros campesinos.
+
+  La propuesta destaca que la mitigación del riesgo es exitosa cuando la técnica (bioingeniería) se une a la gobernanza social. Se concluye que esta guía sirve como modelo de resiliencia climática, permitiendo que las comunidades identifiquen riesgos de deslizamientos y movimientos en masa, y apliquen soluciones de bajo costo y alto impacto ambiental, garantizando la sostenibilidad de sus territorios.
+categories:
+- Comunidades de aprendizaje y participación
+- Adaptación al cambio climático desde el enfoque de Eco-Reducción (Eco-RRD)
 ---
+
+**Perfil quién presenta el trabajo:** Mauricio Fernando Saavedra Sánchez es Ingeniero Civil, Especialista en Geotecnia, y Profesional Especializado de la Subdirección de Infraestructura Ambiental de CORPOCALDAS. Daniel Alberto Pineda Marulanda es Ingeniero Civil, Especialista en Geotecnia, y Profesional Especializado de la Subdirección de Infraestructura Ambiental de CORPOCALDAS.
 
 ## Diapositivas de la sesión
 
-<iframe src="https://drive.google.com/file/d/1khKESeU_1qi16_U1SqkBlYEd5ereHsok/preview" width="100%" height="480" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/1E9bY4P-48PM9o2X_T8dGzxSc9tGrkzMR/preview" width="100%" height="480" allowfullscreen></iframe>
