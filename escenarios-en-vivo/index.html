@@ -32,6 +32,7 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="../">
 <link href="../escenarios-en-vivo/ev-01/index.html" rel="next">
 <link href="../dialogos-de-alto-nivel/an-03/index.html" rel="prev">
+<link href="../images/favicon.ico" rel="icon">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -39,10 +40,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-257311f31c353275a0fc9c1463d94e88.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-257311f31c353275a0fc9c1463d94e88.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-48d47c65b5cdcf4caa257c90842cb98c.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-257311f31c353275a0fc9c1463d94e88.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-caaeca336d98b4a66e62c1f138edec78.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-70d36cf77f16b14442f1f2d6f2549d3a.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-50d6489f5cc36aa80e0683db9d35a23b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-70d36cf77f16b14442f1f2d6f2549d3a.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -74,7 +79,169 @@ ul.task-list li input[type="checkbox"] {
 
 </head>
 
-<body class="nav-sidebar floating quarto-light">
+<body class="nav-sidebar floating quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+    const toggleBodyColorMode = (bsSheetEl) => {
+      const mode = bsSheetEl.getAttribute("data-mode");
+      const bodyEl = window.document.querySelector("body");
+      if (mode === "dark") {
+        bodyEl.classList.add("quarto-dark");
+        bodyEl.classList.remove("quarto-light");
+      } else {
+        bodyEl.classList.add("quarto-light");
+        bodyEl.classList.remove("quarto-dark");
+      }
+    }
+    const toggleBodyColorPrimary = () => {
+      const bsSheetEl = window.document.querySelector("link#quarto-bootstrap:not([rel=disabled-stylesheet])");
+      if (bsSheetEl) {
+        toggleBodyColorMode(bsSheetEl);
+      }
+    }
+    const setColorSchemeToggle = (alternate) => {
+      const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+      for (let i=0; i < toggles.length; i++) {
+        const toggle = toggles[i];
+        if (toggle) {
+          if (alternate) {
+            toggle.classList.add("alternate");
+          } else {
+            toggle.classList.remove("alternate");
+          }
+        }
+      }
+    };
+    const toggleColorMode = (alternate) => {
+      // Switch the stylesheets
+      const primaryStylesheets = window.document.querySelectorAll('link.quarto-color-scheme:not(.quarto-color-alternate)');
+      const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+      manageTransitions('#quarto-margin-sidebar .nav-link', false);
+      if (alternate) {
+        // note: dark is layered on light, we don't disable primary!
+        enableStylesheet(alternateStylesheets);
+        for (const sheetNode of alternateStylesheets) {
+          if (sheetNode.id === "quarto-bootstrap") {
+            toggleBodyColorMode(sheetNode);
+          }
+        }
+      } else {
+        disableStylesheet(alternateStylesheets);
+        enableStylesheet(primaryStylesheets)
+        toggleBodyColorPrimary();
+      }
+      manageTransitions('#quarto-margin-sidebar .nav-link', true);
+      // Switch the toggles
+      setColorSchemeToggle(alternate)
+      // Hack to workaround the fact that safari doesn't
+      // properly recolor the scrollbar when toggling (#1455)
+      if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+        manageTransitions("body", false);
+        window.scrollTo(0, 1);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          manageTransitions("body", true);
+        }, 40);
+      }
+    }
+    const disableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        stylesheet.rel = 'disabled-stylesheet';
+      }
+    }
+    const enableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        if(stylesheet.rel !== 'stylesheet') { // for Chrome, which will still FOUC without this check
+          stylesheet.rel = 'stylesheet';
+        }
+      }
+    }
+    const manageTransitions = (selector, allowTransitions) => {
+      const els = window.document.querySelectorAll(selector);
+      for (let i=0; i < els.length; i++) {
+        const el = els[i];
+        if (allowTransitions) {
+          el.classList.remove('notransition');
+        } else {
+          el.classList.add('notransition');
+        }
+      }
+    }
+    const isFileUrl = () => {
+      return window.location.protocol === 'file:';
+    }
+    const hasAlternateSentinel = () => {
+      let styleSentinel = getColorSchemeSentinel();
+      if (styleSentinel !== null) {
+        return styleSentinel === "alternate";
+      } else {
+        return false;
+      }
+    }
+    const setStyleSentinel = (alternate) => {
+      const value = alternate ? "alternate" : "default";
+      if (!isFileUrl()) {
+        window.localStorage.setItem("quarto-color-scheme", value);
+      } else {
+        localAlternateSentinel = value;
+      }
+    }
+    const getColorSchemeSentinel = () => {
+      if (!isFileUrl()) {
+        const storageValue = window.localStorage.getItem("quarto-color-scheme");
+        return storageValue != null ? storageValue : localAlternateSentinel;
+      } else {
+        return localAlternateSentinel;
+      }
+    }
+    const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+      const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+      const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+      let newTheme = '';
+      if(authorPrefersDark) {
+        newTheme = isAlternate ? baseTheme : alternateTheme;
+      } else {
+        newTheme = isAlternate ? alternateTheme : baseTheme;
+      }
+      const changeGiscusTheme = () => {
+        // From: https://github.com/giscus/giscus/issues/336
+        const sendMessage = (message) => {
+          const iframe = document.querySelector('iframe.giscus-frame');
+          if (!iframe) return;
+          iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+        }
+        sendMessage({
+          setConfig: {
+            theme: newTheme
+          }
+        });
+      }
+      const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+      if (isGiscussLoaded) {
+        changeGiscusTheme();
+      }
+    };
+    const authorPrefersDark = false;
+    const darkModeDefault = authorPrefersDark;
+      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+    let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+    // Dark / light mode switch
+    window.quartoToggleColorScheme = () => {
+      // Read the current dark / light value
+      let toAlternate = !hasAlternateSentinel();
+      toggleColorMode(toAlternate);
+      setStyleSentinel(toAlternate);
+      toggleGiscusIfUsed(toAlternate, darkModeDefault);
+      window.dispatchEvent(new Event('resize'));
+    };
+    // Switch to dark mode if need be
+    if (hasAlternateSentinel()) {
+      toggleColorMode(true);
+    } else {
+      toggleColorMode(false);
+    }
+  </script>
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -96,11 +263,16 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
-    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header sidebar-header-stacked">
+      <a href="../index.html" class="sidebar-logo-link">
+      <img src="../images/logo-pn26-icono.png" alt="" class="sidebar-logo light-content py-0 d-lg-inline d-none">
+      <img src="../images/logo-pn26-icono.png" alt="" class="sidebar-logo dark-content py-0 d-lg-inline d-none">
+      </a>
     <div class="sidebar-title mb-0 py-0">
       <a href="../">Memorias PN26</a> 
         <div class="sidebar-tools-main">
     <a href="https://github.com/scr-ungrd/memorias-pn26" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-github"></i></a>
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
     </div>
       </div>
@@ -789,12 +961,6 @@ ul.task-list li input[type="checkbox"] {
   <a href="../galeria-fotografica.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Galería fotográfica</span></a>
   </div>
 </li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../references.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">References</span></a>
-  </div>
-</li>
     </ul>
     </div>
 </nav>
@@ -811,6 +977,7 @@ ul.task-list li input[type="checkbox"] {
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
+
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -833,53 +1000,752 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="escenarios-en-vivo" class="level2">
 <h2 class="anchored" data-anchor-id="escenarios-en-vivo">Escenarios en vivo</h2>
-<ol type="1">
-<li><a href="../escenarios-en-vivo/ev-01/index.html">Fuego, ganadería y biodiversidad en las sabanas inundables de la Orinoquía</a></li>
-<li><a href="../escenarios-en-vivo/ev-02/index.html">Repensando la inclusión de los grupos étnicos en el financiamiento y los seguros contra riesgos de desastre en Colombia</a></li>
-<li><a href="../escenarios-en-vivo/ev-03/index.html">Gobernanza de los Sistemas de Alerta Temprana Hidrometereológicos del Departamento de Risaralda, Colombia</a></li>
-<li><a href="../escenarios-en-vivo/ev-04/index.html">Plataforma Web Puntos Críticos: Una herramienta digital para la Gestión de Riesgo de Desastres en el Departamento del Atlántico</a></li>
-<li><a href="../escenarios-en-vivo/ev-05/index.html">Estrategia de recuperación de la comunidad Raizal Ubicada en el sector de Casa Baja y Bahía Agua Mansa de la isla de providencia</a></li>
-<li><a href="../escenarios-en-vivo/ev-06/index.html">AmbientAcción Juvenil: contribuciones de un proyecto de cooperación internacional</a></li>
-<li><a href="../escenarios-en-vivo/ev-07/index.html">Soluciones basadas en la naturaleza para la gestión del riesgo en territorios mineros: una experiencia de Eco-RRD en Marmato, Caldas</a></li>
-<li><a href="../escenarios-en-vivo/ev-08/index.html">Evaluación del procedimiento de atención de pacientes lesionados por sustancias químicas no identificadas en los servicios de urgencias</a></li>
-<li><a href="../escenarios-en-vivo/ev-09/index.html">Responsabilidad Social y Gestión de riesgo de desastres: del Estado paternalista al ciudadano preventivo</a></li>
-<li><a href="../escenarios-en-vivo/ev-10/index.html">Construcción colaborativa del Modelo Nacional de Riesgo Sísmico: el rol de las universidades colombianas en la generación de conocimiento para la gestión del riesgo</a></li>
-<li><a href="../escenarios-en-vivo/ev-11/index.html">Fortalecimiento comunitario para la gestión del riesgo de desastres</a></li>
-<li><a href="../escenarios-en-vivo/ev-12/index.html">Monitoreo, análisis y gestión integral de la erosión costera en Buenaventura mediante soluciones basadas en la naturaleza, medidas híbridas y participación comunitaria</a></li>
-<li><a href="../escenarios-en-vivo/ev-13/index.html">Escenarios de Incendios Forestales para Evaluar el Riesgo de Pérdida de Cobertura en una Zona Megadiversa del Caribe Colombiano</a></li>
-<li><a href="../escenarios-en-vivo/ev-14/index.html">Escuelas Rurales Seguras: Modelo de apropiación social y herramientas tecnológicas para la gestión del riesgo en Antioquia</a></li>
-<li><a href="../escenarios-en-vivo/ev-15/index.html">Zonificación del Riesgo de deterioro del arbolado urbano</a></li>
-<li><a href="../escenarios-en-vivo/ev-16/index.html">El Semillero de Investigación en Educación para la Gestión Integral de Riesgo como estrategia para promover la formación investigativa en los estudiantes del programa Licenciatura en Biología de la Universidad Santo Tomás</a></li>
-<li><a href="../escenarios-en-vivo/ev-18/index.html">Sistema de información en tiempo real para la clasificación y traslado de víctimas por avenidas torrenciales en la primera respuesta en salud</a></li>
-<li><a href="../escenarios-en-vivo/ev-19/index.html">Nichos y Semilleros, comunicación con rostro y manos para la acción</a></li>
-<li><a href="../escenarios-en-vivo/ev-20/index.html">La jugada seria, juventud que está cambiando la gestión del riesgo en Colombia</a></li>
-<li><a href="../escenarios-en-vivo/ev-21/index.html">Voces de los territorios-Entretejidos</a></li>
-<li><a href="../escenarios-en-vivo/ev-22/index.html">Curso Gestión del Riesgo de la Salud Ambiental</a></li>
-<li><a href="../escenarios-en-vivo/ev-23/index.html">De la socialización a la apropiación: innovación institucional para activar la gobernanza del riesgo en el marco del Decreto 2157</a></li>
-<li><a href="../escenarios-en-vivo/ev-24/index.html">Educar en medio del conflicto: guía para la protección de la comunidad educativa</a></li>
-<li><a href="../escenarios-en-vivo/ev-25/index.html">Monitoreo comunitario del caño Rabón en Guaranda, Sucre (subregión La Mojana) para la generación de alertas tempranas frente a inundaciones del río Cauca</a></li>
-<li><a href="../escenarios-en-vivo/ev-26/index.html">Radar de resiliencia y continuidad</a></li>
-<li><a href="../escenarios-en-vivo/ev-27/index.html">Fortalecimiento del monitoreo y la gestión de sequías en La Guajira (PROGESS)</a></li>
-<li><a href="../escenarios-en-vivo/ev-28/index.html">Gestión inclusiva del riesgo y discapacidad intelectual en la Fundación Lupines: estrategia formativa para la preparación ante emergencias</a></li>
-<li><a href="../escenarios-en-vivo/ev-29/index.html">Gestión comunitaria del riesgo de desastres en territorios vulnerables a inundaciones: experiencia en Isla Los Milagros Tinajones</a></li>
-<li><a href="../escenarios-en-vivo/ev-30/index.html">Modelo de intervención en gestión del riesgo de desastres desde la salud pública para fortalecer la respuesta a emergencias en los municipios de Córdoba</a></li>
-<li><a href="../escenarios-en-vivo/ev-31/index.html">Una experiencia integrada de gestión del riesgo: tecnología + comunidad + institucionalidad</a></li>
-<li><a href="../escenarios-en-vivo/ev-32/index.html">Experiencias en la elaboración y puesta en marcha de planes de gestión del riesgo de desastres de las entidades públicas y privadas (Decreto 2157 de 2017)</a></li>
-<li><a href="../escenarios-en-vivo/ev-33/index.html">Evaluación del riesgo sísmico de Antioquia</a></li>
-<li><a href="../escenarios-en-vivo/ev-34/index.html">Sistema de información en software libre para la gestión del riesgo en Boyacá</a></li>
-<li><a href="../escenarios-en-vivo/ev-35/index.html">Casanare: gestión del riesgo desde el enfoque diferencial</a></li>
-<li><a href="../escenarios-en-vivo/ev-36/index.html">Marco teórico de fenómenos amenazantes de origen biosanitario</a></li>
-<li><a href="../escenarios-en-vivo/ev-37/index.html">Riesgos asociados a la gestión de residuos sólidos en Colombia</a></li>
-<li><a href="../escenarios-en-vivo/ev-38/index.html">Formación en salud pública para emergencias y desastres: una mirada territorial con IA y SIG</a></li>
-<li><a href="../escenarios-en-vivo/ev-39/index.html">Sistemas de alerta temprana e inteligencia artificial para la gestión del riesgo de incendios forestales en Colombia</a></li>
-<li><a href="../escenarios-en-vivo/ev-40/index.html">Participación comunitaria en soluciones basadas en la naturaleza (SbN) en Caldas</a></li>
-<li><a href="../escenarios-en-vivo/ev-41/index.html">Desarrollo basado en el riesgo (DBR): Cauca, un estudio de caso</a></li>
-<li><a href="../escenarios-en-vivo/ev-42/index.html">Motores de ocurrencia de incendios en páramos de Colombia</a></li>
-<li><a href="../escenarios-en-vivo/ev-43/index.html">Los animales en la gestión del riesgo de desastres: alcances de la Ley 2474 de 2025</a></li>
-<li><a href="../escenarios-en-vivo/ev-44/index.html">Diseñar estrategias de manejo para los movimientos en masa asociados a erosión según las características de la cuenca baja del río Fonce</a></li>
-<li><a href="../escenarios-en-vivo/ev-45/index.html">GeoIA, inteligencia artificial geoespacial para la gestión del riesgo</a></li>
-<li><a href="../escenarios-en-vivo/ev-46/index.html">Desalinización de agua mediante energía solar en La Guajira</a></li>
-</ol>
+<p>Espacio de transmisión y demostración en tiempo real de trabajos, herramientas y experiencias aplicadas a la gestión del riesgo de desastres, presentados durante la Plataforma Nacional 2026.</p>
+<ul class="nav nav-pills mb-4 mt-3" id="live-tabs" role="tablist">
+<li class="nav-item" role="presentation">
+<button class="nav-link active" id="tab-mie" data-bs-toggle="pill" data-bs-target="#mie" type="button" role="tab" aria-controls="mie" aria-selected="true">
+Miércoles 20 de mayo
+</button>
+</li>
+<li class="nav-item" role="presentation">
+<button class="nav-link" id="tab-jue" data-bs-toggle="pill" data-bs-target="#jue" type="button" role="tab" aria-controls="jue" aria-selected="false">
+Jueves 21 de mayo
+</button>
+</li>
+</ul>
+<div id="live-tabs-content" class="tab-content">
+<div id="mie" class="tab-pane fade show active" role="tabpanel" aria-labelledby="tab-mie">
+<div class="table-responsive">
+<table class="table table-hover align-middle">
+<thead class="table-primary">
+<tr>
+<th style="width:110px">
+Hora
+</th>
+<th>
+Sesión
+</th>
+<th style="width:150px">
+Presentador/a
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<strong>10:00–10:15</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-01/index.html">Fuego, ganadería y biodiversidad en las sabanas inundables de la Orinoquía: evidencia experimental para el debate sobre manejo del fuego</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Investigación científica básica o aplicada</span>
+</div>
+</td>
+<td class="small">
+Anghy S. Gutiérrez Rincón, Universidad del Rosario, Bogotá D.C.
+</td>
+</tr>
+<tr>
+<td>
+<strong>10:15–10:30</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-02/index.html">Repensando la inclusión de los grupos étnicos en el financiamiento y los seguros contra riesgos de desastre en Colombia</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Experiencia/Caso de estudio exitoso</span>
+</div>
+</td>
+<td class="small">
+Camilo Fernandez
+</td>
+</tr>
+<tr>
+<td>
+<strong>10:30–10:45</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-03/index.html">Gobernanza de los sistemas de alertas tempranas hidrometereologicos en el departamento de risaralda</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Investigación científica básica o aplicada</span>
+</div>
+</td>
+<td class="small">
+Alexander galindo lopez, Universidad Tecnologica de Pereira, Pereira
+</td>
+</tr>
+<tr>
+<td>
+<strong>10:45–11:00</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-04/index.html">Plataforma Web Puntos Críticos: Una herramienta digital para la Gestión de Riesgo de Desastres en el Departamento del Atlántico</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Tecnologías o innovación (metodológica, social, institucional o pública)</span>
+</div>
+</td>
+<td class="small">
+Sebástian Andrés Narváez Salcedo, Corporación Autónoma Regional del Atlántico - C.R.A., Barranquilla
+</td>
+</tr>
+<tr>
+<td>
+<strong>11:00–11:15</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-05/index.html">Estrategia de recuperación de la comunidad Raizal Ubicada en el sector de Casa Baja y Bahía Agua Mansa de la isla de providencia.</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Experiencia/Caso de estudio exitoso</span>
+</div>
+</td>
+<td class="small">
+Heidy Hernandez Ramirez, UNGRD-SRR
+</td>
+</tr>
+<tr class="table-light">
+<td colspan="3" class="text-center text-muted fst-italic py-2">
+Pausa 11:15–11:30
+</td>
+</tr>
+<tr>
+<td>
+<strong>11:30–11:45</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-06/index.html">AmbientAcción Juvenil: contribuciones de un proyecto de cooperación internacional</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Educación, comunicación o sensibilización</span>
+</div>
+</td>
+<td class="small">
+Giovanna Andrade de Oliveira, Universidad Metropolitana, Barranquilla, Brasil
+</td>
+</tr>
+<tr>
+<td>
+<strong>11:45–12:00</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-07/index.html">Soluciones basadas en la naturaleza para la gestión del riesgo en territorios mineros: una experiencia de Eco-RRD en Marmato, Caldas</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Experiencia/Caso de estudio exitoso</span>
+</div>
+</td>
+<td class="small">
+Carolina García Londoño, Universidad de Antioquia, Medellín
+</td>
+</tr>
+<tr>
+<td>
+<strong>12:00–12:15</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-08/index.html">Evaluación del procedimiento de atención de pacientes lesionados por sustancias químicas no identificadas en los servicios de urgencias</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Investigación científica básica o aplicada</span>
+</div>
+</td>
+<td class="small">
+Jairo Andrés Restrepo Páramo. La Estrella Antioquia
+</td>
+</tr>
+<tr>
+<td>
+<strong>12:15–12:30</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-09/index.html">Responsabilidad Social y Gestión de riesgo de desastres; del estado paternalista al ciudadano preventivo.</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Tecnologías o innovación (metodológica, social, institucional o pública)</span>
+</div>
+</td>
+<td class="small">
+Eduardo Velez Soto
+</td>
+</tr>
+<tr>
+<td>
+<strong>12:30–12:45</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-10/index.html">Construcción colaborativa del Modelo Nacional de Riesgo Sísmico: el rol de las universidades colombianas en la generación de conocimiento para la gestión del riesgo</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Investigación científica básica o aplicada</span>
+</div>
+</td>
+<td class="small">
+Juan Carlos Reyes, Universidad de los Andes, Bogota
+</td>
+</tr>
+<tr class="table-light">
+<td colspan="3" class="text-center text-muted fst-italic py-2">
+Pausa 12:45–13:00
+</td>
+</tr>
+<tr>
+<td>
+<strong>13:00–13:15</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-11/index.html">Fortalecimiento comunitario para la gestión del riesgo de desastres</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Educación, comunicación o sensibilización</span>
+</div>
+</td>
+<td class="small">
+Gustavo Alfonso Peña de la Rosa, abogado y líder social, Pasacaballos, Cartagena de Indias, Colombia.
+</td>
+</tr>
+<tr>
+<td>
+<strong>13:15–13:30</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-12/index.html">Monitoreo, análisis y gestión integral de la erosión costera en Buenaventura mediante soluciones basadas en la naturaleza, medidas híbridas y participación comunitaria</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Experiencia/Caso de estudio exitoso</span>
+</div>
+</td>
+<td class="small">
+Corporación Autónoma Regional del Valle del Cauca (CVC) &amp; Instituto de Investigaciones Marinas y Costeras “José Benito Vives de Andréis” - INVEMAR
+</td>
+</tr>
+<tr>
+<td>
+<strong>13:30–13:45</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-13/index.html">Escenarios de Incendios Forestales para Evaluar el Riesgo de Pérdida de Cobertura en una Zona Megadiversa del Caribe Colombiano</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Investigación científica básica o aplicada</span>
+</div>
+</td>
+<td class="small">
+Ellie Anne López Barrera, Universidad Sergio Arboleda
+</td>
+</tr>
+<tr>
+<td>
+<strong>13:45–14:00</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-14/index.html">Escuelas Rurales Seguras</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Tecnologías o innovación (metodológica, social, institucional o pública)</span>
+</div>
+</td>
+<td class="small">
+Carlos Andrés Blandón Uribe, Universidad EIA, Envigado.
+</td>
+</tr>
+<tr>
+<td>
+<strong>14:00–14:15</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-15/index.html">Zonificación del Riesgo de deterioro del arbolado urbano</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Experiencia/Caso de estudio exitoso</span>
+</div>
+</td>
+<td class="small">
+Cristian Camilo Hurtado, UNGRD
+</td>
+</tr>
+<tr class="table-light">
+<td colspan="3" class="text-center text-muted fst-italic py-2">
+Pausa 14:15–14:30
+</td>
+</tr>
+<tr>
+<td>
+<strong>14:30–14:45</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-16/index.html">El Semillero de Investigación en Educación para la Gestión Integral de Riesgo como estrategia para promover la formación investigativa en los estudiantes del programa Licenciatura en Biología de la Universidad Santo Tomás</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Educación, comunicación o sensibilización</span>
+</div>
+</td>
+<td class="small">
+Gustavo Laverde Sánchez
+</td>
+</tr>
+<tr>
+<td>
+<strong>14:45–15:00</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-05/index.html">Estrategia de recuperación de la comunidad Raizal Ubicada en el sector de Casa Baja y Bahía Agua Mansa de la isla de providencia</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Experiencia/Caso de estudio exitoso</span>
+</div>
+</td>
+<td class="small">
+Heidy Hernandez Ramirez, Estudiante de la Maestria en Gestión del Riesgo de Desastres de la Escuela de ingenieros
+</td>
+</tr>
+<tr>
+<td>
+<strong>15:00–15:15</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-18/index.html">Sistema de Información en Tiempo Real para la Clasificación y Traslado de Víctimas por Avenidas Torrenciales en la Primera Respuesta en Salud</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Investigación científica básica o aplicada</span>
+</div>
+</td>
+<td class="small">
+Dumar Figueredo, Magister Gestión Del Riesgo y Desarrollo, Escuela De Ingenieros Militares, Bogotá
+</td>
+</tr>
+<tr class="table-light">
+<td colspan="3" class="text-center text-muted fst-italic py-2">
+Espacio cancelado (15:15–15:30)
+</td>
+</tr>
+<tr class="table-light">
+<td colspan="3" class="text-center text-muted fst-italic py-2">
+Pausa 15:30–15:45
+</td>
+</tr>
+<tr>
+<td>
+<strong>15:45–16:00</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-19/index.html">Nichos y Semilleros, comunicación con rostro y manos para la acción</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Educación, comunicación o sensibilización</span>
+</div>
+</td>
+<td class="small">
+Claudia Patricia Coca Galeano, UNGRD, Bogotá
+</td>
+</tr>
+<tr>
+<td>
+<strong>16:00–16:15</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-20/index.html">La jugada seria, juventud que está cambiando la gestión del riesgo en Colombia.</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Experiencia/Caso de estudio exitoso</span>
+</div>
+</td>
+<td class="small">
+Juan Esteban Castrillón Casas, Representante Legal, Medellín
+</td>
+</tr>
+<tr>
+<td>
+<strong>16:15–16:30</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-21/index.html">Voces de los territorios- Entretejidos</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Experiencia/Caso de estudio exitoso</span>
+</div>
+</td>
+<td class="small">
+Proyecto Entre Tejidos - UNGRD -SRR
+</td>
+</tr>
+<tr>
+<td>
+<strong>16:30–16:45</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-22/index.html">Curso Gestión del Riesgo de la Salud Ambiental</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Educación, comunicación o sensibilización</span>
+</div>
+</td>
+<td class="small">
+Jorge Iván López Jaramillo
+</td>
+</tr>
+<tr>
+<td>
+<strong>16:45–17:00</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-23/index.html">De la socialización a la apropiación: innovación institucional para activar la gobernanza del riesgo en el marco del Decreto 2157</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Tecnologías o innovación (metodológica, social, institucional o pública)</span>
+</div>
+</td>
+<td class="small">
+Adriana Correa Arango
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="jue" class="tab-pane fade" role="tabpanel" aria-labelledby="tab-jue">
+<div class="table-responsive">
+<table class="table table-hover align-middle">
+<thead class="table-primary">
+<tr>
+<th style="width:110px">
+Hora
+</th>
+<th>
+Sesión
+</th>
+<th style="width:150px">
+Presentador/a
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<strong>10:15–10:30</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-24/index.html">Educar en medio del conflicto: Guía para la protección de la comunidad educativa</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Educación, comunicación o sensibilización</span>
+</div>
+</td>
+<td class="small">
+Diego Andres Diaz Jimenez. Medellin, Antioquia.
+</td>
+</tr>
+<tr>
+<td>
+<strong>10:30–10:45</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-25/index.html">Monitoreo comunitario del caño Rabón en Guaranda, Sucre (Subregión – Mojana) para la generación de alertas tempranas frente a inundaciones del río Cauca</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Experiencia/Caso de estudio exitoso</span>
+</div>
+</td>
+<td class="small">
+Argemiro Andres Tuiran Jimenez, Alcaldia de Guaranda, Guaranda, Colombia
+</td>
+</tr>
+<tr>
+<td>
+<strong>10:45–11:00</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-26/index.html">Radar de resiliencia y continuidad</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Herramienta o solución práctica</span>
+</div>
+</td>
+<td class="small">
+Luis Fernando Velez Soto
+</td>
+</tr>
+<tr>
+<td>
+<strong>11:00–11:15</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-27/index.html">Fortalecimiento del monitoreo y la gestión de sequías en La Guajira (PROGESS)</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Tecnologías o innovación (metodológica, social, institucional o pública)</span>
+</div>
+</td>
+<td class="small">
+Pier Maquilon, Especialista en desarrollo de servicios climaticos, CIIFEN, Guayaquil - Quito. Kiana Valbuena Mejia, Profesional Especializado, Corpoguajira. Riohacha - La Guajira
+</td>
+</tr>
+<tr>
+<td>
+<strong>11:15–11:30</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-28/index.html">Gestión inclusiva del riesgo y discapacidad intelectual en la Fundación Lupines: estrategia formativa para la preparación ante emergencias</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Experiencia/Caso de estudio exitoso</span>
+</div>
+</td>
+<td class="small">
+Juan Felipe Flórez Montoya, Juan Felipe Flórez Montoya es Ingeniero en Higiene y Seguridad Ocupacional
+</td>
+</tr>
+<tr class="table-light">
+<td colspan="3" class="text-center text-muted fst-italic py-2">
+Pausa 11:30–11:45
+</td>
+</tr>
+<tr>
+<td>
+<strong>11:45–12:00</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-29/index.html">Gestión comunitaria del riesgo de desastres en territorios vulnerables a inundaciones: experiencia en Isla Los Milagros Tinajones</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Herramienta o solución práctica</span>
+</div>
+</td>
+<td class="small">
+Jaider Marrugo Villadiego, Junta de Acción Comunal Isla Los Milagros Tinajones (Representante Legal), San Bernardo del Viento, Córdoba, Colombia
+</td>
+</tr>
+<tr>
+<td>
+<strong>12:00–12:15</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-30/index.html">Modelo de intervención en gestión del riesgo de desastres desde la Salud Pública para fortalecer la respuesta a emergencias y desastres en los municipios de Córdoba</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Política pública, gobernanza o enfoques sectoriales</span>
+</div>
+</td>
+<td class="small">
+Yeshayah Yisrael David Hoyos Berrocal
+</td>
+</tr>
+<tr>
+<td>
+<strong>12:15–12:30</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-31/index.html">Una experiencia integrada de Gestión del Riesgo: tecnología + comunidad + institucionalidad</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Tecnologías o innovación (metodológica, social, institucional o pública)</span>
+</div>
+</td>
+<td class="small">
+Andrés López Rosada, Corporación Autónoma Regional del Valle del Cauca - CVC
+</td>
+</tr>
+<tr>
+<td>
+<strong>12:30–12:45</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-32/index.html">Experiencias en la elaboración y puesta en marcha de planes de gestión del riesgo de desastres de las entidades publicas y privadas (Decreto 2157 de 2017)</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Experiencia/Caso de estudio exitoso</span>
+</div>
+</td>
+<td class="small">
+Fernando Andrés Ospina Lema
+</td>
+</tr>
+<tr>
+<td>
+<strong>12:45–13:00</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-33/index.html">Evaluación del riesgo sísmico de Antioquia</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Investigación científica básica o aplicada</span>
+</div>
+</td>
+<td class="small">
+Ana Beatriz Acevedo, Universidad EAFIT, Medellín
+</td>
+</tr>
+<tr class="table-light">
+<td colspan="3" class="text-center text-muted fst-italic py-2">
+Pausa 13:00–13:15
+</td>
+</tr>
+<tr>
+<td>
+<strong>13:15–13:30</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-34/index.html">Gestión del riesgo de desastres con software libre: experiencia UAEGRD Boyacá</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Herramienta o solución práctica</span>
+</div>
+</td>
+<td class="small">
+Carlos René López Candela - Profesional especializado de la UAEGRD Boyacá. Tunja.
+</td>
+</tr>
+<tr>
+<td>
+<strong>13:30–13:45</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-35/index.html">Casanare: Gestion del riesgo desde el enfoque diferencial</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Experiencia/Caso de estudio exitoso</span>
+</div>
+</td>
+<td class="small">
+Juan David Gomez Sandoval, Agente de Cambio, Yopal Casanare
+</td>
+</tr>
+<tr>
+<td>
+<strong>13:45–14:00</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-36/index.html">Marco teórico de fenómenos amenazantes de origen biosanitario</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Política pública, gobernanza o enfoques sectoriales</span>
+</div>
+</td>
+<td class="small">
+Jeisson Garcia, UNGRD
+</td>
+</tr>
+<tr>
+<td>
+<strong>14:00–14:15</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-37/index.html">Riesgos asociados a la gestión de residuos sólidos en Colombia</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Tecnologías o innovación (metodológica, social, institucional o pública)</span>
+</div>
+</td>
+<td class="small">
+Mónica Marcela Caro Medina, UNGRD
+</td>
+</tr>
+<tr class="table-light">
+<td colspan="3" class="text-center text-muted fst-italic py-2">
+Pausa 14:15–14:30
+</td>
+</tr>
+<tr>
+<td>
+<strong>14:30–14:45</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-38/index.html">Formación en salud pública para emergencias y desastres: una mirada territorial con IA y SIG</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Educación, comunicación o sensibilización</span>
+</div>
+</td>
+<td class="small">
+Juan Fernando Millan, Docente Departamento de Salud Publica y Epidemiologia, Javeriana Cali
+</td>
+</tr>
+<tr>
+<td>
+<strong>14:45–15:00</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-39/index.html">Sistemas de alerta temprana e inteligencia artificial para la gestión del riesgo de incendios forestales en Colombia</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Herramienta o solución práctica</span>
+</div>
+</td>
+<td class="small">
+Alejandro Casallas Garcia. Universidad Sergio Arboleda. Bogota. Colombia
+</td>
+</tr>
+<tr>
+<td>
+<strong>15:00–15:15</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-40/index.html">Participación Comunitaria en la definición de alternativas de Soluciones Basadas en la Naturaleza, acorde con algunas experiencias exitosas desarrolladas en el Departamento de Caldas</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Experiencia/Caso de estudio exitoso</span>
+</div>
+</td>
+<td class="small">
+Mauricio Saavedra &amp; Daniel Pineda, CORPOCALDAS, Manizales
+</td>
+</tr>
+<tr>
+<td>
+<strong>15:15–15:30</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-41/index.html">Desarrollo Basado en el Riesgo (DBR): Cauca un estudio de caso.</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Tecnologías o innovación (metodológica, social, institucional o pública)</span>
+</div>
+</td>
+<td class="small">
+Juan Pablo Prado Medina, Uniautónoma del Cauca, Popayán.
+</td>
+</tr>
+<tr>
+<td>
+<strong>15:30–15:45</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-42/index.html">Motores de ocurrencia de incendios en páramos de Colombia</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Investigación científica básica o aplicada</span>
+</div>
+</td>
+<td class="small">
+Jhonatan Julián Díaz-Timoté
+</td>
+</tr>
+<tr class="table-light">
+<td colspan="3" class="text-center text-muted fst-italic py-2">
+Pausa 15:45–16:00
+</td>
+</tr>
+<tr>
+<td>
+<strong>16:00–16:15</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-43/index.html">Modificación de la Ley 1523 de 2012 mediante la Ley 2474 de 2025, por la cual se incluyen Los Animales en la Gestión del Riesgo y Desastres</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Planeación y ordenamiento que incorpora la GRD</span>
+</div>
+</td>
+<td class="small">
+Diego Almonacid Cifuentes, UNGRD
+</td>
+</tr>
+<tr>
+<td>
+<strong>16:15–16:30</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-44/index.html">Estrategias de manejo para movimientos en masa asociados a erosión en la cuenca baja del río Fonce</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Herramienta o solución práctica</span>
+</div>
+</td>
+<td class="small">
+Francisco David Ramos Cuesta, Escuela de Ingenieros Militares, Bogotá, Colombia
+</td>
+</tr>
+<tr>
+<td>
+<strong>16:30–16:45</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-45/index.html">GeoIA: inteligencia artificial geoespacial para la toma de decisiones en la gestión del riesgo de desastres</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Tecnologías o innovación (metodológica, social, institucional o pública)</span>
+</div>
+</td>
+<td class="small">
+Mohammed Alhessi, PNUD – Crisis Bureau, Nueva York
+</td>
+</tr>
+<tr>
+<td>
+<strong>16:45–17:00</strong>
+</td>
+<td>
+<a class="fw-semibold text-decoration-none" href="../escenarios-en-vivo/ev-46/index.html">CESVI: Desalinización de agua con energía solar en La Guajira Colombia</a>
+<div>
+<span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Experiencia/Caso de estudio exitoso</span>
+</div>
+</td>
+<td class="small">
+Mike Boomer, Jefe de Mision para CESVI
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
 
 
 </section>
@@ -900,8 +1766,91 @@ document.addEventListener('DOMContentLoaded', function () {
   });
 });
 </script>
+<!-- Google Translate ES/EN toggle, ported from programa-pn26 -->
+<div id="google_translate_element" style="display:none"></div>
+<script>
+function googleTranslateInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: 'es',
+    includedLanguages: 'en',
+    autoDisplay: false
+  }, 'google_translate_element');
+}
+
+// Because the widget only offers English as a target (includedLanguages: 'en'),
+// the injected <select> never has an "es" option, so setting combo.value = 'es'
+// is a no-op. Reverting to the original language instead means clearing
+// Google's "googtrans" cookie and reloading.
+function pn26IsTranslatedToEnglish() {
+  return /googtrans=\/[a-z]{2}\/en/.test(document.cookie);
+}
+
+function pn26ClearTranslateCookie() {
+  var expire = 'expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;';
+  document.cookie = 'googtrans=; ' + expire;
+  document.cookie = 'googtrans=; ' + expire + ' domain=' + location.hostname + ';';
+}
+
+function pn26ToggleLang() {
+  if (pn26IsTranslatedToEnglish()) {
+    pn26ClearTranslateCookie();
+    location.reload();
+    return;
+  }
+  var combo = document.querySelector('.goog-te-combo');
+  if (!combo) return;
+  combo.value = 'en';
+  combo.dispatchEvent(new Event('change'));
+  var btn = document.getElementById('pn26-lang-toggle');
+  if (btn) btn.textContent = 'ES';
+}
+
+// Suppress Google Translate top banner
+// Google's widget no longer uses the documented ".goog-te-banner-frame" class
+// (it's obfuscated by Closure Compiler); its banner iframe id still reliably
+// ends in ".container", so that's what we target.
+function suppressGoogleBanner() {
+  var style = document.createElement('style');
+  style.textContent = '.goog-te-banner-frame, iframe[id$=".container"], #goog-gt-tt, .goog-te-balloon-frame { display:none !important; } body { top: 0 !important; }';
+  document.head.appendChild(style);
+}
+
+document.addEventListener('DOMContentLoaded', function () {
+  suppressGoogleBanner();
+
+  var tools = document.querySelector('.sidebar-tools-main');
+  if (!tools) return;
+
+  var btn = document.createElement('button');
+  btn.id = 'pn26-lang-toggle';
+  btn.type = 'button';
+  btn.className = 'quarto-navigation-tool px-1 notranslate';
+  btn.title = 'Switch language / Cambiar idioma';
+  btn.setAttribute('aria-label', 'Switch language');
+  btn.setAttribute('translate', 'no');
+  btn.style.cssText = 'border:none;background:none;font-size:0.7rem;font-weight:700;letter-spacing:0.03em;color:inherit;';
+  btn.textContent = pn26IsTranslatedToEnglish() ? 'ES' : 'EN';
+  btn.addEventListener('click', pn26ToggleLang);
+
+  tools.insertBefore(btn, tools.firstChild);
+});
+</script>
+<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateInit" async=""></script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
+    // Ensure there is a toggle, if there isn't float one in the top right
+    if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+      const a = window.document.createElement('a');
+      a.classList.add('top-right');
+      a.classList.add('quarto-color-scheme-toggle');
+      a.href = "";
+      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+      const i = window.document.createElement("i");
+      i.classList.add('bi');
+      a.appendChild(i);
+      window.document.body.appendChild(a);
+    }
+    setColorSchemeToggle(hasAlternateSentinel())
     const icon = "";
     const anchorJS = new window.AnchorJS();
     anchorJS.options = {
