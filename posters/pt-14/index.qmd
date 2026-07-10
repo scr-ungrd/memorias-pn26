@@ -1,16 +1,27 @@
 ---
-title: Brigadas Ambientales Comunitarias
+title: Uso de tecnologías para el análisis de inundación en zonas urbanas - caso de estudio Quebrada El Tejar, municipio de Ocaña, Norte de Santander
 author:
-- name: Greicy Johana Sánchez Díaz
+- name: Agustín A. Macgregor Torrado
   affiliations:
-    - name: CORPOBOYACÁ
-- name: Antonio De la Barrera Cárdenas
+    - name: Universidad Francisco de Paula Santander Ocaña – Grupo GIGMA
+- name: Romel J. Gallardo Amaya
   affiliations:
-    - name: CORPOBOYACÁ
+    - name: Universidad Francisco de Paula Santander Ocaña – Grupo GIGMA
+- name: Ray C. Ramírez Rincón
+  affiliations:
+    - name: Universidad Francisco de Paula Santander Ocaña – Grupo GIGMA
 abstract: |
-  Conformación de Brigadas Ambientales Comunitarias para la Gestión del Riesgo de Desastres.
+  Las temporadas invernales en el municipio de Ocaña, Norte de Santander, han generado históricamente eventos de inundación en la cuenca del río Chiquito, afectando la calidad de vida de los habitantes, deteriorando viviendas e infraestructura, con pérdidas significativas. La longitud en la que este afluente atraviesa la ciudad, posee una infraestructura de drenaje conformada por una canalización, en estado avanzado de deterioro, y un box coulvert, que resultan insuficientes para manejar los caudales extremos propios del régimen bimodal de precipitaciones (marzo–mayo y septiembre–noviembre), condición que se agrava por la deforestación de las zonas altas de la cuenca y la expansión urbana no planificada.
+
+  El objetivo del proyecto fue optimizar el sistema de drenaje urbano del río Chiquito mediante el diagnóstico hidráulico integral de la estructura existente y la identificación de áreas susceptibles a inundación, con el propósito de proveer insumos técnicos a las autoridades responsables de la gestión del riesgo de desastres en el municipio.
+
+  La investigación se desarrolló en cuatro fases. En la primera, se generó el Modelo Digital del Terreno (MDT), a partir del cual se extrajeron el perfil longitudinal, secciones transversales y la planta del sistema de drenaje. En la segunda fase, se recopiló y procesó información pluviométrica de estaciones del IDEAM para estimar y calibrar los caudales de diseño correspondientes a eventos extremos. En la tercera, se ejecutó la modelación hidráulica en el software HEC-RAS de libre acceso, integrando la geometría del terreno con los hidrogramas estimados. Finalmente, la cuarta fase comprendió el análisis e interpretación de los resultados para delimitar las zonas en riesgo de inundación.
+
+  Los resultados indicaron que los MDT obtenidos utilizando Drones, permiten determinar, de manera rápida y precisa, la totalidad de los parámetros topográficos e hidráulicos requeridos para la modelación. La integración del MDT con los datos pluviométricos posibilitó identificar los tramos del sistema de drenaje con mayor vulnerabilidad ante eventos de precipitación extrema, evidenciando la insuficiencia de la capacidad hidráulica actual.
+
+  La investigación demuestra que la combinación de tecnologías de teledetección con herramientas de modelación hidráulica constituye una estrategia eficiente y escalable para la gestión del riesgo de inundaciones en contextos urbanos con recursos limitados. La identificación de zonas críticas a inundación permite, a entidades locales y regionales, priorizar inversiones en infraestructura hidráulica, actualizar de los planes municipales de gestión del riesgo y definir restricciones de uso del suelo en zonas identificadas como de alta amenaza por inundación
 categories:
-- Comunidades de aprendizaje y participación
+- Datos, modelación, IA, innovación social y herramientas digitales
 ---
 
 ## Poster

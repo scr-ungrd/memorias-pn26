@@ -11,7 +11,13 @@ author:
   affiliations:
     - name: Universidad del Rosario
 abstract: |
-  Insumos técnicos para la incorporación de la gestión del riesgo y la adaptación al cambio climático en los instrumentos de ordenamiento territorial (POMCA y POT).
+  El cambio climático representa una amenaza significativa para sistemas hídricos dependientes, como la cuenca del río Guatapurí en Valledupar, Cesar, donde el recurso hídrico es fundamental para la sostenibilidad del territorio. En este contexto, la cuenca presenta una creciente vulnerabilidad asociada a la variabilidad climática y a la ocurrencia de amenazas como sequías, inundaciones, incendios forestales y olas de calor.
+
+  Este estudio tiene como objetivo analizar la vulnerabilidad hídrica y el riesgo climático de la cuenca del río Guatapurí, mediante el enfoque del Plan Integral de Gestión del Cambio Climático Territorial (PIGCCT). La metodología se basa en el análisis de instrumentos de planificación territorial (POT, PDT, PGRD, POMCA y PIGCCT) y el uso de herramientas climáticas como climogramas históricos para evaluar la variabilidad climática y eventos extremos asociados a fenómenos como El Niño y La Niña.
+
+  El análisis realizado con Climate Engine indica una tendencia al aumento de la temperatura y una marcada variabilidad en las precipitaciones, caracterizada por la intensificación de periodos de déficit hídrico extremo, lo que incrementa el estrés sobre la cuenca. Asimismo, se identifican amenazas relevantes como inundaciones, sequías, incendios forestales y olas de calor, configurando un escenario de alto riesgo climático que afecta el recurso hídrico y las actividades productivas del territorio.
+
+  Se concluye que la cuenca del río Guatapurí presenta alta sensibilidad al cambio climático, por lo que es necesario fortalecer la integración de la gestión del riesgo en los instrumentos de planificación territorial, promoviendo estrategias de adaptación y manejo sostenible del recurso hídrico para garantizar la resiliencia del territorio.
 categories:
 - Planeación y ordenamiento que incorpora la GRD
 ---

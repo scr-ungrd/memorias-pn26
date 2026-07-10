@@ -1,31 +1,22 @@
 ---
-title: Invertir en prevención - responsabilidad fiscal y sostenibilidad en la gestión del riesgo de desastres
+title: Modelación a la Decisión - Gestión del Riesgo Basada en Evidencia
 author:
-- name: Diana Caicedo E.
+- name: Otálora Carmona Andrés Humberto
   affiliations:
-    - name: ORFE – Universidad Nacional de Colombia · Universidad La Salle México · FUNSEMEVI · Fundación Almalina · GNDR · Trendmakers Red Nacional del Agua
-- name: Jaider Agudelo
+    - name: IDOM – Consulting, Engineering and Architecture
+- name: Lemaitre Ruiz Ximena Andrea
   affiliations:
-    - name: ORFE – Universidad Nacional de Colombia · Universidad La Salle México · FUNSEMEVI · Fundación Almalina · GNDR · Trendmakers Red Nacional del Agua
-- name: Tatiana Soler
-  affiliations:
-    - name: ORFE – Universidad Nacional de Colombia · Universidad La Salle México · FUNSEMEVI · Fundación Almalina · GNDR · Trendmakers Red Nacional del Agua
-- name: Nicolás Romero
-  affiliations:
-    - name: ORFE – Universidad Nacional de Colombia · Universidad La Salle México · FUNSEMEVI · Fundación Almalina · GNDR · Trendmakers Red Nacional del Agua
-- name: Christian Benítez
-  affiliations:
-    - name: ORFE – Universidad Nacional de Colombia · Universidad La Salle México · FUNSEMEVI · Fundación Almalina · GNDR · Trendmakers Red Nacional del Agua
-- name: Betty Enríquez
-  affiliations:
-    - name: ORFE – Universidad Nacional de Colombia · Universidad La Salle México · FUNSEMEVI · Fundación Almalina · GNDR · Trendmakers Red Nacional del Agua
-- name: Mateo Narváez
-  affiliations:
-    - name: ORFE – Universidad Nacional de Colombia · Universidad La Salle México · FUNSEMEVI · Fundación Almalina · GNDR · Trendmakers Red Nacional del Agua
+    - name: IDOM – Consulting, Engineering and Architecture
 abstract: |
-  Diálogo técnico intersectorial sobre inversión preventiva, responsabilidad fiscal y gobernanza sostenible del riesgo de desastres.
+  En la mayoría de las principales ciudades de Brasil, las zonas rurales se juntan rápidamente con las zonas urbanas altamentes pobladas haciendo que las construcciones habitacionales y en general, la infraestructura, se extiendan hasta las rondas hidráulicas de los cauces. Como es de esperarse, los eventos extremos generan condición que obligan a que se implementen políticas de gestión del riesgo que, en la mayoría de los casos analizados en las principales ciudades de Brasil, requieren estudios de vulnerabilidad, amenaza y riesgo por inundación. Estos estudios permiten que los tomadores de decisiones generen medidas que, en casos de alto riesgo, requieran reasentamientos de comunidades ubicadas en las zonas más vulnerables. La toma de decisiones requiere la combinación de medidas de adaptación que implican obras de infraestructura grises, rígidas, naturales o blandas junto con los reasentamientos o reubicaciones.
+
+  Debido a la ausencia de información climática de calidad, a la ausencia de modelos climáticos claros que expongan a las características particulares de América del Sur, incluyendo las principales ciudades de Brasil tales como Sao Pablo, Recife, Contagem, Goiania y Joao Pessoa y debido a los efectos del océano, no se tiene claridad de como estas variables cambiantes en el tiempo modifican las posibles medidas de adaptación ante eventos climáticos. El objetivo último del estudio corresponde a la estimación de la reducción del riesgo por inundación a partir de la elaboración de propuestas de adaptación, que incluyan procesos de reasentamientos para diferentes comunidades en 4 ciudades en Brasil considerando diferentes escenarios climáticos para eventos extraordinarios. A partir de las series históricas de precipitación y temperatura disponibles (junto con los valores de referencias de caudales puntuales y niveles de desbordamientos observados), se realizaron estudios de hidrológica de las cuencas naturales y antrópicas que discurren en diferentes puntos de control en comunidades poblaciones claves en diferentes ciudades de Brasil.
+
+  Para tener presenta las consideraciones del cambio climático se combinó información secundaria y series hidrometeorológicas históricas con al menos 25 años con análisis de downscaling a partir de diferentes modelos globales climáticos, contrastados con información local. Se usaron diferentes escenarios de cambio climático definidos por el IPCC para proyectar las series históricas. Se implementaron estudios de vulnerabilidad y de riesgo para tomar decisiones relacionadas con las medidas de adaptación.
+
+  Se generaron simulación de diferentes escenarios climáticos con los cuales fue posible la construcción de mapas de riesgo en comunidades altamentes pobladas en Brasil tanto para la condición actual como para la condición futura. Se definieron estrategias de asentamientos, medidas de adaptación para condiciones de corto, mediano y largo plazo. Conclusiones: el estudio permitió evaluar la variabilidad de la climatología local en ciudades altamente pobladas en Brasil a partir de los efectos del cambio climático global. Se desarrollaron medidas de adaptación antes eventos hidrológicos extraordinarios que permiten de los tomadores de decisión generen estrategias y políticas.
 categories:
-- Comunidades de aprendizaje y participación
+- Planeación y ordenamiento que incorpora la GRD
 ---
 
 ## Poster

@@ -1,19 +1,38 @@
 ---
-title: Protocolo de Apoyo Psicosocial en Contextos de Emergencias y Desastres
+title: Vulcanismo monogenético en Colombia y su potencial geoturístico - Un insumo para la evaluación de la amenaza y el riesgo volcánico
 author:
-- name: Mildred Vianchá-Pinzón
+- name: Susana Osorio-Ocampo
   affiliations:
-    - name: Unidad Nacional para la Gestión del Riesgo de Desastres – Subdirección para el Manejo de Desastres
-- name: Sandra Castañeda-Feria
+    - name: Grupo de Investigación en Estratigrafía y Vulcanología (GIEV) Cumanday, Universidad de Caldas, Manizales, Colombia
+    - name: Unidad Nacional para la Gestión del Riesgo de Desastres, Subdirección para el Conocimiento del Riesgo, Bogotá, Colombia
+- name: Hugo Murcia
   affiliations:
-    - name: Unidad Nacional para la Gestión del Riesgo de Desastres – Subdirección para el Manejo de Desastres
-- name: Astrid Vergara-Buitrago
+    - name: Grupo de Investigación en Estratigrafía y Vulcanología (GIEV) Cumanday, Universidad de Caldas, Manizales, Colombia
+    - name: Departamento de Ciencias Geológicas, Universidad de Caldas, Manizales, Colombia
+    - name: Instituto de Investigaciones en Estratigrafía, Universidad de Caldas, Manizales, Colombia
+- name: Laura Sánchez-Torres
   affiliations:
-    - name: Unidad Nacional para la Gestión del Riesgo de Desastres – Subdirección para el Manejo de Desastres
+    - name: Grupo de Investigación en Estratigrafía y Vulcanología (GIEV) Cumanday, Universidad de Caldas, Manizales, Colombia
+    - name: Departamento de Mineralogía, Petrología y Geología Aplicada, Universidad de Barcelona, Barcelona, España
+- name: Luis Alvaro Botero-Gómez
+  affiliations:
+    - name: Grupo de Investigación en Estratigrafía y Vulcanología (GIEV) Cumanday, Universidad de Caldas, Manizales, Colombia
+    - name: Departamento de Ciencias Geológicas, Universidad de Caldas, Manizales, Colombia
+    - name: Doctorado en Ciencias-Geología, Universidad de Caldas, Manizales, Colombia
+- name: Alejandro Arias-Díaz
+  affiliations:
+    - name: Grupo de Investigación en Estratigrafía y Vulcanología (GIEV) Cumanday, Universidad de Caldas, Manizales, Colombia
+- name: Ana Toro
+  affiliations:
+    - name: Grupo de Investigación en Estratigrafía y Vulcanología (GIEV) Cumanday, Universidad de Caldas, Manizales, Colombia
 abstract: |
-  Protocolo de Apoyo Psicosocial.
+  En las últimas décadas se han identificado decenas de volcanes monogenéticos en Colombia, caracterizados por una única erupción en su historia y agrupados en campos volcánicos con gran diversidad de geoformas y estilos eruptivos. El estudio geológico de estos volcanes constituye un insumo para la evaluación de la amenaza volcánica ya que permiten comprender los mecanismos de ascenso del magma y sus procesos eruptivos en superficie. Estos volcanes, además de la relevancia científica, se presentan como laboratorios naturales donde la belleza morfológica ofrecen un amplio potencial interpretativo para el aprendizaje sobre procesos volcánicos, la gestión del riesgo y las interacciones con las comunidades que viven alrededor de estos.
+
+  Este trabajo aborda el estudio de dos campos volcánicos monogenéticos: el Campo Guamuez-Sibundoy, entre Nariño y Putumayo, con al menos 20 volcanes, y el Campo Tapias-Guacaica, en Caldas, con al menos ocho. Los estudios estratigráficos, químicos y geocronológicos realizados evidencian que se trata de campos potencialmente activos, aportando información para la evaluación de amenazas volcánicas. A partir de estos resultados se exploró también el potencial geoturístico mediante la propuesta de geositios, resaltando el valor educativo y patrimonial de sus paisajes y geoformas.
+
+  Los hallazgos confirman que la generación de conocimiento científico es el principal insumo para la evaluación de la amenaza y el riesgo volcánico en Colombia y que el vulcanismo monogenético debe ser considerado en la planificación territorial y gestión del riesgo. Asimismo, se demuestra que el geoturismo constituye un mecanismo de apropiación social del conocimiento del patrimonio geológico, ofreciendo oportunidades de desarrollo sostenible para las comunidades que habitan estos territorios.
 categories:
-- CTI (Ciencia, tecnología e innovación)
+- Comunidades de aprendizaje y participación
 ---
 
 ## Poster

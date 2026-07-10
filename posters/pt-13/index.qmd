@@ -1,19 +1,19 @@
 ---
-title: Uso de tecnologías para el análisis de inundación en zonas urbanas - caso de estudio Quebrada El Tejar, municipio de Ocaña, Norte de Santander
+title: Atención humanitaria a población vulnerable por la emergencia invernal en Chocó
 author:
-- name: Agustín A. Macgregor Torrado
+- name: Sonia Paz
   affiliations:
-    - name: Universidad Francisco de Paula Santander Ocaña – Grupo GIGMA
-- name: Romel J. Gallardo Amaya
+    - name: Cruz Roja Colombiana
+- name: Jorge Sarmiento
   affiliations:
-    - name: Universidad Francisco de Paula Santander Ocaña – Grupo GIGMA
-- name: Ray C. Ramírez Rincón
+    - name: Cruz Roja Colombiana
+- name: Paulin Andrade
   affiliations:
-    - name: Universidad Francisco de Paula Santander Ocaña – Grupo GIGMA
+    - name: Cruz Roja Colombiana
 abstract: |
-  Modelación hidráulica con HEC-RAS y teledetección con drone para la gestión del riesgo de inundaciones urbanas en Ocaña, Norte de Santander.
+  El departamento del Chocó enfrenta una alta vulnerabilidad estructural agravada por eventos climáticos extremos. La reciente emergencia invernal afectó cerca del 85% del territorio y a más de 200.000 personas, generando pérdidas significativas en medios de vida, reducción de ingresos y debilitamiento de la economía local. Esta situación evidenció la necesidad de respuestas humanitarias que, además de atender necesidades inmediatas, promovieran la recuperación económica sostenible de las familias afectadas. En este contexto, la Cruz Roja Colombiana fortaleció la recuperación temprana y la resiliencia económica de la población afectada mediante la implementación de programas de transferencias monetarias y apoyo a medios de vida, complementados con asistencia humanitaria básica. La intervención se desarrolló en los municipios de Quibdó, Istmina y Riosucio, priorizando el uso de transferencias monetarias (cash) como herramienta principal para la reactivación económica. El enfoque metodológico incluyó la realización de un estudio de factibilidad para validar la viabilidad del mercado local y la capacidad de los proveedores financieros. Las familias beneficiarias fueron identificadas en articulación con actores institucionales y participaron en procesos de formación en planes de negocio, que abordaron análisis de mercado, aspectos técnicos y evaluación económica. Posteriormente, recibieron transferencias monetarias condicionadas para la adquisición de insumos productivos, acompañadas de asistencia técnica y seguimiento. Este componente se complementó con la entrega de alimentos y kits de tratamiento de agua para garantizar condiciones mínimas durante la recuperación. Como resultado, el proyecto benefició directamente a 711 familias, superando las metas previstas. En particular, 144 familias recibieron transferencias monetarias, logrando reactivar sus actividades productivas y mejorar sus ingresos. El enfoque de cash demostró ser una herramienta flexible y eficiente, permitiendo a los hogares priorizar sus necesidades y dinamizar los mercados locales. Asimismo, las capacitaciones fortalecieron la gestión de los recursos y promovieron la sostenibilidad de los emprendimientos. El proyecto también contribuyó al fortalecimiento de capacidades institucionales en la implementación de programas de transferencias monetarias. En conclusión, las transferencias monetarias constituyen una estrategia efectiva para la recuperación económica en contextos de emergencia, al empoderar a las familias y generar impactos sostenibles en sus medios de vida, fortalecer los sistemas financieros locales, complementar las transferencias monetarias con procesos formativos y promover mecanismos digitales que favorezcan la inclusión financiera y la eficiencia operativa, integrando estos enfoques en estrategias de desarrollo y resiliencia a largo plazo.
 categories:
-- Datos, modelación, IA, innovación social y herramientas digitales
+- Adaptación al cambio climático desde el enfoque de Eco-Reducción (Eco-RRD)
 ---
 
 ## Poster

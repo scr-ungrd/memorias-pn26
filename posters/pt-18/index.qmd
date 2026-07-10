@@ -1,29 +1,20 @@
 ---
-title: Integración del conocimiento del riesgo en los Proyectos Ambientales Escolares y en los Proyectos Educativos Comunitarios - fortaleciendo la resiliencia escolar en tierra de volcanes
+title: Análisis de fuentes de contaminación del aire en Vichada mediante modelación atmosférica y monitoreo con sensores de bajo costo
 author:
-- name: Leidy Castaño
+- name: Stijn Hantson
   affiliations:
-    - name: Cruz Roja Colombiana
-- name: Daniel Vargas
+    - name: Universidad del Rosario
+- name: Nathalia Celis
   affiliations:
-    - name: Cruz Roja Colombiana
-- name: Carolina Chirán
-  affiliations:
-    - name: Cruz Roja Colombiana
-- name: Harol Arbelaez
-  affiliations:
-    - name: Cruz Roja Colombiana
-- name: Jack Grundy
-  affiliations:
-    - name: Cruz Roja Colombiana
-- name: Jesús Chicaíza
-  affiliations:
-    - name: Cruz Roja Colombiana
-- name: Eduard Ruiz
-  affiliations:
-    - name: Cruz Roja Colombiana
-categories:
-- Comunidades de aprendizaje y participación
+    - name: Universidad del Rosario
+abstract: |
+  En 2024 se registró un episodio de deterioro de la calidad del aire en el departamento del Vichada, que motivó la emisión de una alerta por incremento de material particulado. Este tipo de eventos plantea desafíos para la gestión del riesgo, debido a la limitada información sobre la influencia de fuentes regionales y la escasa cobertura de monitoreo en territorios como la Orinoquía colombiana. En este contexto, el objetivo de este trabajo es aportar elementos técnicos para la interpretación del evento, mediante la integración de análisis de transporte atmosférico y monitoreo instrumental en superficie.
+
+  La metodología se basa en el análisis de trayectorias de masas de aire durante la temporada seca (diciembre de 2023 a marzo de 2024), con el fin de identificar posibles regiones de origen y rutas de transporte de contaminantes hacia el área de estudio. Este enfoque se complementa con la instalación y puesta en marcha de tres sensores de bajo costo en los municipios de Puerto Carreño y Cumaribo, que permiten obtener registros iniciales de material particulado en el territorio.
+
+  Los resultados evidencian un patrón predominante de transporte de masas de aire desde el oriente y noreste de Sudamérica hacia los puntos de monitoreo. Estas trayectorias coinciden espacialmente con zonas de alta densidad de puntos de calor, especialmente en marzo, lo que sugiere una contribución relevante de incendios en las sabanas del norte de Sudamérica y regiones adyacentes. Adicionalmente, los datos registrados por los sensores, aunque aún limitados en el tiempo, constituyen el inicio del monitoreo instrumental in situ en el departamento y permiten identificar retos operativos, como la intermitencia eléctrica, así como oportunidades para el fortalecimiento de la red.
+
+  En conjunto, los hallazgos indican una posible influencia significativa de fuentes regionales en los episodios de contaminación atmosférica en Vichada. Como implicación, se resalta la importancia de fortalecer los sistemas de alerta temprana, ampliar la cobertura de monitoreo y promover estrategias de manejo integral del fuego, con el fin de mejorar la capacidad de respuesta y la toma de decisiones frente a eventos de deterioro de la calidad del aire.
 ---
 
 ## Poster

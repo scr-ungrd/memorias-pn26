@@ -5,7 +5,11 @@ author:
   affiliations:
     - name: Institución Universitaria ITM
 abstract: |
-  Evaluación determinista del riesgo sísmico y formulación de estrategias estructurales y comunitarias para la reducción del riesgo en viviendas periurbanas.
+  Se realizó un análisis del riesgo sísmico en el Corregimiento de San Cristóbal, Medellín, considerando un enfoque determinista de la amenaza sísmica definida en el Plan Municipal de Gestión del Riesgo de Desastres. Para este propósito, se integraron los datos obtenidos de Google Street View, MapGis9 y la base de datos catastral, junto con las curvas de fragilidad ajustadas a las edificaciones dentro del área de estudio. Estas edificaciones fueron agrupadas en polígonos homogéneos, excluyendo zonas afectadas por condiciones de riesgo asociadas a movimientos en masa, inundaciones y avenidas torrenciales.
+
+  El análisis se realizó con el software OpenQuake Engine, aplicando las Ecuaciones de Predicción de Movimiento Fuerte del Suelo empleadas en el Modelo Nacional de Amenaza Sísmica. Este proceso permitió estimar la intensidad de movimiento del suelo, daños en las edificaciones y costos de reposición en caso de colapso.
+
+  Con base en los resultados, se diseñaron estrategias para reducir el riesgo sísmico, incluyendo medidas estructurales y no estructurales. Estas estrategias buscan orientar intervenciones y fortalecer la resiliencia comunitaria para la gestión del riesgo sísmico.
 categories:
 - Comunidades de aprendizaje y participación
 ---

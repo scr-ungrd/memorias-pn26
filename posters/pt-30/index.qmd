@@ -1,14 +1,14 @@
 ---
-title: Caracterización de las unidades geológicas superficiales (UGS) y subunidades geomorfológicas (SGMF) a escala 1 - 25.000 para el municipio de San Joaquín, Santander, como una herramienta en la evaluación de los factores de inestabilidad superficial
+title: Cambios en los Aportes Hídricos en la Ciénaga Grande de Santa Marta
 author:
-- name: Andrea Hernández Grimaldos
+- name: Angélica Bejarano
   affiliations:
-    - name: Universidad Industrial de Santander
-- name: María Alejandra Navas Báez
-  affiliations:
-    - name: Universidad Industrial de Santander
+    - name: Universidad del Rosario – Ciencias del Sistema Tierra
+abstract: |
+  Evaluación de los cambios hidroclimáticos y de cobertura vegetal que han reducido la capacidad reguladora e hídrica de la cuenca de la Ciénaga Grande de Santa Marta entre 1985 y 2023.
 categories:
 - Planeación y ordenamiento que incorpora la GRD
+- Adaptación al cambio climático desde el enfoque de Eco-Reducción (Eco-RRD)
 ---
 
 ## Poster

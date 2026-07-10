@@ -1,11 +1,19 @@
 ---
-title: EDAN Latinoamérica
+title: Guía Metodológica para la Formulación del PMGRD
 author:
-- name: H. Krisnader Garcia G.
+- name: Mauricio Serna
   affiliations:
-    - name: Programa EDAN Latinoamérica
+    - name: Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD) — Subdirección para la Reducción del Riesgo
+- name: Yenith Torres
+  affiliations:
+    - name: Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD) — Subdirección para la Reducción del Riesgo
+- name: Equipo de Fortalecimiento Territorial
+  affiliations:
+    - name: Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD) — Subdirección para la Reducción del Riesgo
 abstract: |
-  Una herramienta funcional que rompe la brecha en emergencias y desastres.
+  Ruta técnica para municipios y distritos con enfoque diferencial y adaptación al cambio climático.
+categories:
+- Planificación de la GRD y Resiliencia Territorial
 ---
 
 ## Poster

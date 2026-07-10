@@ -11,7 +11,15 @@ author:
   affiliations:
     - name: Federación Internacional de la Cruz Roja y de la Media Luna Roja
 abstract: |
-  Protocolo de Acción Temprana para Sequías.
+  El trabajo analiza el riesgo de sequía meteorológica en las regiones Andina y Caribe de Colombia, donde la variabilidad climática, la reducción de precipitaciones y la recurrencia de eventos asociados a fenómenos como El Niño generan impactos significativos en la seguridad hídrica, los medios de vida y los sistemas productivos. En estos territorios, la gestión del riesgo enfrenta desafíos relacionados a la dificultad para traducir datos técnicos en decisiones oportunas.
+
+  En este contexto, el objetivo del trabajo es fortalecer la toma de decisiones mediante la integración de datos hidrometeorológicos, análisis de riesgo y financiamiento pre establecido para la implementación de acciones anticipatorias frente a condiciones de sequía, consolidados en Protocolos de Acción Temprana (PATs) que permitan reducir los impactos de la sequía en comunidades vulnerables.
+
+  La metodología se basa en la integración de múltiples fuentes de información, incluyendo datos del Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM), índices de monitoreo como el SPI (Standardized Precipitation Index), registros históricos y datos sectoriales. A partir de estos insumos, se desarrollan análisis que permiten identificar patrones de sequía, evaluar su evolución y establecer umbrales (triggers) asociados a diferentes niveles de severidad. Estos umbrales son definidos con base en evidencia técnica y validados en función de su capacidad para anticipar impactos, constituyéndose en puntos de activación para la implementación de acciones anticipatorias.
+
+  Como resultado, el trabajo propone un esquema operativo en el que los datos se transforman en decisiones concretas, facilitando la activación temprana de medidas orientadas a reducir los efectos de la sequía. Estas acciones incluyen la gestión eficiente del recurso hídrico, el apoyo a medios de vida, la preparación comunitaria y la articulación interinstitucional. Asimismo, se fortalece la coordinación entre actores del Sistema Nacional de Gestión del Riesgo de Desastres, promoviendo acciones más oportunas y basadas en evidencia.
+
+  En conclusión, el trabajo demuestra que la integración efectiva de datos, junto con la definición de umbrales claros y operativos, es fundamental para implementar acciones anticipatorias frente a la sequía. Este enfoque contribuye a reducir impactos, optimizar recursos y fortalecer la resiliencia en las regiones Andina y Caribe. Además, ofrece insumos clave para la formulación de políticas públicas y la consolidación de sistemas de alerta temprana que permitan avanzar hacia una gestión del riesgo más proactiva, coordinada y centrada en la anticipación.
 categories:
 - Preparación y recuperación oportuna
 ---

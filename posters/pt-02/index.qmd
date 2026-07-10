@@ -5,7 +5,11 @@ author:
   affiliations:
     - name: Universidad Distrital Francisco José de Caldas
 abstract: |
-  Aplicación de sensores remotos para fortalecer la gestión del riesgo y desastres.
+  En las últimas décadas se han hecho presente un mayor número de incendios de cobertura vegetal que afectan la Serranía del Perijá, generando consecuencias negativas para la economía, la sociedad y el medio ambiente. Para el año 2004 el número de hectáreas consumidas por los incendios de cobertura vegetal en la región del caribe ascendió a las 200.000 hectáreas y se espera que este valor aumente debido al calentamiento de la atmosfera y las bajas precipitaciones. (MARIA FANNY MONDRAGÓN LEONEL, 2013).
+
+  El prototipo se desarrolló en el marco de reducir el riesgo a los efectos de la alta presencia de incendios de cobertura vegetal a través de un sistema de alerta temprana con el uso de sensores remotos, sistemas de información geográfica y datos históricos.
+
+  En el estudio se evidencio que las zonas con mayor amenaza son las zonas con mayor velocidad del viento, menor precipitación y mayor aumento de la temperatura esto en los meses de diciembre, enero, febrero y marzo. Por otro lado, se observó que la vegetación más propensa a la propagación de incendios es: los pastos enmalezados, arbolados o pastos limpios y las zonas de arbustos. Cabe resaltar la creación de dos tableros de control de puntos calientes y actividad de incendios en el municipio de Valledupar. El primero muestra los datos de los puntos de calor presentes en el departamento del Cesar, los puntos de calor se actualizan cada tres horas, esto permite ver los cambios de una forma más rápida y además tener los datos necesarios con respecto a los diferentes puntos de calor generados dentro de la zona. El segundo permite a través de una herramienta de interpolación, predecir posibles puntos de calor. Este sistema brindara al municipio un mapa de zonificación de amenaza de incendios en tiempo real donde se puede visualizar los posibles incendios que se puedan presentar en el municipio de Valledupar para así dar respuesta desde las entidades asociadas a la gestión del riesgo.
 categories:
 - Datos, modelación, IA, innovación social y herramientas digitales
 ---

@@ -1,14 +1,19 @@
 ---
-title: Los manglares como ecositemas estratégicos para la prevención de inundaciones
+title: Projected Changes in Climate Extremes over Colombia from high-resolution bias-corrected CMIP6 models
 author:
-- name: Marcela Guerrero
+- name: Juan Felipe T. Bateman
   affiliations:
-    - name: Escuela Superior de Administración Pública ESAP-Universidad Manuela Beltrán UMB
-- name: Miguel Díaz
+    - name: Universidad del Rosario
+- name: Álvaro Ávila-Diaz
   affiliations:
-    - name: Escuela Superior de Administración Pública ESAP-Universidad Manuela Beltrán UMB
+    - name: Universidad del Rosario
+- name: Benjamin Quesada
+  affiliations:
+    - name: Universidad del Rosario
 abstract: |
-  Estudio de caso: San Bernardo del Viento-Córdoba.
+  Los extremos climáticos son cada vez más frecuentes e intensos a nivel global, lo que hace prioritario comprender su evolución para la gestión del riesgo climático. En el norte de Sudamérica, eventos recientes como sequías, lluvias intensas e inundaciones han evidenciado impactos significativos sobre la disponibilidad de agua, la infraestructura y los medios de vida. Colombia, en particular, presenta una alta vulnerabilidad debido a su compleja topografía, la diversidad de sus regímenes hidroclimáticos y marcadas desigualdades sociales. Aunque existen estudios sobre proyecciones climáticas medias, aún son limitados los análisis que abordan de manera integral los cambios en extremos climáticos mediante índices específicos a escala nacional. Este estudio tiene como objetivo evaluar los cambios futuros en los extremos climáticos en Colombia utilizando proyecciones climáticas de alta resolución, reducidas de escala y corregidas por sesgo del CMIP6. Se analizaron 16 índices del marco ETCCDI, seleccionados para representar la duración, frecuencia e intensidad de los extremos. Las condiciones históricas (1985–2014), derivadas de datos grillados, se compararon con proyecciones para los periodos 2021–2050 y 2071–2100 bajo los escenarios SSP2-4.5 y SSP5-8.5. El análisis incluyó 31 modelos NEX-GDDP-CMIP6. La evaluación del desempeño se realizó frente a CHIRPS para precipitación y ERA5-Land para temperatura, utilizando métricas de desempeño, permitiendo construir ensambles multimodelo para mejorar la robustez de los resultados. Las proyecciones muestran un calentamiento consistente en todas las regiones del país. Los extremos cálidos aumentan bajo ambos escenarios, mientras que los extremos fríos disminuyen. Hacia mediados de siglo, la temperatura máxima anual se incrementa en más de 1 °C en todas las regiones, alcanzando hasta 1.8 °C en la Amazonia y la Orinoquía bajo el escenario más crítico. Asimismo, la duración de los periodos cálidos aumenta significativamente a lo largo del país para finales de siglo. En cuanto a la precipitación, se observan patrones regionales contrastantes, los días secos consecutivos aumentan, especialmente en la Amazonia, mientras que la precipitación total y los días húmedos disminuyen en el Caribe y la Orinoquía, pero aumentan en el Pacífico. No obstante, los eventos de lluvia intensa tienden a intensificarse en casi todo el país. En conclusión, Colombia enfrentará simultáneamente sequías más prolongadas y eventos de precipitación más intensos, lo que incrementa la complejidad del riesgo climático. A pesar de las limitaciones de los modelos, este estudio proporciona una base nacional robusta para apoyar la toma de decisiones en adaptación, gestión del riesgo y planificación territorial.
+categories:
+- Planeación y ordenamiento que incorpora la GRD
 ---
 
 ## Poster

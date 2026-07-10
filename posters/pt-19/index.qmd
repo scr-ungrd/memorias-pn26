@@ -1,12 +1,39 @@
 ---
-title: Análisis de fuentes de contaminación del aire en Vichada mediante modelación atmosférica y monitoreo con sensores de bajo costo
+title: Integración del conocimiento del riesgo en los Proyectos Ambientales Escolares y en los Proyectos Educativos Comunitarios - fortaleciendo la resiliencia escolar en tierra de volcanes
 author:
-- name: Stijn Hantson
+- name: Leidy Castaño
   affiliations:
-    - name: Universidad del Rosario
-- name: Nathalia Celis
+    - name: Cruz Roja Colombiana
+- name: Daniel Vargas
   affiliations:
-    - name: Universidad del Rosario
+    - name: Cruz Roja Colombiana
+- name: Carolina Chirán
+  affiliations:
+    - name: Cruz Roja Colombiana
+- name: Harol Arbelaez
+  affiliations:
+    - name: Cruz Roja Colombiana
+- name: Jack Grundy
+  affiliations:
+    - name: Cruz Roja Colombiana
+- name: Jesús Chicaíza
+  affiliations:
+    - name: Cruz Roja Colombiana
+- name: Eduard Ruiz
+  affiliations:
+    - name: Cruz Roja Colombiana
+abstract: |
+  El trabajo aborda la incorporación del conocimiento del riesgo volcánico en el ámbito escolar en los departamentos de Caldas, Tolima y Nariño, donde la influencia de la actividad volcánica y la cercanía incrementan el riesgo de las comunidades educativas. Esta situación evidencia una brecha entre el conocimiento técnico generado por entidades especializadas y su apropiación efectiva por parte de docentes, estudiantes y padres de familia, lo que limita la reducción del riesgo de desastres asociados a la actividad volcánica.
+
+  En este contexto, el objetivo del trabajo es promover el conocimiento del riesgo volcánico en los Proyectos Ambientales Escolares (PRAE) y los Proyectos Educativos Comunitarios (PEC) como una estrategia para fortalecer las capacidades locales y fortalecer la resiliencia comunitaria desde el entorno educativo. Esta iniciativa fundamenta los esfuerzos para que las instituciones educativas se consoliden como espacios clave para la apropiación social del conocimiento del riesgo.
+
+  La metodología se basa en un enfoque participativo que articula la educación con la gestión del riesgo de desastres. Incluye el desarrollo e implementación de herramientas pedagógicas, contenidos contextualizados al entorno volcánico, procesos de formación docente y actividades que fomentan la participación activa de estudiantes en la identificación de amenazas, vulnerabilidades y capacidades. Asimismo, se promueve la integración de estos contenidos en los PRAE y PEC, facilitando su incorporación en la planificación escolar y en dinámicas comunitarias.
+
+  Como resultados, se evidencian avances en la comprensión del riesgo volcánico por parte de la comunidad educativa, una mayor apropiación del conocimiento técnico y el fortalecimiento de capacidades para la toma de decisiones informadas. Igualmente, se observa una participación más activa de estudiantes y docentes en procesos de prevención y preparación, así como una mejor articulación entre las instituciones educativas y actores del Sistema Nacional de Gestión del Riesgo de Desastres.
+
+  En conclusión, la integración del riesgo volcánico en los PRAE y PEC contribuye de manera significativa a la formación de comunidades educativas más resilientes, capaces de comprender su entorno y actuar de manera anticipada frente a posibles emergencias. Este enfoque representa una oportunidad para fortalecer la política pública en educación y gestión del riesgo, promoviendo la inclusión del conocimiento del riesgo en los currículos escolares y su articulación con estrategias territoriales. Asimismo, ofrece una base replicable y escalable para otros contextos de amenaza volcánica en el país, consolidando la educación como un eje fundamental para la reducción del riesgo de desastres.
+categories:
+- Comunidades de aprendizaje y participación
 ---
 
 ## Poster

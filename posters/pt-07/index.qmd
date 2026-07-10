@@ -11,7 +11,13 @@ author:
   affiliations:
     - name: Universidad del Rosario
 abstract: |
-  Integración entre el ordenamiento territorial y conservación amazónica.
+  El municipio de Leticia, ubicado en la Amazonía colombiana, enfrenta una creciente vulnerabilidad asociada a la deforestación, los cambios en el uso del suelo y la variabilidad climática, factores que han incrementado la susceptibilidad a incendios forestales como un riesgo emergente en el territorio. Este escenario se complejiza por la coexistencia de otras amenazas, como las inundaciones asociadas a la dinámica del río Amazonas, así como por su condición de frontera trinacional, lo que introduce retos adicionales para la gobernanza ambiental y la gestión integrada del riesgo.
+
+  Este trabajo tiene como objetivo analizar la incorporación del riesgo de incendios forestales y la adaptación al cambio climático en los instrumentos de planificación territorial del municipio, específicamente el PBOT, el POMCA y el Plan de Desarrollo. La metodología se basa en un análisis documental comparativo orientado a identificar vacíos, fortalezas y oportunidades de mejora en la integración de la gestión del riesgo dentro de dichos instrumentos.
+
+  Los resultados evidencian que, si bien los instrumentos reconocen la importancia de la conservación de los ecosistemas y el control de la deforestación como estrategias clave, presentan una limitada incorporación explícita del riesgo de incendios forestales como componente estructural del ordenamiento territorial. Asimismo, se identifican vacíos en la integración de enfoques específicos para la gestión del fuego, así como oportunidades para fortalecer la articulación entre planificación territorial, gestión ambiental y adaptación al cambio climático.
+
+  Se concluye que es necesario fortalecer la incorporación del riesgo de incendios en los instrumentos de planificación territorial, avanzando hacia la inclusión de enfoques como el manejo integral del fuego, que permitan mejorar la prevención, el monitoreo y la respuesta frente a incendios forestales en contextos amazónicos. Este fortalecimiento contribuiría a una mejor toma de decisiones y al aumento de la resiliencia territorial frente a los efectos del cambio climático
 categories:
 - Planeación y ordenamiento que incorpora la GRD
 ---

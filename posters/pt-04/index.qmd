@@ -1,19 +1,20 @@
 ---
-title: Projected Changes in Climate Extremes over Colombia from high-resolution bias-corrected CMIP6 models
+title: De la respuesta reactiva a la prevención - Tecnología japonesa 'SABO' y Sistemas de Alerta Temprana (SAT) para construir un futuro resiliente en Colombia
 author:
-- name: Juan Felipe T. Bateman
+- name: Takahiro Shinchi
   affiliations:
-    - name: Universidad del Rosario
-- name: Álvaro Ávila-Diaz
+    - name: Yachiyo Engineering Co., Ltd.
+- name: Naoto Mizuno
   affiliations:
-    - name: Universidad del Rosario
-- name: Benjamin Quesada
+    - name: Yachiyo Engineering Co., Ltd.
+- name: Paola Andrea Beltrán Vásquez
   affiliations:
-    - name: Universidad del Rosario
+    - name: JOYCO BIC SAS
 abstract: |
-  Cambios proyectados en extremos climáticos para Colombia.
+  Colombia enfrenta riesgos complejos por movimientos en masa debido a su topografía y clima andino, lo que exige una transición urgente de la gestión reactiva a la preventiva. El objetivo de esta propuesta es presentar el enfoque de "Conservación Territorial" mediante la efectividad de la tecnología japonesa SABO y los Sistemas de Alerta Temprana (SAT). La metodología consiste en una sesión técnica que demuestra la fusión de medidas estructurales (infraestructura de control de sedimentos) y no estructurales (monitoreo con drones y centros de comando), enfocándose en la gestión integral de cuencas. Como resultados, se destaca que estas tecnologías permiten una comprensión científica del riesgo y una gobernanza fortalecida desde el nivel nacional al territorial, demostrando ser inversiones más costo-efectivas que la respuesta ante desastres. Se concluye que la integración de la tecnología SABO con la infraestructura resiliente de Colombia es clave para los tomadores de decisiones en la formulación de políticas públicas alineadas con el Marco de Sendai, garantizando un desarrollo territorial sostenible y la protección de vidas.
 categories:
-- Planeación y ordenamiento que incorpora la GRD
+- Preparación y recuperación oportuna
+- Territorialización y financiamiento de la GRD
 ---
 
 ## Poster

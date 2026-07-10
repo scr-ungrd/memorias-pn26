@@ -1,20 +1,26 @@
 ---
-title: ¿Por qué es importante caracterizar los umbrales de lluvia y sismo que detonan movimientos en masa? Aportes para la gestión del riesgo en San Joaquín, Santander
+title: Colombia Resiliente - Innovación en Gestión Comunitaria para la Reducción de Incendios Forestales - Red Nacional de Brigadas Forestales
 author:
-- name: Valentina Galvis Cobos
+- name: Jairo Bárcenas
   affiliations:
-    - name: Universidad Industrial de Santander
-- name: Laura Juliana Cristancho Hernández
+    - name: PNUD-MINAMBIENTE
+- name: Hugo Mármol
   affiliations:
-    - name: Universidad Industrial de Santander
-- name: Joaquín Andrés Valencia Ortiz
+    - name: PNUD-MINAMBIENTE
+- name: Alexander Figueroa
   affiliations:
-    - name: Universidad Industrial de Santander
-- name: Leonardo Palmera Sanchez
+    - name: PNUD-MINAMBIENTE
+- name: Héctor Flórez
   affiliations:
-    - name: Universidad Industrial de Santander
+    - name: PNUD-MINAMBIENTE
+- name: Juan Botero
+  affiliations:
+    - name: PNUD-MINAMBIENTE
+- name: Emilio Gil Toro
+  affiliations:
+    - name: PNUD-MINAMBIENTE
 categories:
-- Planeación y ordenamiento que incorpora la GRD
+- CTI (Ciencia, tecnología e innovación)
 ---
 
 ## Poster

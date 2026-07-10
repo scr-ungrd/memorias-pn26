@@ -1,16 +1,15 @@
 ---
-title: Modelación a la Decisión - Gestión del Riesgo Basada en Evidencia
+title: EDAN Latinoamérica
 author:
-- name: Otálora Carmona Andrés Humberto
+- name: H. Krisnader Garcia G.
   affiliations:
-    - name: IDOM – Consulting, Engineering and Architecture
-- name: Lemaitre Ruiz Ximena Andrea
-  affiliations:
-    - name: IDOM – Consulting, Engineering and Architecture
+    - name: Programa EDAN Latinoamérica
 abstract: |
-  Determinación, evaluación y valoración del riesgo por inundación a partir de la modelación integrada con evidencia y registros históricos.
-categories:
-- Planeación y ordenamiento que incorpora la GRD
+  Tradicionalmente, la Evaluación de Daños y Análisis de Necesidades (EDAN) se ha implementado como un procedimiento básico centrado en datos cuantitativos y cualitativos generales, utilizando formatos estandarizados que a menudo carecen de la profundidad necesaria para eventos específicos. Esta limitación, sumada a la realidad operativa de Latinoamérica —donde la escasez de recursos y la falta de tiempos de respuesta predefinidos suelen retrasar las evaluaciones críticas—, genera un vacío en la obtención de información oportuna para la gestión integral del riesgo. Ante este escenario, el objetivo central ha sido el desarrollo, durante los últimos seis años y en colaboración con diversas organizaciones regionales, de un marco procedimental que establezca pautas claras para obtener un panorama integral y preciso de cualquier evento adverso.
+
+  El enfoque metodológico se basa en la simplificación de parámetros técnicos para adaptarlos a contextos de limitación logística, integrando simultáneamente los estándares internacionales de OCHA, INSARAG, ACNUR, el Proyecto Esfera, el Marco de Sendai y la UNDRR. Los resultados de esta intervención evidencian que una ejecución adecuada del EDAN permite una mayor rapidez en la comprensión de la situación, lo cual facilita la toma de decisiones estratégicas, agiliza los procesos humanitarios y fortalece el trabajo interinstitucional y multidisciplinario mediante datos que permiten la mejora continua. En conclusión, la adopción de este manual no solo asegura el cumplimiento de normativas globales, sino que también optimiza la gestión operativa local, permitiendo que las evaluaciones se conviertan en herramientas funcionales que garantizan una respuesta eficiente, incluso cuando los equipos operan con recursos mínimos.
+
+  En palabras simples, la aplicación del EDAN según los parámetros que venimos impulsando, permite la agilidad en toma de decisiones (haciéndolas menos subjetivas), limita las brechas operacionales, incluye a la comunidad como parte fundamental del evento, permite el desarrollo de tecnologías fáciles de usar, de fácil adquisición con agilidad para la ayuda humanitaria y hace que los eventos cumplan con parámetros a nivel internacional www.edanlatinoamerica.online
 ---
 
 ## Poster

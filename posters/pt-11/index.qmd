@@ -1,19 +1,22 @@
 ---
-title: Atención humanitaria a población vulnerable por la emergencia invernal en Chocó
+title: Brigadas Ambientales Comunitarias
 author:
-- name: Sonia Paz
+- name: Greicy Johana Sánchez Díaz
   affiliations:
-    - name: Cruz Roja Colombiana
-- name: Jorge Sarmiento
+    - name: CORPOBOYACÁ
+- name: Antonio De la Barrera Cárdenas
   affiliations:
-    - name: Cruz Roja Colombiana
-- name: Paulin Andrade
-  affiliations:
-    - name: Cruz Roja Colombiana
+    - name: CORPOBOYACÁ
 abstract: |
-  Protección y suministro de medios de vida para facilitar la recuperación temprana.
+  La Corporación Autónoma Regional de Boyacá (Corpoboyacá), en el marco de la ejecución de su Plan de Acción "Tejiendo Vida 2024 - 2027" y el proyecto Ordenamiento Territorial y Gestión del Riesgo de Desastres, el cual define las actividades: "Apoyar la conformación y atención de brigadas rurales orientadas a la reducción de Riesgo de Desastres en áreas protegidas" y "Ejecución de esquemas gobernanza efectiva para la gestión de riesgo", promueve la conformación de Brigadas Ambientales para la Gestión del Riesgo de Desastres en los municipios de su jurisdicción, con la conformación actualmente de nueve ( 9) en los municipios de: Cómbita, Sotaquirá, Tuta, Tunja, Toca, Duitama, Oicatá, Chivatá y Puerto Boyacá; cuyo fin principal es apoyar la protección y conservación de los recursos naturales y el bienestar de la comunidad, especialmente en áreas protegidas, ecosistemas estratégicos y zonas susceptibles a los siguientes escenarios de riesgo: Movimientos en Masa, Avenidas Torrenciales, Inundaciones, Desabastecimiento Hídrico e Incendios Forestales.
+
+  Es importante precisar lo definido en la Ley 1523 de 2012, en especial en su Artículo 2. “De la responsabilidad. La gestión del riesgo es responsabilidad de todas las autoridades y de los habitantes del territorio colombiano(...)”, por lo tanto, la conformación de brigadas ambientales comunitarias busca fortalecer las acciones de prevención y preparación frente a eventos de origen socio-natural, a través de la participación voluntaria de miembros de la comunidad, organizaciones y demás actores interesados.
+
+  Las brigadas se conforman a partir de un grupo de voluntarios, organizados, capacitados y equipados, para convertirse en promotores ambientales que buscarán educar a las poblaciones y crear una nueva cultura de conocimiento e interacción con el medio ambiente. Adicionalmente, se espera un trabajo conjunto con instituciones educativas o comunidades locales con el fin de centrarse en la promoción de la conciencia ambiental y la protección del medio ambiente.
+
+  El papel de la Corporación es apoyar la conformación en los municipios interesados, además actúa como organismo técnico de respaldo, acompañamiento, capacitación y coordinación a nivel regional; en la presente vigencia se ha adelantado la entrega de elementos y equipos a siete (7) brigadas conformadas, buscando su fortalecimiento y adecuada atención a escenarios que se pueden presentar en sus territorios.
 categories:
-- Adaptación al cambio climático desde el enfoque de Eco-Reducción (Eco-RRD)
+- Comunidades de aprendizaje y participación
 ---
 
 ## Poster

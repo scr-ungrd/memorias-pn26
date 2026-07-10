@@ -1,14 +1,27 @@
 ---
-title: Cambios en los Aportes Hídricos en la Ciénaga Grande de Santa Marta
+title: Protocolo de Apoyo Psicosocial en Contextos de Emergencias y Desastres
 author:
-- name: Angélica Bejarano
+- name: Mildred Vianchá-Pinzón
   affiliations:
-    - name: Universidad del Rosario – Ciencias del Sistema Tierra
+    - name: Unidad Nacional para la Gestión del Riesgo de Desastres – Subdirección para el Manejo de Desastres
+- name: Sandra Castañeda-Feria
+  affiliations:
+    - name: Unidad Nacional para la Gestión del Riesgo de Desastres – Subdirección para el Manejo de Desastres
+- name: Astrid Vergara-Buitrago
+  affiliations:
+    - name: Unidad Nacional para la Gestión del Riesgo de Desastres – Subdirección para el Manejo de Desastres
 abstract: |
-  Evaluación de los cambios hidroclimáticos y de cobertura vegetal que han reducido la capacidad reguladora e hídrica de la cuenca de la Ciénaga Grande de Santa Marta entre 1985 y 2023.
+  Las emergencias y los desastres generan afectaciones que no se limitan a pérdidas materiales o daños físicos, sino que también impactan la salud mental, el bienestar emocional, la cohesión social y la capacidad de recuperación de las comunidades. En este contexto, el documento plantea la necesidad de contar con una herramienta metodológica que oriente a las entidades territoriales en la formulación e implementación de protocolos de apoyo psicosocial culturalmente pertinentes, con enfoque diferencial y ajustados a las condiciones de cada territorio.
+
+  El objetivo del protocolo es facilitar una ruta para la construcción de protocolos de apoyo psicosocial que permitan proteger la salud mental, promover el bienestar emocional, fortalecer la resiliencia comunitaria y articular respuestas institucionales y comunitarias antes, durante y después de una emergencia o desastre.
+
+  La metodología propuesta se basa en un enfoque participativo, intersectorial, interinstitucional e interdisciplinario. El documento establece que la formulación del protocolo debe ser liderada por las Secretarías de Salud, con participación de las oficinas de gestión del riesgo, consejos territoriales, entidades públicas, organizaciones sociales y actores comunitarios. Asimismo, propone una estructura mínima que incluye justificación, objetivo, marco legal, diagnóstico psicosocial del territorio, fases de intervención, matriz de responsabilidades, indicadores y anexos operativos.
+
+  Como principales aportes, el instructivo permite organizar las acciones de apoyo psicosocial en las fases de preparación, respuesta y recuperación. En la preparación, orienta la identificación de riesgos psicosociales, recursos y capacidades locales; en la respuesta, promueve la contención emocional, los primeros auxilios psicológicos y la articulación inmediata; y en la recuperación, impulsa procesos de acompañamiento prolongado, reparación simbólica, fortalecimiento de redes comunitarias y reconstrucción del tejido social.
+
+  En conclusión, el documento constituye una herramienta técnica y de gestión que fortalece la capacidad territorial para responder de manera organizada, humana y sostenible a las afectaciones psicosociales derivadas de emergencias y desastres. Para los tomadores de decisiones, ofrece una guía práctica para evitar respuestas improvisadas, mejorar la coordinación institucional, reconocer capacidades comunitarias y posicionar la salud mental como un componente esencial de la gestión del riesgo.
 categories:
-- Planeación y ordenamiento que incorpora la GRD
-- Adaptación al cambio climático desde el enfoque de Eco-Reducción (Eco-RRD)
+- CTI (Ciencia, tecnología e innovación)
 ---
 
 ## Poster

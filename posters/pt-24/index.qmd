@@ -1,19 +1,31 @@
 ---
-title: Guía Metodológica para la Formulación del PMGRD
+title: Invertir en prevención - responsabilidad fiscal y sostenibilidad en la gestión del riesgo de desastres
 author:
-- name: Mauricio Serna
+- name: Diana Caicedo E.
   affiliations:
-    - name: Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD) — Subdirección para la Reducción del Riesgo
-- name: Yenith Torres
+    - name: ORFE – Universidad Nacional de Colombia · Universidad La Salle México · FUNSEMEVI · Fundación Almalina · GNDR · Trendmakers Red Nacional del Agua
+- name: Jaider Agudelo
   affiliations:
-    - name: Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD) — Subdirección para la Reducción del Riesgo
-- name: Equipo de Fortalecimiento Territorial
+    - name: ORFE – Universidad Nacional de Colombia · Universidad La Salle México · FUNSEMEVI · Fundación Almalina · GNDR · Trendmakers Red Nacional del Agua
+- name: Tatiana Soler
   affiliations:
-    - name: Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD) — Subdirección para la Reducción del Riesgo
+    - name: ORFE – Universidad Nacional de Colombia · Universidad La Salle México · FUNSEMEVI · Fundación Almalina · GNDR · Trendmakers Red Nacional del Agua
+- name: Nicolás Romero
+  affiliations:
+    - name: ORFE – Universidad Nacional de Colombia · Universidad La Salle México · FUNSEMEVI · Fundación Almalina · GNDR · Trendmakers Red Nacional del Agua
+- name: Christian Benítez
+  affiliations:
+    - name: ORFE – Universidad Nacional de Colombia · Universidad La Salle México · FUNSEMEVI · Fundación Almalina · GNDR · Trendmakers Red Nacional del Agua
+- name: Betty Enríquez
+  affiliations:
+    - name: ORFE – Universidad Nacional de Colombia · Universidad La Salle México · FUNSEMEVI · Fundación Almalina · GNDR · Trendmakers Red Nacional del Agua
+- name: Mateo Narváez
+  affiliations:
+    - name: ORFE – Universidad Nacional de Colombia · Universidad La Salle México · FUNSEMEVI · Fundación Almalina · GNDR · Trendmakers Red Nacional del Agua
 abstract: |
-  Ruta técnica para municipios y distritos con enfoque diferencial y adaptación al cambio climático.
+  La gestión del riesgo de desastres en Colombia ha estado históricamente marcada por un enfoque reactivo, centrado en la atención de emergencias y la reconstrucción, lo que ha generado impactos recurrentes sobre las finanzas públicas, el déficit fiscal y la sostenibilidad del Estado. Esta situación evidencia una desconexión entre la planificación del desarrollo, la asignación presupuestal y la incorporación del riesgo como variable estructural en la toma de decisiones, limitando la capacidad institucional para anticipar y reducir pérdidas. El objetivo de este trabajo es analizar la relación entre responsabilidad fiscal y gestión del riesgo de desastres, proponiendo la inversión en prevención como un deber constitucional, financiero y estratégico del Estado, así como un mecanismo para proteger el patrimonio público y garantizar derechos. La metodología empleada combina un enfoque cualitativo y analítico, basado en la revisión normativa, el análisis de instrumentos de política pública y la reflexión académica derivada de una cátedra universitaria en derecho, gestión del riesgo y sostenibilidad fiscal. Asimismo, se plantean elementos conceptuales para la articulación interinstitucional entre sectores de hacienda, planeación y gestión del riesgo, junto con herramientas como el etiquetado del gasto en prevención y la incorporación del riesgo en la programación presupuestal. Entre los principales hallazgos se identifica que la ausencia de un enfoque fiscal explícito en la gestión del riesgo limita la eficiencia del gasto público y perpetúa ciclos de vulnerabilidad. Se evidencia la necesidad de transitar hacia modelos preventivos que permitan cuantificar el impacto fiscal de los desastres, priorizar inversiones estratégicas y fortalecer la toma de decisiones basada en riesgo. Igualmente, se reconoce el potencial de la academia como aliada para generar conocimiento aplicado y capacidades técnicas en los territorios. Se concluye que integrar la responsabilidad fiscal en la gestión del riesgo de desastres es fundamental para avanzar hacia una gobernanza más eficiente, sostenible y anticipatoria. Se recomienda a los tomadores de decisión fortalecer la planificación presupuestal con enfoque de riesgo, institucionalizar mecanismos de seguimiento al gasto en prevención y promover alianzas entre Estado y academia que consoliden una cultura de prevención como eje del desarrollo sostenible.
 categories:
-- Planificación de la GRD y Resiliencia Territorial
+- Comunidades de aprendizaje y participación
 ---
 
 ## Poster
