@@ -1,0 +1,70 @@
+<!-- Google Translate ES/EN toggle, ported from programa-pn26 -->
+<div id="google_translate_element" style="display:none"></div>
+<script>
+function googleTranslateInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: 'es',
+    includedLanguages: 'en',
+    autoDisplay: false
+  }, 'google_translate_element');
+}
+
+// Because the widget only offers English as a target (includedLanguages: 'en'),
+// the injected <select> never has an "es" option, so setting combo.value = 'es'
+// is a no-op. Reverting to the original language instead means clearing
+// Google's "googtrans" cookie and reloading.
+function pn26IsTranslatedToEnglish() {
+  return /googtrans=\/[a-z]{2}\/en/.test(document.cookie);
+}
+
+function pn26ClearTranslateCookie() {
+  var expire = 'expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;';
+  document.cookie = 'googtrans=; ' + expire;
+  document.cookie = 'googtrans=; ' + expire + ' domain=' + location.hostname + ';';
+}
+
+function pn26ToggleLang() {
+  if (pn26IsTranslatedToEnglish()) {
+    pn26ClearTranslateCookie();
+    location.reload();
+    return;
+  }
+  var combo = document.querySelector('.goog-te-combo');
+  if (!combo) return;
+  combo.value = 'en';
+  combo.dispatchEvent(new Event('change'));
+  var btn = document.getElementById('pn26-lang-toggle');
+  if (btn) btn.textContent = 'ES';
+}
+
+// Suppress Google Translate top banner
+// Google's widget no longer uses the documented ".goog-te-banner-frame" class
+// (it's obfuscated by Closure Compiler); its banner iframe id still reliably
+// ends in ".container", so that's what we target.
+function suppressGoogleBanner() {
+  var style = document.createElement('style');
+  style.textContent = '.goog-te-banner-frame, iframe[id$=".container"], #goog-gt-tt, .goog-te-balloon-frame { display:none !important; } body { top: 0 !important; }';
+  document.head.appendChild(style);
+}
+
+document.addEventListener('DOMContentLoaded', function () {
+  suppressGoogleBanner();
+
+  var tools = document.querySelector('.sidebar-tools-main');
+  if (!tools) return;
+
+  var btn = document.createElement('button');
+  btn.id = 'pn26-lang-toggle';
+  btn.type = 'button';
+  btn.className = 'quarto-navigation-tool px-1 notranslate';
+  btn.title = 'Switch language / Cambiar idioma';
+  btn.setAttribute('aria-label', 'Switch language');
+  btn.setAttribute('translate', 'no');
+  btn.style.cssText = 'border:none;background:none;font-size:0.7rem;font-weight:700;letter-spacing:0.03em;color:inherit;';
+  btn.textContent = pn26IsTranslatedToEnglish() ? 'ES' : 'EN';
+  btn.addEventListener('click', pn26ToggleLang);
+
+  tools.insertBefore(btn, tools.firstChild);
+});
+</script>
+<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateInit" async></script>

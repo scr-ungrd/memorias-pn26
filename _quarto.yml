@@ -2,9 +2,11 @@ project:
   type: book
 
 book:
-  title: "Memorias de la Primera Plataforma Nacional para la Gestión del Riesgo de Desastres"
+  title: "Memorias PN26"
   date: "7/06/2026"
+  favicon: images/favicon.ico
   sidebar:
+    logo: images/logo-pn26-icono.png
     collapsed: true
     tools:
       - icon: github
@@ -210,18 +212,16 @@ book:
         - text: "PT1. Guía Metodológica para la Formulación del PMGRD"
           href: posters/pt-01/index.qmd
     - galeria-fotografica.qmd
-    - references.qmd
-
-bibliography: references.bib
 
 format:
   html:
     number-sections: false
-    include-after-body: _collapse-sidebar.html
+    include-after-body:
+      - _collapse-sidebar.html
+      - _pn26-lang-toggle.html
     theme:
-      - cosmo
-      - brand
-      - custom.scss
+      light: [cosmo, brand, custom.scss]
+      dark: [darkly, brand, custom.scss]
   pdf:
     documentclass: scrreprt
 

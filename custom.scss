@@ -7,19 +7,19 @@ $font-family-sans-serif:  "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI
 $font-family-monospace:   "Fira Code", SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 $headings-font-family:    "Lato", "Roboto", sans-serif;
 $headings-font-weight:    600;
-$body-color:              #222222;
 
 /*-- scss:rules --*/
 
 /* ===== SIDEBAR IZQUIERDO ===== */
 
-// Fondo blanco, sin subrayado en links
+// Fondo morado PN26 (mismo color de la barra superior de programa-pn26,
+// aclarado 10% hacia blanco), texto blanco
 nav.sidebar.sidebar-navigation:not(.rollup) {
-  background-color: #fff;
+  background-color: #81337e;
 }
 
 .sidebar-navigation a {
-  color: inherit;
+  color: rgba(255, 255, 255, 0.85);
   text-decoration: none;
   transition: color 0.15s ease-in-out;
 }
@@ -28,20 +28,20 @@ nav.sidebar.sidebar-navigation:not(.rollup) {
   text-decoration: none;
 }
 
-// Hover en links: naranja-rojo ALA
+// Hover en links: dorado UNGRD
 .sidebar-navigation a:hover {
-  color: #e54d23 !important;
+  color: #b2a142 !important;
 }
 
-// Hover en el contenedor del item: azul primario semitransparente
+// Hover en el contenedor del item: blanco semitransparente
 .sidebar-item-container:hover,
 div.sidebar-item-container:focus {
-  color: rgba(21, 140, 186, 0.8);
+  color: rgba(255, 255, 255, 0.6);
 }
 
 // Título del sidebar (nombre del libro)
 .sidebar-title {
-  color: #222322;
+  color: #ffffff;
   font-family: "Lato", "Roboto", sans-serif;
   font-size: 1.3rem;
   line-height: 1.6rem;
@@ -64,18 +64,25 @@ div.sidebar-item-container:focus {
   font-size: 0.875rem;
 }
 
-// Item activo: azul oscuro + borde izquierdo
+// Item activo: dorado UNGRD + borde izquierdo
 .sidebar-item-text.sidebar-link.active {
-  color: #003a70 !important;
+  color: #b2a142 !important;
   font-weight: bold !important;
-  border-left: 3px solid #003a70;
+  border-left: 3px solid #b2a142;
   padding-left: 0.5rem;
 }
 
 // Íconos de herramientas del sidebar
 .sidebar-navigation .quarto-navigation-tool {
-  opacity: 0.7;
+  opacity: 0.85;
   font-size: 0.875rem;
+  color: #ffffff;
+}
+
+// Botón día/noche: ícono de media luna en vez del interruptor por defecto de Quarto
+.sidebar-navigation .quarto-color-scheme-toggle:not(.alternate) .bi::before,
+.sidebar-navigation .quarto-color-scheme-toggle.alternate .bi::before {
+  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="white" class="bi bi-moon" viewBox="0 0 16 16"><path d="M6 .278a.768.768 0 0 1 .08.858 7.208 7.208 0 0 0-.878 3.46c0 4.021 3.278 7.277 7.318 7.277.527 0 1.04-.055 1.533-.16a.787.787 0 0 1 .81.316.733.733 0 0 1-.031.893A8.349 8.349 0 0 1 8.344 16C3.734 16 0 12.286 0 7.71 0 4.266 2.114 1.312 5.124.06A.752.752 0 0 1 6 .278z"/></svg>');
 }
 
 // Toggle icon (flecha del item colapsable)

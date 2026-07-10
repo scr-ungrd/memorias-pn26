@@ -4,48 +4,421 @@ title: "Escenarios en vivo"
 
 ## Escenarios en vivo
 
-1. [Fuego, ganadería y biodiversidad en las sabanas inundables de la Orinoquía](ev-01/index.qmd)
-2. [Repensando la inclusión de los grupos étnicos en el financiamiento y los seguros contra riesgos de desastre en Colombia](ev-02/index.qmd)
-3. [Gobernanza de los Sistemas de Alerta Temprana Hidrometereológicos del Departamento de Risaralda, Colombia](ev-03/index.qmd)
-4. [Plataforma Web Puntos Críticos: Una herramienta digital para la Gestión de Riesgo de Desastres en el Departamento del Atlántico](ev-04/index.qmd)
-5. [Estrategia de recuperación de la comunidad Raizal Ubicada en el sector de Casa Baja y Bahía Agua Mansa de la isla de providencia](ev-05/index.qmd)
-6. [AmbientAcción Juvenil: contribuciones de un proyecto de cooperación internacional](ev-06/index.qmd)
-7. [Soluciones basadas en la naturaleza para la gestión del riesgo en territorios mineros: una experiencia de Eco-RRD en Marmato, Caldas](ev-07/index.qmd)
-8. [Evaluación del procedimiento de atención de pacientes lesionados por sustancias químicas no identificadas en los servicios de urgencias](ev-08/index.qmd)
-9. [Responsabilidad Social y Gestión de riesgo de desastres: del Estado paternalista al ciudadano preventivo](ev-09/index.qmd)
-10. [Construcción colaborativa del Modelo Nacional de Riesgo Sísmico: el rol de las universidades colombianas en la generación de conocimiento para la gestión del riesgo](ev-10/index.qmd)
-11. [Fortalecimiento comunitario para la gestión del riesgo de desastres](ev-11/index.qmd)
-12. [Monitoreo, análisis y gestión integral de la erosión costera en Buenaventura mediante soluciones basadas en la naturaleza, medidas híbridas y participación comunitaria](ev-12/index.qmd)
-13. [Escenarios de Incendios Forestales para Evaluar el Riesgo de Pérdida de Cobertura en una Zona Megadiversa del Caribe Colombiano](ev-13/index.qmd)
-14. [Escuelas Rurales Seguras: Modelo de apropiación social y herramientas tecnológicas para la gestión del riesgo en Antioquia](ev-14/index.qmd)
-15. [Zonificación del Riesgo de deterioro del arbolado urbano](ev-15/index.qmd)
-16. [El Semillero de Investigación en Educación para la Gestión Integral de Riesgo como estrategia para promover la formación investigativa en los estudiantes del programa Licenciatura en Biología de la Universidad Santo Tomás](ev-16/index.qmd)
-17. [Sistema de información en tiempo real para la clasificación y traslado de víctimas por avenidas torrenciales en la primera respuesta en salud](ev-18/index.qmd)
-18. [Nichos y Semilleros, comunicación con rostro y manos para la acción](ev-19/index.qmd)
-19. [La jugada seria, juventud que está cambiando la gestión del riesgo en Colombia](ev-20/index.qmd)
-20. [Voces de los territorios-Entretejidos](ev-21/index.qmd)
-21. [Curso Gestión del Riesgo de la Salud Ambiental](ev-22/index.qmd)
-22. [De la socialización a la apropiación: innovación institucional para activar la gobernanza del riesgo en el marco del Decreto 2157](ev-23/index.qmd)
-23. [Educar en medio del conflicto: guía para la protección de la comunidad educativa](ev-24/index.qmd)
-24. [Monitoreo comunitario del caño Rabón en Guaranda, Sucre (subregión La Mojana) para la generación de alertas tempranas frente a inundaciones del río Cauca](ev-25/index.qmd)
-25. [Radar de resiliencia y continuidad](ev-26/index.qmd)
-26. [Fortalecimiento del monitoreo y la gestión de sequías en La Guajira (PROGESS)](ev-27/index.qmd)
-27. [Gestión inclusiva del riesgo y discapacidad intelectual en la Fundación Lupines: estrategia formativa para la preparación ante emergencias](ev-28/index.qmd)
-28. [Gestión comunitaria del riesgo de desastres en territorios vulnerables a inundaciones: experiencia en Isla Los Milagros Tinajones](ev-29/index.qmd)
-29. [Modelo de intervención en gestión del riesgo de desastres desde la salud pública para fortalecer la respuesta a emergencias en los municipios de Córdoba](ev-30/index.qmd)
-30. [Una experiencia integrada de gestión del riesgo: tecnología + comunidad + institucionalidad](ev-31/index.qmd)
-31. [Experiencias en la elaboración y puesta en marcha de planes de gestión del riesgo de desastres de las entidades públicas y privadas (Decreto 2157 de 2017)](ev-32/index.qmd)
-32. [Evaluación del riesgo sísmico de Antioquia](ev-33/index.qmd)
-33. [Sistema de información en software libre para la gestión del riesgo en Boyacá](ev-34/index.qmd)
-34. [Casanare: gestión del riesgo desde el enfoque diferencial](ev-35/index.qmd)
-35. [Marco teórico de fenómenos amenazantes de origen biosanitario](ev-36/index.qmd)
-36. [Riesgos asociados a la gestión de residuos sólidos en Colombia](ev-37/index.qmd)
-37. [Formación en salud pública para emergencias y desastres: una mirada territorial con IA y SIG](ev-38/index.qmd)
-38. [Sistemas de alerta temprana e inteligencia artificial para la gestión del riesgo de incendios forestales en Colombia](ev-39/index.qmd)
-39. [Participación comunitaria en soluciones basadas en la naturaleza (SbN) en Caldas](ev-40/index.qmd)
-40. [Desarrollo basado en el riesgo (DBR): Cauca, un estudio de caso](ev-41/index.qmd)
-41. [Motores de ocurrencia de incendios en páramos de Colombia](ev-42/index.qmd)
-42. [Los animales en la gestión del riesgo de desastres: alcances de la Ley 2474 de 2025](ev-43/index.qmd)
-43. [Diseñar estrategias de manejo para los movimientos en masa asociados a erosión según las características de la cuenca baja del río Fonce](ev-44/index.qmd)
-44. [GeoIA, inteligencia artificial geoespacial para la gestión del riesgo](ev-45/index.qmd)
-45. [Desalinización de agua mediante energía solar en La Guajira](ev-46/index.qmd)
+Espacio de transmisión y demostración en tiempo real de trabajos, herramientas y experiencias aplicadas a la gestión del riesgo de desastres, presentados durante la Plataforma Nacional 2026.
+
+<ul class="nav nav-pills mb-4 mt-3" id="live-tabs" role="tablist">
+  <li class="nav-item" role="presentation">
+    <button class="nav-link active" id="tab-mie" data-bs-toggle="pill" data-bs-target="#mie" type="button" role="tab" aria-controls="mie" aria-selected="true">
+      Miércoles 20 de mayo
+    </button>
+  </li>
+  <li class="nav-item" role="presentation">
+    <button class="nav-link" id="tab-jue" data-bs-toggle="pill" data-bs-target="#jue" type="button" role="tab" aria-controls="jue" aria-selected="false">
+      Jueves 21 de mayo
+    </button>
+  </li>
+</ul>
+
+<div class="tab-content" id="live-tabs-content">
+
+<div class="tab-pane fade show active" id="mie" role="tabpanel" aria-labelledby="tab-mie">
+<div class="table-responsive">
+<table class="table table-hover align-middle">
+<thead class="table-primary">
+<tr><th style="width:110px">Hora</th><th>Sesión</th><th style="width:150px">Presentador/a</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>10:00–10:15</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-01/index.qmd">Fuego, ganadería y biodiversidad en las sabanas inundables de la Orinoquía: evidencia experimental para el debate sobre manejo del fuego</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Investigación científica básica o aplicada</span></div>
+  </td>
+  <td class="small">Anghy S. Gutiérrez Rincón, Universidad del Rosario, Bogotá D.C.</td>
+</tr>
+<tr>
+  <td><strong>10:15–10:30</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-02/index.qmd">Repensando la inclusión de los grupos étnicos en el financiamiento y los seguros contra riesgos de desastre en Colombia</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Experiencia/Caso de estudio exitoso</span></div>
+  </td>
+  <td class="small">Camilo Fernandez</td>
+</tr>
+<tr>
+  <td><strong>10:30–10:45</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-03/index.qmd">Gobernanza de los sistemas de alertas tempranas hidrometereologicos en el departamento de risaralda</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Investigación científica básica o aplicada</span></div>
+  </td>
+  <td class="small">Alexander galindo lopez, Universidad Tecnologica de Pereira, Pereira</td>
+</tr>
+<tr>
+  <td><strong>10:45–11:00</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-04/index.qmd">Plataforma Web Puntos Críticos: Una herramienta digital para la Gestión de Riesgo de Desastres en el Departamento del Atlántico</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Tecnologías o innovación (metodológica, social, institucional o pública)</span></div>
+  </td>
+  <td class="small">Sebástian Andrés Narváez Salcedo, Corporación Autónoma Regional del Atlántico - C.R.A., Barranquilla</td>
+</tr>
+<tr>
+  <td><strong>11:00–11:15</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-05/index.qmd">Estrategia de recuperación de la comunidad Raizal Ubicada en el sector de Casa Baja y Bahía Agua Mansa de la isla de providencia.</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Experiencia/Caso de estudio exitoso</span></div>
+  </td>
+  <td class="small">Heidy Hernandez Ramirez, UNGRD-SRR</td>
+</tr>
+<tr class="table-light"><td colspan="3" class="text-center text-muted fst-italic py-2">Pausa 11:15–11:30</td></tr>
+<tr>
+  <td><strong>11:30–11:45</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-06/index.qmd">AmbientAcción Juvenil: contribuciones de un proyecto de cooperación internacional</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Educación, comunicación o sensibilización</span></div>
+  </td>
+  <td class="small">Giovanna Andrade de Oliveira, Universidad Metropolitana, Barranquilla, Brasil</td>
+</tr>
+<tr>
+  <td><strong>11:45–12:00</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-07/index.qmd">Soluciones basadas en la naturaleza para la gestión del riesgo en territorios mineros: una experiencia de Eco-RRD en Marmato, Caldas</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Experiencia/Caso de estudio exitoso</span></div>
+  </td>
+  <td class="small">Carolina García Londoño, Universidad de Antioquia, Medellín</td>
+</tr>
+<tr>
+  <td><strong>12:00–12:15</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-08/index.qmd">Evaluación del procedimiento de atención de pacientes lesionados por sustancias químicas no identificadas en los servicios de urgencias</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Investigación científica básica o aplicada</span></div>
+  </td>
+  <td class="small">Jairo Andrés Restrepo Páramo. La Estrella Antioquia</td>
+</tr>
+<tr>
+  <td><strong>12:15–12:30</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-09/index.qmd">Responsabilidad Social y Gestión de riesgo de desastres; del estado paternalista al ciudadano preventivo.</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Tecnologías o innovación (metodológica, social, institucional o pública)</span></div>
+  </td>
+  <td class="small">Eduardo Velez Soto</td>
+</tr>
+<tr>
+  <td><strong>12:30–12:45</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-10/index.qmd">Construcción colaborativa del Modelo Nacional de Riesgo Sísmico: el rol de las universidades colombianas en la generación de conocimiento para la gestión del riesgo</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Investigación científica básica o aplicada</span></div>
+  </td>
+  <td class="small">Juan Carlos Reyes, Universidad de los Andes, Bogota</td>
+</tr>
+<tr class="table-light"><td colspan="3" class="text-center text-muted fst-italic py-2">Pausa 12:45–13:00</td></tr>
+<tr>
+  <td><strong>13:00–13:15</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-11/index.qmd">Fortalecimiento comunitario para la gestión del riesgo de desastres</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Educación, comunicación o sensibilización</span></div>
+  </td>
+  <td class="small">Gustavo Alfonso Peña de la Rosa, abogado y líder social, Pasacaballos, Cartagena de Indias, Colombia.</td>
+</tr>
+<tr>
+  <td><strong>13:15–13:30</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-12/index.qmd">Monitoreo, análisis y gestión integral de la erosión costera en Buenaventura mediante soluciones basadas en la naturaleza, medidas híbridas y participación comunitaria</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Experiencia/Caso de estudio exitoso</span></div>
+  </td>
+  <td class="small">Corporación Autónoma Regional del Valle del Cauca (CVC) &amp; Instituto de Investigaciones Marinas y Costeras “José Benito Vives de Andréis” - INVEMAR</td>
+</tr>
+<tr>
+  <td><strong>13:30–13:45</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-13/index.qmd">Escenarios de Incendios Forestales para Evaluar el Riesgo de Pérdida de Cobertura en una Zona Megadiversa del Caribe Colombiano</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Investigación científica básica o aplicada</span></div>
+  </td>
+  <td class="small">Ellie Anne López Barrera, Universidad Sergio Arboleda</td>
+</tr>
+<tr>
+  <td><strong>13:45–14:00</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-14/index.qmd">Escuelas Rurales Seguras</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Tecnologías o innovación (metodológica, social, institucional o pública)</span></div>
+  </td>
+  <td class="small">Carlos Andrés Blandón Uribe, Universidad EIA, Envigado.</td>
+</tr>
+<tr>
+  <td><strong>14:00–14:15</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-15/index.qmd">Zonificación del Riesgo de deterioro del arbolado urbano</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Experiencia/Caso de estudio exitoso</span></div>
+  </td>
+  <td class="small">Cristian Camilo Hurtado, UNGRD</td>
+</tr>
+<tr class="table-light"><td colspan="3" class="text-center text-muted fst-italic py-2">Pausa 14:15–14:30</td></tr>
+<tr>
+  <td><strong>14:30–14:45</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-16/index.qmd">El Semillero de Investigación en Educación para la Gestión Integral de Riesgo como estrategia para promover la formación investigativa en los estudiantes del programa Licenciatura en Biología de la Universidad Santo Tomás</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Educación, comunicación o sensibilización</span></div>
+  </td>
+  <td class="small">Gustavo Laverde Sánchez</td>
+</tr>
+<tr>
+  <td><strong>14:45–15:00</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-05/index.qmd">Estrategia de recuperación de la comunidad Raizal Ubicada en el sector de Casa Baja y Bahía Agua Mansa de la isla de providencia</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Experiencia/Caso de estudio exitoso</span></div>
+  </td>
+  <td class="small">Heidy Hernandez Ramirez, Estudiante de la Maestria en Gestión del Riesgo de Desastres de la Escuela de ingenieros</td>
+</tr>
+<tr>
+  <td><strong>15:00–15:15</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-18/index.qmd">Sistema de Información en Tiempo Real para la Clasificación y Traslado de Víctimas por Avenidas Torrenciales en la Primera Respuesta en Salud</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Investigación científica básica o aplicada</span></div>
+  </td>
+  <td class="small">Dumar Figueredo, Magister Gestión Del Riesgo y Desarrollo, Escuela De Ingenieros Militares,  Bogotá</td>
+</tr>
+<tr class="table-light"><td colspan="3" class="text-center text-muted fst-italic py-2">Espacio cancelado (15:15–15:30)</td></tr>
+<tr class="table-light"><td colspan="3" class="text-center text-muted fst-italic py-2">Pausa 15:30–15:45</td></tr>
+<tr>
+  <td><strong>15:45–16:00</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-19/index.qmd">Nichos y Semilleros, comunicación con rostro y manos para la acción</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Educación, comunicación o sensibilización</span></div>
+  </td>
+  <td class="small">Claudia Patricia Coca Galeano, UNGRD, Bogotá</td>
+</tr>
+<tr>
+  <td><strong>16:00–16:15</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-20/index.qmd">La jugada seria, juventud que está cambiando la gestión del riesgo en Colombia.</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Experiencia/Caso de estudio exitoso</span></div>
+  </td>
+  <td class="small">Juan Esteban Castrillón Casas, Representante Legal, Medellín</td>
+</tr>
+<tr>
+  <td><strong>16:15–16:30</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-21/index.qmd">Voces de los territorios- Entretejidos</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Experiencia/Caso de estudio exitoso</span></div>
+  </td>
+  <td class="small">Proyecto Entre Tejidos - UNGRD -SRR</td>
+</tr>
+<tr>
+  <td><strong>16:30–16:45</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-22/index.qmd">Curso Gestión del Riesgo de la Salud Ambiental</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Educación, comunicación o sensibilización</span></div>
+  </td>
+  <td class="small">Jorge Iván López Jaramillo</td>
+</tr>
+<tr>
+  <td><strong>16:45–17:00</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-23/index.qmd">De la socialización a la apropiación: innovación institucional para activar la gobernanza del riesgo en el marco del Decreto 2157</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Tecnologías o innovación (metodológica, social, institucional o pública)</span></div>
+  </td>
+  <td class="small">Adriana Correa Arango</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="tab-pane fade" id="jue" role="tabpanel" aria-labelledby="tab-jue">
+<div class="table-responsive">
+<table class="table table-hover align-middle">
+<thead class="table-primary">
+<tr><th style="width:110px">Hora</th><th>Sesión</th><th style="width:150px">Presentador/a</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>10:15–10:30</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-24/index.qmd">Educar en medio del conflicto:  Guía para la protección de la comunidad educativa</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Educación, comunicación o sensibilización</span></div>
+  </td>
+  <td class="small">Diego Andres Diaz Jimenez. Medellin, Antioquia.</td>
+</tr>
+<tr>
+  <td><strong>10:30–10:45</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-25/index.qmd">Monitoreo comunitario del caño Rabón en Guaranda, Sucre (Subregión – Mojana) para la generación de alertas tempranas frente a inundaciones del río Cauca</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Experiencia/Caso de estudio exitoso</span></div>
+  </td>
+  <td class="small">Argemiro Andres Tuiran Jimenez, Alcaldia de Guaranda, Guaranda, Colombia</td>
+</tr>
+<tr>
+  <td><strong>10:45–11:00</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-26/index.qmd">Radar de resiliencia y continuidad</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Herramienta o solución práctica</span></div>
+  </td>
+  <td class="small">Luis Fernando Velez Soto</td>
+</tr>
+<tr>
+  <td><strong>11:00–11:15</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-27/index.qmd">Fortalecimiento del monitoreo y la gestión de sequías en La Guajira (PROGESS)</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Tecnologías o innovación (metodológica, social, institucional o pública)</span></div>
+  </td>
+  <td class="small">Pier Maquilon, Especialista en desarrollo de servicios climaticos, CIIFEN, Guayaquil - Quito. Kiana Valbuena Mejia, Profesional Especializado, Corpoguajira. Riohacha - La Guajira</td>
+</tr>
+<tr>
+  <td><strong>11:15–11:30</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-28/index.qmd">Gestión inclusiva del riesgo y discapacidad intelectual en la Fundación Lupines: estrategia formativa para la preparación ante emergencias</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Experiencia/Caso de estudio exitoso</span></div>
+  </td>
+  <td class="small">Juan Felipe Flórez Montoya, Juan Felipe Flórez Montoya es Ingeniero en Higiene y Seguridad Ocupacional</td>
+</tr>
+<tr class="table-light"><td colspan="3" class="text-center text-muted fst-italic py-2">Pausa 11:30–11:45</td></tr>
+<tr>
+  <td><strong>11:45–12:00</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-29/index.qmd">Gestión comunitaria del riesgo de desastres en territorios vulnerables a inundaciones: experiencia en Isla Los Milagros Tinajones</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Herramienta o solución práctica</span></div>
+  </td>
+  <td class="small">Jaider Marrugo Villadiego, Junta de Acción Comunal Isla Los Milagros Tinajones (Representante Legal), San Bernardo del Viento, Córdoba, Colombia</td>
+</tr>
+<tr>
+  <td><strong>12:00–12:15</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-30/index.qmd">Modelo de intervención en gestión del riesgo de desastres desde la Salud Pública para fortalecer la respuesta a emergencias y desastres en los municipios de Córdoba</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Política pública, gobernanza o enfoques sectoriales</span></div>
+  </td>
+  <td class="small">Yeshayah Yisrael David Hoyos Berrocal</td>
+</tr>
+<tr>
+  <td><strong>12:15–12:30</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-31/index.qmd">Una experiencia integrada de Gestión del Riesgo: tecnología + comunidad + institucionalidad</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Tecnologías o innovación (metodológica, social, institucional o pública)</span></div>
+  </td>
+  <td class="small">Andrés López Rosada, Corporación Autónoma Regional del Valle del Cauca - CVC</td>
+</tr>
+<tr>
+  <td><strong>12:30–12:45</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-32/index.qmd">Experiencias en la elaboración y puesta en marcha de planes de gestión del riesgo de desastres de las entidades publicas y privadas (Decreto 2157 de 2017)</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Experiencia/Caso de estudio exitoso</span></div>
+  </td>
+  <td class="small">Fernando Andrés Ospina Lema</td>
+</tr>
+<tr>
+  <td><strong>12:45–13:00</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-33/index.qmd">Evaluación del riesgo sísmico de Antioquia</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Investigación científica básica o aplicada</span></div>
+  </td>
+  <td class="small">Ana Beatriz Acevedo, Universidad EAFIT, Medellín</td>
+</tr>
+<tr class="table-light"><td colspan="3" class="text-center text-muted fst-italic py-2">Pausa 13:00–13:15</td></tr>
+<tr>
+  <td><strong>13:15–13:30</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-34/index.qmd">Gestión del riesgo de desastres con software libre: experiencia UAEGRD Boyacá</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Herramienta o solución práctica</span></div>
+  </td>
+  <td class="small">Carlos René López Candela - Profesional especializado de la UAEGRD Boyacá. Tunja.</td>
+</tr>
+<tr>
+  <td><strong>13:30–13:45</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-35/index.qmd">Casanare: Gestion del riesgo desde el enfoque diferencial</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Experiencia/Caso de estudio exitoso</span></div>
+  </td>
+  <td class="small">Juan David Gomez Sandoval, Agente de Cambio, Yopal Casanare</td>
+</tr>
+<tr>
+  <td><strong>13:45–14:00</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-36/index.qmd">Marco teórico de fenómenos amenazantes de origen biosanitario</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Política pública, gobernanza o enfoques sectoriales</span></div>
+  </td>
+  <td class="small">Jeisson Garcia, UNGRD</td>
+</tr>
+<tr>
+  <td><strong>14:00–14:15</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-37/index.qmd">Riesgos asociados a la gestión de residuos sólidos en Colombia</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Tecnologías o innovación (metodológica, social, institucional o pública)</span></div>
+  </td>
+  <td class="small">Mónica Marcela Caro Medina, UNGRD</td>
+</tr>
+<tr class="table-light"><td colspan="3" class="text-center text-muted fst-italic py-2">Pausa 14:15–14:30</td></tr>
+<tr>
+  <td><strong>14:30–14:45</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-38/index.qmd">Formación en salud pública para emergencias y desastres: una mirada territorial con IA y SIG</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Educación, comunicación o sensibilización</span></div>
+  </td>
+  <td class="small">Juan Fernando Millan, Docente Departamento de Salud Publica y Epidemiologia, Javeriana Cali</td>
+</tr>
+<tr>
+  <td><strong>14:45–15:00</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-39/index.qmd">Sistemas de alerta temprana e inteligencia artificial para la gestión del riesgo de incendios forestales en Colombia</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Herramienta o solución práctica</span></div>
+  </td>
+  <td class="small">Alejandro Casallas Garcia. Universidad Sergio Arboleda. Bogota. Colombia</td>
+</tr>
+<tr>
+  <td><strong>15:00–15:15</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-40/index.qmd">Participación Comunitaria en la definición de alternativas de Soluciones Basadas en la Naturaleza, acorde con algunas experiencias exitosas desarrolladas en el Departamento de Caldas</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Experiencia/Caso de estudio exitoso</span></div>
+  </td>
+  <td class="small">Mauricio Saavedra &amp; Daniel Pineda, CORPOCALDAS, Manizales</td>
+</tr>
+<tr>
+  <td><strong>15:15–15:30</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-41/index.qmd">Desarrollo Basado en el Riesgo (DBR): Cauca un estudio de caso.</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Tecnologías o innovación (metodológica, social, institucional o pública)</span></div>
+  </td>
+  <td class="small">Juan Pablo Prado Medina, Uniautónoma del Cauca, Popayán.</td>
+</tr>
+<tr>
+  <td><strong>15:30–15:45</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-42/index.qmd">Motores de ocurrencia de incendios en páramos de Colombia</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Investigación científica básica o aplicada</span></div>
+  </td>
+  <td class="small">Jhonatan Julián Díaz-Timoté</td>
+</tr>
+<tr class="table-light"><td colspan="3" class="text-center text-muted fst-italic py-2">Pausa 15:45–16:00</td></tr>
+<tr>
+  <td><strong>16:00–16:15</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-43/index.qmd">Modificación de la Ley 1523 de 2012 mediante la Ley 2474 de 2025, por la cual se incluyen Los Animales en la Gestión del Riesgo y Desastres</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Planeación y ordenamiento que incorpora la GRD</span></div>
+  </td>
+  <td class="small">Diego Almonacid Cifuentes, UNGRD</td>
+</tr>
+<tr>
+  <td><strong>16:15–16:30</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-44/index.qmd">Estrategias de manejo para movimientos en masa asociados a erosión en la cuenca baja del río Fonce</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Herramienta o solución práctica</span></div>
+  </td>
+  <td class="small">Francisco David Ramos Cuesta, Escuela de Ingenieros Militares, Bogotá, Colombia</td>
+</tr>
+<tr>
+  <td><strong>16:30–16:45</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-45/index.qmd">GeoIA: inteligencia artificial geoespacial para la toma de decisiones en la gestión del riesgo de desastres</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Tecnologías o innovación (metodológica, social, institucional o pública)</span></div>
+  </td>
+  <td class="small">Mohammed Alhessi, PNUD – Crisis Bureau, Nueva York</td>
+</tr>
+<tr>
+  <td><strong>16:45–17:00</strong></td>
+  <td>
+    <a class="fw-semibold text-decoration-none" href="ev-46/index.qmd">CESVI: Desalinización de agua con energía solar en La Guajira Colombia</a>
+    <div><span class="badge bg-secondary-subtle text-secondary-emphasis fw-normal mt-1">Experiencia/Caso de estudio exitoso</span></div>
+  </td>
+  <td class="small">Mike Boomer, Jefe de Mision para CESVI</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+</div>
