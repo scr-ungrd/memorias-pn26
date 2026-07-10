@@ -1,0 +1,16 @@
+---
+title: Caracterización de las unidades geológicas superficiales (UGS) y subunidades geomorfológicas (SGMF) a escala 1 - 25.000 para el municipio de San Joaquín, Santander, como una herramienta en la evaluación de los factores de inestabilidad superficial
+author:
+- name: Andrea Hernández Grimaldos
+  affiliations:
+    - name: Universidad Industrial de Santander
+- name: María Alejandra Navas Báez
+  affiliations:
+    - name: Universidad Industrial de Santander
+categories:
+- Planeación y ordenamiento que incorpora la GRD
+---
+
+## Poster
+
+<iframe src="https://drive.google.com/file/d/1bcF45axqMea228_H96vjYFRwsbFQSruc/preview" width="100%" height="700" allowfullscreen></iframe>

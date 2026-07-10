@@ -1,29 +1,18 @@
 ---
-title: 'Estrategia Dual para la reducción del riesgo y la adaptación al cambio climático: bioingeniería y Soluciones basadas en la Naturaleza para la estabilización de pasivos mineros en el Páramo de Guerrero'
+title: Brigadas Ambientales Comunitarias
 author:
-- name: Edgar Armando Malpica Correa
+- name: Greicy Johana Sánchez Díaz
   affiliations:
-    - name: Ingeniería Global y Servicios S.A.S., Bogotá D.C., Colombia
-    - name: Universidad de Ciencias Aplicadas y Ambientales (U.D.C.A), Bogotá D.C., Colombia
-  corresponding: true
-  email: armandomalpicacorrea@gmail.com
-keywords:
-- Eco-RRD
-- Soluciones basadas en la Naturaleza
-- Bioingeniería de suelos
-- Pasivos mineros en páramo
-- Restauración ecológica
+    - name: CORPOBOYACÁ
+- name: Antonio De la Barrera Cárdenas
+  affiliations:
+    - name: CORPOBOYACÁ
 abstract: |
-  El Páramo de Guerrero, ecosistema estratégico para la regulación hídrica del altiplano cundiboyacense y para el sistema de abastecimiento del Distrito Capital, presenta degradación crítica derivada de pasivos ambientales de minería a cielo abierto cesada hace aproximadamente quince años. La extracción eliminó por completo el horizonte orgánico de los Andisoles característicos del subpáramo, dejando frentes de excavación rocosa, taludes inestables y superficies inertes con escorrentía descontrolada. La respuesta convencional —ingeniería gris de concreto, anclajes y pantallas— resulta costosa, de baja sostenibilidad en alta montaña y estructuralmente incompleta porque no aborda la causa primaria del riesgo.
-
-  El objetivo fue diseñar y validar técnicamente una estrategia que articule, en una sola arquitectura operativa, la reducción correctiva del riesgo de desastres y la adaptación al cambio climático, viable jurídica y financieramente bajo el ordenamiento colombiano. La metodología se estructura en una Estrategia Dual de seis fases: re-conformación geomorfológica con pendiente 2H:1V y terrazas de infiltración de un metro de ancho sobre talud de 28 metros; edafogénesis acelerada mediante tierra negra y bioinóculos sobre base granular de afirmado; colonización biológica con gramíneas nativas Calamagrostis effusa y Valeriana pilosa; aprovechamiento de la geomorfología residual del tajo como microclimas de facilitación; reintroducción de especies arbustivas nativas como Hesperomeles goudotiana, Baccharis latifolia y Monnina aestuans mediante islas de restauración; y protección activa de remanentes de vegetación originaria.
-
-  La intervención fue verificada mediante modelación geotécnica con software SLIDE 6.0 sobre un polígono piloto de 1.695 m² a 3.609 msnm, elevando el factor de seguridad de 1.3 en condición actual —insuficiente según el Capítulo H de la NSR-10— a 3.0 en condición drenada sin sismo y 1.5 en condición saturada con sismo, validando el cumplimiento normativo. El plan de revegetalización contempla 3.455 individuos de cinco especies nativas.
-
-  Se concluye que la gestión correctiva del riesgo en pasivos mineros de páramo no debe limitarse a la contención física sino abarcar la recuperación de la integridad ecológica, y se recomienda al SNGRD construir, con el Ministerio de Ambiente, la Agencia Nacional de Minería y autoridades territoriales, un protocolo nacional replicable de bioingeniería para pasivos mineros en ecosistemas estratégicos.
+  Conformación de Brigadas Ambientales Comunitarias para la Gestión del Riesgo de Desastres.
 categories:
-- Planeación y ordenamiento que incorpora la GRD
-- Adaptación al cambio climático desde el enfoque de Eco-Reducción (Eco-RRD)
+- Comunidades de aprendizaje y participación
 ---
 
-**Perfil quién presenta el trabajo:** Edgar Armando Malpica Correa, ingeniero ambiental aspirante al posgrado de gestión de riesgo climático en la UDCA, hace parte de un grupo consultor con experiencia en gestión del riesgo, diseño de obras de mitigación, estudios ambientales y consultoría en interventoría con el Estado. Realizó la ejecución de diseños de restauración ecológica y bioingeniería para entidades territoriales del SNGRD. Su trabajo articula la ingeniería geotécnica con Soluciones basadas en la Naturaleza, con énfasis en pasivos mineros e implementación de la Ley 1523/2012 y la Ley 1930/2018.
+## Poster
+
+<iframe src="https://drive.google.com/file/d/1acX-fupA6LhiWqU1RgHproEOaFd9oHhD/preview" width="100%" height="700" allowfullscreen></iframe>

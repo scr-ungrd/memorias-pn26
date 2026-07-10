@@ -1,28 +1,15 @@
 ---
-title: Diagnóstico de la Ley 1523 contra el Marco de Sendai de Reducción del Riesgo de Desastres
+title: Impacto del cambio de cobertura del suelo en el evento extremo de Mocoa (2017)
 author:
-- name: Juan Carlos Torres Sánchez
+- name: Charlotte Audeoud
   affiliations:
-    - name: Magíster en Derecho, Universidad Nacional de Colombia, Bogotá, Colombia
-  corresponding: true
-  email: juan.torres@resiliencex.co
-keywords:
-- Resiliencia
-- Ambiente Sano
-- Precaución Ambiental
-- Riesgo de Desastres
-- Riesgo Global
+    - name: Universidad del Rosario - Semillero Dinámica Clima-Ecosistemas
 abstract: |
-  El vacío normativo en la Ley 1523 de 2012 del Sistema Nacional de Gestión del Riesgo de Desastres, al no incorporar el concepto de resiliencia, limita la capacidad de respuesta del país ante desastres producidos por el entorno de riesgos globales. El objetivo general es explicar los efectos de los vacíos normativos y jurisprudenciales para la Gestión del Riesgo de Desastres en Colombia en el entorno de riesgos global actual, explorando el alcance normativo y jurisprudencial, describiendo los conceptos y teorías asociados a la gestión del riesgo a partir de marcos de alcance global, y analizando los posibles efectos de las limitaciones normativas y jurídicas sobre la capacidad de actuación para la gestión del riesgo.
-
-  La metodología se desarrolló en fases de exploración temática, formulación de la pregunta de investigación, recopilación documental y construcción del marco conceptual y teórico, conformación del marco normativo y elaboración de línea jurisprudencial, y análisis mediante una tabla que cruza los requisitos de las cuatro prioridades del Marco de Sendai contra el Sistema Nacional de Gestión de Riesgos de Desastres (SNGRD) y la Ley 1523 de 2012.
-
-  Los hallazgos indican que no existe una convención vinculante en el sistema de derecho internacional para la reducción del riesgo de desastres, por lo que la adopción de Colombia al Marco de Sendai es una vinculación de "soft law" no incorporada al derecho interno del país. Se verificó que la Ley 1523 no se armoniza con el Marco de Acción de Hyogo 2005-2015 ni se han efectuado reformas posteriores a la firma del Marco de Sendai que incorporen explícitamente bases legales de actuación respecto a la capacidad de resiliencia. Tampoco se encuentra, en la línea jurisprudencial del principio de precaución ambiental, un estudio explícito de la gestión del riesgo para "el peor caso" asociada a la capacidad de resiliencia.
-
-  Se concluye que la Ley 1523 de 2012 tiene vacíos normativos insalvables que afectan la coherencia y eficacia para fortalecer la capacidad de resiliencia del país frente al entorno de riesgos sistémicos actual. Entre los posibles desarrollos normativos se sugiere modificar la política pública de gestión del riesgo de desastres alineándola al Marco de Sendai, crear una plataforma nacional de reducción del riesgo de desastres orientada a sus cuatro prioridades, actualizar el marco jurídico de actuación del SNGRD y avanzar hacia mayor descentralización y autonomía financiera territorial en materia de resiliencia.
+  Simulaciones WRF y HEC-HMS con escenarios MapBiomas 1985 y 2017 · Cuenca del Alto Caquetá, Putumayo, Colombia.
 categories:
 - Planeación y ordenamiento que incorpora la GRD
-- Adaptación al cambio climático desde el enfoque de Eco-Reducción (Eco-RRD)
 ---
 
-**Perfil quién presenta el trabajo:** Gerente de Consultoría de Riesgos, Master of Laws (LL.M.) de la Universidad Nacional. Instructor y Master Business Continuity Professional (MBCP) del DRI-USA, miembro del Business Continuity Institute (MBCI-UK) y del Comité Técnico ISO/TC 292 (Continuidad y Resiliencia / Resiliencia Comunitaria). Con experiencia liderando la implementación de Sistemas de Gestión de Resiliencia Organizacional (continuidad de negocios, tecnológica y de riesgos) en trece sectores económicos, ha gerenciado más de 40 proyectos de sistemas de gestión y liderado el diseño de estrategias de recuperación basadas en analítica de negocio.
+## Poster
+
+<iframe src="https://drive.google.com/file/d/1Frdsey9NunARjRNLuj80P0QQYAh74qsH/preview" width="100%" height="700" allowfullscreen></iframe>

@@ -1,34 +1,21 @@
 ---
 title: Protocolo de Apoyo Psicosocial en Contextos de Emergencias y Desastres
 author:
-- name: Mildred Alexandra Vianchá-Pinzón
+- name: Mildred Vianchá-Pinzón
   affiliations:
-    - name: UNGRD, Bogotá, Colombia
-  corresponding: true
-  email: mildred.viancha@gestiondelriesgo.gov.co
-- name: Sandra Rocío Castañeda Ferias
+    - name: Unidad Nacional para la Gestión del Riesgo de Desastres – Subdirección para el Manejo de Desastres
+- name: Sandra Castañeda-Feria
   affiliations:
-    - name: UNGRD, Bogotá, Colombia
-- name: Astrid Constanza Vergara
+    - name: Unidad Nacional para la Gestión del Riesgo de Desastres – Subdirección para el Manejo de Desastres
+- name: Astrid Vergara-Buitrago
   affiliations:
-    - name: UNGRD, Bogotá, Colombia
-keywords:
-- Apoyo psicosocial
-- Salud mental
-- Gestión del riesgo
-- Resiliencia comunitaria
-- Emergencias y desastres
+    - name: Unidad Nacional para la Gestión del Riesgo de Desastres – Subdirección para el Manejo de Desastres
 abstract: |
-  Las emergencias y los desastres generan afectaciones que no se limitan a pérdidas materiales o daños físicos, sino que también impactan la salud mental, el bienestar emocional, la cohesión social y la capacidad de recuperación de las comunidades. En este contexto, el documento plantea la necesidad de contar con una herramienta metodológica que oriente a las entidades territoriales en la formulación e implementación de protocolos de apoyo psicosocial culturalmente pertinentes, con enfoque diferencial y ajustados a las condiciones de cada territorio.
-
-  El objetivo del protocolo es facilitar una ruta para la construcción de protocolos de apoyo psicosocial que permitan proteger la salud mental, promover el bienestar emocional, fortalecer la resiliencia comunitaria y articular respuestas institucionales y comunitarias antes, durante y después de una emergencia o desastre.
-
-  La metodología propuesta se basa en un enfoque participativo, intersectorial, interinstitucional e interdisciplinario, liderado por las Secretarías de Salud con participación de las oficinas de gestión del riesgo, consejos territoriales, entidades públicas, organizaciones sociales y actores comunitarios, con una estructura mínima que incluye justificación, objetivo, marco legal, diagnóstico psicosocial del territorio, fases de intervención, matriz de responsabilidades, indicadores y anexos operativos.
-
-  Como principales aportes, el instructivo permite organizar las acciones de apoyo psicosocial en las fases de preparación, respuesta y recuperación: en la preparación, orienta la identificación de riesgos psicosociales, recursos y capacidades locales; en la respuesta, promueve la contención emocional, los primeros auxilios psicológicos y la articulación inmediata; y en la recuperación, impulsa procesos de acompañamiento prolongado, reparación simbólica, fortalecimiento de redes comunitarias y reconstrucción del tejido social. En conclusión, el documento constituye una herramienta técnica y de gestión que fortalece la capacidad territorial para responder de manera organizada, humana y sostenible a las afectaciones psicosociales derivadas de emergencias y desastres.
+  Protocolo de Apoyo Psicosocial.
 categories:
-- Preparación y recuperación oportuna
-- Datos, modelación, IA, innovación social y herramientas digitales
+- CTI (Ciencia, tecnología e innovación)
 ---
 
-**Perfil quién presenta el trabajo:** Psicóloga, Doctora en Psicología por la Universidad Católica de Colombia, Magíster en Psicología y Especialista en Salud Ocupacional y Riesgos Laborales por la Universidad Pedagógica y Tecnológica de Colombia. Forma parte del Equipo de Gestión Psicosocial de la Subdirección para el Manejo de Desastres de la UNGRD, desde donde contribuye al diseño, articulación e implementación de acciones orientadas a la protección de la salud mental, el bienestar emocional, la atención psicosocial y la resiliencia de comunidades afectadas por emergencias o desastres. Cuenta con experiencia en intervención psicosocial, gestión territorial, acompañamiento en situaciones de crisis y articulación interinstitucional, y adelanta una certificación internacional en Psicología de las Emergencias.
+## Poster
+
+<iframe src="https://drive.google.com/file/d/1cGWcpmKY1nOAPngM-foiY7KrpykuABom/preview" width="100%" height="700" allowfullscreen></iframe>

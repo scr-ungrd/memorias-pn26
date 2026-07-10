@@ -1,40 +1,31 @@
 ---
-title: Estrategias para suplir la falta de datos en la cuenca del río Tomarrazón para informar sobre el impacto de la extracción de áridos
+title: Gestión Comunitaria del Riesgo como Modelo Escalable de Fortalecimiento de la Capacidad de Respuesta Territorial en Colombia
 author:
-- name: Andrea G.C. Nardini
+- name: Sandra Patricia Castro Madrid
   affiliations:
-    - name: Fundación CREACUA, Riohacha, Colombia
-- name: Giacomo Pellegrini
+    - name: Corporación Centro de Ciencia y Tecnología de Antioquia - CTA
+- name: Freddy A. Vahos Arias
   affiliations:
-    - name: Lincoln University, Lincoln, Reino Unido
-- name: Luca Mao
+    - name: Corporación Centro de Ciencia y Tecnología de Antioquia - CTA
+- name: Juan F. Figueroa Alzate
   affiliations:
-    - name: Lincoln University, Lincoln, Reino Unido
-- name: Yoiner Ariza
+    - name: Corporación Centro de Ciencia y Tecnología de Antioquia - CTA
+- name: John E. Gómez Torres
   affiliations:
-    - name: Fundación CREACUA, Riohacha, Colombia
-- name: Fayder Herrera
+    - name: Corporación Centro de Ciencia y Tecnología de Antioquia - CTA
+- name: Carolina María Rodríguez Ortiz
   affiliations:
-    - name: Fundación CREACUA, Riohacha, Colombia
-- name: Emirielys Ospino
+    - name: Corporación Centro de Ciencia y Tecnología de Antioquia - CTA
+- name: Johanna Carolina Florez Chacón
   affiliations:
-    - name: Fundación CREACUA, Riohacha, Colombia
-- name: Jairo R. Escobar V.
+    - name: Corporación Centro de Ciencia y Tecnología de Antioquia - CTA
+- name: Adriana L. Correa Arango
   affiliations:
-    - name: Universidad de La Guajira, Riohacha, Colombia
-  corresponding: true
-  email: jrescobar@uniguajira.edu.co
-keywords:
-- Extracción de áridos
-- Riesgo por dinámica fluvial e inundaciones
-- Falta de datos
-- Uso conjunto de sensores y datos satelitales
-- Modelación
-abstract: |
-  La presión minera en el río es bárbara y es un problema común a muchos otros. Primero es necesario establecer qué proporción se extrae del transporte sólido. Para ello medir caudales y transporte. Pero no hay datos de nivel (caudal) y menos de transporte sólido. El trabajo explica cómo solucionamos el problema. Y los primeros resultados, puede ser muy útil para mil otras situaciones análogas.
+    - name: Corporación Centro de Ciencia y Tecnología de Antioquia - CTA
 categories:
-- Planeación y ordenamiento que incorpora la GRD
-- Datos, modelación, IA, innovación social y herramientas digitales
+- Comunidades de aprendizaje y participación
 ---
 
-**Perfil quién presenta el trabajo:** Andrea (hombre, 1960), ingeniero civil hidráulico (1985), se especializa a nivel de PhD en Análisis de Sistemas aplicado a la gestión de recursos naturales (particularmente hídricos) en el Politecnico di Milano (Italia) y sucesivamente en recuperación fluvial y manejo de cuencas, obteniendo en 2021 un segundo PhD en Geomorfología Fluvial con la tesis "Metodologías y herramientas hacia la automatización del enfoque de caracterización geomorfológica River Styles para grandes ríos", en la Universidad Politécnica de Madrid (España). Es co-fundador del Centro Italiano para la Recuperación Fluvial CIRF (Venezia, Italia) y su primer Director Técnico por 10 años, y actualmente es co-fundador y Director de la Fundación Centro Recuperación Ecosistemas ACUáticos (CREACUA) en Colombia. Su actividad principal es la investigación aplicada y consultoría, a nivel nacional e internacional, en materia de enfoques, metodologías y herramientas para abordar problemas ambientales relacionados con recursos hídricos y manejo de cuencas y cauces fluviales.
+## Poster
+
+<iframe src="https://drive.google.com/file/d/1fwBF7KeLWupVwgm78zqWT2-JtXrptEni/preview" width="100%" height="700" allowfullscreen></iframe>

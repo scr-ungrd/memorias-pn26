@@ -1,30 +1,15 @@
 ---
-title: Análisis de fuentes de contaminación del aire en Vichada mediante modelación atmosférica y monitoreo con sensores de bajo costo
+title: Diseño SAT- Incendios de cobertura vegetal en Valledupar
 author:
-- name: Stijn Hantson
+- name: Eric Leonardo Perico Caicedo
   affiliations:
-    - name: Universidad del Rosario, Bogotá, Colombia
-- name: Nathalia Celis
-  affiliations:
-    - name: Universidad del Rosario, Bogotá, Colombia
-  corresponding: true
-  email: nathcelis28@gmail.com
-keywords:
-- Calidad del Aire
-- Transporte Atmosférico
-- Incendios Forestales
-- Monitoreo Ambiental
+    - name: Universidad Distrital Francisco José de Caldas
 abstract: |
-  En 2024 se registró un episodio de deterioro de la calidad del aire en el departamento del Vichada, que motivó la emisión de una alerta por incremento de material particulado. Este tipo de eventos plantea desafíos para la gestión del riesgo, debido a la limitada información sobre la influencia de fuentes regionales y la escasa cobertura de monitoreo en territorios como la Orinoquía colombiana. El objetivo de este trabajo es aportar elementos técnicos para la interpretación del evento, mediante la integración de análisis de transporte atmosférico y monitoreo instrumental en superficie.
-
-  La metodología se basa en el análisis de trayectorias de masas de aire durante la temporada seca (diciembre de 2023 a marzo de 2024), con el fin de identificar posibles regiones de origen y rutas de transporte de contaminantes hacia el área de estudio. Este enfoque se complementa con la instalación y puesta en marcha de tres sensores de bajo costo en los municipios de Puerto Carreño y Cumaribo, que permiten obtener registros iniciales de material particulado en el territorio.
-
-  Los resultados evidencian un patrón predominante de transporte de masas de aire desde el oriente y noreste de Sudamérica hacia los puntos de monitoreo. Estas trayectorias coinciden espacialmente con zonas de alta densidad de puntos de calor, especialmente en marzo, lo que sugiere una contribución relevante de incendios en las sabanas del norte de Sudamérica y regiones adyacentes. Adicionalmente, los datos registrados por los sensores, aunque aún limitados en el tiempo, constituyen el inicio del monitoreo instrumental in situ en el departamento.
-
-  En conjunto, los hallazgos indican una posible influencia significativa de fuentes regionales en los episodios de contaminación atmosférica en Vichada. Se resalta la importancia de fortalecer los sistemas de alerta temprana, ampliar la cobertura de monitoreo y promover estrategias de manejo integral del fuego, con el fin de mejorar la capacidad de respuesta y la toma de decisiones frente a eventos de deterioro de la calidad del aire.
+  Aplicación de sensores remotos para fortalecer la gestión del riesgo y desastres.
 categories:
-- Planeación y ordenamiento que incorpora la GRD
 - Datos, modelación, IA, innovación social y herramientas digitales
 ---
 
-**Perfil quién presenta el trabajo:** Stijn Hantson es profesor en Ciencias del Sistema Tierra; su investigación se centra en la ocurrencia y los impactos de los incendios forestales sobre el sistema terrestre mediante análisis de imágenes satelitales y modelización de la dinámica de la vegetación, así como el ciclo global del carbono, la interacción vegetación-clima y la ecología tropical. Nathalia Celis es ingeniera ambiental, magíster en Climate Change and Diversity - Sustainable Territorial Development de la Universidad de Padua (Italia) y magíster en Cambio Climático de la Universidad Simón Bolívar (Ecuador); ha trabajado en proyectos de contaminación atmosférica, mapeo de áreas quemadas mediante imágenes satelitales, modelación atmosférica y datos de sensores remotos.
+## Poster
+
+<iframe src="https://drive.google.com/file/d/1umyvgbjELeEv7Z-evYPk1mqx0vYb8HtE/preview" width="100%" height="700" allowfullscreen></iframe>

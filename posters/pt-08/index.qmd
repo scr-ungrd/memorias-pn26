@@ -1,20 +1,16 @@
 ---
-title: 'De la respuesta reactiva a la prevención: Tecnología japonesa SABO y Sistemas de Alerta Temprana (SAT) para construir un futuro resiliente en Colombia'
+title: Estrategia dual de adaptación y reducción del riesgo en pasivos mineros de páramo
 author:
-- name: Takahiro Shinchi
+- name: Edgar Armando Malpica Correa
   affiliations:
-    - name: Project Manager, International Division, Yachiyo Engineering Co., Ltd.
-  corresponding: true
-  email: shinchi@yachiyo-eng.co.jp
-keywords:
-- SABO
-- Gestión del Riesgo
-- Alerta Temprana
-- Resiliencia
-- Conservación Territorial
+    - name: Ingeniería Global y Servicios S.A.S, Bogotá D.C., Colombia
 abstract: |
-  Colombia enfrenta riesgos complejos por movimientos en masa debido a su topografía y clima andino, lo que exige una transición urgente de la gestión reactiva a la preventiva. El objetivo de esta propuesta es presentar el enfoque de "Conservación Territorial" mediante la efectividad de la tecnología japonesa SABO y los Sistemas de Alerta Temprana (SAT). La metodología consiste en una sesión técnica que demuestra la fusión de medidas estructurales (infraestructura de control de sedimentos) y no estructurales (monitoreo con drones y centros de comando), enfocándose en la gestión integral de cuencas. Como resultados, se destaca que estas tecnologías permiten una comprensión científica del riesgo y una gobernanza fortalecida desde el nivel nacional al territorial, demostrando ser inversiones más costo-efectivas que la respuesta ante desastres. Se concluye que la integración de la tecnología SABO con la infraestructura resiliente de Colombia es clave para los tomadores de decisiones en la formulación de políticas públicas alineadas con el Marco de Sendai, garantizando un desarrollo territorial sostenible y la protección de vidas.
+  Bioingeniería de suelos, Soluciones basadas en la Naturaleza y adaptación al cambio climático para la estabilización de pasivos mineros. Caso aplicado: Páramo de Guerrero — diseño que proyecta cumplir NSR-10 con FS = 1,50 y materializa el eje Eco-RRD.
 categories:
 - Planeación y ordenamiento que incorpora la GRD
-- Datos, modelación, IA, innovación social y herramientas digitales
+- Adaptación al cambio climático desde el enfoque de Eco-Reducción (Eco-RRD)
 ---
+
+## Poster
+
+<iframe src="https://drive.google.com/file/d/1K7scq0C0DLn77VHNk13G_44VLH-9Gv_O/preview" width="100%" height="700" allowfullscreen></iframe>

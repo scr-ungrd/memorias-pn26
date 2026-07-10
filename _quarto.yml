@@ -222,12 +222,9 @@ book:
         - posters/pt-09/index.qmd
         - posters/pt-10/index.qmd
         - posters/pt-11/index.qmd
-        - posters/pt-12/index.qmd
         - posters/pt-13/index.qmd
         - posters/pt-14/index.qmd
         - posters/pt-15/index.qmd
-        - posters/pt-16/index.qmd
-        - posters/pt-17/index.qmd
         - posters/pt-18/index.qmd
         - posters/pt-19/index.qmd
         - posters/pt-20/index.qmd
@@ -240,6 +237,7 @@ book:
         - posters/pt-27/index.qmd
         - posters/pt-28/index.qmd
         - posters/pt-29/index.qmd
+        - posters/pt-30/index.qmd
     - galeria-fotografica.qmd
 
 format:

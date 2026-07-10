@@ -1,43 +1,13 @@
 ---
-title: 'Invertir en prevención: responsabilidad fiscal y sostenibilidad en la gestión del riesgo de desastres'
+title: EDAN Latinoamérica
 author:
-- name: Diana Carolina Caicedo Enríquez
+- name: H. Krisnader Garcia G.
   affiliations:
-    - name: Abogada, contadora, especialista en Derecho tributario y Magíster en Hacienda Pública, GNDR / Red LAC de Mujeres para la RRD / Universidad Nacional de Colombia, Bogotá, Colombia
-  corresponding: true
-  email: dcaicedoe@unal.edu.co
-- name: Lysed T. Soler Ladino
-  affiliations:
-    - name: Estudiante de Derecho, Universidad Nacional de Colombia, Bogotá, Colombia
-- name: Jaider Agudelo Nacimiento
-  affiliations:
-    - name: Estudiante de Derecho, Universidad Nacional de Colombia, Bogotá, Colombia
-- name: Nicolás Andrés Romero Arrieta
-  affiliations:
-    - name: Estudiante de Derecho, Universidad Nacional de Colombia, Bogotá, Colombia
-- name: Valentina Bolaños
-  affiliations:
-    - name: Licenciada en Lenguas Extranjeras, TrendMakers, Puebla, México
-- name: Christian Benítez Núñez
-  affiliations:
-    - name: Abogado, Doctor en Derecho y Globalización, Universidad La Salle México, Ciudad de México, México
-keywords:
-- Gestión del riesgo de desastres
-- Responsabilidad fiscal
-- Inversión en prevención
-- Sostenibilidad fiscal
-- Política pública
+    - name: Programa EDAN Latinoamérica
 abstract: |
-  La gestión del riesgo de desastres en Colombia ha estado históricamente marcada por un enfoque reactivo, centrado en la atención de emergencias y la reconstrucción, lo que ha generado impactos recurrentes sobre las finanzas públicas, el déficit fiscal y la sostenibilidad del Estado. Esta situación evidencia una desconexión entre la planificación del desarrollo, la asignación presupuestal y la incorporación del riesgo como variable estructural en la toma de decisiones, limitando la capacidad institucional para anticipar y reducir pérdidas.
-
-  El objetivo de este trabajo es analizar la relación entre responsabilidad fiscal y gestión del riesgo de desastres, proponiendo la inversión en prevención como un deber constitucional, financiero y estratégico del Estado, así como un mecanismo para proteger el patrimonio público y garantizar derechos.
-
-  La metodología empleada combina un enfoque cualitativo y analítico, basado en la revisión normativa, el análisis de instrumentos de política pública y la reflexión académica derivada de una cátedra universitaria en derecho, gestión del riesgo y sostenibilidad fiscal, planteando elementos para la articulación interinstitucional entre sectores de hacienda, planeación y gestión del riesgo, junto con herramientas como el etiquetado del gasto en prevención.
-
-  Entre los principales hallazgos se identifica que la ausencia de un enfoque fiscal explícito en la gestión del riesgo limita la eficiencia del gasto público y perpetúa ciclos de vulnerabilidad. Se concluye que integrar la responsabilidad fiscal en la gestión del riesgo de desastres es fundamental para avanzar hacia una gobernanza más eficiente, sostenible y anticipatoria, recomendando fortalecer la planificación presupuestal con enfoque de riesgo, institucionalizar mecanismos de seguimiento al gasto en prevención y promover alianzas entre Estado y academia.
-categories:
-- Territorialización y financiamiento de la GRD
-- Adaptación al cambio climático desde el enfoque de Eco-Reducción (Eco-RRD)
+  Una herramienta funcional que rompe la brecha en emergencias y desastres.
 ---
 
-**Perfil quién presenta el trabajo:** Diana Carolina Caicedo Enríquez es abogada y contadora pública con más de 20 años de experiencia en investigación social, docencia universitaria y liderazgo en incidencia política en América Latina; es representante de América del Sur ante la junta global de GNDR y Directora Nacional de Ambiente y Energía de la Red Mundial de Jóvenes Políticos. Christian Benítez Núñez es Doctor en Derecho y Globalización, profesor investigador en la Universidad La Salle México y miembro del Sistema Nacional de Investigadores. Jaider Agudelo, Lysed Tatiana Soler Ladino y Nicolás Andrés Romero Arrieta son estudiantes de Derecho de la Universidad Nacional de Colombia y miembros fundadores del Observatorio de Responsabilidad Fiscal Estudiantil (ORFE). Valentina Bolaños es líder juvenil colombiana y cofundadora de TrendMakers, plataforma presente en más de 10 países que fortalece habilidades en liderazgo, diplomacia y participación global.
+## Poster
+
+<iframe src="https://drive.google.com/file/d/1TIx6iZ7Zeks_opA305VfKG8G8SSoo8tG/preview" width="100%" height="700" allowfullscreen></iframe>

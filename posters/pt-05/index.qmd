@@ -1,31 +1,16 @@
 ---
-title: Brigadas Ambientales para la Gestión del Riesgo de Desastres en los municipios de su jurisdicción de Corpoboyacá
+title: Los manglares como ecositemas estratégicos para la prevención de inundaciones
 author:
-- name: Greicy J. Sánchez Díaz
+- name: Marcela Guerrero
   affiliations:
-    - name: Ingeniera Catastral y Geodesta, Corpoboyacá / Universidad Distrital Francisco José de Caldas, Bogotá, Colombia
-  corresponding: true
-  email: gsanchez@corpoboyaca.gov.co
-- name: Antonio De la Barrera Cárdenas
+    - name: Escuela Superior de Administración Pública ESAP-Universidad Manuela Beltrán UMB
+- name: Miguel Díaz
   affiliations:
-    - name: Ingeniero Civil, Corpoboyacá / Universidad de Cartagena, Cartagena, Colombia
-keywords:
-- Brigadas
-- Preparación
-- Conocimiento
-- Gestión de riesgo
-- Escenarios
+    - name: Escuela Superior de Administración Pública ESAP-Universidad Manuela Beltrán UMB
 abstract: |
-  La Corporación Autónoma Regional de Boyacá (Corpoboyacá), en el marco de la ejecución de su Plan de Acción "Tejiendo Vida 2024-2027" y el proyecto Ordenamiento Territorial y Gestión del Riesgo de Desastres, promueve la conformación de Brigadas Ambientales para la Gestión del Riesgo de Desastres en los municipios de su jurisdicción, con la conformación actualmente de nueve (9) en los municipios de Cómbita, Sotaquirá, Tuta, Tunja, Toca, Duitama, Oicatá, Chivatá y Puerto Boyacá; cuyo fin principal es apoyar la protección y conservación de los recursos naturales y el bienestar de la comunidad, especialmente en áreas protegidas, ecosistemas estratégicos y zonas susceptibles a movimientos en masa, avenidas torrenciales, inundaciones, desabastecimiento hídrico e incendios forestales.
-
-  De acuerdo con el Artículo 2 de la Ley 1523 de 2012, la gestión del riesgo es responsabilidad de todas las autoridades y de los habitantes del territorio colombiano; por lo tanto, la conformación de brigadas ambientales comunitarias busca fortalecer las acciones de prevención y preparación frente a eventos de origen socio-natural, a través de la participación voluntaria de miembros de la comunidad, organizaciones y demás actores interesados.
-
-  Las brigadas se conforman a partir de un grupo de voluntarios, organizados, capacitados y equipados, para convertirse en promotores ambientales que educan a las poblaciones y crean una nueva cultura de conocimiento e interacción con el medio ambiente, en trabajo conjunto con instituciones educativas o comunidades locales.
-
-  El papel de la Corporación es apoyar la conformación en los municipios interesados y actuar como organismo técnico de respaldo, acompañamiento, capacitación y coordinación a nivel regional; en la presente vigencia se ha adelantado la entrega de elementos y equipos a siete (7) brigadas conformadas, buscando su fortalecimiento y adecuada atención a los escenarios de riesgo de sus territorios.
-categories:
-- Preparación y recuperación oportuna
-- Datos, modelación, IA, innovación social y herramientas digitales
+  Estudio de caso: San Bernardo del Viento-Córdoba.
 ---
 
-**Perfil quién presenta el trabajo:** Propuesta presentada por el grupo de la temática de gestión de riesgo de desastres de la Subdirección de Planeación y Sistemas de Información de Corpoboyacá, conformado por Greicy Johana Sánchez Díaz (Ingeniera Catastral y Geodesta, especialista en Ordenamiento y Gestión Integral de Cuencas Hidrográficas), Antonio De la Barrera Cárdenas (Ingeniero Civil, Especialista en Derecho del Medio Ambiente, Especialista en Infraestructura Vial, Magíster en Ingeniería) y Judy Alexandra Daza Mancipe (Psicóloga, profesional de apoyo social).
+## Poster
+
+<iframe src="https://drive.google.com/file/d/1dmz3gxa6JP5afg07r-AA4yKv14AcD9yt/preview" width="100%" height="700" allowfullscreen></iframe>

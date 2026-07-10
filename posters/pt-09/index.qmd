@@ -1,33 +1,15 @@
 ---
-title: 'De los datos a la anticipación: umbrales y triggers para la gestión del riesgo por sequías'
+title: Manejo de animales en situación de emergencia, caso de éxito municipio de Guaranda (Sucre) – Subregión de La Mojana
 author:
-- name: Eduard Ruiz
+- name: Argemiro Andrés Tuirán Jiménez
   affiliations:
-    - name: Cruz Roja Colombiana, Bogotá D.C., Colombia
-  corresponding: true
-  email: eduard.ruiz@cruzrojacolombiana.org
-- name: Christian Giraldo
-  affiliations:
-    - name: Cruz Roja Colombiana, Bogotá D.C., Colombia
-- name: Juan Bazo
-  affiliations:
-    - name: Federación Internacional de la Cruz Roja y de la Media Luna Roja, Lima, Perú
-keywords:
-- Análisis de datos
-- Sequía meteorológica
-- Umbrales de activación
-- Acciones anticipatorias
+    - name: Red Nacional de Jóvenes para la Reducción del Riesgo
 abstract: |
-  El trabajo analiza el riesgo de sequía meteorológica en las regiones Andina y Caribe de Colombia, donde la variabilidad climática, la reducción de precipitaciones y la recurrencia de eventos asociados a fenómenos como El Niño generan impactos significativos en la seguridad hídrica, los medios de vida y los sistemas productivos. En estos territorios, la gestión del riesgo enfrenta desafíos relacionados con la dificultad para traducir datos técnicos en decisiones oportunas.
-
-  El objetivo del trabajo es fortalecer la toma de decisiones mediante la integración de datos hidrometeorológicos, análisis de riesgo y financiamiento pre-establecido para la implementación de acciones anticipatorias frente a condiciones de sequía, consolidados en Protocolos de Acción Temprana (PATs) que permitan reducir los impactos de la sequía en comunidades vulnerables.
-
-  La metodología se basa en la integración de múltiples fuentes de información, incluyendo datos del IDEAM, índices de monitoreo como el SPI (Standardized Precipitation Index), registros históricos y datos sectoriales, a partir de los cuales se identifican patrones de sequía, se evalúa su evolución y se establecen umbrales (triggers) asociados a diferentes niveles de severidad, definidos con base en evidencia técnica y validados en función de su capacidad para anticipar impactos.
-
-  Como resultado, el trabajo propone un esquema operativo en el que los datos se transforman en decisiones concretas, facilitando la activación temprana de medidas orientadas a reducir los efectos de la sequía: gestión eficiente del recurso hídrico, apoyo a medios de vida, preparación comunitaria y articulación interinstitucional. Se concluye que la integración efectiva de datos, junto con la definición de umbrales claros y operativos, es fundamental para implementar acciones anticipatorias frente a la sequía, ofreciendo insumos clave para la formulación de políticas públicas y la consolidación de sistemas de alerta temprana.
+  Fortalecimiento de la gestión del riesgo mediante brigadas veterinarias y atención integral a animales afectados por inundaciones en comunidades rurales de Guaranda, promoviendo resiliencia comunitaria y protección sanitaria en la subregión de La Mojana.
 categories:
 - Preparación y recuperación oportuna
-- Datos, modelación, IA, innovación social y herramientas digitales
 ---
 
-**Perfil quién presenta el trabajo:** Profesional con experiencia de alrededor de 13 años en la gestión del riesgo de desastres, aportando al fortalecimiento de capacidades comunitarias e institucionales que promuevan la reducción de vulnerabilidades y el fortalecimiento de la resiliencia. Licenciado en Educación en Ciencias Naturales de la Universidad del Tolima, Economista de la Universidad EAN y Magíster en Gestión del Riesgo de Desastres y Atención de Emergencias de la Universidad de Costa Rica, con formación en acciones anticipatorias, análisis de impacto cruzado y sistemas de información geográfica para la reducción del riesgo. Actualmente se desempeña como Gestor Nacional de Conocimiento del Riesgo en la Cruz Roja Colombiana.
+## Poster
+
+<iframe src="https://drive.google.com/file/d/1xXWuF68HUc_Ta8uHRTaWTeO07o5dquOb/preview" width="100%" height="700" allowfullscreen></iframe>

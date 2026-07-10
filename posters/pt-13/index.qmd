@@ -1,26 +1,21 @@
 ---
-title: Estimación del riesgo sísmico y diseño de estrategias de mitigación para una zona periurbana del corregimiento de San Cristóbal, Medellín
+title: Uso de tecnologías para el análisis de inundación en zonas urbanas - caso de estudio Quebrada El Tejar, municipio de Ocaña, Norte de Santander
 author:
-- name: Kelly Johanna Zapata Trujillo
+- name: Agustín A. Macgregor Torrado
   affiliations:
-    - name: Ingeniera Civil, Especialista en Gestión del Riesgo de Desastres, Magíster en Desarrollo Sostenible, Institución Universitaria ITM, Medellín, Colombia
-  corresponding: true
-  email: kjzapatat@gmail.com
-keywords:
-- Riesgo sísmico
-- Reducción del riesgo
-- Gestión del riesgo de desastres
-- Amenaza sísmica
-- Vulnerabilidad sísmica
+    - name: Universidad Francisco de Paula Santander Ocaña – Grupo GIGMA
+- name: Romel J. Gallardo Amaya
+  affiliations:
+    - name: Universidad Francisco de Paula Santander Ocaña – Grupo GIGMA
+- name: Ray C. Ramírez Rincón
+  affiliations:
+    - name: Universidad Francisco de Paula Santander Ocaña – Grupo GIGMA
 abstract: |
-  Se realizó un análisis del riesgo sísmico en el Corregimiento de San Cristóbal, Medellín, considerando un enfoque determinista de la amenaza sísmica definida en el Plan Municipal de Gestión del Riesgo de Desastres. Para este propósito, se integraron los datos obtenidos de Google Street View, MapGis9 y la base de datos catastral, junto con las curvas de fragilidad ajustadas a las edificaciones dentro del área de estudio. Estas edificaciones fueron agrupadas en polígonos homogéneos, excluyendo zonas afectadas por condiciones de riesgo asociadas a movimientos en masa, inundaciones y avenidas torrenciales.
-
-  El análisis se realizó con el software OpenQuake Engine, aplicando las Ecuaciones de Predicción de Movimiento Fuerte del Suelo empleadas en el Modelo Nacional de Amenaza Sísmica. Este proceso permitió estimar la intensidad de movimiento del suelo, daños en las edificaciones y costos de reposición en caso de colapso.
-
-  Con base en los resultados, se diseñaron estrategias para reducir el riesgo sísmico, incluyendo medidas estructurales y no estructurales. Estas estrategias buscan orientar intervenciones y fortalecer la resiliencia comunitaria para la gestión del riesgo sísmico.
+  Modelación hidráulica con HEC-RAS y teledetección con drone para la gestión del riesgo de inundaciones urbanas en Ocaña, Norte de Santander.
 categories:
-- Comunidades de aprendizaje y participación
 - Datos, modelación, IA, innovación social y herramientas digitales
 ---
 
-**Perfil quién presenta el trabajo:** Ingeniera Civil, Especialista en Gestión del Riesgo de Desastres y Magíster en Desarrollo Sostenible, con experiencia en gestión territorial del riesgo y planificación en el sector de servicios públicos domiciliarios, actualmente vinculada a EPM. Candidata a especialista en Gerencia de Riesgos y Seguros. Bombera Voluntaria del Cuerpo de Bomberos Voluntarios de Envigado, con enfoque en la reducción del riesgo, la resiliencia territorial y la articulación entre la gestión operativa y estratégica.
+## Poster
+
+<iframe src="https://drive.google.com/file/d/1yhmyLsCdBuHugB7RiFuJYoD3f5mvyWYr/preview" width="100%" height="700" allowfullscreen></iframe>

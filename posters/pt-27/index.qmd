@@ -1,24 +1,16 @@
 ---
-title: Transformaciones en la gestión del riesgo de desastres por vía de actuaciones reglamentarias
+title: Cambios en los Aportes Hídricos en la Ciénaga Grande de Santa Marta
 author:
-- name: Jorge-Eduardo Vásquez-Santamaría
+- name: Angélica Bejarano
   affiliations:
-    - name: Grupo de Investigaciones Jurídicas y Sociales, Facultad de Derecho y Ciencias Políticas, Universidad Católica Luis Amigó, Medellín, Colombia
-  corresponding: true
-  email: jorge.vasquezsa@amigo.edu.co
-- name: Leidys-Helena Rivera-Quiroz
-  affiliations:
-    - name: Grupo de Investigaciones en Farmacodependencia y Otras Adicciones, Universidad Católica Luis Amigó, Medellín, Colombia
-  email: leidys.riveraqu@amigo.edu.co
-keywords:
-- Gestión del riesgo de desastres
-- Actuación administrativa
-- Plan de gestión del riesgo de desastres
-- Estrategia de respuesta a emergencias
+    - name: Universidad del Rosario – Ciencias del Sistema Tierra
 abstract: |
-  Con base en la pregunta ¿qué transformaciones operan en el ámbito especial administrativo de la gestión del riesgo de desastres (GRD) de Colombia a partir de las actuaciones de la administración exigidas por el modelo de Estado Social y Democrático de Derecho?, este trabajo comparte resultados parciales que emergen del análisis de algunas de esas transformaciones en las regiones del Caribe, el Pacífico y la Amazonía-Orinoquía, apoyándose en la exploración de las actuaciones reglamentarias recogidas en instrumentos propios de planeación del ordenamiento territorial de entidades locales. Para desarrollar ese análisis, se usó el modelo cualitativo siguiendo la estrategia documental, el empleo de derroteros de hermenéutica jurídica, y análisis estadísticos de tipo distribución de frecuencias que buscan dar encuadre a la problemática.
+  Evaluación de los cambios hidroclimáticos y de cobertura vegetal que han reducido la capacidad reguladora e hídrica de la cuenca de la Ciénaga Grande de Santa Marta entre 1985 y 2023.
 categories:
 - Planeación y ordenamiento que incorpora la GRD
+- Adaptación al cambio climático desde el enfoque de Eco-Reducción (Eco-RRD)
 ---
 
-**Perfil quién presenta el trabajo:** Jorge-Eduardo Vásquez-Santamaría es Doctor en Derecho y docente investigador del Grupo de Investigaciones Jurídicas y Sociales de la Facultad de Derecho y Ciencias Políticas de la Universidad Católica Luis Amigó, Medellín, Colombia. Leidys-Helena Rivera-Quiroz es Magíster en Epidemiología y docente investigadora del Grupo de Investigaciones en Farmacodependencia y Otras Adicciones de la Universidad Católica Luis Amigó, Medellín, Colombia.
+## Poster
+
+<iframe src="https://drive.google.com/file/d/1aE_IcLloJqh9YjJ3xK7cHVjn4J6KVHpZ/preview" width="100%" height="700" allowfullscreen></iframe>

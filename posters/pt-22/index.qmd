@@ -1,24 +1,33 @@
 ---
-title: Los manglares como ecosistemas estratégicos para la prevención de inundaciones, estudio de caso San Bernardo del Viento, Córdoba
+title: Invertir en prevención - responsabilidad fiscal y sostenibilidad en la gestión del riesgo de desastres
 author:
-- name: Marcela Guerrero
+- name: Diana Caicedo E.
   affiliations:
-    - name: Ingeniera Topográfica, Máster en Cambio Global, Recursos Naturales y Sostenibilidad, Escuela Superior de Administración Pública, Barranquilla, Colombia
-  corresponding: true
-  email: Marcela.guerrero@esap.edu.co
-- name: Miguel Ángel Díaz Salas
+    - name: ORFE – Universidad Nacional de Colombia · Universidad La Salle México · FUNSEMEVI · Fundación Almalina · GNDR · Trendmakers Red Nacional del Agua
+- name: Jaider Agudelo
   affiliations:
-    - name: Ingeniero Topográfico, Magíster en Gestión Urbana, Universidad Manuela Beltrán, Bogotá, Colombia
-  email: miguel.diazs@docentes.umb.edu.co
-keywords:
-- Manglar
-- Inundaciones
-- Ordenamiento territorial
-- Vulnerabilidad
-- Cobertura del suelo
+    - name: ORFE – Universidad Nacional de Colombia · Universidad La Salle México · FUNSEMEVI · Fundación Almalina · GNDR · Trendmakers Red Nacional del Agua
+- name: Tatiana Soler
+  affiliations:
+    - name: ORFE – Universidad Nacional de Colombia · Universidad La Salle México · FUNSEMEVI · Fundación Almalina · GNDR · Trendmakers Red Nacional del Agua
+- name: Nicolás Romero
+  affiliations:
+    - name: ORFE – Universidad Nacional de Colombia · Universidad La Salle México · FUNSEMEVI · Fundación Almalina · GNDR · Trendmakers Red Nacional del Agua
+- name: Christian Benítez
+  affiliations:
+    - name: ORFE – Universidad Nacional de Colombia · Universidad La Salle México · FUNSEMEVI · Fundación Almalina · GNDR · Trendmakers Red Nacional del Agua
+- name: Betty Enríquez
+  affiliations:
+    - name: ORFE – Universidad Nacional de Colombia · Universidad La Salle México · FUNSEMEVI · Fundación Almalina · GNDR · Trendmakers Red Nacional del Agua
+- name: Mateo Narváez
+  affiliations:
+    - name: ORFE – Universidad Nacional de Colombia · Universidad La Salle México · FUNSEMEVI · Fundación Almalina · GNDR · Trendmakers Red Nacional del Agua
 abstract: |
-  El trabajo que se presentará a continuación pretende evidenciar que los servicios ecosistémicos que brindan los manglares a las comunidades aledañas, específicamente frente a las inundaciones, también pueden ser un detonante de riesgo dado que, si estos ecosistemas no se encuentran en buenas condiciones, ya no cumplen con su función y se convierten en sinónimo de amenaza para las comunidades. En el desarrollo de esta investigación se muestra cómo la ausencia de delimitación de rondas hídricas, la inexistencia de medidas de protección y restricción sobre el uso del suelo en el ordenamiento territorial, la transformación acelerada de las coberturas de la tierra y el desconocimiento de las comunidades aledañas respecto del funcionamiento y de los beneficios de los manglares, ha originado el aumento de la exposición y de la vulnerabilidad de las comunidades frente a la recurrencia de las inundaciones.
+  Diálogo técnico intersectorial sobre inversión preventiva, responsabilidad fiscal y gobernanza sostenible del riesgo de desastres.
 categories:
-- Planeación y ordenamiento que incorpora la GRD
-- Adaptación al cambio climático desde el enfoque de Eco-Reducción (Eco-RRD)
+- Comunidades de aprendizaje y participación
 ---
+
+## Poster
+
+<iframe src="https://drive.google.com/file/d/1-5BKmIUaD4KT6B7B06Drq32ZoRKMBzeA/preview" width="100%" height="700" allowfullscreen></iframe>
