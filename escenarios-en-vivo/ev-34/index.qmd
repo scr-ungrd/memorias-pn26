@@ -26,4 +26,8 @@ categories:
 - Datos, modelación, IA, innovación social y herramientas digitales
 ---
 
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/1lyDPFXyk21llpGzr2TnwKRQ9GCzX_e9K/preview" width="100%" height="480" allowfullscreen></iframe>
+
 **Perfil quién presenta el trabajo:** Ingeniero Civil, Especialista en Sistemas de Información Geográfica y Magíster en Catastro y Gestión Territorial. Cuenta con doce años de experiencia en el diseño e implementación de sistemas de información geográfica aplicados a la gestión territorial. Se desempeña como profesional de planta de la Gobernación de Boyacá, adscrito a la Unidad Administrativa Especial para la Gestión del Riesgo de Desastres (UAEGRD), donde lidera el proceso de conocimiento del riesgo y la integración de herramientas geoespaciales y sistemas de información para el fortalecimiento institucional de la gestión del riesgo en el Departamento.
