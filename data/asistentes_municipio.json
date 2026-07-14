@@ -1,0 +1,1697 @@
+[
+ {
+  "departamento": "Bogotá D.C.",
+  "municipio": "Bogotá D.C.",
+  "asistentes": 1579
+ },
+ {
+  "departamento": "Antioquia",
+  "municipio": "Medellín",
+  "asistentes": 62
+ },
+ {
+  "departamento": "Valle del Cauca",
+  "municipio": "Santiago de Cali",
+  "asistentes": 57
+ },
+ {
+  "departamento": "Casanare",
+  "municipio": "Yopal",
+  "asistentes": 42
+ },
+ {
+  "departamento": "Tolima",
+  "municipio": "Ibagué",
+  "asistentes": 37
+ },
+ {
+  "departamento": "Córdoba",
+  "municipio": "Montería",
+  "asistentes": 33
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Zipaquirá",
+  "asistentes": 32
+ },
+ {
+  "departamento": "Atlántico",
+  "municipio": "Barranquilla",
+  "asistentes": 31
+ },
+ {
+  "departamento": "Nariño",
+  "municipio": "San Juan de Pasto",
+  "asistentes": 31
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Chía",
+  "asistentes": 31
+ },
+ {
+  "departamento": "Cauca",
+  "municipio": "Popayán",
+  "asistentes": 30
+ },
+ {
+  "departamento": "Cesar",
+  "municipio": "Valledupar",
+  "asistentes": 25
+ },
+ {
+  "departamento": "Bolívar",
+  "municipio": "Cartagena de Indias",
+  "asistentes": 25
+ },
+ {
+  "departamento": "Norte de Santander",
+  "municipio": "San José de Cúcuta",
+  "asistentes": 23
+ },
+ {
+  "departamento": "Meta",
+  "municipio": "Villavicencio",
+  "asistentes": 22
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Girardot",
+  "asistentes": 21
+ },
+ {
+  "departamento": "Risaralda",
+  "municipio": "Pereira",
+  "asistentes": 20
+ },
+ {
+  "departamento": "Santander",
+  "municipio": "Bucaramanga",
+  "asistentes": 19
+ },
+ {
+  "departamento": "Magdalena",
+  "municipio": "Santa Marta",
+  "asistentes": 19
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Paratebueno",
+  "asistentes": 19
+ },
+ {
+  "departamento": "Caldas",
+  "municipio": "Manizales",
+  "asistentes": 18
+ },
+ {
+  "departamento": "Chocó",
+  "municipio": "Quibdó",
+  "asistentes": 18
+ },
+ {
+  "departamento": "Putumayo",
+  "municipio": "San Miguel de Mocoa",
+  "asistentes": 18
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Villa de San Diego de Ubaté",
+  "asistentes": 17
+ },
+ {
+  "departamento": "Boyacá",
+  "municipio": "Tunja",
+  "asistentes": 16
+ },
+ {
+  "departamento": "La Guajira",
+  "municipio": "Riohacha",
+  "asistentes": 15
+ },
+ {
+  "departamento": "Huila",
+  "municipio": "Neiva",
+  "asistentes": 15
+ },
+ {
+  "departamento": "Quindío",
+  "municipio": "Armenia",
+  "asistentes": 14
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Soacha",
+  "asistentes": 14
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Cajicá",
+  "asistentes": 13
+ },
+ {
+  "departamento": "Caquetá",
+  "municipio": "Florencia",
+  "asistentes": 13
+ },
+ {
+  "departamento": "Vichada",
+  "municipio": "Puerto Carreño",
+  "asistentes": 12
+ },
+ {
+  "departamento": "Amazonas",
+  "municipio": "Leticia",
+  "asistentes": 12
+ },
+ {
+  "departamento": "Cauca",
+  "municipio": "Puracé",
+  "asistentes": 10
+ },
+ {
+  "departamento": "Guainía",
+  "municipio": "Puerto Inírida",
+  "asistentes": 10
+ },
+ {
+  "departamento": "Guaviare",
+  "municipio": "San José del Guaviare",
+  "asistentes": 10
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Cogua",
+  "asistentes": 10
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Medina",
+  "asistentes": 10
+ },
+ {
+  "departamento": "Cesar",
+  "municipio": "Pueblo Bello",
+  "asistentes": 9
+ },
+ {
+  "departamento": "Nariño",
+  "municipio": "Tumaco",
+  "asistentes": 9
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Fusagasugá",
+  "asistentes": 8
+ },
+ {
+  "departamento": "Tolima",
+  "municipio": "Natagaima",
+  "asistentes": 7
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Sopó",
+  "asistentes": 7
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Cota",
+  "asistentes": 7
+ },
+ {
+  "departamento": "Risaralda",
+  "municipio": "Dosquebradas",
+  "asistentes": 7
+ },
+ {
+  "departamento": "Santander",
+  "municipio": "Floridablanca",
+  "asistentes": 7
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Guasca",
+  "asistentes": 7
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Mosquera",
+  "asistentes": 7
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "El Rosal",
+  "asistentes": 7
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Puerto Salgar",
+  "asistentes": 7
+ },
+ {
+  "departamento": "Sucre",
+  "municipio": "Tolú",
+  "asistentes": 7
+ },
+ {
+  "departamento": "San Andrés y Providencia",
+  "municipio": "San Andrés",
+  "asistentes": 6
+ },
+ {
+  "departamento": "Boyacá",
+  "municipio": "Sogamoso",
+  "asistentes": 6
+ },
+ {
+  "departamento": "Valle del Cauca",
+  "municipio": "Buenaventura",
+  "asistentes": 6
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Madrid",
+  "asistentes": 6
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Gachalá",
+  "asistentes": 6
+ },
+ {
+  "departamento": "Valle del Cauca",
+  "municipio": "Yumbo",
+  "asistentes": 5
+ },
+ {
+  "departamento": "Tolima",
+  "municipio": "Melgar",
+  "asistentes": 5
+ },
+ {
+  "departamento": "Valle del Cauca",
+  "municipio": "Jamundí",
+  "asistentes": 5
+ },
+ {
+  "departamento": "Sucre",
+  "municipio": "Sincelejo",
+  "asistentes": 5
+ },
+ {
+  "departamento": "Bolívar",
+  "municipio": "San Jacinto",
+  "asistentes": 5
+ },
+ {
+  "departamento": "Santander",
+  "municipio": "Socorro",
+  "asistentes": 4
+ },
+ {
+  "departamento": "Valle del Cauca",
+  "municipio": "Tuluá",
+  "asistentes": 4
+ },
+ {
+  "departamento": "Antioquia",
+  "municipio": "Apartadó",
+  "asistentes": 4
+ },
+ {
+  "departamento": "Arauca",
+  "municipio": "Arauca",
+  "asistentes": 4
+ },
+ {
+  "departamento": "Boyacá",
+  "municipio": "Duitama",
+  "asistentes": 4
+ },
+ {
+  "departamento": "Tolima",
+  "municipio": "Chaparral",
+  "asistentes": 4
+ },
+ {
+  "departamento": "Santander",
+  "municipio": "Barrancabermeja",
+  "asistentes": 4
+ },
+ {
+  "departamento": "Vichada",
+  "municipio": "La Primavera",
+  "asistentes": 4
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Facatativá",
+  "asistentes": 4
+ },
+ {
+  "departamento": "Cauca",
+  "municipio": "Suárez",
+  "asistentes": 4
+ },
+ {
+  "departamento": "Córdoba",
+  "municipio": "Santa Cruz de Lorica",
+  "asistentes": 4
+ },
+ {
+  "departamento": "Santander",
+  "municipio": "Girón",
+  "asistentes": 4
+ },
+ {
+  "departamento": "Valle del Cauca",
+  "municipio": "Zarzal",
+  "asistentes": 4
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Tocancipá",
+  "asistentes": 4
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Ricaurte",
+  "asistentes": 4
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Pacho",
+  "asistentes": 4
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "El Colegio",
+  "asistentes": 4
+ },
+ {
+  "departamento": "Huila",
+  "municipio": "Pitalito",
+  "asistentes": 4
+ },
+ {
+  "departamento": "Cauca",
+  "municipio": "Santander de Quilichao",
+  "asistentes": 3
+ },
+ {
+  "departamento": "Antioquia",
+  "municipio": "Sabaneta",
+  "asistentes": 3
+ },
+ {
+  "departamento": "Valle del Cauca",
+  "municipio": "Dagua",
+  "asistentes": 3
+ },
+ {
+  "departamento": "Nariño",
+  "municipio": "Cumbal",
+  "asistentes": 3
+ },
+ {
+  "departamento": "Cesar",
+  "municipio": "Bosconia",
+  "asistentes": 3
+ },
+ {
+  "departamento": "Antioquia",
+  "municipio": "Bello",
+  "asistentes": 3
+ },
+ {
+  "departamento": "Risaralda",
+  "municipio": "Santa Rosa de Cabal",
+  "asistentes": 3
+ },
+ {
+  "departamento": "Tolima",
+  "municipio": "Carmen de Apicalá",
+  "asistentes": 3
+ },
+ {
+  "departamento": "La Guajira",
+  "municipio": "Dibulla",
+  "asistentes": 3
+ },
+ {
+  "departamento": "Sucre",
+  "municipio": "Coveñas",
+  "asistentes": 3
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Agua de Díos",
+  "asistentes": 3
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Chaguaní",
+  "asistentes": 3
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Gachancipá",
+  "asistentes": 3
+ },
+ {
+  "departamento": "Meta",
+  "municipio": "Guamal",
+  "asistentes": 3
+ },
+ {
+  "departamento": "Putumayo",
+  "municipio": "Puerto Asís",
+  "asistentes": 3
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "San Antonio del Tequendama",
+  "asistentes": 3
+ },
+ {
+  "departamento": "Cauca",
+  "municipio": "Villa Rica",
+  "asistentes": 3
+ },
+ {
+  "departamento": "Antioquia",
+  "municipio": "Rionegro",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Casanare",
+  "municipio": "Aguazul",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Sucre",
+  "municipio": "Guarandá",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Arauca",
+  "municipio": "Tame",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Nariño",
+  "municipio": "Santa Bárbara",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Antioquia",
+  "municipio": "La Ceja",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Putumayo",
+  "municipio": "San Miguel",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Santander",
+  "municipio": "San Gil",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Norte de Santander",
+  "municipio": "Ocaña",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Putumayo",
+  "municipio": "Puerto Guzmán",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Nariño",
+  "municipio": "Ipiales",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Funza",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Atlántico",
+  "municipio": "Sabanalarga",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Putumayo",
+  "municipio": "Sibundoy",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Bolívar",
+  "municipio": "Talaigua Nuevo",
+  "asistentes": 2
+ },
+ {
+  "departamento": "La Guajira",
+  "municipio": "Uribía",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Casanare",
+  "municipio": "San Luis de Palenque",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Huila",
+  "municipio": "La Plata",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Magdalena",
+  "municipio": "Ariguaní",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Nariño",
+  "municipio": "Nariño",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Nariño",
+  "municipio": "La Florida",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Valle del Cauca",
+  "municipio": "La Unión",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Huila",
+  "municipio": "La Argentina",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Boyacá",
+  "municipio": "Chiquinquirá",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Bolívar",
+  "municipio": "Córdoba",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Nariño",
+  "municipio": "Mosquera",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Córdoba",
+  "municipio": "San Pelayo",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Córdoba",
+  "municipio": "Momil",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Bolívar",
+  "municipio": "San Cristobal",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Antioquia",
+  "municipio": "Envigado",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Boyacá",
+  "municipio": "El Cocuy",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Cauca",
+  "municipio": "Sotará",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "La Mesa",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Boyacá",
+  "municipio": "Villa de Leyva",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Córdoba",
+  "municipio": "Puerto Escondido",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Antioquia",
+  "municipio": "Cáceres",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Córdoba",
+  "municipio": "Cereté",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Boyacá",
+  "municipio": "Paipa",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Córdoba",
+  "municipio": "San Bernardo del Viento",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Chocó",
+  "municipio": "Riosucio",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Meta",
+  "municipio": "Granada",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Nariño",
+  "municipio": "San Lorenzo",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Sucre",
+  "municipio": "San Marcos",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Atlántico",
+  "municipio": "Galapa",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Boyacá",
+  "municipio": "Soatá",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Cesar",
+  "municipio": "Becerríl",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Tolima",
+  "municipio": "Flandes",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Sutatausa",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Valle del Cauca",
+  "municipio": "El Cerrito",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Magdalena",
+  "municipio": "Aracataca",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Boyacá",
+  "municipio": "Nobsa",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Magdalena",
+  "municipio": "Ciénaga",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Casanare",
+  "municipio": "Tauramena",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Meta",
+  "municipio": "Acacías",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Fosca",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Cauca",
+  "municipio": "Guapí",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Cesar",
+  "municipio": "La Jagua de Ibirico",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Silvania",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Antioquia",
+  "municipio": "Necoclí",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Venecia",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Chocó",
+  "municipio": "Belén de Bajirá",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Sucre",
+  "municipio": "San Onofre",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Antioquia",
+  "municipio": "Copacabana",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Chocó",
+  "municipio": "Acandí",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Cauca",
+  "municipio": "El Tambo",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Nariño",
+  "municipio": "La Tola",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Córdoba",
+  "municipio": "Ayapel",
+  "asistentes": 2
+ },
+ {
+  "departamento": "Cesar",
+  "municipio": "Chiriguaná",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Nariño",
+  "municipio": "Ricaurte",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Antioquia",
+  "municipio": "Santuario",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "La Calera",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Sucre",
+  "municipio": "Ovejas",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Huila",
+  "municipio": "Timaná",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Caldas",
+  "municipio": "Villamaría",
+  "asistentes": 1
+ },
+ {
+  "departamento": "La Guajira",
+  "municipio": "Maicao",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Huila",
+  "municipio": "Algeciras",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Tolima",
+  "municipio": "Dolores",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Valle del Cauca",
+  "municipio": "Ansermanuevo",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Norte de Santander",
+  "municipio": "Pamplona",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Cauca",
+  "municipio": "Páez",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "La Palma",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Caquetá",
+  "municipio": "Albania",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Bolívar",
+  "municipio": "Magangué",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Valle del Cauca",
+  "municipio": "Cartago",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Santander",
+  "municipio": "Coromoro",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Antioquia",
+  "municipio": "Caucasia",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Antioquia",
+  "municipio": "Santa Rosa de Osos",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Boyacá",
+  "municipio": "Tipacoque",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Huila",
+  "municipio": "Tarquí",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Cauca",
+  "municipio": "Inzá",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Córdoba",
+  "municipio": "Cotorra",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Boyacá",
+  "municipio": "Aquitania",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Chocó",
+  "municipio": "Tadó",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Cauca",
+  "municipio": "Rosas",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Norte de Santander",
+  "municipio": "Arboledas",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Magdalena",
+  "municipio": "El Piñón",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Arauca",
+  "municipio": "Arauquita",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Córdoba",
+  "municipio": "Ciénaga de Oro",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Huila",
+  "municipio": "Villavieja",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Norte de Santander",
+  "municipio": "Toledo",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Nariño",
+  "municipio": "Gualmatán",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Valle del Cauca",
+  "municipio": "Palmira",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Chocó",
+  "municipio": "Atrato",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Santander",
+  "municipio": "Guaca",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Boyacá",
+  "municipio": "Moniquirá",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Risaralda",
+  "municipio": "Guática",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Tolima",
+  "municipio": "Honda",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Valle del Cauca",
+  "municipio": "Guadalajara de Buga",
+  "asistentes": 1
+ },
+ {
+  "departamento": "La Guajira",
+  "municipio": "Villanueva",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Santander",
+  "municipio": "Landázuri",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Guayabetal",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Santander",
+  "municipio": "Betulia",
+  "asistentes": 1
+ },
+ {
+  "departamento": "La Guajira",
+  "municipio": "Distracción",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Norte de Santander",
+  "municipio": "El Carmen",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Valle del Cauca",
+  "municipio": "Florida",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Huila",
+  "municipio": "San Agustín",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Guayabal de Síquima",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Antioquia",
+  "municipio": "Carepa",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Antioquia",
+  "municipio": "Itagüí",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Bolívar",
+  "municipio": "El Carmen de Bolívar",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Córdoba",
+  "municipio": "La Apartada",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Nariño",
+  "municipio": "Consacá",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Bolívar",
+  "municipio": "Turbaco",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Bolívar",
+  "municipio": "Mahates",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Córdoba",
+  "municipio": "Montelíbano",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Santander",
+  "municipio": "San Vicente de Chucurí",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Bolívar",
+  "municipio": "Soplaviento",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Cesar",
+  "municipio": "Chimichagua",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Huila",
+  "municipio": "Campoalegre",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Bolívar",
+  "municipio": "Achí",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Cauca",
+  "municipio": "Buenos Aires",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Boyacá",
+  "municipio": "Muzo",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Boyacá",
+  "municipio": "Firavitoba",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Córdoba",
+  "municipio": "Planeta Rica",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Córdoba",
+  "municipio": "San Carlos",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Antioquia",
+  "municipio": "Puerto Triunfo",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Boyacá",
+  "municipio": "Puerto Boyacá",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Sucre",
+  "municipio": "Majagual",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Boyacá",
+  "municipio": "Garagoa",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Antioquia",
+  "municipio": "Chigorodó",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Córdoba",
+  "municipio": "Valencia",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Tenjo",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Cáqueza",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Tolima",
+  "municipio": "Saldaña",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Atlántico",
+  "municipio": "Soledad",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Subachoque",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "San Juan de Río Seco",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Sibaté",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Suesca",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Anolaima",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Tolima",
+  "municipio": "Lérida",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Útica",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Magdalena",
+  "municipio": "El Banco",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Nariño",
+  "municipio": "Pupiales",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Cesar",
+  "municipio": "Tamalameque",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Atlántico",
+  "municipio": "Puerto Colombia",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Tolima",
+  "municipio": "Líbano",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Nemocón",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Cesar",
+  "municipio": "La Gloria",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Cesar",
+  "municipio": "Pelaya",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Cesar",
+  "municipio": "Aguachica",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Bojacá",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Santander",
+  "municipio": "Hato",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Córdoba",
+  "municipio": "Moñitos",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Santander",
+  "municipio": "Bolívar",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Meta",
+  "municipio": "Puerto López",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Cesar",
+  "municipio": "El Paso",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Córdoba",
+  "municipio": "Puerto Libertador",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Magdalena",
+  "municipio": "Guamal",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Cauca",
+  "municipio": "Miranda",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Nariño",
+  "municipio": "San Bernardo",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Gachetá",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Córdoba",
+  "municipio": "Tierralta",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Córdoba",
+  "municipio": "Pueblo Nuevo",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Antioquia",
+  "municipio": "Tarazá",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Santander",
+  "municipio": "California",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Antioquia",
+  "municipio": "Arboletes",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Chocó",
+  "municipio": "Río Quito",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Caldas",
+  "municipio": "Chinchiná",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Valle del Cauca",
+  "municipio": "La Cumbre",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Magdalena",
+  "municipio": "Nueva Granada",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Santander",
+  "municipio": "Galán",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Norte de Santander",
+  "municipio": "Los Patios",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Cucunubá",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Antioquia",
+  "municipio": "El Bagre",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Bolívar",
+  "municipio": "Clemencia",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Cesar",
+  "municipio": "San Diego",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Villapinzón",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Cauca",
+  "municipio": "Timbiquí",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Nariño",
+  "municipio": "Samaniego",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Casanare",
+  "municipio": "Nunchía",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Nariño",
+  "municipio": "Sapuyes",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Nariño",
+  "municipio": "Yacuanquér",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Cauca",
+  "municipio": "Corinto",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Santander",
+  "municipio": "El Carmen de Chucurí",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Sucre",
+  "municipio": "Los Palmitos",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Nariño",
+  "municipio": "Guachucal",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Casanare",
+  "municipio": "Hato Corozal",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Nariño",
+  "municipio": "Arboleda",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Boyacá",
+  "municipio": "Mongua",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Tolima",
+  "municipio": "Ortega",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Magdalena",
+  "municipio": "Plato",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Antioquia",
+  "municipio": "Amagá",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Antioquia",
+  "municipio": "Urrao",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Antioquia",
+  "municipio": "Gómez Plata",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Antioquia",
+  "municipio": "Caicedo",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Vaupés",
+  "municipio": "Mitú",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Casanare",
+  "municipio": "Trinidad",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Casanare",
+  "municipio": "La Salina",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Casanare",
+  "municipio": "Chámeza",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Meta",
+  "municipio": "Puerto Gaitán",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Putumayo",
+  "municipio": "Santiago",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Bolívar",
+  "municipio": "Cantagallo",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Santander",
+  "municipio": "Piedecuesta",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Cesar",
+  "municipio": "El Copey",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Tolima",
+  "municipio": "Coyaima",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Vaupés",
+  "municipio": "Carurú",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Cauca",
+  "municipio": "Puerto Tejada",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Huila",
+  "municipio": "Yaguará",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Tabio",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Meta",
+  "municipio": "Vista Hermosa",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Cundinamarca",
+  "municipio": "Quetame",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Caquetá",
+  "municipio": "San Vicente del Caguán",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Putumayo",
+  "municipio": "Puerto Caicedo",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Antioquia",
+  "municipio": "Anorí",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Cesar",
+  "municipio": "San Alberto",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Antioquia",
+  "municipio": "Puerto Berrío",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Nariño",
+  "municipio": "Túquerres",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Santander",
+  "municipio": "Vetas",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Bolívar",
+  "municipio": "Norosí",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Chocó",
+  "municipio": "Bahía Solano",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Chocó",
+  "municipio": "Bajo Baudó",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Chocó",
+  "municipio": "Docordó",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Cauca",
+  "municipio": "López de Micay",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Nariño",
+  "municipio": "Francisco Pizarro",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Chocó",
+  "municipio": "Medio Baudó",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Nariño",
+  "municipio": "El Charco",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Nariño",
+  "municipio": "Olaya Herrera",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Tolima",
+  "municipio": "Armero",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Tolima",
+  "municipio": "Palo Cabildo",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Boyacá",
+  "municipio": "Topagá",
+  "asistentes": 1
+ },
+ {
+  "departamento": "San Andrés y Providencia",
+  "municipio": "Providencia",
+  "asistentes": 1
+ },
+ {
+  "departamento": "Cauca",
+  "municipio": "Caloto",
+  "asistentes": 1
+ }
+]
