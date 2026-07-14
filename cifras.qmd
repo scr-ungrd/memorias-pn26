@@ -1,0 +1,364 @@
+---
+title: "Cifras de la plataforma"
+---
+
+# Cifras de participación
+
+La Plataforma Nacional de Gestión del Riesgo de Desastres 2026 convocó personas de todo el territorio colombiano. A partir del listado depurado de inscritos, esta sección presenta la distribución geográfica de los y las asistentes por departamento y municipio.
+
+```{ojs}
+//| echo: false
+topo         = FileAttachment("data/colombia_moderate.topojson").json()
+asis_dep_raw = FileAttachment("data/asistentes_departamento.json").json()
+asis_mun_raw = FileAttachment("data/asistentes_municipio.json").json()
+
+dept = topojson.feature(topo, topo.objects.departamentos)
+mun  = topojson.feature(topo, topo.objects.municipios)
+
+nombres_deptos = ["— Colombia (todos) —",
+  ...new Set(dept.features.map(f => f.properties.departamento).sort())
+]
+
+asis_dep_index = new Map(asis_dep_raw.map(d => [d.departamento, d.asistentes]))
+asis_mun_index = new Map(asis_mun_raw.map(d => [`${d.departamento}|${d.municipio}`, d.asistentes]))
+
+total_asistentes  = d3.sum(asis_dep_raw, d => d.asistentes)
+n_deptos_con_datos = asis_dep_raw.filter(d => d.asistentes > 0).length
+n_municipios_con_datos = asis_mun_raw.length
+top_depto = asis_dep_raw.slice().sort((a, b) => d3.descending(a.asistentes, b.asistentes))[0]
+top_ciudad_raw = asis_mun_raw.slice().sort((a, b) => d3.descending(a.asistentes, b.asistentes))[0]
+```
+
+```{ojs}
+//| echo: false
+html`<div style="display:flex;flex-wrap:wrap;gap:14px;margin:1.2rem 0 1.6rem">
+  ${[
+    ["Asistentes con ubicación identificada", total_asistentes.toLocaleString("es-CO")],
+    ["Departamentos representados", `${n_deptos_con_datos} / 33`],
+    ["Municipios representados", n_municipios_con_datos.toLocaleString("es-CO")],
+    ["Departamento con más asistentes", `${top_depto.departamento} · ${top_depto.asistentes.toLocaleString("es-CO")}`]
+  ].map(([label, value]) => `
+    <div style="
+      flex:1 1 200px;
+      background:rgba(0,172,168,0.08);
+      border-left:4px solid #00ACA8;
+      border-radius:6px;
+      padding:0.85rem 1rem;
+    ">
+      <div style="font-size:0.72rem;text-transform:uppercase;letter-spacing:0.05em;opacity:0.75;margin-bottom:0.3rem">
+        ${label}
+      </div>
+      <div style="font-size:1.5rem;font-weight:700;color:#00827f;font-family:'Lato','Roboto',sans-serif">
+        ${value}
+      </div>
+    </div>
+  `).join("")}
+</div>`
+```
+
+## Mapa de asistentes por departamento y municipio
+
+Seleccione un departamento para ver la distribución de asistentes entre sus municipios.
+
+```{ojs}
+//| echo: false
+//| panel: input
+
+viewof depto_map = Inputs.select(nombres_deptos, {
+  label: "📍 Departamento",
+  value: "— Colombia (todos) —"
+})
+```
+
+```{ojs}
+//| echo: false
+
+dept_filtrado = depto_map === "— Colombia (todos) —"
+  ? dept
+  : ({
+      type: "FeatureCollection",
+      features: dept.features.filter(
+        f => f.properties.departamento === depto_map
+      )
+    })
+
+mun_filtrado = depto_map === "— Colombia (todos) —"
+  ? null
+  : ({
+      type: "FeatureCollection",
+      features: mun.features.filter(
+        f => f.properties.departamento === depto_map
+      )
+    })
+
+n_municipios   = mun_filtrado ? mun_filtrado.features.length : null
+n_asis_depto   = depto_map === "— Colombia (todos) —" ? null : (asis_dep_index.get(depto_map) ?? 0)
+```
+
+```{ojs}
+//| echo: false
+
+// Rampa secuencial de un solo tono (teal institucional), claro → oscuro.
+// El primer paso está reservado para "sin asistentes registrados".
+ramp_teal = ["#e2e8f0", "#c7ece9", "#8fd9d4", "#4dc1ba", "#00ACA8", "#00827f", "#00514f"]
+
+escala_magnitud = d3.scaleQuantize().domain([0, 1]).range(ramp_teal.slice(1))
+
+max_dep_sqrt = Math.sqrt(d3.max(asis_dep_raw, d => d.asistentes))
+max_mun_sqrt = Math.sqrt(d3.max(asis_mun_raw, d => d.asistentes))
+
+color_dep = f => {
+  const v = asis_dep_index.get(f.properties.departamento) ?? 0
+  return v === 0 ? ramp_teal[0] : escala_magnitud(Math.sqrt(v) / max_dep_sqrt)
+}
+
+color_mun_fn = f => {
+  const key = `${f.properties.departamento}|${f.properties.municipio}`
+  const v = asis_mun_index.get(key) ?? 0
+  return v === 0 ? ramp_teal[0] : escala_magnitud(Math.sqrt(v) / max_mun_sqrt)
+}
+```
+
+```{ojs}
+//| echo: false
+
+{
+  const width  = 860
+  const height = 680
+
+  const container = d3.create("div")
+    .style("position", "relative")
+    .style("font-family", "system-ui, sans-serif")
+
+  const svg = container.append("svg")
+    .attr("width",   "100%")
+    .attr("viewBox", `0 0 ${width} ${height}`)
+    .style("background", "#f7f9fb")
+    .style("border-radius", "12px")
+
+  const geo_base = depto_map === "— Colombia (todos) —" ? dept : dept_filtrado
+
+  const projection = d3.geoMercator()
+    .fitExtent([[20, 20], [width - 20, height - 60]], geo_base)
+
+  const path = d3.geoPath().projection(projection)
+
+  const capaDeptos = svg.append("g")
+    .selectAll("path")
+    .data(dept.features)
+    .join("path")
+      .attr("d", path)
+      .attr("fill",   depto_map === "— Colombia (todos) —" ? color_dep : "#e8ddc4")
+      .attr("stroke", "#b8a98a")
+      .attr("stroke-width", 0.5)
+
+  if (mun_filtrado) {
+    svg.append("g")
+      .selectAll("path")
+      .data(mun_filtrado.features)
+      .join("path")
+        .attr("d", path)
+        .attr("fill",   color_mun_fn)
+        .attr("fill-opacity", 0.92)
+        .attr("stroke", "#00514f")
+        .attr("stroke-width", 0.6)
+  }
+
+  if (depto_map !== "— Colombia (todos) —") {
+    svg.append("g")
+      .selectAll("path")
+      .data(dept_filtrado.features)
+      .join("path")
+        .attr("d", path)
+        .attr("fill",         "none")
+        .attr("stroke",       "#003a70")
+        .attr("stroke-width", 2.5)
+  }
+
+  // --- interacción: tooltip + resalte ---
+  const tooltip = container.append("div")
+    .style("position",       "absolute")
+    .style("pointer-events", "none")
+    .style("background",     "rgba(26,60,94,0.92)")
+    .style("color",          "white")
+    .style("padding",        "6px 11px")
+    .style("border-radius",  "6px")
+    .style("font-size",      "12px")
+    .style("line-height",    "1.4")
+    .style("display",        "none")
+
+  function fmt(n) {
+    return n.toLocaleString("es-CO") + (n === 1 ? " asistente" : " asistentes")
+  }
+
+  if (depto_map === "— Colombia (todos) —") {
+    capaDeptos
+      .on("mouseover", function(event, d) {
+        d3.select(this).attr("stroke", "#003a70").attr("stroke-width", 1.5)
+        const v = asis_dep_index.get(d.properties.departamento) ?? 0
+        tooltip.style("display", "block")
+          .html(`<b>${d.properties.departamento}</b><br>${fmt(v)}`)
+      })
+      .on("mousemove", function(event) {
+        const [mx, my] = d3.pointer(event, container.node())
+        tooltip.style("left", (mx + 12) + "px").style("top", (my - 34) + "px")
+      })
+      .on("mouseout", function() {
+        d3.select(this).attr("stroke", "#b8a98a").attr("stroke-width", 0.5)
+        tooltip.style("display", "none")
+      })
+  } else {
+    svg.selectAll("g:nth-child(2) path")
+      .on("mouseover", function(event, d) {
+        d3.select(this).attr("fill-opacity", 1).attr("stroke-width", 1.6)
+        const key = `${d.properties.departamento}|${d.properties.municipio}`
+        const v = asis_mun_index.get(key) ?? 0
+        tooltip.style("display", "block")
+          .html(`<b>${d.properties.municipio}</b><br>${fmt(v)}`)
+      })
+      .on("mousemove", function(event) {
+        const [mx, my] = d3.pointer(event, container.node())
+        tooltip.style("left", (mx + 12) + "px").style("top", (my - 34) + "px")
+      })
+      .on("mouseout", function() {
+        d3.select(this).attr("fill-opacity", 0.92).attr("stroke-width", 0.6)
+        tooltip.style("display", "none")
+      })
+  }
+
+  // --- barra inferior de contexto ---
+  const info_y = height - 35
+  const infobar = svg.append("g")
+
+  infobar.append("rect")
+    .attr("x", 0).attr("y", info_y - 10)
+    .attr("width", width).attr("height", 50)
+    .attr("fill", "rgba(26,60,94,0.75)")
+
+  const info_text = depto_map === "— Colombia (todos) —"
+    ? `Colombia · ${fmt(total_asistentes)} · ${n_deptos_con_datos} de 33 departamentos representados`
+    : `${depto_map} · ${fmt(n_asis_depto)} · ${n_municipios} municipio(s) con inscritos`
+
+  infobar.append("text")
+    .attr("x", width / 2).attr("y", info_y + 12)
+    .attr("text-anchor", "middle")
+    .attr("fill", "white")
+    .attr("font-size", "11px")
+    .text(info_text)
+
+  return container.node()
+}
+```
+
+```{ojs}
+//| echo: false
+
+// Leyenda de la rampa secuencial
+html`<div style="display:flex;align-items:center;gap:10px;margin:-0.4rem 0 1.4rem;font-size:0.78rem;flex-wrap:wrap">
+  <span style="display:flex;align-items:center;gap:4px">
+    <span style="display:inline-block;width:14px;height:14px;border-radius:3px;background:${ramp_teal[0]};border:1px solid #c9c9c9"></span>
+    Sin asistentes
+  </span>
+  <span>Menos asistentes</span>
+  <span style="display:flex;height:14px;border-radius:3px;overflow:hidden;border:1px solid #c9c9c9">
+    ${ramp_teal.slice(1).map(c => `<span style="display:inline-block;width:22px;height:14px;background:${c}"></span>`).join("")}
+  </span>
+  <span>Más asistentes</span>
+  <span style="opacity:0.7">(escala en raíz cuadrada para no saturar por Bogotá D.C.)</span>
+</div>`
+```
+
+## Asistencias por departamento
+
+```{ojs}
+//| echo: false
+
+deptos_ordenados = asis_dep_raw
+  .slice()
+  .sort((a, b) => d3.descending(a.asistentes, b.asistentes))
+```
+
+```{ojs}
+//| echo: false
+
+Plot.plot({
+  width: 700,
+  height: 560,
+  marginLeft: 170,
+  marginRight: 40,
+  style: { fontSize: "12px", fontFamily: "system-ui, sans-serif" },
+  x: { label: "Asistentes", grid: true, nice: true },
+  y: { label: null, domain: deptos_ordenados.map(d => d.departamento) },
+  marks: [
+    Plot.barX(deptos_ordenados, {
+      x: "asistentes",
+      y: "departamento",
+      fill: "#00ACA8",
+      rx: 4,
+      tip: true
+    }),
+    Plot.text(deptos_ordenados, {
+      x: "asistentes",
+      y: "departamento",
+      text: d => d.asistentes.toLocaleString("es-CO"),
+      dx: 6,
+      textAnchor: "start",
+      fill: "#00514f",
+      fontWeight: 700
+    }),
+    Plot.ruleX([0], { stroke: "#888" })
+  ]
+})
+```
+
+## Ciudades con mayor participación
+
+```{ojs}
+//| echo: false
+
+top_ciudades = asis_mun_raw
+  .slice()
+  .sort((a, b) => d3.descending(a.asistentes, b.asistentes))
+  .slice(0, 15)
+  .map(d => ({
+    etiqueta: d.municipio === d.departamento ? d.municipio : `${d.municipio} (${d.departamento})`,
+    asistentes: d.asistentes
+  }))
+```
+
+```{ojs}
+//| echo: false
+
+Plot.plot({
+  width: 700,
+  height: 430,
+  marginLeft: 190,
+  marginRight: 40,
+  style: { fontSize: "12px", fontFamily: "system-ui, sans-serif" },
+  x: { label: "Asistentes", grid: true, nice: true },
+  y: { label: null, domain: top_ciudades.map(d => d.etiqueta) },
+  marks: [
+    Plot.barX(top_ciudades, {
+      x: "asistentes",
+      y: "etiqueta",
+      fill: "#00ACA8",
+      rx: 4,
+      tip: true
+    }),
+    Plot.text(top_ciudades, {
+      x: "asistentes",
+      y: "etiqueta",
+      text: d => d.asistentes.toLocaleString("es-CO"),
+      dx: 6,
+      textAnchor: "start",
+      fill: "#00514f",
+      fontWeight: 700
+    }),
+    Plot.ruleX([0], { stroke: "#888" })
+  ]
+})
+```
+
+<p style="font-size:0.78rem;opacity:0.7;margin-top:0.6rem">
+Fuente: listado de inscritos a la Plataforma Nacional GRD 2026, ciudad y departamento homogenizados a la nomenclatura oficial DIVIPOLA. División político-administrativa: IGAC / GADM v4.1.
+</p>

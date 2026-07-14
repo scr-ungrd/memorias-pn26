@@ -1,0 +1,134 @@
+[
+ {
+  "departamento": "Amazonas",
+  "asistentes": 12
+ },
+ {
+  "departamento": "Antioquia",
+  "asistentes": 100
+ },
+ {
+  "departamento": "Arauca",
+  "asistentes": 7
+ },
+ {
+  "departamento": "Atlántico",
+  "asistentes": 37
+ },
+ {
+  "departamento": "Bogotá D.C.",
+  "asistentes": 1582
+ },
+ {
+  "departamento": "Bolívar",
+  "asistentes": 47
+ },
+ {
+  "departamento": "Boyacá",
+  "asistentes": 47
+ },
+ {
+  "departamento": "Caldas",
+  "asistentes": 20
+ },
+ {
+  "departamento": "Caquetá",
+  "asistentes": 16
+ },
+ {
+  "departamento": "Casanare",
+  "asistentes": 53
+ },
+ {
+  "departamento": "Cauca",
+  "asistentes": 68
+ },
+ {
+  "departamento": "Cesar",
+  "asistentes": 51
+ },
+ {
+  "departamento": "Chocó",
+  "asistentes": 31
+ },
+ {
+  "departamento": "Cundinamarca",
+  "asistentes": 295
+ },
+ {
+  "departamento": "Córdoba",
+  "asistentes": 61
+ },
+ {
+  "departamento": "Guainía",
+  "asistentes": 10
+ },
+ {
+  "departamento": "Guaviare",
+  "asistentes": 10
+ },
+ {
+  "departamento": "Huila",
+  "asistentes": 30
+ },
+ {
+  "departamento": "La Guajira",
+  "asistentes": 23
+ },
+ {
+  "departamento": "Magdalena",
+  "asistentes": 30
+ },
+ {
+  "departamento": "Meta",
+  "asistentes": 32
+ },
+ {
+  "departamento": "Nariño",
+  "asistentes": 71
+ },
+ {
+  "departamento": "Norte de Santander",
+  "asistentes": 30
+ },
+ {
+  "departamento": "Putumayo",
+  "asistentes": 29
+ },
+ {
+  "departamento": "Quindío",
+  "asistentes": 14
+ },
+ {
+  "departamento": "Risaralda",
+  "asistentes": 31
+ },
+ {
+  "departamento": "San Andrés y Providencia",
+  "asistentes": 7
+ },
+ {
+  "departamento": "Santander",
+  "asistentes": 52
+ },
+ {
+  "departamento": "Sucre",
+  "asistentes": 24
+ },
+ {
+  "departamento": "Tolima",
+  "asistentes": 67
+ },
+ {
+  "departamento": "Valle del Cauca",
+  "asistentes": 95
+ },
+ {
+  "departamento": "Vaupés",
+  "asistentes": 4
+ },
+ {
+  "departamento": "Vichada",
+  "asistentes": 16
+ }
+]

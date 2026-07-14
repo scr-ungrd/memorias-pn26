@@ -238,6 +238,7 @@ book:
         - posters/pt-28/index.qmd
         - posters/pt-29/index.qmd
         - posters/pt-30/index.qmd
+    - cifras.qmd
     - galeria-fotografica.qmd
 
 format:
