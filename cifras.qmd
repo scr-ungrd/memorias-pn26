@@ -2,7 +2,7 @@
 title: "Cifras de la plataforma"
 ---
 
-# Cifras de participación
+## Cifras de participación
 
 La Plataforma Nacional de Gestión del Riesgo de Desastres 2026 convocó personas de todo el territorio colombiano. A partir del listado depurado de inscritos, esta sección presenta la distribución geográfica de los y las asistentes por departamento y municipio.
 
@@ -54,6 +54,97 @@ html`<div style="display:flex;flex-wrap:wrap;gap:14px;margin:1.2rem 0 1.6rem">
     </div>
   `).join("")}
 </div>`
+```
+
+## Asistencias por departamento
+
+```{ojs}
+//| echo: false
+
+deptos_ordenados = asis_dep_raw
+  .slice()
+  .sort((a, b) => d3.descending(a.asistentes, b.asistentes))
+```
+
+```{ojs}
+//| echo: false
+
+Plot.plot({
+  width: 700,
+  height: 560,
+  marginLeft: 170,
+  marginRight: 40,
+  style: { fontSize: "12px", fontFamily: "system-ui, sans-serif" },
+  x: { label: "Asistentes", grid: true, nice: true },
+  y: { label: null, domain: deptos_ordenados.map(d => d.departamento) },
+  marks: [
+    Plot.barX(deptos_ordenados, {
+      x: "asistentes",
+      y: "departamento",
+      fill: "#00ACA8",
+      rx: 4,
+      tip: true
+    }),
+    Plot.text(deptos_ordenados, {
+      x: "asistentes",
+      y: "departamento",
+      text: d => d.asistentes.toLocaleString("es-CO"),
+      dx: 6,
+      textAnchor: "start",
+      fill: "#00514f",
+      fontWeight: 700
+    }),
+    Plot.ruleX([0], { stroke: "#888" })
+  ]
+})
+```
+
+## Ciudades con mayor participación
+
+```{ojs}
+//| echo: false
+
+top_ciudades = asis_mun_raw
+  .slice()
+  .sort((a, b) => d3.descending(a.asistentes, b.asistentes))
+  .slice(0, 15)
+  .map(d => ({
+    etiqueta: d.municipio === d.departamento ? d.municipio : `${d.municipio} (${d.departamento})`,
+    asistentes: d.asistentes
+  }))
+```
+
+```{ojs}
+//| echo: false
+
+Plot.plot({
+  width: 700,
+  height: 430,
+  marginLeft: 190,
+  marginRight: 40,
+  style: { fontSize: "12px", fontFamily: "system-ui, sans-serif" },
+  x: { label: "Asistentes", grid: true, nice: true },
+  y: { label: null, domain: top_ciudades.map(d => d.etiqueta) },
+  marks: [
+    Plot.barX(top_ciudades, {
+      x: "asistentes",
+      y: "etiqueta",
+      fill: "#00ACA8",
+      rx: 4,
+      tip: true
+    }),
+    Plot.text(top_ciudades, {
+      x: "asistentes",
+      y: "etiqueta",
+      text: d => d.asistentes.toLocaleString("es-CO"),
+      dx: 6,
+      textAnchor: "start",
+      fill: "#00514f",
+      fontWeight: 700
+    }),
+    Plot.ruleX([0], { stroke: "#888" })
+  ]
+})
 ```
 
 ## Mapa de asistentes por departamento y municipio
@@ -268,97 +359,7 @@ html`<div style="display:flex;align-items:center;gap:10px;margin:-0.4rem 0 1.4re
 </div>`
 ```
 
-## Asistencias por departamento
-
-```{ojs}
-//| echo: false
-
-deptos_ordenados = asis_dep_raw
-  .slice()
-  .sort((a, b) => d3.descending(a.asistentes, b.asistentes))
-```
-
-```{ojs}
-//| echo: false
-
-Plot.plot({
-  width: 700,
-  height: 560,
-  marginLeft: 170,
-  marginRight: 40,
-  style: { fontSize: "12px", fontFamily: "system-ui, sans-serif" },
-  x: { label: "Asistentes", grid: true, nice: true },
-  y: { label: null, domain: deptos_ordenados.map(d => d.departamento) },
-  marks: [
-    Plot.barX(deptos_ordenados, {
-      x: "asistentes",
-      y: "departamento",
-      fill: "#00ACA8",
-      rx: 4,
-      tip: true
-    }),
-    Plot.text(deptos_ordenados, {
-      x: "asistentes",
-      y: "departamento",
-      text: d => d.asistentes.toLocaleString("es-CO"),
-      dx: 6,
-      textAnchor: "start",
-      fill: "#00514f",
-      fontWeight: 700
-    }),
-    Plot.ruleX([0], { stroke: "#888" })
-  ]
-})
-```
-
-## Ciudades con mayor participación
-
-```{ojs}
-//| echo: false
-
-top_ciudades = asis_mun_raw
-  .slice()
-  .sort((a, b) => d3.descending(a.asistentes, b.asistentes))
-  .slice(0, 15)
-  .map(d => ({
-    etiqueta: d.municipio === d.departamento ? d.municipio : `${d.municipio} (${d.departamento})`,
-    asistentes: d.asistentes
-  }))
-```
-
-```{ojs}
-//| echo: false
-
-Plot.plot({
-  width: 700,
-  height: 430,
-  marginLeft: 190,
-  marginRight: 40,
-  style: { fontSize: "12px", fontFamily: "system-ui, sans-serif" },
-  x: { label: "Asistentes", grid: true, nice: true },
-  y: { label: null, domain: top_ciudades.map(d => d.etiqueta) },
-  marks: [
-    Plot.barX(top_ciudades, {
-      x: "asistentes",
-      y: "etiqueta",
-      fill: "#00ACA8",
-      rx: 4,
-      tip: true
-    }),
-    Plot.text(top_ciudades, {
-      x: "asistentes",
-      y: "etiqueta",
-      text: d => d.asistentes.toLocaleString("es-CO"),
-      dx: 6,
-      textAnchor: "start",
-      fill: "#00514f",
-      fontWeight: 700
-    }),
-    Plot.ruleX([0], { stroke: "#888" })
-  ]
-})
-```
-
 <p style="font-size:0.78rem;opacity:0.7;margin-top:0.6rem">
 Fuente: listado de inscritos a la Plataforma Nacional GRD 2026, ciudad y departamento homogenizados a la nomenclatura oficial DIVIPOLA. División político-administrativa: IGAC / GADM v4.1.
 </p>
+

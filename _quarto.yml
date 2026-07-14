@@ -15,6 +15,7 @@ book:
         href: https://github.com/scr-ungrd/memorias-pn26
   chapters:
     - index.qmd
+    - pagina-legal.qmd
     - acerca-de.qmd
     - agenda.qmd
     - part: plenarias/index.qmd
