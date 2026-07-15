@@ -2,7 +2,7 @@
 title: "Página legal"
 ---
 
-Memorias de Primera Plataforma Nacional para la Gestión del Riesgo de Desastres. Unidad Nacional para la Gestión del Riesgo de Desastres. Bogotá, D.C.2026. DOI: <https://doi.org/10.5281/zenodo.21360641> 1. Conocimiento del riesgo de desastres 2. Reducción del riesgo de desastres 3. Manejo de desastres 
+Memorias de Primera Plataforma Nacional para la Gestión del Riesgo de Desastres. Unidad Nacional para la Gestión del Riesgo de Desastres. Bogotá, D.C., 2026. DOI: <https://doi.org/10.5281/zenodo.21360641> 1. Conocimiento del riesgo de desastres 2. Reducción del riesgo de desastres 3. Manejo de desastres 
 
 ------------------------------------------------------------------------
 
@@ -25,9 +25,6 @@ Memorias de Primera Plataforma Nacional para la Gestión del Riesgo de Desastres
 ​Subdirector para el Manejo de Desastres​
 
 ------------------------------------------------------------------------
-
-
-Coordinación editorial \| Mauricio Romero Torres
 
 DOI: <https://doi.org/10.5281/zenodo.21360641>
 
