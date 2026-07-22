@@ -41,7 +41,7 @@ Quarto book con salidas HTML (cosmo + brand + custom.scss) y PDF (lualatex / scr
 
 ```
 plenarias/                  p-01 … p-05        (5 sesiones)
-sesiones-tematicas/         st-01…03, 05…06    (5 sesiones, falta st-04)
+sesiones-tematicas/         st-01…06           (6 sesiones)
 sesiones-paralelas/         sp-01…25, 27…38   (35 sesiones, faltan sp-03/26/36)
 sesiones-especiales/        se-01…10            (10 sesiones)
 laboratorios-de-aprendizaje/ la-01…10           (10 sesiones)
@@ -171,7 +171,7 @@ Siempre usar el número de la agenda oficial para el ID del libro.
 
 ### Sesiones no incluidas (no estaban en agenda PDF v4)
 
-SP3-CAMPESINOS, SP26, SP36, SP39, SP40, SP42, SP44, ST04-SERVICIO-SOCIAL, ST07-EMERGENCIAS-MOVILIDAD, ST08-MOVILIDAD-HUMANA
+SP3-CAMPESINOS, SP26, SP36, SP39, SP40, SP42, SP44, ST07-EMERGENCIAS-MOVILIDAD, ST08-MOVILIDAD-HUMANA
 
 ## Nota: SE04-MINTRANSPORTE y SP26
 

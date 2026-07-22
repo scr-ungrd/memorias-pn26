@@ -1,0 +1,47 @@
+---
+title: "NotiPaz: Emisión Especial — Contar el territorio, conocer el riesgo, construir paz"
+---
+
+## Nota conceptual
+
+:::{#tabla-st04-info}
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Título de la sesión** | NotiPaz: Emisión Especial — Contar el territorio, conocer el riesgo, construir paz |
+| **Organización anfitriona** | UNGRD |
+| **Contacto principal** | Laura Guerra — Tutora Modalidad 11 SSP |
+| **Suplente** | Luisa Cadena — Líder Equipo de Comunicaciones SCR |
+| **Organización Co-Anfitriona** | Cruz Roja Colombiana |
+| **Contacto principal** | Willian Amado Lara — Oficial de voluntariado en educación básica y media |
+| **Suplente** | Eduard Ruiz Morales — Gestor conocimiento del riesgo |
+| **Punto Focal UNGRD** | Laura Salgado |
+:::
+
+<style>
+#tabla-st04-info tbody tr:first-child {
+  background-color: #00ACA8;
+  color: #fff;
+}
+#tabla-st04-desc thead tr {
+  background-color: #00ACA8;
+  color: #fff;
+}
+</style>
+
+:::{#tabla-st04-desc}
+| Sección | Descripción |
+|:-----------------------------|:-----------------------------------------|
+| Metodología / Tipo de sesión | Emisión Especial de Notipaz y taller participativo (90 minutos), estructurada en tres momentos: (1) Apertura y contextualización (15 min); (2) Panel interactivo con audiencia (45 min); (3) Taller participativo de cierre simbólico (30 min). |
+| Objetivo(s) | Generar un espacio participativo de diálogo, aprendizaje e intercambio de experiencias que visibilice el aporte de las juventudes promotoras del Servicio Social para la Paz, especialmente desde la Modalidad 11, como actores estratégicos para la construcción de paz, el conocimiento del riesgo de desastres y el fortalecimiento de capacidades territoriales. <br><br> 1. Socializar el alcance del Servicio Social para la Paz y la Modalidad 11. <br><br> 2. Promover reflexión ciudadana sobre paz, riesgo y corresponsabilidad. <br><br> 3. Visibilizar experiencias territoriales lideradas por jóvenes promotores. <br><br> 4. Identificar aprendizajes y compromisos institucionales replicables. |
+| Resultado(s) medible(s) | 1. Recopilación de la participación activa del público mediante herramienta digital interactiva. <br><br> 2. Cantidad de personas a las que se socializa la estrategia educomunicativa liderada por promotores del SSP: Notipaz "El noticiero de la M11 - SSP". <br><br> 3. Visibilización de tres experiencias territoriales juveniles. |
+| Descripción general | **Momento 1 — Apertura y contextualización (15 min):** apertura de las presentadoras y proyección de un video introductorio realizado por jóvenes promotores, que resuelve qué es el Servicio Social para la Paz, el alcance de la Ley 2272 de 2022 y el decreto 1426 de 2025, qué es la Modalidad 11, y el encuadre para el diálogo entre juventudes, paz y conocimiento del riesgo. Posteriormente, breve instalación del espacio y presentación de panelistas. <br><br> **Momento 2 — Panel interactivo con audiencia (45 min):** conversación dinámica en formato sección de noticiero, mediante herramienta digital tipo Kahoot, donde el público responde preguntas proyectadas en pantalla (sobre qué significa construir paz en un territorio, si el conocimiento del riesgo contribuye a la paz, qué rol deberían tener las juventudes en estos procesos, y qué debería priorizar el SSP en los próximos años) y las personas panelistas debaten preguntas orientadoras relacionadas con las respuestas del público. <br><br> **Momento 3 — Taller participativo de cierre simbólico (30 min):** proyección de un video realizado por el equipo de promotores del Museo Interactivo Magma de Bogotá (5 min); presentación de la actividad de escrito colectivo de gran formato, donde cada participante aporta un texto de máximo dos líneas (3 min); construcción colectiva de un mural con mensajes de reconocimiento, aprendizajes, compromisos y reflexiones sobre paz, conocimiento del riesgo y el Servicio Social para la Paz (12 min); lectura y reflexión final compartiendo mensajes destacados del mural (7 min); y cierre simbólico, con el mural sistematizado y compartido con los promotores en territorio (3 min). |
+| Enfoque(s) y eje(s) transversal(es) | Comunidades de aprendizaje; Participación juvenil territorial; Construcción de paz; Gestión del riesgo; Acción climática; Innovación social; Corresponsabilidad ciudadana. |
+| Preguntas | Se resolverán en la medida que avance el ejercicio y se concerten las preguntas en el PN26. |
+| Conferencistas y/o facilitadores | **Panelistas:** Yerson Alfonso Moncada — Puracé, Cauca, Servicio Geológico Colombiano · María Vanessa Bustamante Fuentes — Sincelejo, Sucre, Defensa Civil Colombiana · Ricardo José Herrera Arango — Cartagena, Bolívar, promotor SSP Modalidad 11 · Willian Amado Lara (o delegado/a) — Cruz Roja Colombiana · Angely Castelblanco Prada — Coordinadora Nacional de Prevención y Mitigación de la Violencia, Cruz Roja Colombiana · Diego Alejandro Vargas Orjuela — Objetor por conciencia, Acción Colectiva de Objetores y Objetoras de Conciencia <br><br> **Moderación institucional:** Laura Guerra — UNGRD <br><br> **Tutora institucional:** Katherine Hernández — UNGRD |
+:::
+
+## Diapositivas de la sesión
+
+<iframe src="https://drive.google.com/file/d/16_cVy_yO332wsDXhay9OP3KnSiBsS0Yz/preview" width="100%" height="480" allowfullscreen>
+
+</iframe>
