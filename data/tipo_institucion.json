@@ -1,0 +1,10 @@
+[
+  { "grupo": "Sector Gubernamental Nacional", "cantidad": 640 },
+  { "grupo": "Sector Gubernamental Subnacional", "cantidad": 429 },
+  { "grupo": "Asociaciones / Organizaciones Comunitarias", "cantidad": 344 },
+  { "grupo": "ONG / Sociedad Civil", "cantidad": 266 },
+  { "grupo": "Academia", "cantidad": 222 },
+  { "grupo": "Sector Privado / Empresarial", "cantidad": 202 },
+  { "grupo": "Otro", "cantidad": 621 },
+  { "grupo": "Sin dato", "cantidad": 401 }
+]

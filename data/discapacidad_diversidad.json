@@ -1,0 +1,9 @@
+[
+  { "grupo": "Ninguna / sin dato", "cantidad": 3039 },
+  { "grupo": "Sensorial (visual o auditiva)", "cantidad": 29 },
+  { "grupo": "Neurodivergente", "cantidad": 20 },
+  { "grupo": "Física o motriz", "cantidad": 16 },
+  { "grupo": "Múltiple", "cantidad": 6 },
+  { "grupo": "Psicosocial", "cantidad": 5 },
+  { "grupo": "Otro", "cantidad": 10 }
+]
