@@ -4,7 +4,11 @@ title: "Cifras de la plataforma"
 
 ## Cifras de participación
 
-La Plataforma Nacional de Gestión del Riesgo de Desastres 2026 convocó personas de todo el territorio colombiano. A partir del listado depurado de inscritos, esta sección presenta la distribución geográfica de los y las asistentes por departamento y municipio.
+La PN26 se desarrolló mediante un proceso amplio de convocatoria y articulación de actores de todos los territorios y sectores del país. Se promovió la participación de actores nacionales, departamentales y municipales, entidades públicas y privadas, academia, sociedad civil, comunidades organizadas, pueblos y organizaciones étnicas, así como redes de jóvenes, mujeres y otros grupos poblacionales, bajo enfoques de género, interseccionalidad, discapacidad y diversidad étnica. 
+
+De esta manera, la PN26 se configuró como un ejercicio de construcción colectiva que articuló conocimientos técnicos y científicos con saberes locales y ancestrales, conectando las perspectivas territoriales, culturales y sectoriales con las prioridades nacionales y las agendas internacionales de reducción del riesgo de desastres. 
+
+A partir del listado depurado de inscritos, a continuación se presenta un análisis de los asistentes para varios atributos desde geográficos hasta demográficos
 
 ```{ojs}
 //| echo: false
@@ -56,7 +60,9 @@ html`<div style="display:flex;flex-wrap:wrap;gap:14px;margin:1.2rem 0 1.6rem">
 </div>`
 ```
 
-## Asistencias por departamento
+## Asistentes por departamento
+
+Bogotá D.C. concentró la mayor parte de la asistencia, con 1.582 inscritos, seguida por Cundinamarca (295) y Antioquia (100). La convocatoria logró representación de todos los 33 departamentos del país, evidenciando el alcance territorial de la Plataforma Nacional GRD 2026.
 
 ```{ojs}
 //| echo: false
@@ -101,6 +107,8 @@ Plot.plot({
 
 ## Ciudades con mayor participación
 
+Bogotá D.C. lideró la participación municipal, con 1.579 asistentes, seguida por Medellín, Santiago de Cali, Yopal e Ibagué. El listado de las 15 ciudades con mayor convocatoria refleja la diversidad territorial del país, desde capitales departamentales hasta municipios intermedios y pequeños.
+
 ```{ojs}
 //| echo: false
 
@@ -120,7 +128,7 @@ top_ciudades = asis_mun_raw
 Plot.plot({
   width: 700,
   height: 430,
-  marginLeft: 190,
+  marginLeft: 290,
   marginRight: 40,
   style: { fontSize: "12px", fontFamily: "system-ui, sans-serif" },
   x: { label: "Asistentes", grid: true, nice: true },
@@ -181,9 +189,6 @@ mun_filtrado = depto_map === "— Colombia (todos) —"
         f => f.properties.departamento === depto_map
       )
     })
-
-n_municipios   = mun_filtrado ? mun_filtrado.features.length : null
-n_asis_depto   = depto_map === "— Colombia (todos) —" ? null : (asis_dep_index.get(depto_map) ?? 0)
 ```
 
 ```{ojs}
@@ -230,7 +235,7 @@ color_mun_fn = f => {
   const geo_base = depto_map === "— Colombia (todos) —" ? dept : dept_filtrado
 
   const projection = d3.geoMercator()
-    .fitExtent([[20, 20], [width - 20, height - 60]], geo_base)
+    .fitExtent([[20, 20], [width - 20, height - 20]], geo_base)
 
   const path = d3.geoPath().projection(projection)
 
@@ -317,26 +322,6 @@ color_mun_fn = f => {
       })
   }
 
-  // --- barra inferior de contexto ---
-  const info_y = height - 35
-  const infobar = svg.append("g")
-
-  infobar.append("rect")
-    .attr("x", 0).attr("y", info_y - 10)
-    .attr("width", width).attr("height", 50)
-    .attr("fill", "rgba(26,60,94,0.75)")
-
-  const info_text = depto_map === "— Colombia (todos) —"
-    ? `Colombia · ${fmt(total_asistentes)} · ${n_deptos_con_datos} de 33 departamentos representados`
-    : `${depto_map} · ${fmt(n_asis_depto)} · ${n_municipios} municipio(s) con inscritos`
-
-  infobar.append("text")
-    .attr("x", width / 2).attr("y", info_y + 12)
-    .attr("text-anchor", "middle")
-    .attr("fill", "white")
-    .attr("font-size", "11px")
-    .text(info_text)
-
   return container.node()
 }
 ```
@@ -361,5 +346,378 @@ html`<div style="display:flex;align-items:center;gap:10px;margin:-0.4rem 0 1.4re
 
 <p style="font-size:0.78rem;opacity:0.7;margin-top:0.6rem">
 Fuente: listado de inscritos a la Plataforma Nacional GRD 2026, ciudad y departamento homogenizados a la nomenclatura oficial DIVIPOLA. División político-administrativa: IGAC / GADM v4.1.
+</p>
+
+# Perfiles de los asistentes
+
+## Poblaciones, pueblos o grupos
+
+Los asistentes tuvieron la siguiente conformación de poblaciones, pueblos o grupos: ninguna (80,4 %), pueblo indígena (5,3 %), desplazado por violencia (5,3 %), campesinos (4,1 %), comunidades negras, afrocolombianas, raizales y palenqueras (3,3 %), y otro (1,7 %).
+
+```{ojs}
+//| echo: false
+
+poblaciones_raw = FileAttachment("data/poblaciones_grupos.json").json()
+n_poblaciones_total = d3.sum(poblaciones_raw, d => d.cantidad)
+
+colores_poblaciones = new Map([
+  ["Ninguna / sin dato", "#e2e8f0"],
+  ["Pueblo indígena", "#2a78d6"],
+  ["Desplazado por violencia", "#eb6834"],
+  ["Campesinos", "#1baf7a"],
+  ["Comunidades negras, afrocolombianas, raizales y palenqueras", "#eda100"],
+  ["Otro", "#b7b7b0"]
+])
+```
+
+```{ojs}
+//| echo: false
+
+// Función reutilizable: gráfico de pastel (dona) con leyenda y tooltip.
+dibujar_donut = (data, colores, { width = 240, height = 240 } = {}) => {
+  const radio = Math.min(width, height) / 2 - 8
+  const total = d3.sum(data, d => d.cantidad)
+
+  const generar_pie = d3.pie().value(d => d.cantidad).sort(null).padAngle(0.014)
+  const arco = d3.arc().innerRadius(radio * 0.58).outerRadius(radio).cornerRadius(3)
+  const arco_etiqueta = d3.arc().innerRadius(radio * 0.79).outerRadius(radio * 0.79)
+  const arcos = generar_pie(data)
+
+  const container = d3.create("div")
+    .style("display", "flex")
+    .style("flex-wrap", "wrap")
+    .style("align-items", "flex-start")
+    .style("gap", "16px")
+    .style("font-family", "system-ui, sans-serif")
+
+  const svgWrap = container.append("div")
+    .style("position", "relative")
+    .style("flex", "0 0 auto")
+
+  const svg = svgWrap.append("svg")
+    .attr("width", width)
+    .attr("height", height)
+    .attr("viewBox", `0 0 ${width} ${height}`)
+
+  const g = svg.append("g").attr("transform", `translate(${width / 2},${height / 2})`)
+
+  const tooltip = svgWrap.append("div")
+    .style("position", "absolute")
+    .style("top", "0").style("left", "0")
+    .style("pointer-events", "none")
+    .style("background", "rgba(26,60,94,0.92)")
+    .style("color", "white")
+    .style("padding", "6px 11px")
+    .style("border-radius", "6px")
+    .style("font-size", "12px")
+    .style("line-height", "1.4")
+    .style("display", "none")
+
+  function fmtPct(v) {
+    return (v / total * 100).toLocaleString("es-CO", { minimumFractionDigits: 1, maximumFractionDigits: 1 })
+  }
+
+  function colorEsClaro(hex) {
+    const c = hex.replace("#", "")
+    const r = parseInt(c.substring(0, 2), 16), g = parseInt(c.substring(2, 4), 16), b = parseInt(c.substring(4, 6), 16)
+    return (0.299 * r + 0.587 * g + 0.114 * b) / 255 > 0.6
+  }
+
+  g.selectAll("path")
+    .data(arcos)
+    .join("path")
+      .attr("d", arco)
+      .attr("fill", d => colores.get(d.data.grupo) ?? "#999")
+      .attr("stroke", "#fff")
+      .attr("stroke-width", 1)
+      .on("mouseover", function(event, d) {
+        d3.select(this).attr("opacity", 0.82)
+        tooltip.style("display", "block")
+          .html(`<b>${d.data.grupo}</b><br>${d.data.cantidad.toLocaleString("es-CO")} (${fmtPct(d.data.cantidad)}&nbsp;%)`)
+      })
+      .on("mousemove", function(event) {
+        const [mx, my] = d3.pointer(event, svgWrap.node())
+        tooltip.style("left", (mx + 12) + "px").style("top", (my - 34) + "px")
+      })
+      .on("mouseout", function() {
+        d3.select(this).attr("opacity", 1)
+        tooltip.style("display", "none")
+      })
+
+  // Etiquetas directas solo en los segmentos que superan el 8 % (evita amontonar texto).
+  g.selectAll("text")
+    .data(arcos.filter(d => d.data.cantidad / total >= 0.08))
+    .join("text")
+      .attr("transform", d => `translate(${arco_etiqueta.centroid(d)})`)
+      .attr("text-anchor", "middle")
+      .attr("font-size", "12px")
+      .attr("font-weight", 700)
+      .attr("fill", d => colorEsClaro(colores.get(d.data.grupo) ?? "#999") ? "#333" : "#fff")
+      .text(d => `${(d.data.cantidad / total * 100).toLocaleString("es-CO", { maximumFractionDigits: 0 })}%`)
+
+  svg.append("text")
+    .attr("x", width / 2).attr("y", height / 2 - 4)
+    .attr("text-anchor", "middle")
+    .attr("font-size", "22px")
+    .attr("font-weight", 700)
+    .attr("fill", "#00514f")
+    .text(total.toLocaleString("es-CO"))
+
+  svg.append("text")
+    .attr("x", width / 2).attr("y", height / 2 + 16)
+    .attr("text-anchor", "middle")
+    .attr("font-size", "11px")
+    .attr("fill", "#666")
+    .text("registros")
+
+  const leyenda = container.append("div")
+    .style("display", "flex")
+    .style("flex-direction", "column")
+    .style("gap", "6px")
+    .style("font-size", "0.82rem")
+    .style("flex", "1 1 200px")
+    .style("min-width", "0")
+    .style("max-width", "260px")
+
+  leyenda.selectAll("div")
+    .data(data)
+    .join("div")
+      .style("display", "flex")
+      .style("align-items", "flex-start")
+      .style("gap", "8px")
+      .style("min-width", "0")
+      .html(d => `
+        <span style="display:inline-block;width:12px;height:12px;margin-top:3px;border-radius:3px;background:${colores.get(d.grupo) ?? "#999"};flex-shrink:0"></span>
+        <span style="min-width:0">${d.grupo} — <b>${d.cantidad.toLocaleString("es-CO")}</b> (${fmtPct(d.cantidad)}&nbsp;%)</span>
+      `)
+
+  return container.node()
+}
+```
+
+```{ojs}
+//| echo: false
+
+dibujar_donut(poblaciones_raw, colores_poblaciones)
+```
+
+<p style="font-size:0.78rem;opacity:0.7;margin-top:0.4rem">
+Distribución de respuestas a la pregunta "¿Usted hace parte de una de estas poblaciones, pueblos o grupos?" del listado de inscritos (n = 3.125). "Otro" agrupa respuestas de texto libre poco frecuentes.
+</p>
+
+## Discapacidad o diversidad funcional
+
+Del total de inscritos, el 2,8&nbsp;% (86 personas) se identificó con alguna discapacidad o diversidad funcional, principalmente sensorial (visual o auditiva) y neurodivergencia. El 97,2&nbsp;% restante no reportó pertenecer a este grupo, lo que sugiere oportunidades de mejora en los canales de inscripción para captar mejor esta información.
+
+```{ojs}
+//| echo: false
+
+discapacidad_raw = FileAttachment("data/discapacidad_diversidad.json").json()
+n_discapacidad_total = d3.sum(discapacidad_raw, d => d.cantidad)
+
+colores_discapacidad = new Map([
+  ["Ninguna / sin dato", "#e2e8f0"],
+  ["Sensorial (visual o auditiva)", "#2a78d6"],
+  ["Neurodivergente", "#eb6834"],
+  ["Física o motriz", "#1baf7a"],
+  ["Múltiple", "#eda100"],
+  ["Psicosocial", "#e87ba4"],
+  ["Otro", "#b7b7b0"]
+])
+```
+
+```{ojs}
+//| echo: false
+
+dibujar_donut(discapacidad_raw, colores_discapacidad)
+```
+
+<p style="font-size:0.78rem;opacity:0.7;margin-top:0.4rem">
+Distribución de respuestas a la pregunta "¿Usted se identifica como una persona con discapacidad o diversidad funcional?" del listado de inscritos (n = 3.125). "Otro" agrupa respuestas de texto libre poco frecuentes.
+</p>
+
+
+## Tipo de institución de los participantes
+
+El sector gubernamental concentró la mayor parte de la participación: 20,5&nbsp;% del ámbito nacional y 13,7&nbsp;% del subnacional (departamental/distrital/municipal). Le siguieron las asociaciones y organizaciones comunitarias (11,0&nbsp;%), la sociedad civil y ONG (8,5&nbsp;%), la academia (7,1&nbsp;%) y el sector privado (6,5&nbsp;%). El resto de categorías del formulario (independientes, cooperación internacional, redes, entre otras) se agrupan en "Otro" (19,9&nbsp;%), y un 12,8&nbsp;% no reportó esta información.
+
+Casi la mitad de las entidades y organizaciones participantes (44,8&nbsp;%) tiene un nivel de acción nacional, seguidas por las de alcance local/municipal (28,9&nbsp;%) y departamental/regional (16,0&nbsp;%). Las organizaciones de carácter internacional representaron el 8,2&nbsp;% de los inscritos, mientras que un 2,2&nbsp;% no reportó esta información (n = 3.125, listado de inscritos).
+
+
+```{ojs}
+//| echo: false
+
+tipo_institucion_raw = FileAttachment("data/tipo_institucion.json").json()
+n_tipo_institucion_total = d3.sum(tipo_institucion_raw, d => d.cantidad)
+
+colores_tipo_institucion = new Map([
+  ["Sector Gubernamental Nacional", "#2a78d6"],
+  ["Sector Gubernamental Subnacional", "#eb6834"],
+  ["Asociaciones / Organizaciones Comunitarias", "#1baf7a"],
+  ["ONG / Sociedad Civil", "#eda100"],
+  ["Academia", "#e87ba4"],
+  ["Sector Privado / Empresarial", "#008300"],
+  ["Otro", "#b7b7b0"],
+  ["Sin dato", "#e2e8f0"]
+])
+```
+
+```{ojs}
+//| echo: false
+
+dibujar_donut(tipo_institucion_raw, colores_tipo_institucion)
+```
+
+<p style="font-size:0.78rem;opacity:0.7;margin-top:0.4rem">
+Distribución de respuestas a la pregunta "Tipo de Entidad/Organización a la que pertenece (la principal)" del listado de inscritos (n = 3.125). "Otro" agrupa categorías del formulario poco frecuentes (independientes, cooperación internacional, redes, equipo organizador, organizaciones intergubernamentales) y respuestas de texto libre.
+</p>
+
+# Distribución de género y edad de los participantes
+
+## Identidad de género
+
+En cuanto a identidad de género, el 50,8&nbsp;% de los inscritos se identificó como masculino y el 46,5&nbsp;% como femenino. Un 2,2&nbsp;% no reportó esta información, mientras que un 0,3&nbsp;% prefirió no responder y un 0,2&nbsp;% se identificó con otra identidad de género (n = 3.125, listado de inscritos).
+
+## Edad de los participantes
+
+La edad de los inscritos se concentró entre los 30 y 49 años, rango que agrupa el 61,5&nbsp;% de los registros con año de nacimiento válido; la mediana de edad es de 40 años (promedio 40,9). El grupo de 30 a 39 años es el más numeroso (32,4&nbsp;%), seguido por el de 40 a 49 años (29,1&nbsp;%). Los extremos etarios son minoritarios: apenas 1,0&nbsp;% tiene entre 10 y 19 años y 0,7&nbsp;% entre 70 y 79 años.
+
+```{ojs}
+//| echo: false
+
+edad_raw = FileAttachment("data/edad_distribucion.json").json()
+n_edad_total = d3.sum(edad_raw, d => d.cantidad)
+```
+
+```{ojs}
+//| echo: false
+
+Plot.plot({
+  width: 700,
+  height: 380,
+  marginBottom: 40,
+  marginLeft: 50,
+  style: { fontSize: "12px", fontFamily: "system-ui, sans-serif" },
+  x: { label: "Edad (años)", domain: edad_raw.map(d => d.rango) },
+  y: { label: "Inscritos", grid: true, nice: true },
+  marks: [
+    Plot.barY(edad_raw, {
+      x: "rango",
+      y: "cantidad",
+      fill: "#00ACA8",
+      rx: 4,
+      tip: true
+    }),
+    Plot.text(edad_raw, {
+      x: "rango",
+      y: "cantidad",
+      text: d => d.cantidad.toLocaleString("es-CO"),
+      dy: -8,
+      fill: "#00514f",
+      fontWeight: 700
+    }),
+    Plot.ruleY([0], { stroke: "#888" })
+  ]
+})
+```
+
+<p style="font-size:0.78rem;opacity:0.7;margin-top:0.4rem">
+Distribución de edad (año de nacimiento, calculada respecto a 2026) del listado de inscritos. De 3.125 registros, se excluyeron 124 sin este dato o con valores no plausibles (69 sin respuesta, 2 con error de formato, 52 con año de nacimiento igual a 2026 y 1 con año de nacimiento 1911), quedando n = 3.001 registros con edad válida.
+</p>
+
+## Áreas de interés en la gestión del riesgo
+
+Los inscritos mostraron un alto nivel de interés transversal en la gestión del riesgo: en promedio marcaron 3,5 de las 5 áreas temáticas disponibles. El Conocimiento del Riesgo (75,0&nbsp;%) y la Reducción del Riesgo (74,2&nbsp;%) fueron las áreas más seleccionadas, seguidas de cerca por el Fortalecimiento de Capacidades y Participación Comunitaria (71,6&nbsp;%), el Manejo de desastres (67,9&nbsp;%) y la Gobernanza y Planeación (61,3&nbsp;%). Como esta pregunta permitía marcar varias opciones, los porcentajes no suman 100&nbsp;%.
+
+```{ojs}
+//| echo: false
+
+areas_interes_raw = FileAttachment("data/areas_interes.json").json()
+n_areas_interes_total = 3056
+```
+
+```{ojs}
+//| echo: false
+
+Plot.plot({
+  width: 700,
+  height: 260,
+  marginLeft: 420,
+  marginRight: 110,
+  style: { fontSize: "12px", fontFamily: "system-ui, sans-serif" },
+  x: { label: "Inscritos que seleccionaron esta opción", grid: true, nice: true },
+  y: { label: null, domain: areas_interes_raw.map(d => d.opcion) },
+  marks: [
+    Plot.barX(areas_interes_raw, {
+      x: "cantidad",
+      y: "opcion",
+      fill: "#00ACA8",
+      rx: 4,
+      tip: true
+    }),
+    Plot.text(areas_interes_raw, {
+      x: "cantidad",
+      y: "opcion",
+      text: d => `${d.cantidad.toLocaleString("es-CO")} (${(d.cantidad / n_areas_interes_total * 100).toLocaleString("es-CO", { maximumFractionDigits: 1 })} %)`,
+      dx: 6,
+      textAnchor: "start",
+      fill: "#00514f",
+      fontWeight: 700
+    }),
+    Plot.ruleX([0], { stroke: "#888" })
+  ]
+})
+```
+
+<p style="font-size:0.78rem;opacity:0.7;margin-top:0.4rem">
+Respuestas a la pregunta "Áreas de Interés en la Gestión del Riesgo de Desastres (Marque todas las que apliquen)" del listado de inscritos. Pregunta de selección múltiple: los porcentajes se calculan sobre n = 3.056 registros que respondieron (de 3.125 en total; 69 sin dato) y no suman 100&nbsp;%.
+</p>
+
+## Motivo de participación
+
+El principal motivo de participación fue contribuir con la experiencia de su organización o área (66,5&nbsp;%), seguido de acceder a información y mejores prácticas (61,7&nbsp;%), establecer alianzas y redes de colaboración (56,9&nbsp;%), la necesidad de capacitación o asistencia técnica (46,9&nbsp;%) e influir en la formulación de políticas de GRD (43,6&nbsp;%). Un 3,6&nbsp;% registró motivos adicionales en texto libre, agrupados como "Otro". Al ser una pregunta de selección múltiple, los porcentajes no suman 100&nbsp;%.
+
+```{ojs}
+//| echo: false
+
+motivo_participacion_raw = FileAttachment("data/motivo_participacion.json").json()
+n_motivo_participacion_total = 3056
+```
+
+```{ojs}
+//| echo: false
+
+Plot.plot({
+  width: 700,
+  height: 300,
+  marginLeft: 420,
+  marginRight: 110,
+  style: { fontSize: "12px", fontFamily: "system-ui, sans-serif" },
+  x: { label: "Inscritos que seleccionaron esta opción", grid: true, nice: true },
+  y: { label: null, domain: motivo_participacion_raw.map(d => d.opcion) },
+  marks: [
+    Plot.barX(motivo_participacion_raw, {
+      x: "cantidad",
+      y: "opcion",
+      fill: d => d.opcion === "Otro (texto libre)" ? "#b7b7b0" : "#00ACA8",
+      rx: 4,
+      tip: true
+    }),
+    Plot.text(motivo_participacion_raw, {
+      x: "cantidad",
+      y: "opcion",
+      text: d => `${d.cantidad.toLocaleString("es-CO")} (${(d.cantidad / n_motivo_participacion_total * 100).toLocaleString("es-CO", { maximumFractionDigits: 1 })} %)`,
+      dx: 6,
+      textAnchor: "start",
+      fill: "#00514f",
+      fontWeight: 700
+    }),
+    Plot.ruleX([0], { stroke: "#888" })
+  ]
+})
+```
+
+<p style="font-size:0.78rem;opacity:0.7;margin-top:0.4rem">
+Respuestas a la pregunta "Indique el principal motivo por el cual desea participar en la Plataforma Nacional GRD 2026" del listado de inscritos. Aunque el enunciado sugiere una única respuesta, el formulario permitió selección múltiple; "Otro (texto libre)" agrupa motivos escritos libremente por 109 inscritos. Los porcentajes se calculan sobre n = 3.056 registros que respondieron (de 3.125 en total; 69 sin dato) y no suman 100&nbsp;%.
 </p>
 

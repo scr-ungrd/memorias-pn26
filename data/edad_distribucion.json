@@ -1,0 +1,9 @@
+[
+  { "rango": "10-19", "cantidad": 30 },
+  { "rango": "20-29", "cantidad": 465 },
+  { "rango": "30-39", "cantidad": 971 },
+  { "rango": "40-49", "cantidad": 873 },
+  { "rango": "50-59", "cantidad": 467 },
+  { "rango": "60-69", "cantidad": 174 },
+  { "rango": "70-79", "cantidad": 21 }
+]
