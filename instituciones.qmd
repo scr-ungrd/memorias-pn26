@@ -1,0 +1,145 @@
+---
+title: "Directorio de actores"
+---
+
+Organizaciones del orden nacional, territorial, internacional, académico y de la sociedad civil que participaron en la Plataforma Nacional 2026. Cada actor enlaza a las sesiones y trabajos en los que figura como anfitrión, ponente o autor, según los capítulos de estas memorias.
+
+```{=html}
+<style>
+.dir-stats { display: flex; flex-wrap: wrap; gap: 2.2rem; margin: 1.5rem 0 1.25rem; }
+.dir-stat b { display: block; font: 600 2.2rem/1 "Lato", sans-serif; color: #81337e; }
+.dir-stat span { font-size: .8rem; letter-spacing: .04em; text-transform: uppercase; opacity: .65; }
+.dir-tools { display: flex; flex-wrap: wrap; gap: .75rem; align-items: center; }
+.dir-search { flex: 1 1 260px; padding: .6rem 1rem; border-radius: 999px; font-size: .95rem;
+  border: 1px solid var(--bs-border-color); background: var(--bs-body-bg); color: var(--bs-body-color); }
+.dir-search:focus { outline: 2px solid #00ACA8; outline-offset: 1px; }
+.dir-sort { padding: .55rem .9rem; border-radius: 999px; border: 1px solid var(--bs-border-color);
+  background: var(--bs-body-bg); color: var(--bs-body-color); font-size: .9rem; }
+.dir-chips { display: flex; flex-wrap: wrap; gap: .4rem; margin: .9rem 0 1.5rem; }
+.dir-chip { --c: #666; display: inline-flex; align-items: center; gap: .45rem; padding: .3rem .8rem;
+  border-radius: 999px; border: 1px solid var(--bs-border-color); background: transparent;
+  color: var(--bs-body-color); font-size: .82rem; cursor: pointer; transition: all .15s; }
+.dir-chip .dot { width: .55rem; height: .55rem; border-radius: 50%; background: var(--c); }
+.dir-chip b { font-weight: 600; opacity: .55; }
+.dir-chip:hover { border-color: var(--c); }
+.dir-chip.on { background: var(--c); border-color: var(--c); color: #fff; }
+.dir-chip.on .dot { background: #fff; }
+.dir-chip.on b { opacity: .85; }
+.dir-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); gap: 1rem; align-items: start; }
+.dir-card { --c: #666; position: relative; padding: 1.1rem 1.2rem 1rem; border-radius: 14px;
+  border: 1px solid var(--bs-border-color); background: var(--bs-body-bg); overflow: hidden;
+  transition: box-shadow .2s, transform .2s; }
+.dir-card::before { content: ""; position: absolute; inset: 0 auto 0 0; width: 4px; background: var(--c); }
+.dir-card:hover { box-shadow: 0 6px 20px rgba(0,0,0,.09); transform: translateY(-2px); }
+.dir-sigla { font: 700 .78rem/1 "Lato", sans-serif; letter-spacing: .08em; text-transform: uppercase; color: var(--c); }
+.dir-nombre { margin: .35rem 0 .15rem; font: 600 1rem/1.3 "Lato", sans-serif; }
+.dir-tipo { font-size: .75rem; opacity: .6; }
+.dir-card details { margin-top: .85rem; }
+.dir-card summary { display: flex; align-items: center; gap: .5rem; cursor: pointer; list-style: none;
+  font-size: .85rem; font-weight: 600; }
+.dir-card summary::-webkit-details-marker { display: none; }
+.dir-card summary .n { min-width: 1.7rem; padding: .1rem .5rem; border-radius: 999px; text-align: center;
+  background: color-mix(in srgb, var(--c) 14%, transparent); color: var(--c); }
+.dir-card summary .chev { margin-left: auto; transition: transform .2s; opacity: .5; }
+.dir-card details[open] summary .chev { transform: rotate(180deg); }
+.dir-list { margin: .7rem 0 0; padding: 0; list-style: none; display: grid; gap: .55rem; }
+.dir-list li { display: grid; grid-template-columns: auto 1fr; gap: .2rem .6rem; align-items: baseline; }
+.dir-code { padding: .1rem .45rem; border-radius: 6px; font: 700 .68rem/1.5 "Lato", sans-serif;
+  letter-spacing: .04em; color: #fff; white-space: nowrap; }
+.dir-list a { font-size: .82rem; line-height: 1.35; text-decoration: none; color: var(--bs-body-color); }
+.dir-list a:hover { color: #81337e; text-decoration: underline; }
+.dir-rol { grid-column: 2; font-size: .7rem; opacity: .55; }
+.dir-vacio { font-size: .8rem; font-style: italic; opacity: .55; margin: .85rem 0 0; }
+.dir-none { padding: 2rem 0; opacity: .6; }
+</style>
+```
+
+```{ojs}
+//| echo: false
+actores = FileAttachment("data/instituciones.json").json()
+
+tipos = [...new Set(actores.map(d => d.tipo))]
+
+color_tipo = ({
+  "Gobierno nacional": "#81337e", "Gobierno territorial": "#00ACA8", "Autoridad ambiental": "#2e8b57",
+  "Internacional": "#003a70", "Humanitaria": "#e54d23", "Academia nacional": "#b2a142",
+  "Academia internacional": "#8a7d2a", "Gremio técnico": "#6d4c41", "Organización técnica": "#5c6bc0",
+  "Sociedad civil": "#c2185b", "Sector privado": "#607d8b"
+})
+
+sesion = ({
+  p: ["Plenaria", "#81337e"], st: ["Sesión temática", "#003a70"], sp: ["Sesión paralela", "#00ACA8"],
+  se: ["Sesión especial", "#e54d23"], la: ["Laboratorio de aprendizaje", "#a08c1f"],
+  an: ["Diálogo de alto nivel", "#5c6bc0"], ev: ["Escenario en vivo", "#2e8b57"], pt: ["Póster", "#8d6e63"]
+})
+
+rol_orden = ["Anfitriona", "Co-anfitriona", "Ponente", "Autoría"]
+norm = s => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase()
+
+total_part = d3.sum(actores, d => d.trabajos.length)
+total_sesiones = new Set(actores.flatMap(d => d.trabajos.map(t => t.slug))).size
+
+html`<div class="dir-stats">
+  <div class="dir-stat"><b>${actores.length}</b><span>Actores</span></div>
+  <div class="dir-stat"><b>${total_part}</b><span>Participaciones</span></div>
+  <div class="dir-stat"><b>${total_sesiones}</b><span>Sesiones y trabajos</span></div>
+</div>`
+```
+
+```{ojs}
+//| echo: false
+viewof filtros = {
+  const estado = {q: "", tipo: "Todos", orden: "Más participaciones"};
+  const raiz = html`<div></div>`;
+  const buscar = html`<input class="dir-search" type="search" placeholder="Buscar por institución, sigla o título del trabajo…" aria-label="Buscar">`;
+  const orden = html`<select class="dir-sort" aria-label="Ordenar"><option>Más participaciones</option><option>A–Z</option></select>`;
+  const chips = html`<div class="dir-chips"></div>`;
+  const emitir = () => { raiz.value = {...estado}; raiz.dispatchEvent(new Event("input", {bubbles: true})); };
+  const pintar = () => chips.replaceChildren(...["Todos", ...tipos].map(t => {
+    const n = t === "Todos" ? actores.length : actores.filter(a => a.tipo === t).length;
+    const b = html`<button type="button" class="dir-chip ${estado.tipo === t ? "on" : ""}" style="--c:${color_tipo[t] || "#81337e"}"><span class="dot"></span>${t} <b>${n}</b></button>`;
+    b.onclick = () => { estado.tipo = t; pintar(); emitir(); };
+    return b;
+  }));
+  buscar.oninput = e => { e.stopPropagation(); estado.q = buscar.value; emitir(); };
+  orden.onchange = () => { estado.orden = orden.value; emitir(); };
+  raiz.append(html`<div class="dir-tools"></div>`, chips);
+  raiz.firstChild.append(buscar, orden);
+  pintar();
+  raiz.value = {...estado};
+  return raiz;
+}
+```
+
+```{ojs}
+//| echo: false
+visibles = actores
+  .filter(d => (filtros.tipo === "Todos" || d.tipo === filtros.tipo) &&
+    (!filtros.q || norm([d.sigla, d.nombre, ...d.trabajos.map(t => t.titulo)].join(" ")).includes(norm(filtros.q))))
+  .sort((a, b) => filtros.orden === "A–Z"
+    ? a.sigla.localeCompare(b.sigla, "es")
+    : b.trabajos.length - a.trabajos.length || a.sigla.localeCompare(b.sigla, "es"))
+
+html`<p style="font-size:.85rem;opacity:.6">${visibles.length} ${visibles.length === 1 ? "actor" : "actores"}</p>
+${visibles.length === 0 ? html`<p class="dir-none">Ninguna coincidencia.</p>` : html`<div class="dir-grid">
+  ${visibles.map(d => {
+    const n = d.trabajos.length;
+    const items = [...d.trabajos].sort((a, b) => rol_orden.indexOf(a.rol) - rol_orden.indexOf(b.rol) || a.slug.localeCompare(b.slug));
+    return html`<article class="dir-card" style="--c:${color_tipo[d.tipo]}">
+      <div class="dir-sigla">${d.sigla}</div>
+      <h3 class="dir-nombre">${d.nombre}</h3>
+      <div class="dir-tipo">${d.tipo}</div>
+      ${n ? html`<details ${filtros.q ? "open" : ""}>
+        <summary><span class="n">${n}</span>${n === 1 ? "participación" : "participaciones"}<span class="chev">▾</span></summary>
+        <ul class="dir-list">
+          ${items.map(t => { const s = sesion[t.slug.split("-")[0]];
+            return html`<li>
+              <span class="dir-code" style="background:${s[1]}" title="${s[0]}">${t.slug.toUpperCase()}</span>
+              <a href="${t.href.replace(/\.qmd$/, ".html")}">${t.titulo}</a>
+              <span class="dir-rol">${t.rol}</span></li>`; })}
+        </ul>
+      </details>` : html`<p class="dir-vacio">Sin participaciones registradas en estas memorias.</p>`}
+    </article>`;
+  })}
+</div>`}`
+```

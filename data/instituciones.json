@@ -1,0 +1,3736 @@
+[
+ {
+  "sigla": "UNGRD",
+  "nombre": "Unidad Nacional para la Gestión del Riesgo de Desastres",
+  "tipo": "Gobierno nacional",
+  "color": "primary",
+  "descripcion": "Entidad coordinadora del Sistema Nacional para la Gestión del Riesgo de Desastres (SNGRD). Lidera la política pública de conocimiento, reducción del riesgo y manejo de desastres en Colombia.",
+  "trabajos": [
+   {
+    "sec": "dialogos-de-alto-nivel",
+    "slug": "an-01",
+    "titulo": "Tejiendo Resiliencia: Red de Jóvenes para la Reducción del Riesgo de Desastres",
+    "href": "dialogos-de-alto-nivel/an-01/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-05",
+    "titulo": "Estrategia de recuperación de la comunidad Raizal Ubicada en el sector de Casa Baja y Bahía Agua Mansa de la isla de providencia",
+    "href": "escenarios-en-vivo/ev-05/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-15",
+    "titulo": "Zonificación del Riesgo de deterioro del arbolado urbano",
+    "href": "escenarios-en-vivo/ev-15/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-19",
+    "titulo": "Nichos y Semilleros, comunicación con rostro y manos para la acción",
+    "href": "escenarios-en-vivo/ev-19/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-21",
+    "titulo": "Voces de los territorios-Entretejidos",
+    "href": "escenarios-en-vivo/ev-21/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-36",
+    "titulo": "Marco teórico de fenómenos amenazantes de origen biosanitario",
+    "href": "escenarios-en-vivo/ev-36/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-37",
+    "titulo": "Riesgos asociados a la gestión de residuos sólidos en Colombia",
+    "href": "escenarios-en-vivo/ev-37/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-43",
+    "titulo": "Los animales en la gestión del riesgo de desastres: alcances de la Ley 2474 de 2025",
+    "href": "escenarios-en-vivo/ev-43/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "laboratorios-de-aprendizaje",
+    "slug": "la-02",
+    "titulo": "Innovación social para la participación en GRD",
+    "href": "laboratorios-de-aprendizaje/la-02/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "laboratorios-de-aprendizaje",
+    "slug": "la-03",
+    "titulo": "Gestión del Riesgo de Desastres para la Inclusión de Personas con Discapacidad",
+    "href": "laboratorios-de-aprendizaje/la-03/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "laboratorios-de-aprendizaje",
+    "slug": "la-04",
+    "titulo": "Género, datos y paz: aprendizajes del Bootcamp para transformar la GRD en Colombia",
+    "href": "laboratorios-de-aprendizaje/la-04/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "laboratorios-de-aprendizaje",
+    "slug": "la-07",
+    "titulo": "Memorias que caben en la mano: cómo comunicar el riesgo",
+    "href": "laboratorios-de-aprendizaje/la-07/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "laboratorios-de-aprendizaje",
+    "slug": "la-08",
+    "titulo": "Cartografía Participativa para la Gestión del Riesgo de Desastres",
+    "href": "laboratorios-de-aprendizaje/la-08/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "laboratorios-de-aprendizaje",
+    "slug": "la-10",
+    "titulo": "Explorando el SNIGRD",
+    "href": "laboratorios-de-aprendizaje/la-10/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "plenarias",
+    "slug": "p-01",
+    "titulo": "Sistemas de conocimiento en las alertas tempranas: Un diálogo de saberes para salvar vidas",
+    "href": "plenarias/p-01/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "plenarias",
+    "slug": "p-02",
+    "titulo": "Conectando datos, salvando vidas: Lanzamiento del SNIGRD",
+    "href": "plenarias/p-02/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "plenarias",
+    "slug": "p-03",
+    "titulo": "Infraestructura resiliente: de la evidencia a la inversión",
+    "href": "plenarias/p-03/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "plenarias",
+    "slug": "p-04",
+    "titulo": "Reconstruir mejor: intercambio de experiencias y lecciones aprendidas para fortalecer la recuperación post-desastre",
+    "href": "plenarias/p-04/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "plenarias",
+    "slug": "p-05",
+    "titulo": "El Manejo Integral del Fuego como Política Pública de Estado",
+    "href": "plenarias/p-05/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "posters",
+    "slug": "pt-21",
+    "titulo": "Guía Metodológica para la Formulación del PMGRD",
+    "href": "posters/pt-21/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "posters",
+    "slug": "pt-26",
+    "titulo": "Vulcanismo monogenético en Colombia y su potencial geoturístico - Un insumo para la evaluación de la amenaza y el riesgo volcánico",
+    "href": "posters/pt-26/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "posters",
+    "slug": "pt-27",
+    "titulo": "Protocolo de Apoyo Psicosocial en Contextos de Emergencias y Desastres",
+    "href": "posters/pt-27/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "sesiones-especiales",
+    "slug": "se-02",
+    "titulo": "Mujeres artesanas, territorio y gestión del riesgo: experiencias que tejen resiliencia",
+    "href": "sesiones-especiales/se-02/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "sesiones-especiales",
+    "slug": "se-03",
+    "titulo": "Acciones municipales para la Reducción del Riesgo de Desastres y la Adaptación al Cambio Climático",
+    "href": "sesiones-especiales/se-03/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "sesiones-especiales",
+    "slug": "se-05",
+    "titulo": "Sistemas de conocimientos indígenas en la planificación para la gestión del riesgo de desastres",
+    "href": "sesiones-especiales/se-05/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "sesiones-especiales",
+    "slug": "se-06",
+    "titulo": "Los Animales en la Gestión del Riesgo de Desastres",
+    "href": "sesiones-especiales/se-06/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "sesiones-especiales",
+    "slug": "se-07",
+    "titulo": "Hacia la gestión integral de la erosión costera en Colombia: Comunidades, ecosistemas y economía resiliente al clima",
+    "href": "sesiones-especiales/se-07/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "sesiones-especiales",
+    "slug": "se-08",
+    "titulo": "Final del Hackathon: innovación en Sistemas de Alerta Temprana de bajo costo",
+    "href": "sesiones-especiales/se-08/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "sesiones-especiales",
+    "slug": "se-10",
+    "titulo": "Ancestralidad que protege: voces afrocolombianas, raizales y palenqueras para la resiliencia territorial",
+    "href": "sesiones-especiales/se-10/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-01",
+    "titulo": "Colombia ante las Amenazas Extraterrestres: Ciencia, Riesgo y Política Pública",
+    "href": "sesiones-paralelas/sp-01/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-02",
+    "titulo": "Avances en el sistema de alertas por ciclones tropicales: evolución operativa e innovación",
+    "href": "sesiones-paralelas/sp-02/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-05",
+    "titulo": "Educación en gestión del riesgo a lo largo de la vida",
+    "href": "sesiones-paralelas/sp-05/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-07",
+    "titulo": "¿Por qué y en dónde ocurren las avenidas torrenciales? Priorización de cuencas para estudios básicos de amenaza por avenidas torrenciales",
+    "href": "sesiones-paralelas/sp-07/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-09",
+    "titulo": "Alianzas que transforman la Gestión del Riesgo de Desastres",
+    "href": "sesiones-paralelas/sp-09/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-10",
+    "titulo": "¿Por qué se apagan los radares? El reto de mantener vivos los ojos del país frente a las lluvias y eventos extremos",
+    "href": "sesiones-paralelas/sp-10/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-11",
+    "titulo": "Reducir el Riesgo y Salvaguardar la Biodiversidad: Estrategias Integradas de Resiliencia",
+    "href": "sesiones-paralelas/sp-11/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-12",
+    "titulo": "Camino hacia Tsunami Ready en Colombia: Capacidades, desafíos y articulación institucional",
+    "href": "sesiones-paralelas/sp-12/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-13",
+    "titulo": "Anticipar, planificar y resistir: los desafíos de la gestión del riesgo de desastres",
+    "href": "sesiones-paralelas/sp-13/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-15",
+    "titulo": "Towards 'Caribbean Sea Resilience Framework Initiative' through advancing investment in Disaster Risk Reduction",
+    "href": "sesiones-paralelas/sp-15/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-16",
+    "titulo": "Riesgo NATECH en Colombia: gobernanza público-privada para la reducción de riesgos complejos y sistémicos",
+    "href": "sesiones-paralelas/sp-16/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-17",
+    "titulo": "De la observación a la acción: CopernicusLAC en la gestión del riesgo multiamenazas en Colombia",
+    "href": "sesiones-paralelas/sp-17/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-18",
+    "titulo": "Implementación de la Política Pública de GRD en las IES Colombianas (Fase diagnóstica)",
+    "href": "sesiones-paralelas/sp-18/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-19",
+    "titulo": "Animales y desastres, una mirada desde la sociedad civil para fortalecer la resiliencia de los territorios",
+    "href": "sesiones-paralelas/sp-19/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-21",
+    "titulo": "Semillas de resiliencia: el aula como espacio de conocimiento del riesgo",
+    "href": "sesiones-paralelas/sp-21/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-23",
+    "titulo": "El Ejército Colombiano, pilar fundamental de la Gestión del Riesgo",
+    "href": "sesiones-paralelas/sp-23/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-25",
+    "titulo": "Género, datos e innovación: Del compromiso global a la acción territorial",
+    "href": "sesiones-paralelas/sp-25/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-27",
+    "titulo": "Cuando los datos se vuelven protección: Visión geoespacial para la transferencia del riesgo",
+    "href": "sesiones-paralelas/sp-27/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-29",
+    "titulo": "¿Quién paga el riesgo? Financiamiento de la resiliencia en contextos de alta exposición a desastres",
+    "href": "sesiones-paralelas/sp-29/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-37",
+    "titulo": "Preparación ante emergencias y movilidad humana",
+    "href": "sesiones-paralelas/sp-37/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-38",
+    "titulo": "Puentes con la Gente y para la Gente",
+    "href": "sesiones-paralelas/sp-38/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "sesiones-tematicas",
+    "slug": "st-02",
+    "titulo": "Oportunidades para la integración del conocimiento del riesgo sísmico en la GRD territorial",
+    "href": "sesiones-tematicas/st-02/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "sesiones-tematicas",
+    "slug": "st-03",
+    "titulo": "Anticipación en Acción",
+    "href": "sesiones-tematicas/st-03/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "sesiones-tematicas",
+    "slug": "st-04",
+    "titulo": "NotiPaz: Emisión Especial — Contar el territorio, conocer el riesgo, construir paz",
+    "href": "sesiones-tematicas/st-04/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "sesiones-tematicas",
+    "slug": "st-05",
+    "titulo": "Nueva política pública para desplazamiento por desastres y eventos de evolución lenta",
+    "href": "sesiones-tematicas/st-05/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "sesiones-tematicas",
+    "slug": "st-06",
+    "titulo": "Formar para transformar: herramientas, resiliencia climática y aprendizajes territoriales",
+    "href": "sesiones-tematicas/st-06/index.qmd",
+    "rol": "Co-anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "MinAmbiente",
+  "nombre": "Ministerio de Ambiente y Desarrollo Sostenible",
+  "tipo": "Gobierno nacional",
+  "color": "primary",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "posters",
+    "slug": "pt-29",
+    "titulo": "Colombia Resiliente - Innovación en Gestión Comunitaria para la Reducción de Incendios Forestales - Red Nacional de Brigadas Forestales",
+    "href": "posters/pt-29/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "sesiones-especiales",
+    "slug": "se-01",
+    "titulo": "Encuentro de Experiencias en la Gestión del Riesgo de Desastres y la Adaptación al Cambio Climático, Una Mirada Ambiental (2026)",
+    "href": "sesiones-especiales/se-01/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "sesiones-especiales",
+    "slug": "se-03",
+    "titulo": "Acciones municipales para la Reducción del Riesgo de Desastres y la Adaptación al Cambio Climático",
+    "href": "sesiones-especiales/se-03/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "sesiones-especiales",
+    "slug": "se-07",
+    "titulo": "Hacia la gestión integral de la erosión costera en Colombia: Comunidades, ecosistemas y economía resiliente al clima",
+    "href": "sesiones-especiales/se-07/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-11",
+    "titulo": "Reducir el Riesgo y Salvaguardar la Biodiversidad: Estrategias Integradas de Resiliencia",
+    "href": "sesiones-paralelas/sp-11/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-13",
+    "titulo": "Anticipar, planificar y resistir: los desafíos de la gestión del riesgo de desastres",
+    "href": "sesiones-paralelas/sp-13/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-20",
+    "titulo": "Áreas Protegidas y gestión del riesgo climático: el rol estratégico del SINAP y de las autoridades ambientales en la construcción de territorios resilientes",
+    "href": "sesiones-paralelas/sp-20/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-24",
+    "titulo": "De la naturaleza al territorio: validación técnica de la Adaptación Basada en Ecosistemas (AbE) para su integración en la gestión del riesgo climático",
+    "href": "sesiones-paralelas/sp-24/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "sesiones-tematicas",
+    "slug": "st-05",
+    "titulo": "Nueva política pública para desplazamiento por desastres y eventos de evolución lenta",
+    "href": "sesiones-tematicas/st-05/index.qmd",
+    "rol": "Co-anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "DNP",
+  "nombre": "Departamento Nacional de Planeación",
+  "tipo": "Gobierno nacional",
+  "color": "primary",
+  "descripcion": "Entidad técnica del Gobierno Nacional que impulsa la planeación del desarrollo y la inversión pública. Lidera estrategias de protección financiera ante desastres y gestión del riesgo fiscal.",
+  "trabajos": [
+   {
+    "sec": "sesiones-especiales",
+    "slug": "se-07",
+    "titulo": "Hacia la gestión integral de la erosión costera en Colombia: Comunidades, ecosistemas y economía resiliente al clima",
+    "href": "sesiones-especiales/se-07/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-11",
+    "titulo": "Reducir el Riesgo y Salvaguardar la Biodiversidad: Estrategias Integradas de Resiliencia",
+    "href": "sesiones-paralelas/sp-11/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-20",
+    "titulo": "Áreas Protegidas y gestión del riesgo climático: el rol estratégico del SINAP y de las autoridades ambientales en la construcción de territorios resilientes",
+    "href": "sesiones-paralelas/sp-20/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-29",
+    "titulo": "¿Quién paga el riesgo? Financiamiento de la resiliencia en contextos de alta exposición a desastres",
+    "href": "sesiones-paralelas/sp-29/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-32",
+    "titulo": "Hacia territorios resilientes en Colombia: orientaciones conceptuales para política e inversión pública",
+    "href": "sesiones-paralelas/sp-32/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "sesiones-tematicas",
+    "slug": "st-05",
+    "titulo": "Nueva política pública para desplazamiento por desastres y eventos de evolución lenta",
+    "href": "sesiones-tematicas/st-05/index.qmd",
+    "rol": "Ponente"
+   }
+  ]
+ },
+ {
+  "sigla": "IDEAM",
+  "nombre": "Instituto de Hidrología, Meteorología y Estudios Ambientales",
+  "tipo": "Gobierno nacional",
+  "color": "primary",
+  "descripcion": "Genera información hidrometeorológica y ambiental estratégica para el país, incluyendo el sistema de alertas tempranas por fenómenos climáticos e hidrológicos.",
+  "trabajos": [
+   {
+    "sec": "laboratorios-de-aprendizaje",
+    "slug": "la-09",
+    "titulo": "Mesa Técnica Agroclimática para la gestión del riesgo sectorial",
+    "href": "laboratorios-de-aprendizaje/la-09/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "plenarias",
+    "slug": "p-01",
+    "titulo": "Sistemas de conocimiento en las alertas tempranas: Un diálogo de saberes para salvar vidas",
+    "href": "plenarias/p-01/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "sesiones-especiales",
+    "slug": "se-07",
+    "titulo": "Hacia la gestión integral de la erosión costera en Colombia: Comunidades, ecosistemas y economía resiliente al clima",
+    "href": "sesiones-especiales/se-07/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-10",
+    "titulo": "¿Por qué se apagan los radares? El reto de mantener vivos los ojos del país frente a las lluvias y eventos extremos",
+    "href": "sesiones-paralelas/sp-10/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "sesiones-tematicas",
+    "slug": "st-01",
+    "titulo": "Ciencia al Servicio de la Vida: Servicios Climáticos para Monitoreo Continuo de Alertas Tempranas y su aplicación para la gestión de riesgos agropecuarios",
+    "href": "sesiones-tematicas/st-01/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "sesiones-tematicas",
+    "slug": "st-03",
+    "titulo": "Anticipación en Acción",
+    "href": "sesiones-tematicas/st-03/index.qmd",
+    "rol": "Ponente"
+   }
+  ]
+ },
+ {
+  "sigla": "MinAgricultura",
+  "nombre": "Ministerio de Agricultura y Desarrollo Rural",
+  "tipo": "Gobierno nacional",
+  "color": "primary",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "laboratorios-de-aprendizaje",
+    "slug": "la-06",
+    "titulo": "Del satélite al cultivo: gestión del agua para una agricultura resiliente con WaPOR",
+    "href": "laboratorios-de-aprendizaje/la-06/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "laboratorios-de-aprendizaje",
+    "slug": "la-09",
+    "titulo": "Mesa Técnica Agroclimática para la gestión del riesgo sectorial",
+    "href": "laboratorios-de-aprendizaje/la-09/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "sesiones-especiales",
+    "slug": "se-09",
+    "titulo": "Gestión integral del riesgo en el sector agropecuario: retos institucionales, capacidades e instrumentos para la política pública",
+    "href": "sesiones-especiales/se-09/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-14",
+    "titulo": "Gestión del riesgo en el sector agropecuario: desarrollo rural, financiamiento e innovación para la resiliencia de los territorios rurales",
+    "href": "sesiones-paralelas/sp-14/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "sesiones-tematicas",
+    "slug": "st-01",
+    "titulo": "Ciencia al Servicio de la Vida: Servicios Climáticos para Monitoreo Continuo de Alertas Tempranas y su aplicación para la gestión de riesgos agropecuarios",
+    "href": "sesiones-tematicas/st-01/index.qmd",
+    "rol": "Co-anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "SGC",
+  "nombre": "Servicio Geológico Colombiano",
+  "tipo": "Gobierno nacional",
+  "color": "primary",
+  "descripcion": "Autoridad científica y técnica en geología, geofísica y riesgos geológicos del país. Opera la red sismológica nacional y los observatorios vulcanológicos de Colombia.",
+  "trabajos": [
+   {
+    "sec": "plenarias",
+    "slug": "p-01",
+    "titulo": "Sistemas de conocimiento en las alertas tempranas: Un diálogo de saberes para salvar vidas",
+    "href": "plenarias/p-01/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "sesiones-especiales",
+    "slug": "se-07",
+    "titulo": "Hacia la gestión integral de la erosión costera en Colombia: Comunidades, ecosistemas y economía resiliente al clima",
+    "href": "sesiones-especiales/se-07/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "sesiones-tematicas",
+    "slug": "st-02",
+    "titulo": "Oportunidades para la integración del conocimiento del riesgo sísmico en la GRD territorial",
+    "href": "sesiones-tematicas/st-02/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "sesiones-tematicas",
+    "slug": "st-04",
+    "titulo": "NotiPaz: Emisión Especial — Contar el territorio, conocer el riesgo, construir paz",
+    "href": "sesiones-tematicas/st-04/index.qmd",
+    "rol": "Ponente"
+   }
+  ]
+ },
+ {
+  "sigla": "Ejército",
+  "nombre": "Ejército Nacional de Colombia",
+  "tipo": "Gobierno nacional",
+  "color": "primary",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-18",
+    "titulo": "Sistema de información en tiempo real para la clasificación y traslado de víctimas por avenidas torrenciales en la primera respuesta en salud",
+    "href": "escenarios-en-vivo/ev-18/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-44",
+    "titulo": "Diseñar estrategias de manejo para los movimientos en masa asociados a erosión según las características de la cuenca baja del río Fonce",
+    "href": "escenarios-en-vivo/ev-44/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-23",
+    "titulo": "El Ejército Colombiano, pilar fundamental de la Gestión del Riesgo",
+    "href": "sesiones-paralelas/sp-23/index.qmd",
+    "rol": "Anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "MinTransporte",
+  "nombre": "Ministerio de Transporte",
+  "tipo": "Gobierno nacional",
+  "color": "primary",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-especiales",
+    "slug": "se-04",
+    "titulo": "Infraestructura de transporte resiliente al clima: avances y desafíos para Colombia",
+    "href": "sesiones-especiales/se-04/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "sesiones-especiales",
+    "slug": "se-07",
+    "titulo": "Hacia la gestión integral de la erosión costera en Colombia: Comunidades, ecosistemas y economía resiliente al clima",
+    "href": "sesiones-especiales/se-07/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-09",
+    "titulo": "Alianzas que transforman la Gestión del Riesgo de Desastres",
+    "href": "sesiones-paralelas/sp-09/index.qmd",
+    "rol": "Ponente"
+   }
+  ]
+ },
+ {
+  "sigla": "MinVivienda",
+  "nombre": "Ministerio de Vivienda, Ciudad y Territorio",
+  "tipo": "Gobierno nacional",
+  "color": "primary",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-especiales",
+    "slug": "se-07",
+    "titulo": "Hacia la gestión integral de la erosión costera en Colombia: Comunidades, ecosistemas y economía resiliente al clima",
+    "href": "sesiones-especiales/se-07/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-13",
+    "titulo": "Anticipar, planificar y resistir: los desafíos de la gestión del riesgo de desastres",
+    "href": "sesiones-paralelas/sp-13/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-34",
+    "titulo": "Construyendo Espacios de Paz en la Ruralidad",
+    "href": "sesiones-paralelas/sp-34/index.qmd",
+    "rol": "Ponente"
+   }
+  ]
+ },
+ {
+  "sigla": "PNN",
+  "nombre": "Parques Nacionales Naturales de Colombia",
+  "tipo": "Gobierno nacional",
+  "color": "primary",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-especiales",
+    "slug": "se-07",
+    "titulo": "Hacia la gestión integral de la erosión costera en Colombia: Comunidades, ecosistemas y economía resiliente al clima",
+    "href": "sesiones-especiales/se-07/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-09",
+    "titulo": "Alianzas que transforman la Gestión del Riesgo de Desastres",
+    "href": "sesiones-paralelas/sp-09/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-20",
+    "titulo": "Áreas Protegidas y gestión del riesgo climático: el rol estratégico del SINAP y de las autoridades ambientales en la construcción de territorios resilientes",
+    "href": "sesiones-paralelas/sp-20/index.qmd",
+    "rol": "Anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "Bomberos",
+  "nombre": "Bomberos Colombia",
+  "tipo": "Gobierno nacional",
+  "color": "primary",
+  "descripcion": "Sistema Nacional de Bomberos de Colombia, integrado por cuerpos de bomberos voluntarios y oficiales. Responde a emergencias con incendios, rescates y accidentes con materiales peligrosos.",
+  "trabajos": [
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-21",
+    "titulo": "Semillas de resiliencia: el aula como espacio de conocimiento del riesgo",
+    "href": "sesiones-paralelas/sp-21/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-23",
+    "titulo": "El Ejército Colombiano, pilar fundamental de la Gestión del Riesgo",
+    "href": "sesiones-paralelas/sp-23/index.qmd",
+    "rol": "Ponente"
+   }
+  ]
+ },
+ {
+  "sigla": "DIMAR",
+  "nombre": "Dirección General Marítima",
+  "tipo": "Gobierno nacional",
+  "color": "primary",
+  "descripcion": "Autoridad marítima de Colombia adscrita al Ministerio de Defensa. Opera la red de monitoreo oceanográfico y produce modelos de amenaza costera por oleaje extremo y tsunami.",
+  "trabajos": [
+   {
+    "sec": "sesiones-especiales",
+    "slug": "se-07",
+    "titulo": "Hacia la gestión integral de la erosión costera en Colombia: Comunidades, ecosistemas y economía resiliente al clima",
+    "href": "sesiones-especiales/se-07/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-12",
+    "titulo": "Camino hacia Tsunami Ready en Colombia: Capacidades, desafíos y articulación institucional",
+    "href": "sesiones-paralelas/sp-12/index.qmd",
+    "rol": "Co-anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "Defensa Civil",
+  "nombre": "Defensa Civil Colombiana",
+  "tipo": "Gobierno nacional",
+  "color": "primary",
+  "descripcion": "Organismo de socorro de carácter humanitario que apoya la respuesta a emergencias y desastres en todo el territorio nacional, con presencia en más de 900 municipios.",
+  "trabajos": [
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-21",
+    "titulo": "Semillas de resiliencia: el aula como espacio de conocimiento del riesgo",
+    "href": "sesiones-paralelas/sp-21/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "sesiones-tematicas",
+    "slug": "st-04",
+    "titulo": "NotiPaz: Emisión Especial — Contar el territorio, conocer el riesgo, construir paz",
+    "href": "sesiones-tematicas/st-04/index.qmd",
+    "rol": "Ponente"
+   }
+  ]
+ },
+ {
+  "sigla": "INVEMAR",
+  "nombre": "Instituto de Investigaciones Marinas y Costeras",
+  "tipo": "Gobierno nacional",
+  "color": "primary",
+  "descripcion": "Instituto adscrito al Ministerio de Ciencias que investiga los ecosistemas marinos y costeros de Colombia. Contribuye al análisis del riesgo costero por erosión, inundación y cambio climático.",
+  "trabajos": [
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-12",
+    "titulo": "Monitoreo, análisis y gestión integral de la erosión costera en Buenaventura mediante soluciones basadas en la naturaleza, medidas híbridas y participación comunitaria",
+    "href": "escenarios-en-vivo/ev-12/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "sesiones-especiales",
+    "slug": "se-07",
+    "titulo": "Hacia la gestión integral de la erosión costera en Colombia: Comunidades, ecosistemas y economía resiliente al clima",
+    "href": "sesiones-especiales/se-07/index.qmd",
+    "rol": "Co-anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "MinEducación",
+  "nombre": "Ministerio de Educación Nacional",
+  "tipo": "Gobierno nacional",
+  "color": "primary",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-05",
+    "titulo": "Educación en gestión del riesgo a lo largo de la vida",
+    "href": "sesiones-paralelas/sp-05/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-18",
+    "titulo": "Implementación de la Política Pública de GRD en las IES Colombianas (Fase diagnóstica)",
+    "href": "sesiones-paralelas/sp-18/index.qmd",
+    "rol": "Co-anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "MinSalud",
+  "nombre": "Ministerio de Salud y Protección Social",
+  "tipo": "Gobierno nacional",
+  "color": "primary",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "laboratorios-de-aprendizaje",
+    "slug": "la-03",
+    "titulo": "Gestión del Riesgo de Desastres para la Inclusión de Personas con Discapacidad",
+    "href": "laboratorios-de-aprendizaje/la-03/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-08",
+    "titulo": "Hospitales Resilientes Frente a Emergencias de Salud y Desastres",
+    "href": "sesiones-paralelas/sp-08/index.qmd",
+    "rol": "Anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "ANI",
+  "nombre": "Agencia Nacional de Infraestructura",
+  "tipo": "Gobierno nacional",
+  "color": "primary",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-especiales",
+    "slug": "se-04",
+    "titulo": "Infraestructura de transporte resiliente al clima: avances y desafíos para Colombia",
+    "href": "sesiones-especiales/se-04/index.qmd",
+    "rol": "Co-anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "ARN",
+  "nombre": "Agencia para la Reincorporación y la Normalización",
+  "tipo": "Gobierno nacional",
+  "color": "primary",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-34",
+    "titulo": "Construyendo Espacios de Paz en la Ruralidad",
+    "href": "sesiones-paralelas/sp-34/index.qmd",
+    "rol": "Anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "Aerocivil",
+  "nombre": "Aeronáutica Civil",
+  "tipo": "Gobierno nacional",
+  "color": "primary",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-10",
+    "titulo": "¿Por qué se apagan los radares? El reto de mantener vivos los ojos del país frente a las lluvias y eventos extremos",
+    "href": "sesiones-paralelas/sp-10/index.qmd",
+    "rol": "Ponente"
+   }
+  ]
+ },
+ {
+  "sigla": "CCO",
+  "nombre": "Comisión Colombiana del Océano",
+  "tipo": "Gobierno nacional",
+  "color": "primary",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-especiales",
+    "slug": "se-07",
+    "titulo": "Hacia la gestión integral de la erosión costera en Colombia: Comunidades, ecosistemas y economía resiliente al clima",
+    "href": "sesiones-especiales/se-07/index.qmd",
+    "rol": "Co-anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "Defensoría",
+  "nombre": "Defensoría del Pueblo",
+  "tipo": "Gobierno nacional",
+  "color": "primary",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-tematicas",
+    "slug": "st-05",
+    "titulo": "Nueva política pública para desplazamiento por desastres y eventos de evolución lenta",
+    "href": "sesiones-tematicas/st-05/index.qmd",
+    "rol": "Ponente"
+   }
+  ]
+ },
+ {
+  "sigla": "ICBF",
+  "nombre": "Instituto Colombiano de Bienestar Familiar",
+  "tipo": "Gobierno nacional",
+  "color": "primary",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-05",
+    "titulo": "Educación en gestión del riesgo a lo largo de la vida",
+    "href": "sesiones-paralelas/sp-05/index.qmd",
+    "rol": "Ponente"
+   }
+  ]
+ },
+ {
+  "sigla": "INCI",
+  "nombre": "Instituto Nacional para Ciegos",
+  "tipo": "Gobierno nacional",
+  "color": "primary",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "laboratorios-de-aprendizaje",
+    "slug": "la-03",
+    "titulo": "Gestión del Riesgo de Desastres para la Inclusión de Personas con Discapacidad",
+    "href": "laboratorios-de-aprendizaje/la-03/index.qmd",
+    "rol": "Ponente"
+   }
+  ]
+ },
+ {
+  "sigla": "INSOR",
+  "nombre": "Instituto Nacional para Sordos",
+  "tipo": "Gobierno nacional",
+  "color": "primary",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "laboratorios-de-aprendizaje",
+    "slug": "la-03",
+    "titulo": "Gestión del Riesgo de Desastres para la Inclusión de Personas con Discapacidad",
+    "href": "laboratorios-de-aprendizaje/la-03/index.qmd",
+    "rol": "Ponente"
+   }
+  ]
+ },
+ {
+  "sigla": "INVIAS",
+  "nombre": "Instituto Nacional de Vías",
+  "tipo": "Gobierno nacional",
+  "color": "primary",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-especiales",
+    "slug": "se-04",
+    "titulo": "Infraestructura de transporte resiliente al clima: avances y desafíos para Colombia",
+    "href": "sesiones-especiales/se-04/index.qmd",
+    "rol": "Co-anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "MinIgualdad",
+  "nombre": "Ministerio de Igualdad y Equidad",
+  "tipo": "Gobierno nacional",
+  "color": "primary",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "laboratorios-de-aprendizaje",
+    "slug": "la-03",
+    "titulo": "Gestión del Riesgo de Desastres para la Inclusión de Personas con Discapacidad",
+    "href": "laboratorios-de-aprendizaje/la-03/index.qmd",
+    "rol": "Anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "MinMinas",
+  "nombre": "Ministerio de Minas y Energía",
+  "tipo": "Gobierno nacional",
+  "color": "primary",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-07",
+    "titulo": "Soluciones basadas en la naturaleza para la gestión del riesgo en territorios mineros: una experiencia de Eco-RRD en Marmato, Caldas",
+    "href": "escenarios-en-vivo/ev-07/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "Mincomercio",
+  "nombre": "Ministerio de Comercio, Industria y Turismo",
+  "tipo": "Gobierno nacional",
+  "color": "primary",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-especiales",
+    "slug": "se-07",
+    "titulo": "Hacia la gestión integral de la erosión costera en Colombia: Comunidades, ecosistemas y economía resiliente al clima",
+    "href": "sesiones-especiales/se-07/index.qmd",
+    "rol": "Co-anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "Superservicios",
+  "nombre": "Superintendencia de Servicios Públicos Domiciliarios",
+  "tipo": "Gobierno nacional",
+  "color": "primary",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-31",
+    "titulo": "Supervisión Basada en Riesgos con un enfoque en la resiliencia de los servicios públicos domiciliarios",
+    "href": "sesiones-paralelas/sp-31/index.qmd",
+    "rol": "Anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "DANE",
+  "nombre": "Departamento Administrativo Nacional de Estadística",
+  "tipo": "Gobierno nacional",
+  "color": "primary",
+  "descripcion": "Produce y difunde la información estadística oficial de Colombia, incluyendo datos censales de población y vivienda fundamentales para el análisis de exposición ante amenazas.",
+  "trabajos": []
+ },
+ {
+  "sigla": "Fondo Adaptación",
+  "nombre": "Fondo Adaptación",
+  "tipo": "Gobierno nacional",
+  "color": "primary",
+  "descripcion": "Entidad del orden nacional creada tras la Ola Invernal 2010-2011. Financia proyectos de adaptación al cambio climático e infraestructura resiliente en los territorios más vulnerables del país.",
+  "trabajos": []
+ },
+ {
+  "sigla": "IGAC",
+  "nombre": "Instituto Geográfico Agustín Codazzi",
+  "tipo": "Gobierno nacional",
+  "color": "primary",
+  "descripcion": "Produce la cartografía oficial de Colombia, el catastro nacional y la información geoespacial base para el ordenamiento territorial y la gestión del riesgo.",
+  "trabajos": []
+ },
+ {
+  "sigla": "MinCiencias",
+  "nombre": "Ministerio de Ciencias, Tecnología e Innovación",
+  "tipo": "Gobierno nacional",
+  "color": "primary",
+  "descripcion": "Rector de la política nacional de ciencia, tecnología e innovación. Financia proyectos de I+D aplicados a la gestión del riesgo de desastres a través del Fondo de CTeI.",
+  "trabajos": []
+ },
+ {
+  "sigla": "MinTIC",
+  "nombre": "Ministerio de Tecnologías de la Información y las Comunicaciones",
+  "tipo": "Gobierno nacional",
+  "color": "primary",
+  "descripcion": "Lidera la política digital del país, incluyendo la conectividad en zonas de emergencia, los sistemas de alerta basados en IoT y las plataformas de gobierno digital.",
+  "trabajos": []
+ },
+ {
+  "sigla": "Casanare",
+  "nombre": "Gobernación de Casanare",
+  "tipo": "Gobierno territorial",
+  "color": "success",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-38",
+    "titulo": "Puentes con la Gente y para la Gente",
+    "href": "sesiones-paralelas/sp-38/index.qmd",
+    "rol": "Anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "Guaranda",
+  "nombre": "Alcaldía de Guaranda (Sucre)",
+  "tipo": "Gobierno territorial",
+  "color": "success",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-25",
+    "titulo": "Monitoreo comunitario del caño Rabón en Guaranda, Sucre (subregión La Mojana) para la generación de alertas tempranas frente a inundaciones del río Cauca",
+    "href": "escenarios-en-vivo/ev-25/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "IDIGER",
+  "nombre": "Instituto Distrital de Gestión de Riesgos y Cambio Climático",
+  "tipo": "Gobierno territorial",
+  "color": "success",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "laboratorios-de-aprendizaje",
+    "slug": "la-02",
+    "titulo": "Innovación social para la participación en GRD",
+    "href": "laboratorios-de-aprendizaje/la-02/index.qmd",
+    "rol": "Co-anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "San Andrés",
+  "nombre": "Gobernación de San Andrés, Providencia y Santa Catalina",
+  "tipo": "Gobierno territorial",
+  "color": "success",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-tematicas",
+    "slug": "st-03",
+    "titulo": "Anticipación en Acción",
+    "href": "sesiones-tematicas/st-03/index.qmd",
+    "rol": "Ponente"
+   }
+  ]
+ },
+ {
+  "sigla": "UAEGRD Boyacá",
+  "nombre": "Unidad Administrativa Especial para la Gestión del Riesgo de Desastres de Boyacá",
+  "tipo": "Gobierno territorial",
+  "color": "success",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-34",
+    "titulo": "Sistema de información en software libre para la gestión del riesgo en Boyacá",
+    "href": "escenarios-en-vivo/ev-34/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "Área Metro",
+  "nombre": "Área Metropolitana del Valle de Aburrá",
+  "tipo": "Gobierno territorial",
+  "color": "success",
+  "descripcion": "Autoridad ambiental y de planificación de los 10 municipios del Valle de Aburrá. Lidera el sistema de alerta temprana por deslizamientos e inundaciones de la región metropolitana de Medellín.",
+  "trabajos": []
+ },
+ {
+  "sigla": "CORPOGUAJIRA",
+  "nombre": "Corporación Autónoma Regional de La Guajira",
+  "tipo": "Autoridad ambiental",
+  "color": "success",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-27",
+    "titulo": "Fortalecimiento del monitoreo y la gestión de sequías en La Guajira (PROGESS)",
+    "href": "escenarios-en-vivo/ev-27/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "sesiones-especiales",
+    "slug": "se-01",
+    "titulo": "Encuentro de Experiencias en la Gestión del Riesgo de Desastres y la Adaptación al Cambio Climático, Una Mirada Ambiental (2026)",
+    "href": "sesiones-especiales/se-01/index.qmd",
+    "rol": "Co-anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "CVC",
+  "nombre": "Corporación Autónoma Regional del Valle del Cauca",
+  "tipo": "Autoridad ambiental",
+  "color": "success",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-12",
+    "titulo": "Monitoreo, análisis y gestión integral de la erosión costera en Buenaventura mediante soluciones basadas en la naturaleza, medidas híbridas y participación comunitaria",
+    "href": "escenarios-en-vivo/ev-12/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-31",
+    "titulo": "Una experiencia integrada de gestión del riesgo: tecnología + comunidad + institucionalidad",
+    "href": "escenarios-en-vivo/ev-31/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "Instituto Humboldt",
+  "nombre": "Instituto de Investigación de Recursos Biológicos Alexander von Humboldt",
+  "tipo": "Autoridad ambiental",
+  "color": "success",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-especiales",
+    "slug": "se-01",
+    "titulo": "Encuentro de Experiencias en la Gestión del Riesgo de Desastres y la Adaptación al Cambio Climático, Una Mirada Ambiental (2026)",
+    "href": "sesiones-especiales/se-01/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-11",
+    "titulo": "Reducir el Riesgo y Salvaguardar la Biodiversidad: Estrategias Integradas de Resiliencia",
+    "href": "sesiones-paralelas/sp-11/index.qmd",
+    "rol": "Co-anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "SDA",
+  "nombre": "Secretaría Distrital de Ambiente",
+  "tipo": "Autoridad ambiental",
+  "color": "success",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-especiales",
+    "slug": "se-01",
+    "titulo": "Encuentro de Experiencias en la Gestión del Riesgo de Desastres y la Adaptación al Cambio Climático, Una Mirada Ambiental (2026)",
+    "href": "sesiones-especiales/se-01/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-35",
+    "titulo": "Sistemas Alimentarios Resilientes: Estrategias de Adaptación frente al Riesgo Climático en Colombia",
+    "href": "sesiones-paralelas/sp-35/index.qmd",
+    "rol": "Ponente"
+   }
+  ]
+ },
+ {
+  "sigla": "ASOCARS",
+  "nombre": "Asociación de Corporaciones Autónomas Regionales y de Desarrollo Sostenible",
+  "tipo": "Autoridad ambiental",
+  "color": "success",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-especiales",
+    "slug": "se-01",
+    "titulo": "Encuentro de Experiencias en la Gestión del Riesgo de Desastres y la Adaptación al Cambio Climático, Una Mirada Ambiental (2026)",
+    "href": "sesiones-especiales/se-01/index.qmd",
+    "rol": "Anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "CAR Cundinamarca",
+  "nombre": "Corporación Autónoma Regional de Cundinamarca",
+  "tipo": "Autoridad ambiental",
+  "color": "success",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-20",
+    "titulo": "Áreas Protegidas y gestión del riesgo climático: el rol estratégico del SINAP y de las autoridades ambientales en la construcción de territorios resilientes",
+    "href": "sesiones-paralelas/sp-20/index.qmd",
+    "rol": "Ponente"
+   }
+  ]
+ },
+ {
+  "sigla": "CARDER",
+  "nombre": "Corporación Autónoma Regional de Risaralda",
+  "tipo": "Autoridad ambiental",
+  "color": "success",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-03",
+    "titulo": "Gobernanza de los Sistemas de Alerta Temprana Hidrometereológicos del Departamento de Risaralda, Colombia",
+    "href": "escenarios-en-vivo/ev-03/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "CORNARE",
+  "nombre": "Corporación Autónoma Regional de las Cuencas de los Ríos Negro y Nare",
+  "tipo": "Autoridad ambiental",
+  "color": "success",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-especiales",
+    "slug": "se-01",
+    "titulo": "Encuentro de Experiencias en la Gestión del Riesgo de Desastres y la Adaptación al Cambio Climático, Una Mirada Ambiental (2026)",
+    "href": "sesiones-especiales/se-01/index.qmd",
+    "rol": "Co-anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "CORPOAMAZONIA",
+  "nombre": "Corporación para el Desarrollo Sostenible del Sur de la Amazonia",
+  "tipo": "Autoridad ambiental",
+  "color": "success",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-especiales",
+    "slug": "se-01",
+    "titulo": "Encuentro de Experiencias en la Gestión del Riesgo de Desastres y la Adaptación al Cambio Climático, Una Mirada Ambiental (2026)",
+    "href": "sesiones-especiales/se-01/index.qmd",
+    "rol": "Co-anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "CORPOBOYACÁ",
+  "nombre": "Corporación Autónoma Regional de Boyacá",
+  "tipo": "Autoridad ambiental",
+  "color": "success",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "posters",
+    "slug": "pt-11",
+    "titulo": "Brigadas Ambientales Comunitarias",
+    "href": "posters/pt-11/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "CORPOCALDAS",
+  "nombre": "Corporación Autónoma Regional de Caldas",
+  "tipo": "Autoridad ambiental",
+  "color": "success",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-40",
+    "titulo": "Participación comunitaria en soluciones basadas en la naturaleza (SbN) en Caldas",
+    "href": "escenarios-en-vivo/ev-40/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "CORPONOR",
+  "nombre": "Corporación Autónoma Regional de la Frontera Nororiental",
+  "tipo": "Autoridad ambiental",
+  "color": "success",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-especiales",
+    "slug": "se-01",
+    "titulo": "Encuentro de Experiencias en la Gestión del Riesgo de Desastres y la Adaptación al Cambio Climático, Una Mirada Ambiental (2026)",
+    "href": "sesiones-especiales/se-01/index.qmd",
+    "rol": "Co-anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "CRA",
+  "nombre": "Corporación Autónoma Regional del Atlántico",
+  "tipo": "Autoridad ambiental",
+  "color": "success",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-04",
+    "titulo": "Plataforma Web Puntos Críticos: Una herramienta digital para la Gestión de Riesgo de Desastres en el Departamento del Atlántico",
+    "href": "escenarios-en-vivo/ev-04/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "UNDRR",
+  "nombre": "Oficina de la ONU para la Reducción del Riesgo de Desastres",
+  "tipo": "Internacional",
+  "color": "info",
+  "descripcion": "Secretaría del Marco de Sendai para la Reducción del Riesgo de Desastres 2015-2030. Apoya el seguimiento a los indicadores globales de reducción del riesgo en Colombia.",
+  "trabajos": [
+   {
+    "sec": "laboratorios-de-aprendizaje",
+    "slug": "la-04",
+    "titulo": "Género, datos y paz: aprendizajes del Bootcamp para transformar la GRD en Colombia",
+    "href": "laboratorios-de-aprendizaje/la-04/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "plenarias",
+    "slug": "p-01",
+    "titulo": "Sistemas de conocimiento en las alertas tempranas: Un diálogo de saberes para salvar vidas",
+    "href": "plenarias/p-01/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "plenarias",
+    "slug": "p-03",
+    "titulo": "Infraestructura resiliente: de la evidencia a la inversión",
+    "href": "plenarias/p-03/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "sesiones-especiales",
+    "slug": "se-03",
+    "titulo": "Acciones municipales para la Reducción del Riesgo de Desastres y la Adaptación al Cambio Climático",
+    "href": "sesiones-especiales/se-03/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "sesiones-especiales",
+    "slug": "se-10",
+    "titulo": "Ancestralidad que protege: voces afrocolombianas, raizales y palenqueras para la resiliencia territorial",
+    "href": "sesiones-especiales/se-10/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-04",
+    "titulo": "Protegiendo e impulsando el desarrollo a nivel territorial a través de la continuidad de las operaciones en las cadenas de suministro a nivel nacional frente a los efectos del cambio climático y los desastres",
+    "href": "sesiones-paralelas/sp-04/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-11",
+    "titulo": "Reducir el Riesgo y Salvaguardar la Biodiversidad: Estrategias Integradas de Resiliencia",
+    "href": "sesiones-paralelas/sp-11/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-15",
+    "titulo": "Towards 'Caribbean Sea Resilience Framework Initiative' through advancing investment in Disaster Risk Reduction",
+    "href": "sesiones-paralelas/sp-15/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-16",
+    "titulo": "Riesgo NATECH en Colombia: gobernanza público-privada para la reducción de riesgos complejos y sistémicos",
+    "href": "sesiones-paralelas/sp-16/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-25",
+    "titulo": "Género, datos e innovación: Del compromiso global a la acción territorial",
+    "href": "sesiones-paralelas/sp-25/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-29",
+    "titulo": "¿Quién paga el riesgo? Financiamiento de la resiliencia en contextos de alta exposición a desastres",
+    "href": "sesiones-paralelas/sp-29/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-32",
+    "titulo": "Hacia territorios resilientes en Colombia: orientaciones conceptuales para política e inversión pública",
+    "href": "sesiones-paralelas/sp-32/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "sesiones-tematicas",
+    "slug": "st-01",
+    "titulo": "Ciencia al Servicio de la Vida: Servicios Climáticos para Monitoreo Continuo de Alertas Tempranas y su aplicación para la gestión de riesgos agropecuarios",
+    "href": "sesiones-tematicas/st-01/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "sesiones-tematicas",
+    "slug": "st-06",
+    "titulo": "Formar para transformar: herramientas, resiliencia climática y aprendizajes territoriales",
+    "href": "sesiones-tematicas/st-06/index.qmd",
+    "rol": "Anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "FAO",
+  "nombre": "Organización de las Naciones Unidas para la Alimentación y la Agricultura",
+  "tipo": "Internacional",
+  "color": "info",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "laboratorios-de-aprendizaje",
+    "slug": "la-06",
+    "titulo": "Del satélite al cultivo: gestión del agua para una agricultura resiliente con WaPOR",
+    "href": "laboratorios-de-aprendizaje/la-06/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "laboratorios-de-aprendizaje",
+    "slug": "la-09",
+    "titulo": "Mesa Técnica Agroclimática para la gestión del riesgo sectorial",
+    "href": "laboratorios-de-aprendizaje/la-09/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "plenarias",
+    "slug": "p-05",
+    "titulo": "El Manejo Integral del Fuego como Política Pública de Estado",
+    "href": "plenarias/p-05/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "sesiones-especiales",
+    "slug": "se-09",
+    "titulo": "Gestión integral del riesgo en el sector agropecuario: retos institucionales, capacidades e instrumentos para la política pública",
+    "href": "sesiones-especiales/se-09/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-14",
+    "titulo": "Gestión del riesgo en el sector agropecuario: desarrollo rural, financiamiento e innovación para la resiliencia de los territorios rurales",
+    "href": "sesiones-paralelas/sp-14/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-35",
+    "titulo": "Sistemas Alimentarios Resilientes: Estrategias de Adaptación frente al Riesgo Climático en Colombia",
+    "href": "sesiones-paralelas/sp-35/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "sesiones-tematicas",
+    "slug": "st-01",
+    "titulo": "Ciencia al Servicio de la Vida: Servicios Climáticos para Monitoreo Continuo de Alertas Tempranas y su aplicación para la gestión de riesgos agropecuarios",
+    "href": "sesiones-tematicas/st-01/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "sesiones-tematicas",
+    "slug": "st-03",
+    "titulo": "Anticipación en Acción",
+    "href": "sesiones-tematicas/st-03/index.qmd",
+    "rol": "Co-anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "PNUD",
+  "nombre": "Programa de las Naciones Unidas para el Desarrollo",
+  "tipo": "Internacional",
+  "color": "info",
+  "descripcion": "Agencia de la ONU que apoya a Colombia en el diseño e implementación de estrategias de desarrollo sostenible, reducción de la pobreza y resiliencia ante desastres.",
+  "trabajos": [
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-45",
+    "titulo": "GeoIA, inteligencia artificial geoespacial para la gestión del riesgo",
+    "href": "escenarios-en-vivo/ev-45/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "plenarias",
+    "slug": "p-04",
+    "titulo": "Reconstruir mejor: intercambio de experiencias y lecciones aprendidas para fortalecer la recuperación post-desastre",
+    "href": "plenarias/p-04/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "posters",
+    "slug": "pt-29",
+    "titulo": "Colombia Resiliente - Innovación en Gestión Comunitaria para la Reducción de Incendios Forestales - Red Nacional de Brigadas Forestales",
+    "href": "posters/pt-29/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "sesiones-especiales",
+    "slug": "se-02",
+    "titulo": "Mujeres artesanas, territorio y gestión del riesgo: experiencias que tejen resiliencia",
+    "href": "sesiones-especiales/se-02/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "sesiones-especiales",
+    "slug": "se-08",
+    "titulo": "Final del Hackathon: innovación en Sistemas de Alerta Temprana de bajo costo",
+    "href": "sesiones-especiales/se-08/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-20",
+    "titulo": "Áreas Protegidas y gestión del riesgo climático: el rol estratégico del SINAP y de las autoridades ambientales en la construcción de territorios resilientes",
+    "href": "sesiones-paralelas/sp-20/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "sesiones-tematicas",
+    "slug": "st-05",
+    "titulo": "Nueva política pública para desplazamiento por desastres y eventos de evolución lenta",
+    "href": "sesiones-tematicas/st-05/index.qmd",
+    "rol": "Anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "GNDR",
+  "nombre": "Red Global de Organizaciones de la Sociedad Civil para la Reducción del Riesgo de Desastres",
+  "tipo": "Internacional",
+  "color": "info",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "laboratorios-de-aprendizaje",
+    "slug": "la-05",
+    "titulo": "Gobernanza desde la base: el rol transformador de las organizaciones de la Sociedad Civil en la gestión del riesgo de Colombia",
+    "href": "laboratorios-de-aprendizaje/la-05/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "posters",
+    "slug": "pt-24",
+    "titulo": "Invertir en prevención - responsabilidad fiscal y sostenibilidad en la gestión del riesgo de desastres",
+    "href": "posters/pt-24/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-19",
+    "titulo": "Animales y desastres, una mirada desde la sociedad civil para fortalecer la resiliencia de los territorios",
+    "href": "sesiones-paralelas/sp-19/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-28",
+    "titulo": "Invertir en prevención: responsabilidad fiscal y sostenibilidad en la gestión del riesgo de desastres",
+    "href": "sesiones-paralelas/sp-28/index.qmd",
+    "rol": "Co-anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "GIZ",
+  "nombre": "Cooperación Alemana (GIZ)",
+  "tipo": "Internacional",
+  "color": "info",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "laboratorios-de-aprendizaje",
+    "slug": "la-04",
+    "titulo": "Género, datos y paz: aprendizajes del Bootcamp para transformar la GRD en Colombia",
+    "href": "laboratorios-de-aprendizaje/la-04/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "sesiones-especiales",
+    "slug": "se-03",
+    "titulo": "Acciones municipales para la Reducción del Riesgo de Desastres y la Adaptación al Cambio Climático",
+    "href": "sesiones-especiales/se-03/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-25",
+    "titulo": "Género, datos e innovación: Del compromiso global a la acción territorial",
+    "href": "sesiones-paralelas/sp-25/index.qmd",
+    "rol": "Anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "Red LAC Mujeres RRD",
+  "nombre": "Red de las Américas y el Caribe de Mujeres para la RRD",
+  "tipo": "Internacional",
+  "color": "info",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "laboratorios-de-aprendizaje",
+    "slug": "la-04",
+    "titulo": "Género, datos y paz: aprendizajes del Bootcamp para transformar la GRD en Colombia",
+    "href": "laboratorios-de-aprendizaje/la-04/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-25",
+    "titulo": "Género, datos e innovación: Del compromiso global a la acción territorial",
+    "href": "sesiones-paralelas/sp-25/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-28",
+    "titulo": "Invertir en prevención: responsabilidad fiscal y sostenibilidad en la gestión del riesgo de desastres",
+    "href": "sesiones-paralelas/sp-28/index.qmd",
+    "rol": "Co-anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "OIM",
+  "nombre": "Organización Internacional para las Migraciones",
+  "tipo": "Internacional",
+  "color": "info",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-37",
+    "titulo": "Preparación ante emergencias y movilidad humana",
+    "href": "sesiones-paralelas/sp-37/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "sesiones-tematicas",
+    "slug": "st-05",
+    "titulo": "Nueva política pública para desplazamiento por desastres y eventos de evolución lenta",
+    "href": "sesiones-tematicas/st-05/index.qmd",
+    "rol": "Ponente"
+   }
+  ]
+ },
+ {
+  "sigla": "ONU Mujeres",
+  "nombre": "ONU Mujeres Colombia",
+  "tipo": "Internacional",
+  "color": "info",
+  "descripcion": "Entidad de la ONU dedicada a la igualdad de género. Promueve la incorporación del enfoque de género en la gestión del riesgo de desastres y la respuesta humanitaria.",
+  "trabajos": [
+   {
+    "sec": "laboratorios-de-aprendizaje",
+    "slug": "la-04",
+    "titulo": "Género, datos y paz: aprendizajes del Bootcamp para transformar la GRD en Colombia",
+    "href": "laboratorios-de-aprendizaje/la-04/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-25",
+    "titulo": "Género, datos e innovación: Del compromiso global a la acción territorial",
+    "href": "sesiones-paralelas/sp-25/index.qmd",
+    "rol": "Anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "3IS",
+  "nombre": "3IS",
+  "tipo": "Internacional",
+  "color": "info",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-22",
+    "titulo": "Del dato a la decisión: IA para la gestión del riesgo",
+    "href": "sesiones-paralelas/sp-22/index.qmd",
+    "rol": "Anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "Anticipation Hub",
+  "nombre": "Anticipation Hub / Centro del Clima de la Cruz Roja",
+  "tipo": "Internacional",
+  "color": "info",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-tematicas",
+    "slug": "st-03",
+    "titulo": "Anticipación en Acción",
+    "href": "sesiones-tematicas/st-03/index.qmd",
+    "rol": "Ponente"
+   }
+  ]
+ },
+ {
+  "sigla": "Banco Mundial",
+  "nombre": "Banco Mundial — Colombia",
+  "tipo": "Internacional",
+  "color": "info",
+  "descripcion": "Provee asistencia técnica y financiamiento para proyectos de gestión del riesgo, protección financiera ante desastres y adaptación al cambio climático en Colombia.",
+  "trabajos": [
+   {
+    "sec": "plenarias",
+    "slug": "p-03",
+    "titulo": "Infraestructura resiliente: de la evidencia a la inversión",
+    "href": "plenarias/p-03/index.qmd",
+    "rol": "Ponente"
+   }
+  ]
+ },
+ {
+  "sigla": "CDEMA",
+  "nombre": "Agencia del Caribe para el Manejo de Emergencias y Desastres",
+  "tipo": "Internacional",
+  "color": "info",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-15",
+    "titulo": "Towards 'Caribbean Sea Resilience Framework Initiative' through advancing investment in Disaster Risk Reduction",
+    "href": "sesiones-paralelas/sp-15/index.qmd",
+    "rol": "Co-anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "CDRI",
+  "nombre": "Coalición para la Infraestructura Resiliente a los Desastres",
+  "tipo": "Internacional",
+  "color": "info",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "plenarias",
+    "slug": "p-03",
+    "titulo": "Infraestructura resiliente: de la evidencia a la inversión",
+    "href": "plenarias/p-03/index.qmd",
+    "rol": "Ponente"
+   }
+  ]
+ },
+ {
+  "sigla": "CIIFEN",
+  "nombre": "Centro Internacional para la Investigación del Fenómeno de El Niño",
+  "tipo": "Internacional",
+  "color": "info",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-27",
+    "titulo": "Fortalecimiento del monitoreo y la gestión de sequías en La Guajira (PROGESS)",
+    "href": "escenarios-en-vivo/ev-27/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "CopernicusLAC",
+  "nombre": "Centro CopernicusLAC Panamá",
+  "tipo": "Internacional",
+  "color": "info",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-17",
+    "titulo": "De la observación a la acción: CopernicusLAC en la gestión del riesgo multiamenazas en Colombia",
+    "href": "sesiones-paralelas/sp-17/index.qmd",
+    "rol": "Anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "HeiGIT / HOT",
+  "nombre": "Humanitarian OpenStreetMap — HeiGIT",
+  "tipo": "Internacional",
+  "color": "info",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "laboratorios-de-aprendizaje",
+    "slug": "la-08",
+    "titulo": "Cartografía Participativa para la Gestión del Riesgo de Desastres",
+    "href": "laboratorios-de-aprendizaje/la-08/index.qmd",
+    "rol": "Co-anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "ICLEI",
+  "nombre": "ICLEI — Gobiernos Locales por la Sustentabilidad",
+  "tipo": "Internacional",
+  "color": "info",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-35",
+    "titulo": "Sistemas Alimentarios Resilientes: Estrategias de Adaptación frente al Riesgo Climático en Colombia",
+    "href": "sesiones-paralelas/sp-35/index.qmd",
+    "rol": "Anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "JICA",
+  "nombre": "Agencia de Cooperación Internacional del Japón",
+  "tipo": "Internacional",
+  "color": "info",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-15",
+    "titulo": "Towards 'Caribbean Sea Resilience Framework Initiative' through advancing investment in Disaster Risk Reduction",
+    "href": "sesiones-paralelas/sp-15/index.qmd",
+    "rol": "Anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "OCHA",
+  "nombre": "Oficina de Coordinación de Asuntos Humanitarios",
+  "tipo": "Internacional",
+  "color": "info",
+  "descripcion": "Coordina la respuesta humanitaria internacional en situaciones de emergencia compleja. Apoya la comunicación de riesgo, la gestión de información y la coordinación interagencial en Colombia.",
+  "trabajos": [
+   {
+    "sec": "sesiones-tematicas",
+    "slug": "st-03",
+    "titulo": "Anticipación en Acción",
+    "href": "sesiones-tematicas/st-03/index.qmd",
+    "rol": "Ponente"
+   }
+  ]
+ },
+ {
+  "sigla": "OPS",
+  "nombre": "Organización Panamericana de la Salud",
+  "tipo": "Internacional",
+  "color": "info",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-08",
+    "titulo": "Hospitales Resilientes Frente a Emergencias de Salud y Desastres",
+    "href": "sesiones-paralelas/sp-08/index.qmd",
+    "rol": "Co-anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "PMA",
+  "nombre": "Programa Mundial de Alimentos",
+  "tipo": "Internacional",
+  "color": "info",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-tematicas",
+    "slug": "st-03",
+    "titulo": "Anticipación en Acción",
+    "href": "sesiones-tematicas/st-03/index.qmd",
+    "rol": "Ponente"
+   }
+  ]
+ },
+ {
+  "sigla": "Unión Europea",
+  "nombre": "Delegación de la Unión Europea en Colombia",
+  "tipo": "Internacional",
+  "color": "info",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-17",
+    "titulo": "De la observación a la acción: CopernicusLAC en la gestión del riesgo multiamenazas en Colombia",
+    "href": "sesiones-paralelas/sp-17/index.qmd",
+    "rol": "Co-anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "WMO",
+  "nombre": "Organización Meteorológica Mundial — Colombia",
+  "tipo": "Internacional",
+  "color": "info",
+  "descripcion": "Agencia especializada de la ONU en meteorología, climatología y hidrología. Apoya a Colombia en el desarrollo de sistemas de alerta temprana multihazard bajo estándares internacionales.",
+  "trabajos": [
+   {
+    "sec": "sesiones-tematicas",
+    "slug": "st-01",
+    "titulo": "Ciencia al Servicio de la Vida: Servicios Climáticos para Monitoreo Continuo de Alertas Tempranas y su aplicación para la gestión de riesgos agropecuarios",
+    "href": "sesiones-tematicas/st-01/index.qmd",
+    "rol": "Ponente"
+   }
+  ]
+ },
+ {
+  "sigla": "USAID",
+  "nombre": "Agencia de los Estados Unidos para el Desarrollo Internacional",
+  "tipo": "Internacional",
+  "color": "info",
+  "descripcion": "Apoya iniciativas de resiliencia ante desastres, respuesta humanitaria y fortalecimiento institucional del SNGRD a través de programas de cooperación técnica y financiera.",
+  "trabajos": []
+ },
+ {
+  "sigla": "Cruz Roja",
+  "nombre": "Cruz Roja Colombiana",
+  "tipo": "Humanitaria",
+  "color": "danger",
+  "descripcion": "Sociedad nacional del Movimiento Internacional de la Cruz Roja. Brinda asistencia humanitaria, promoción del derecho humanitario y formación en primeros auxilios y gestión del riesgo comunitaria.",
+  "trabajos": [
+   {
+    "sec": "laboratorios-de-aprendizaje",
+    "slug": "la-01",
+    "titulo": "Comunidades que transforman el riesgo en resiliencia",
+    "href": "laboratorios-de-aprendizaje/la-01/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "laboratorios-de-aprendizaje",
+    "slug": "la-05",
+    "titulo": "Gobernanza desde la base: el rol transformador de las organizaciones de la Sociedad Civil en la gestión del riesgo de Colombia",
+    "href": "laboratorios-de-aprendizaje/la-05/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "posters",
+    "slug": "pt-13",
+    "titulo": "Atención humanitaria a población vulnerable por la emergencia invernal en Chocó",
+    "href": "posters/pt-13/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "posters",
+    "slug": "pt-19",
+    "titulo": "Integración del conocimiento del riesgo en los Proyectos Ambientales Escolares y en los Proyectos Educativos Comunitarios - fortaleciendo la resiliencia escolar en tierra de volcanes",
+    "href": "posters/pt-19/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "posters",
+    "slug": "pt-20",
+    "titulo": "De los datos a la anticipación - umbrales y triggers para la gestión del riesgo por sequías",
+    "href": "posters/pt-20/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-21",
+    "titulo": "Semillas de resiliencia: el aula como espacio de conocimiento del riesgo",
+    "href": "sesiones-paralelas/sp-21/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-22",
+    "titulo": "Del dato a la decisión: IA para la gestión del riesgo",
+    "href": "sesiones-paralelas/sp-22/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-23",
+    "titulo": "El Ejército Colombiano, pilar fundamental de la Gestión del Riesgo",
+    "href": "sesiones-paralelas/sp-23/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-37",
+    "titulo": "Preparación ante emergencias y movilidad humana",
+    "href": "sesiones-paralelas/sp-37/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "sesiones-tematicas",
+    "slug": "st-03",
+    "titulo": "Anticipación en Acción",
+    "href": "sesiones-tematicas/st-03/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "sesiones-tematicas",
+    "slug": "st-04",
+    "titulo": "NotiPaz: Emisión Especial — Contar el territorio, conocer el riesgo, construir paz",
+    "href": "sesiones-tematicas/st-04/index.qmd",
+    "rol": "Co-anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "HI",
+  "nombre": "Humanity & Inclusion",
+  "tipo": "Humanitaria",
+  "color": "danger",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "laboratorios-de-aprendizaje",
+    "slug": "la-03",
+    "titulo": "Gestión del Riesgo de Desastres para la Inclusión de Personas con Discapacidad",
+    "href": "laboratorios-de-aprendizaje/la-03/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-33",
+    "titulo": "Respuesta Humanitaria Inclusiva: Una apuesta centrada en las mujeres y personas con discapacidad",
+    "href": "sesiones-paralelas/sp-33/index.qmd",
+    "rol": "Co-anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "IFRC",
+  "nombre": "Federación Internacional de la Cruz Roja y de la Media Luna Roja",
+  "tipo": "Humanitaria",
+  "color": "danger",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "posters",
+    "slug": "pt-20",
+    "titulo": "De los datos a la anticipación - umbrales y triggers para la gestión del riesgo por sequías",
+    "href": "posters/pt-20/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "sesiones-tematicas",
+    "slug": "st-03",
+    "titulo": "Anticipación en Acción",
+    "href": "sesiones-tematicas/st-03/index.qmd",
+    "rol": "Ponente"
+   }
+  ]
+ },
+ {
+  "sigla": "CARE",
+  "nombre": "CARE Colombia",
+  "tipo": "Humanitaria",
+  "color": "danger",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-33",
+    "titulo": "Respuesta Humanitaria Inclusiva: Una apuesta centrada en las mujeres y personas con discapacidad",
+    "href": "sesiones-paralelas/sp-33/index.qmd",
+    "rol": "Anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "CESVI",
+  "nombre": "CESVI",
+  "tipo": "Humanitaria",
+  "color": "danger",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-46",
+    "titulo": "Desalinización de agua mediante energía solar en La Guajira",
+    "href": "escenarios-en-vivo/ev-46/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "Mercy Corps",
+  "nombre": "Mercy Corps",
+  "tipo": "Humanitaria",
+  "color": "danger",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-tematicas",
+    "slug": "st-03",
+    "titulo": "Anticipación en Acción",
+    "href": "sesiones-tematicas/st-03/index.qmd",
+    "rol": "Co-anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "Save the Children",
+  "nombre": "Save the Children Colombia",
+  "tipo": "Humanitaria",
+  "color": "danger",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-06",
+    "titulo": "Escuelas resilientes: Un análisis en la política de gestión integral del riesgo y educación en emergencias desde la iniciativa del consorcio Creer en Arauca y Tumaco",
+    "href": "sesiones-paralelas/sp-06/index.qmd",
+    "rol": "Anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "Scouts",
+  "nombre": "Scouts de Colombia",
+  "tipo": "Humanitaria",
+  "color": "danger",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-06",
+    "titulo": "Escuelas resilientes: Un análisis en la política de gestión integral del riesgo y educación en emergencias desde la iniciativa del consorcio Creer en Arauca y Tumaco",
+    "href": "sesiones-paralelas/sp-06/index.qmd",
+    "rol": "Co-anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "Start Network",
+  "nombre": "Start Network",
+  "tipo": "Humanitaria",
+  "color": "danger",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-tematicas",
+    "slug": "st-03",
+    "titulo": "Anticipación en Acción",
+    "href": "sesiones-tematicas/st-03/index.qmd",
+    "rol": "Co-anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "U. Rosario",
+  "nombre": "Universidad del Rosario",
+  "tipo": "Academia nacional",
+  "color": "warning",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-01",
+    "titulo": "Fuego, ganadería y biodiversidad en las sabanas inundables de la Orinoquía",
+    "href": "escenarios-en-vivo/ev-01/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-42",
+    "titulo": "Motores de ocurrencia de incendios en páramos de Colombia",
+    "href": "escenarios-en-vivo/ev-42/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "posters",
+    "slug": "pt-05",
+    "titulo": "Projected Changes in Climate Extremes over Colombia from high-resolution bias-corrected CMIP6 models",
+    "href": "posters/pt-05/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "posters",
+    "slug": "pt-06",
+    "titulo": "Análisis del riesgo climático de la Cuenca del río Guatapurí y su relación con la sostenibilidad del territorio de Valledupar, Cesar",
+    "href": "posters/pt-06/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "posters",
+    "slug": "pt-07",
+    "titulo": "Gestión del Riesgo y adaptación al cambio climático en Leticia",
+    "href": "posters/pt-07/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "posters",
+    "slug": "pt-10",
+    "titulo": "Impacto del cambio de cobertura del suelo en el evento extremo de Mocoa (2017)",
+    "href": "posters/pt-10/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "posters",
+    "slug": "pt-18",
+    "titulo": "Análisis de fuentes de contaminación del aire en Vichada mediante modelación atmosférica y monitoreo con sensores de bajo costo",
+    "href": "posters/pt-18/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "posters",
+    "slug": "pt-30",
+    "titulo": "Cambios en los Aportes Hídricos en la Ciénaga Grande de Santa Marta",
+    "href": "posters/pt-30/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "UNAL",
+  "nombre": "Universidad Nacional de Colombia",
+  "tipo": "Academia nacional",
+  "color": "warning",
+  "descripcion": "Principal universidad pública de Colombia con sedes en Bogotá, Medellín, Manizales y otras ciudades. Desarrolla investigación en modelamiento de deslizamientos, simulación de evacuaciones y riesgo volcánico.",
+  "trabajos": [
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-14",
+    "titulo": "Escuelas Rurales Seguras: Modelo de apropiación social y herramientas tecnológicas para la gestión del riesgo en Antioquia",
+    "href": "escenarios-en-vivo/ev-14/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-42",
+    "titulo": "Motores de ocurrencia de incendios en páramos de Colombia",
+    "href": "escenarios-en-vivo/ev-42/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "laboratorios-de-aprendizaje",
+    "slug": "la-06",
+    "titulo": "Del satélite al cultivo: gestión del agua para una agricultura resiliente con WaPOR",
+    "href": "laboratorios-de-aprendizaje/la-06/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "laboratorios-de-aprendizaje",
+    "slug": "la-07",
+    "titulo": "Memorias que caben en la mano: cómo comunicar el riesgo",
+    "href": "laboratorios-de-aprendizaje/la-07/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "posters",
+    "slug": "pt-24",
+    "titulo": "Invertir en prevención - responsabilidad fiscal y sostenibilidad en la gestión del riesgo de desastres",
+    "href": "posters/pt-24/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-28",
+    "titulo": "Invertir en prevención: responsabilidad fiscal y sostenibilidad en la gestión del riesgo de desastres",
+    "href": "sesiones-paralelas/sp-28/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-34",
+    "titulo": "Construyendo Espacios de Paz en la Ruralidad",
+    "href": "sesiones-paralelas/sp-34/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-35",
+    "titulo": "Sistemas Alimentarios Resilientes: Estrategias de Adaptación frente al Riesgo Climático en Colombia",
+    "href": "sesiones-paralelas/sp-35/index.qmd",
+    "rol": "Ponente"
+   }
+  ]
+ },
+ {
+  "sigla": "Javeriana",
+  "nombre": "Pontificia Universidad Javeriana",
+  "tipo": "Academia nacional",
+  "color": "warning",
+  "descripcion": "Universidad jesuita con sedes en Bogotá y Cali. Contribuye con investigación en comunicación de crisis, análisis de redes sociales y ciencias sociales aplicadas a la gestión del riesgo.",
+  "trabajos": [
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-31",
+    "titulo": "Una experiencia integrada de gestión del riesgo: tecnología + comunidad + institucionalidad",
+    "href": "escenarios-en-vivo/ev-31/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-38",
+    "titulo": "Formación en salud pública para emergencias y desastres: una mirada territorial con IA y SIG",
+    "href": "escenarios-en-vivo/ev-38/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "plenarias",
+    "slug": "p-01",
+    "titulo": "Sistemas de conocimiento en las alertas tempranas: Un diálogo de saberes para salvar vidas",
+    "href": "plenarias/p-01/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-13",
+    "titulo": "Anticipar, planificar y resistir: los desafíos de la gestión del riesgo de desastres",
+    "href": "sesiones-paralelas/sp-13/index.qmd",
+    "rol": "Ponente"
+   }
+  ]
+ },
+ {
+  "sigla": "U. Antioquia",
+  "nombre": "Universidad de Antioquia",
+  "tipo": "Academia nacional",
+  "color": "warning",
+  "descripcion": "Universidad pública de referencia en el noroccidente colombiano. Desarrolla investigación en gestión del riesgo hídrico, adaptación comunitaria y ecología del riesgo en regiones del Pacífico.",
+  "trabajos": [
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-07",
+    "titulo": "Soluciones basadas en la naturaleza para la gestión del riesgo en territorios mineros: una experiencia de Eco-RRD en Marmato, Caldas",
+    "href": "escenarios-en-vivo/ev-07/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-22",
+    "titulo": "Curso Gestión del Riesgo de la Salud Ambiental",
+    "href": "escenarios-en-vivo/ev-22/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-01",
+    "titulo": "Colombia ante las Amenazas Extraterrestres: Ciencia, Riesgo y Política Pública",
+    "href": "sesiones-paralelas/sp-01/index.qmd",
+    "rol": "Co-anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "U. Sergio Arboleda",
+  "nombre": "Universidad Sergio Arboleda",
+  "tipo": "Academia nacional",
+  "color": "warning",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-13",
+    "titulo": "Escenarios de Incendios Forestales para Evaluar el Riesgo de Pérdida de Cobertura en una Zona Megadiversa del Caribe Colombiano",
+    "href": "escenarios-en-vivo/ev-13/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-39",
+    "titulo": "Sistemas de alerta temprana e inteligencia artificial para la gestión del riesgo de incendios forestales en Colombia",
+    "href": "escenarios-en-vivo/ev-39/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "UIS",
+  "nombre": "Universidad Industrial de Santander",
+  "tipo": "Academia nacional",
+  "color": "warning",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "posters",
+    "slug": "pt-25",
+    "titulo": "Caracterización de las unidades geológicas superficiales (UGS) y subunidades geomorfológicas (SGMF) a escala 1 - 25.000 para el municipio de San Joaquín, Santander, como una herramienta en la evaluación de los factores de inestabilidad superficial",
+    "href": "posters/pt-25/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "posters",
+    "slug": "pt-28",
+    "titulo": "¿Por qué es importante caracterizar los umbrales de lluvia y sismo que detonan movimientos en masa? Aportes para la gestión del riesgo en San Joaquín, Santander",
+    "href": "posters/pt-28/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "USTA",
+  "nombre": "Universidad Santo Tomás",
+  "tipo": "Academia nacional",
+  "color": "warning",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-16",
+    "titulo": "El Semillero de Investigación en Educación para la Gestión Integral de Riesgo como estrategia para promover la formación investigativa en los estudiantes del programa Licenciatura en Biología de la Universidad Santo Tomás",
+    "href": "escenarios-en-vivo/ev-16/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-24",
+    "titulo": "Educar en medio del conflicto: guía para la protección de la comunidad educativa",
+    "href": "escenarios-en-vivo/ev-24/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "ASCUN",
+  "nombre": "Asociación Colombiana de Universidades",
+  "tipo": "Academia nacional",
+  "color": "warning",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-18",
+    "titulo": "Implementación de la Política Pública de GRD en las IES Colombianas (Fase diagnóstica)",
+    "href": "sesiones-paralelas/sp-18/index.qmd",
+    "rol": "Anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "EAFIT",
+  "nombre": "Universidad EAFIT",
+  "tipo": "Academia nacional",
+  "color": "warning",
+  "descripcion": "Universidad privada con sede en Medellín. Su GRD-Lab lidera investigación en inteligencia artificial aplicada a la evaluación de daños, análisis de imágenes satelitales y gestión del riesgo urbano.",
+  "trabajos": [
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-33",
+    "titulo": "Evaluación del riesgo sísmico de Antioquia",
+    "href": "escenarios-en-vivo/ev-33/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "EIA",
+  "nombre": "Universidad EIA",
+  "tipo": "Academia nacional",
+  "color": "warning",
+  "descripcion": "Universidad de ingeniería con sede en Envigado, Antioquia. Investiga en sistemas de alerta temprana, instrumentación geotécnica y tecnologías aplicadas a la reducción del riesgo.",
+  "trabajos": [
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-14",
+    "titulo": "Escuelas Rurales Seguras: Modelo de apropiación social y herramientas tecnológicas para la gestión del riesgo en Antioquia",
+    "href": "escenarios-en-vivo/ev-14/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "ESAP",
+  "nombre": "Escuela Superior de Administración Pública",
+  "tipo": "Academia nacional",
+  "color": "warning",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "posters",
+    "slug": "pt-03",
+    "titulo": "Los manglares como ecositemas estratégicos para la prevención de inundaciones",
+    "href": "posters/pt-03/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "ITM",
+  "nombre": "Institución Universitaria ITM",
+  "tipo": "Academia nacional",
+  "color": "warning",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "posters",
+    "slug": "pt-01",
+    "titulo": "Estimación del riesgo sísmico y diseño de estrategias de mitigación en una zona periurbana del corregimiento de San Cristóbal, Medellín",
+    "href": "posters/pt-01/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "Politécnico JIC",
+  "nombre": "Politécnico Colombiano Jaime Isaza Cadavid",
+  "tipo": "Academia nacional",
+  "color": "warning",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-28",
+    "titulo": "Gestión inclusiva del riesgo y discapacidad intelectual en la Fundación Lupines: estrategia formativa para la preparación ante emergencias",
+    "href": "escenarios-en-vivo/ev-28/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "REDULAC",
+  "nombre": "Red Universitaria de América Latina y el Caribe para la RRD",
+  "tipo": "Academia nacional",
+  "color": "warning",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-18",
+    "titulo": "Implementación de la Política Pública de GRD en las IES Colombianas (Fase diagnóstica)",
+    "href": "sesiones-paralelas/sp-18/index.qmd",
+    "rol": "Co-anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "U. Caldas",
+  "nombre": "Universidad de Caldas",
+  "tipo": "Academia nacional",
+  "color": "warning",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "posters",
+    "slug": "pt-26",
+    "titulo": "Vulcanismo monogenético en Colombia y su potencial geoturístico - Un insumo para la evaluación de la amenaza y el riesgo volcánico",
+    "href": "posters/pt-26/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "U. Distrital",
+  "nombre": "Universidad Distrital Francisco José de Caldas",
+  "tipo": "Academia nacional",
+  "color": "warning",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "posters",
+    "slug": "pt-02",
+    "titulo": "Diseño SAT- Incendios de cobertura vegetal en Valledupar",
+    "href": "posters/pt-02/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "U. Manizales",
+  "nombre": "Universidad de Manizales",
+  "tipo": "Academia nacional",
+  "color": "warning",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-05",
+    "titulo": "Educación en gestión del riesgo a lo largo de la vida",
+    "href": "sesiones-paralelas/sp-05/index.qmd",
+    "rol": "Ponente"
+   }
+  ]
+ },
+ {
+  "sigla": "U. Metropolitana",
+  "nombre": "Universidad Metropolitana (Barranquilla)",
+  "tipo": "Academia nacional",
+  "color": "warning",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-06",
+    "titulo": "AmbientAcción Juvenil: contribuciones de un proyecto de cooperación internacional",
+    "href": "escenarios-en-vivo/ev-06/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "U. Quindío",
+  "nombre": "Universidad del Quindío",
+  "tipo": "Academia nacional",
+  "color": "warning",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-18",
+    "titulo": "Implementación de la Política Pública de GRD en las IES Colombianas (Fase diagnóstica)",
+    "href": "sesiones-paralelas/sp-18/index.qmd",
+    "rol": "Ponente"
+   }
+  ]
+ },
+ {
+  "sigla": "U. de Medellín",
+  "nombre": "Universidad de Medellín",
+  "tipo": "Academia nacional",
+  "color": "warning",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-14",
+    "titulo": "Escuelas Rurales Seguras: Modelo de apropiación social y herramientas tecnológicas para la gestión del riesgo en Antioquia",
+    "href": "escenarios-en-vivo/ev-14/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "UCM",
+  "nombre": "Universidad Católica de Manizales",
+  "tipo": "Academia nacional",
+  "color": "warning",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-26",
+    "titulo": "Radar de resiliencia y continuidad",
+    "href": "escenarios-en-vivo/ev-26/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "UDCA",
+  "nombre": "Universidad de Ciencias Aplicadas y Ambientales",
+  "tipo": "Academia nacional",
+  "color": "warning",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-30",
+    "titulo": "El colapso climático y ambiental en Colombia: Diagnóstico para una resiliencia territorial sostenible",
+    "href": "sesiones-paralelas/sp-30/index.qmd",
+    "rol": "Anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "UFPS Ocaña",
+  "nombre": "Universidad Francisco de Paula Santander Ocaña",
+  "tipo": "Academia nacional",
+  "color": "warning",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "posters",
+    "slug": "pt-14",
+    "titulo": "Uso de tecnologías para el análisis de inundación en zonas urbanas - caso de estudio Quebrada El Tejar, municipio de Ocaña, Norte de Santander",
+    "href": "posters/pt-14/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "UMB",
+  "nombre": "Universidad Manuela Beltrán",
+  "tipo": "Academia nacional",
+  "color": "warning",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "posters",
+    "slug": "pt-03",
+    "titulo": "Los manglares como ecositemas estratégicos para la prevención de inundaciones",
+    "href": "posters/pt-03/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "UPTC",
+  "nombre": "Universidad Pedagógica y Tecnológica de Colombia",
+  "tipo": "Academia nacional",
+  "color": "warning",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-18",
+    "titulo": "Implementación de la Política Pública de GRD en las IES Colombianas (Fase diagnóstica)",
+    "href": "sesiones-paralelas/sp-18/index.qmd",
+    "rol": "Ponente"
+   }
+  ]
+ },
+ {
+  "sigla": "UTP",
+  "nombre": "Universidad Tecnológica de Pereira",
+  "tipo": "Academia nacional",
+  "color": "warning",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-03",
+    "titulo": "Gobernanza de los Sistemas de Alerta Temprana Hidrometereológicos del Departamento de Risaralda, Colombia",
+    "href": "escenarios-en-vivo/ev-03/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "Uniandes",
+  "nombre": "Universidad de los Andes",
+  "tipo": "Academia nacional",
+  "color": "warning",
+  "descripcion": "Universidad privada colombiana líder en investigación. Sus grupos de trabajo en ingeniería sísmica, cartografía participativa y crowdsourcing contribuyen activamente a la ciencia del riesgo en Colombia.",
+  "trabajos": [
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-10",
+    "titulo": "Construcción colaborativa del Modelo Nacional de Riesgo Sísmico: el rol de las universidades colombianas en la generación de conocimiento para la gestión del riesgo",
+    "href": "escenarios-en-vivo/ev-10/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "Uniautónoma",
+  "nombre": "Universidad Autónoma del Cauca",
+  "tipo": "Academia nacional",
+  "color": "warning",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-41",
+    "titulo": "Desarrollo basado en el riesgo (DBR): Cauca, un estudio de caso",
+    "href": "escenarios-en-vivo/ev-41/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "La Salle México",
+  "nombre": "Universidad La Salle México",
+  "tipo": "Academia internacional",
+  "color": "warning",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "posters",
+    "slug": "pt-24",
+    "titulo": "Invertir en prevención - responsabilidad fiscal y sostenibilidad en la gestión del riesgo de desastres",
+    "href": "posters/pt-24/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-28",
+    "titulo": "Invertir en prevención: responsabilidad fiscal y sostenibilidad en la gestión del riesgo de desastres",
+    "href": "sesiones-paralelas/sp-28/index.qmd",
+    "rol": "Anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "U. Barcelona",
+  "nombre": "Universidad de Barcelona",
+  "tipo": "Academia internacional",
+  "color": "warning",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-14",
+    "titulo": "Escuelas Rurales Seguras: Modelo de apropiación social y herramientas tecnológicas para la gestión del riesgo en Antioquia",
+    "href": "escenarios-en-vivo/ev-14/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "posters",
+    "slug": "pt-26",
+    "titulo": "Vulcanismo monogenético en Colombia y su potencial geoturístico - Un insumo para la evaluación de la amenaza y el riesgo volcánico",
+    "href": "posters/pt-26/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "UNICI",
+  "nombre": "Universidad Internacional del Conocimiento e Investigación (México)",
+  "tipo": "Academia internacional",
+  "color": "warning",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-09",
+    "titulo": "Responsabilidad Social y Gestión de riesgo de desastres: del Estado paternalista al ciudadano preventivo",
+    "href": "escenarios-en-vivo/ev-09/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-26",
+    "titulo": "Radar de resiliencia y continuidad",
+    "href": "escenarios-en-vivo/ev-26/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "ENAPROC",
+  "nombre": "Escuela Nacional de Protección Civil (México)",
+  "tipo": "Academia internacional",
+  "color": "warning",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-03",
+    "titulo": "Gobernanza de los Sistemas de Alerta Temprana Hidrometereológicos del Departamento de Risaralda, Colombia",
+    "href": "escenarios-en-vivo/ev-03/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "EPFL",
+  "nombre": "École Polytechnique Fédérale de Lausanne",
+  "tipo": "Academia internacional",
+  "color": "warning",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-14",
+    "titulo": "Escuelas Rurales Seguras: Modelo de apropiación social y herramientas tecnológicas para la gestión del riesgo en Antioquia",
+    "href": "escenarios-en-vivo/ev-14/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "ISTA",
+  "nombre": "Institute of Science and Technology Austria",
+  "tipo": "Academia internacional",
+  "color": "warning",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-13",
+    "titulo": "Escenarios de Incendios Forestales para Evaluar el Riesgo de Pérdida de Cobertura en una Zona Megadiversa del Caribe Colombiano",
+    "href": "escenarios-en-vivo/ev-13/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "U. Coimbra",
+  "nombre": "Universidad de Coimbra",
+  "tipo": "Academia internacional",
+  "color": "warning",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-02",
+    "titulo": "Repensando la inclusión de los grupos étnicos en el financiamiento y los seguros contra riesgos de desastre en Colombia",
+    "href": "escenarios-en-vivo/ev-02/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "Yale",
+  "nombre": "Universidad de Yale",
+  "tipo": "Academia internacional",
+  "color": "warning",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-42",
+    "titulo": "Motores de ocurrencia de incendios en páramos de Colombia",
+    "href": "escenarios-en-vivo/ev-42/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "ETH Zurich",
+  "nombre": "Instituto Federal de Tecnología de Zúrich",
+  "tipo": "Academia internacional",
+  "color": "warning",
+  "descripcion": "Universidad suiza de excelencia científica. Su grupo de investigación en riesgo climático desarrolla la plataforma CLIMADA para el modelamiento probabilístico de pérdidas por eventos extremos.",
+  "trabajos": []
+ },
+ {
+  "sigla": "ANDI",
+  "nombre": "Asociación Nacional de Empresarios de Colombia",
+  "tipo": "Gremio técnico",
+  "color": "secondary",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-04",
+    "titulo": "Protegiendo e impulsando el desarrollo a nivel territorial a través de la continuidad de las operaciones en las cadenas de suministro a nivel nacional frente a los efectos del cambio climático y los desastres",
+    "href": "sesiones-paralelas/sp-04/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-16",
+    "titulo": "Riesgo NATECH en Colombia: gobernanza público-privada para la reducción de riesgos complejos y sistémicos",
+    "href": "sesiones-paralelas/sp-16/index.qmd",
+    "rol": "Ponente"
+   }
+  ]
+ },
+ {
+  "sigla": "Consejo Colombiano de Seguridad",
+  "nombre": "Consejo Colombiano de Seguridad",
+  "tipo": "Gremio técnico",
+  "color": "secondary",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-04",
+    "titulo": "Protegiendo e impulsando el desarrollo a nivel territorial a través de la continuidad de las operaciones en las cadenas de suministro a nivel nacional frente a los efectos del cambio climático y los desastres",
+    "href": "sesiones-paralelas/sp-04/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-16",
+    "titulo": "Riesgo NATECH en Colombia: gobernanza público-privada para la reducción de riesgos complejos y sistémicos",
+    "href": "sesiones-paralelas/sp-16/index.qmd",
+    "rol": "Ponente"
+   }
+  ]
+ },
+ {
+  "sigla": "Fasecolda",
+  "nombre": "Federación de Aseguradores Colombianos",
+  "tipo": "Gremio técnico",
+  "color": "secondary",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "plenarias",
+    "slug": "p-03",
+    "titulo": "Infraestructura resiliente: de la evidencia a la inversión",
+    "href": "plenarias/p-03/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-27",
+    "titulo": "Cuando los datos se vuelven protección: Visión geoespacial para la transferencia del riesgo",
+    "href": "sesiones-paralelas/sp-27/index.qmd",
+    "rol": "Anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "Responsabilidad Integral",
+  "nombre": "Responsabilidad Integral Colombia",
+  "tipo": "Gremio técnico",
+  "color": "secondary",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-04",
+    "titulo": "Protegiendo e impulsando el desarrollo a nivel territorial a través de la continuidad de las operaciones en las cadenas de suministro a nivel nacional frente a los efectos del cambio climático y los desastres",
+    "href": "sesiones-paralelas/sp-04/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-16",
+    "titulo": "Riesgo NATECH en Colombia: gobernanza público-privada para la reducción de riesgos complejos y sistémicos",
+    "href": "sesiones-paralelas/sp-16/index.qmd",
+    "rol": "Anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "ACGGP",
+  "nombre": "Asociación Colombiana de Geólogos y Geofísicos del Petróleo",
+  "tipo": "Gremio técnico",
+  "color": "secondary",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "laboratorios-de-aprendizaje",
+    "slug": "la-05",
+    "titulo": "Gobernanza desde la base: el rol transformador de las organizaciones de la Sociedad Civil en la gestión del riesgo de Colombia",
+    "href": "laboratorios-de-aprendizaje/la-05/index.qmd",
+    "rol": "Co-anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "SCG",
+  "nombre": "Sociedad Colombiana de Geología",
+  "tipo": "Gremio técnico",
+  "color": "secondary",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "laboratorios-de-aprendizaje",
+    "slug": "la-05",
+    "titulo": "Gobernanza desde la base: el rol transformador de las organizaciones de la Sociedad Civil en la gestión del riesgo de Colombia",
+    "href": "laboratorios-de-aprendizaje/la-05/index.qmd",
+    "rol": "Co-anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "AIS",
+  "nombre": "Asociación Colombiana de Ingeniería Sísmica",
+  "tipo": "Gremio técnico",
+  "color": "secondary",
+  "descripcion": "Sociedad técnica que reúne a profesionales de la ingeniería sísmica y estructural. Desarrolla normas de construcción sismo-resistente y herramientas para la evaluación post-evento de daños estructurales.",
+  "trabajos": []
+ },
+ {
+  "sigla": "CTA",
+  "nombre": "Corporación Centro de Ciencia y Tecnología de Antioquia",
+  "tipo": "Organización técnica",
+  "color": "secondary",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-23",
+    "titulo": "De la socialización a la apropiación: innovación institucional para activar la gobernanza del riesgo en el marco del Decreto 2157",
+    "href": "escenarios-en-vivo/ev-23/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "posters",
+    "slug": "pt-15",
+    "titulo": "Gestión Comunitaria del Riesgo como Modelo Escalable de Fortalecimiento de la Capacidad de Respuesta Territorial en Colombia",
+    "href": "posters/pt-15/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "AstroCO",
+  "nombre": "Comunidad Colombiana de Astronomía",
+  "tipo": "Organización técnica",
+  "color": "secondary",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-01",
+    "titulo": "Colombia ante las Amenazas Extraterrestres: Ciencia, Riesgo y Política Pública",
+    "href": "sesiones-paralelas/sp-01/index.qmd",
+    "rol": "Anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "OGC",
+  "nombre": "Observatorio Julio Garavito (Gimnasio Campestre)",
+  "tipo": "Organización técnica",
+  "color": "secondary",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-01",
+    "titulo": "Colombia ante las Amenazas Extraterrestres: Ciencia, Riesgo y Política Pública",
+    "href": "sesiones-paralelas/sp-01/index.qmd",
+    "rol": "Ponente"
+   }
+  ]
+ },
+ {
+  "sigla": "Cenicafé",
+  "nombre": "Centro Nacional de Investigaciones de Café",
+  "tipo": "Organización técnica",
+  "color": "secondary",
+  "descripcion": "Centro de I+D de la Federación Nacional de Cafeteros. Contribuye a la gestión del riesgo agroclimático en las regiones cafeteras y al desarrollo de sistemas de alerta por eventos hidrometeorológicos extremos.",
+  "trabajos": []
+ },
+ {
+  "sigla": "LIGA",
+  "nombre": "Liga Colombiana de Radioaficionados",
+  "tipo": "Organización técnica",
+  "color": "secondary",
+  "descripcion": "Agrupa a los radioaficionados colombianos y coordina la red de comunicaciones de emergencia que opera en situaciones de desastre cuando los sistemas de telecomunicaciones convencionales fallan.",
+  "trabajos": []
+ },
+ {
+  "sigla": "OSSO",
+  "nombre": "Corporación OSSO",
+  "tipo": "Organización técnica",
+  "color": "secondary",
+  "descripcion": "Organización especializada en el estudio y la gestión del riesgo de desastres con sede en Cali. Opera la base de datos DesInventar Colombia y presta servicios de consultoría en análisis histórico de pérdidas.",
+  "trabajos": []
+ },
+ {
+  "sigla": "RJRRD COL",
+  "nombre": "Red de Jóvenes para la Reducción del Riesgo de Desastres de Colombia",
+  "tipo": "Sociedad civil",
+  "color": "dark",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "dialogos-de-alto-nivel",
+    "slug": "an-01",
+    "titulo": "Tejiendo Resiliencia: Red de Jóvenes para la Reducción del Riesgo de Desastres",
+    "href": "dialogos-de-alto-nivel/an-01/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-20",
+    "titulo": "La jugada seria, juventud que está cambiando la gestión del riesgo en Colombia",
+    "href": "escenarios-en-vivo/ev-20/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-35",
+    "titulo": "Casanare: gestión del riesgo desde el enfoque diferencial",
+    "href": "escenarios-en-vivo/ev-35/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "posters",
+    "slug": "pt-09",
+    "titulo": "Manejo de animales en situación de emergencia, caso de éxito municipio de Guaranda (Sucre) – Subregión de La Mojana",
+    "href": "posters/pt-09/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "MPC",
+  "nombre": "Mesa Permanente de Concertación — Organizaciones Indígenas Nacionales",
+  "tipo": "Sociedad civil",
+  "color": "dark",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "plenarias",
+    "slug": "p-01",
+    "titulo": "Sistemas de conocimiento en las alertas tempranas: Un diálogo de saberes para salvar vidas",
+    "href": "plenarias/p-01/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "sesiones-especiales",
+    "slug": "se-05",
+    "titulo": "Sistemas de conocimientos indígenas en la planificación para la gestión del riesgo de desastres",
+    "href": "sesiones-especiales/se-05/index.qmd",
+    "rol": "Anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-09",
+    "titulo": "Alianzas que transforman la Gestión del Riesgo de Desastres",
+    "href": "sesiones-paralelas/sp-09/index.qmd",
+    "rol": "Ponente"
+   }
+  ]
+ },
+ {
+  "sigla": "FUNSEMEVI",
+  "nombre": "FUNSEMEVI",
+  "tipo": "Sociedad civil",
+  "color": "dark",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "posters",
+    "slug": "pt-24",
+    "titulo": "Invertir en prevención - responsabilidad fiscal y sostenibilidad en la gestión del riesgo de desastres",
+    "href": "posters/pt-24/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-28",
+    "titulo": "Invertir en prevención: responsabilidad fiscal y sostenibilidad en la gestión del riesgo de desastres",
+    "href": "sesiones-paralelas/sp-28/index.qmd",
+    "rol": "Co-anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "Fund. Almalina",
+  "nombre": "Fundación Almalina",
+  "tipo": "Sociedad civil",
+  "color": "dark",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "posters",
+    "slug": "pt-24",
+    "titulo": "Invertir en prevención - responsabilidad fiscal y sostenibilidad en la gestión del riesgo de desastres",
+    "href": "posters/pt-24/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-28",
+    "titulo": "Invertir en prevención: responsabilidad fiscal y sostenibilidad en la gestión del riesgo de desastres",
+    "href": "sesiones-paralelas/sp-28/index.qmd",
+    "rol": "Co-anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "JAC Tinajones",
+  "nombre": "Junta de Acción Comunal Isla Los Milagros Tinajones",
+  "tipo": "Sociedad civil",
+  "color": "dark",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-29",
+    "titulo": "Gestión comunitaria del riesgo de desastres en territorios vulnerables a inundaciones: experiencia en Isla Los Milagros Tinajones",
+    "href": "escenarios-en-vivo/ev-29/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-38",
+    "titulo": "Puentes con la Gente y para la Gente",
+    "href": "sesiones-paralelas/sp-38/index.qmd",
+    "rol": "Ponente"
+   }
+  ]
+ },
+ {
+  "sigla": "Nariño Joven",
+  "nombre": "Organización Nariño Joven",
+  "tipo": "Sociedad civil",
+  "color": "dark",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "laboratorios-de-aprendizaje",
+    "slug": "la-05",
+    "titulo": "Gobernanza desde la base: el rol transformador de las organizaciones de la Sociedad Civil en la gestión del riesgo de Colombia",
+    "href": "laboratorios-de-aprendizaje/la-05/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-28",
+    "titulo": "Invertir en prevención: responsabilidad fiscal y sostenibilidad en la gestión del riesgo de desastres",
+    "href": "sesiones-paralelas/sp-28/index.qmd",
+    "rol": "Co-anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "ORFE",
+  "nombre": "Observatorio de Riesgo, Fuego y Emergencias (ORFE)",
+  "tipo": "Sociedad civil",
+  "color": "dark",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "posters",
+    "slug": "pt-24",
+    "titulo": "Invertir en prevención - responsabilidad fiscal y sostenibilidad en la gestión del riesgo de desastres",
+    "href": "posters/pt-24/index.qmd",
+    "rol": "Autoría"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-28",
+    "titulo": "Invertir en prevención: responsabilidad fiscal y sostenibilidad en la gestión del riesgo de desastres",
+    "href": "sesiones-paralelas/sp-28/index.qmd",
+    "rol": "Anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "Proyecto ALA / HTM",
+  "nombre": "Proyecto ALA (Animales Latinoamérica) — Fundación HTM",
+  "tipo": "Sociedad civil",
+  "color": "dark",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "laboratorios-de-aprendizaje",
+    "slug": "la-05",
+    "titulo": "Gobernanza desde la base: el rol transformador de las organizaciones de la Sociedad Civil en la gestión del riesgo de Colombia",
+    "href": "laboratorios-de-aprendizaje/la-05/index.qmd",
+    "rol": "Co-anfitriona"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-19",
+    "titulo": "Animales y desastres, una mirada desde la sociedad civil para fortalecer la resiliencia de los territorios",
+    "href": "sesiones-paralelas/sp-19/index.qmd",
+    "rol": "Co-anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "AURORA",
+  "nombre": "AURORA Comunicaciones",
+  "tipo": "Sociedad civil",
+  "color": "dark",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "laboratorios-de-aprendizaje",
+    "slug": "la-05",
+    "titulo": "Gobernanza desde la base: el rol transformador de las organizaciones de la Sociedad Civil en la gestión del riesgo de Colombia",
+    "href": "laboratorios-de-aprendizaje/la-05/index.qmd",
+    "rol": "Ponente"
+   }
+  ]
+ },
+ {
+  "sigla": "FGR",
+  "nombre": "Fundación para la Gestión del Riesgo",
+  "tipo": "Sociedad civil",
+  "color": "dark",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "laboratorios-de-aprendizaje",
+    "slug": "la-05",
+    "titulo": "Gobernanza desde la base: el rol transformador de las organizaciones de la Sociedad Civil en la gestión del riesgo de Colombia",
+    "href": "laboratorios-de-aprendizaje/la-05/index.qmd",
+    "rol": "Co-anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "FUMSOL",
+  "nombre": "Fundación Mensajeros del Sol",
+  "tipo": "Sociedad civil",
+  "color": "dark",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "laboratorios-de-aprendizaje",
+    "slug": "la-05",
+    "titulo": "Gobernanza desde la base: el rol transformador de las organizaciones de la Sociedad Civil en la gestión del riesgo de Colombia",
+    "href": "laboratorios-de-aprendizaje/la-05/index.qmd",
+    "rol": "Ponente"
+   }
+  ]
+ },
+ {
+  "sigla": "Objetores",
+  "nombre": "Acción Colectiva de Objetores y Objetoras de Conciencia",
+  "tipo": "Sociedad civil",
+  "color": "dark",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-tematicas",
+    "slug": "st-04",
+    "titulo": "NotiPaz: Emisión Especial — Contar el territorio, conocer el riesgo, construir paz",
+    "href": "sesiones-tematicas/st-04/index.qmd",
+    "rol": "Ponente"
+   }
+  ]
+ },
+ {
+  "sigla": "Presentes",
+  "nombre": "Presentes Corporación",
+  "tipo": "Sociedad civil",
+  "color": "dark",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "laboratorios-de-aprendizaje",
+    "slug": "la-05",
+    "titulo": "Gobernanza desde la base: el rol transformador de las organizaciones de la Sociedad Civil en la gestión del riesgo de Colombia",
+    "href": "laboratorios-de-aprendizaje/la-05/index.qmd",
+    "rol": "Co-anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "Trendmakers",
+  "nombre": "Trendmakers Red Nacional del Agua",
+  "tipo": "Sociedad civil",
+  "color": "dark",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "posters",
+    "slug": "pt-24",
+    "titulo": "Invertir en prevención - responsabilidad fiscal y sostenibilidad en la gestión del riesgo de desastres",
+    "href": "posters/pt-24/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "Ecopetrol",
+  "nombre": "Ecopetrol",
+  "tipo": "Sector privado",
+  "color": "secondary",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-13",
+    "titulo": "Anticipar, planificar y resistir: los desafíos de la gestión del riesgo de desastres",
+    "href": "sesiones-paralelas/sp-13/index.qmd",
+    "rol": "Ponente"
+   },
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-16",
+    "titulo": "Riesgo NATECH en Colombia: gobernanza público-privada para la reducción de riesgos complejos y sistémicos",
+    "href": "sesiones-paralelas/sp-16/index.qmd",
+    "rol": "Co-anfitriona"
+   }
+  ]
+ },
+ {
+  "sigla": "Aqualogs",
+  "nombre": "Aqualogs SAS",
+  "tipo": "Sector privado",
+  "color": "secondary",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-13",
+    "titulo": "Escenarios de Incendios Forestales para Evaluar el Riesgo de Pérdida de Cobertura en una Zona Megadiversa del Caribe Colombiano",
+    "href": "escenarios-en-vivo/ev-13/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "CIRMAC",
+  "nombre": "CIRMAC S.A.S.",
+  "tipo": "Sector privado",
+  "color": "secondary",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "escenarios-en-vivo",
+    "slug": "ev-32",
+    "titulo": "Experiencias en la elaboración y puesta en marcha de planes de gestión del riesgo de desastres de las entidades públicas y privadas (Decreto 2157 de 2017)",
+    "href": "escenarios-en-vivo/ev-32/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "Cenit",
+  "nombre": "Cenit Transporte y Logística de Hidrocarburos",
+  "tipo": "Sector privado",
+  "color": "secondary",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "sesiones-paralelas",
+    "slug": "sp-13",
+    "titulo": "Anticipar, planificar y resistir: los desafíos de la gestión del riesgo de desastres",
+    "href": "sesiones-paralelas/sp-13/index.qmd",
+    "rol": "Ponente"
+   }
+  ]
+ },
+ {
+  "sigla": "IDOM",
+  "nombre": "IDOM — Consulting, Engineering and Architecture",
+  "tipo": "Sector privado",
+  "color": "secondary",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "posters",
+    "slug": "pt-22",
+    "titulo": "Modelación a la Decisión - Gestión del Riesgo Basada en Evidencia",
+    "href": "posters/pt-22/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "Ingeniería Global",
+  "nombre": "Ingeniería Global y Servicios S.A.S.",
+  "tipo": "Sector privado",
+  "color": "secondary",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "posters",
+    "slug": "pt-08",
+    "titulo": "Estrategia dual de adaptación y reducción del riesgo en pasivos mineros de páramo",
+    "href": "posters/pt-08/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "JOYCO",
+  "nombre": "JOYCO BIC SAS",
+  "tipo": "Sector privado",
+  "color": "secondary",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "posters",
+    "slug": "pt-04",
+    "titulo": "De la respuesta reactiva a la prevención - Tecnología japonesa 'SABO' y Sistemas de Alerta Temprana (SAT) para construir un futuro resiliente en Colombia",
+    "href": "posters/pt-04/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ },
+ {
+  "sigla": "Yachiyo",
+  "nombre": "Yachiyo Engineering Co., Ltd.",
+  "tipo": "Sector privado",
+  "color": "secondary",
+  "descripcion": "",
+  "trabajos": [
+   {
+    "sec": "posters",
+    "slug": "pt-04",
+    "titulo": "De la respuesta reactiva a la prevención - Tecnología japonesa 'SABO' y Sistemas de Alerta Temprana (SAT) para construir un futuro resiliente en Colombia",
+    "href": "posters/pt-04/index.qmd",
+    "rol": "Autoría"
+   }
+  ]
+ }
+]

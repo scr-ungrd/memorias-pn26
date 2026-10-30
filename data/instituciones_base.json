@@ -1,0 +1,233 @@
+[
+ {
+  "sigla": "UNGRD",
+  "nombre": "Unidad Nacional para la Gestión del Riesgo de Desastres",
+  "tipo": "Gobierno nacional",
+  "descripcion": "Entidad coordinadora del Sistema Nacional para la Gestión del Riesgo de Desastres (SNGRD). Lidera la política pública de conocimiento, reducción del riesgo y manejo de desastres en Colombia.",
+  "color": "primary"
+ },
+ {
+  "sigla": "SGC",
+  "nombre": "Servicio Geológico Colombiano",
+  "tipo": "Gobierno nacional",
+  "descripcion": "Autoridad científica y técnica en geología, geofísica y riesgos geológicos del país. Opera la red sismológica nacional y los observatorios vulcanológicos de Colombia.",
+  "color": "primary"
+ },
+ {
+  "sigla": "IDEAM",
+  "nombre": "Instituto de Hidrología, Meteorología y Estudios Ambientales",
+  "tipo": "Gobierno nacional",
+  "descripcion": "Genera información hidrometeorológica y ambiental estratégica para el país, incluyendo el sistema de alertas tempranas por fenómenos climáticos e hidrológicos.",
+  "color": "primary"
+ },
+ {
+  "sigla": "IGAC",
+  "nombre": "Instituto Geográfico Agustín Codazzi",
+  "tipo": "Gobierno nacional",
+  "descripcion": "Produce la cartografía oficial de Colombia, el catastro nacional y la información geoespacial base para el ordenamiento territorial y la gestión del riesgo.",
+  "color": "primary"
+ },
+ {
+  "sigla": "DANE",
+  "nombre": "Departamento Administrativo Nacional de Estadística",
+  "tipo": "Gobierno nacional",
+  "descripcion": "Produce y difunde la información estadística oficial de Colombia, incluyendo datos censales de población y vivienda fundamentales para el análisis de exposición ante amenazas.",
+  "color": "primary"
+ },
+ {
+  "sigla": "DNP",
+  "nombre": "Departamento Nacional de Planeación",
+  "tipo": "Gobierno nacional",
+  "descripcion": "Entidad técnica del Gobierno Nacional que impulsa la planeación del desarrollo y la inversión pública. Lidera estrategias de protección financiera ante desastres y gestión del riesgo fiscal.",
+  "color": "primary"
+ },
+ {
+  "sigla": "MinCiencias",
+  "nombre": "Ministerio de Ciencias, Tecnología e Innovación",
+  "tipo": "Gobierno nacional",
+  "descripcion": "Rector de la política nacional de ciencia, tecnología e innovación. Financia proyectos de I+D aplicados a la gestión del riesgo de desastres a través del Fondo de CTeI.",
+  "color": "primary"
+ },
+ {
+  "sigla": "MinTIC",
+  "nombre": "Ministerio de Tecnologías de la Información y las Comunicaciones",
+  "tipo": "Gobierno nacional",
+  "descripcion": "Lidera la política digital del país, incluyendo la conectividad en zonas de emergencia, los sistemas de alerta basados en IoT y las plataformas de gobierno digital.",
+  "color": "primary"
+ },
+ {
+  "sigla": "DIMAR",
+  "nombre": "Dirección General Marítima",
+  "tipo": "Gobierno nacional",
+  "descripcion": "Autoridad marítima de Colombia adscrita al Ministerio de Defensa. Opera la red de monitoreo oceanográfico y produce modelos de amenaza costera por oleaje extremo y tsunami.",
+  "color": "primary"
+ },
+ {
+  "sigla": "Defensa Civil",
+  "nombre": "Defensa Civil Colombiana",
+  "tipo": "Gobierno nacional",
+  "descripcion": "Organismo de socorro de carácter humanitario que apoya la respuesta a emergencias y desastres en todo el territorio nacional, con presencia en más de 900 municipios.",
+  "color": "secondary"
+ },
+ {
+  "sigla": "Cruz Roja",
+  "nombre": "Cruz Roja Colombiana",
+  "tipo": "Humanitaria",
+  "descripcion": "Sociedad nacional del Movimiento Internacional de la Cruz Roja. Brinda asistencia humanitaria, promoción del derecho humanitario y formación en primeros auxilios y gestión del riesgo comunitaria.",
+  "color": "danger"
+ },
+ {
+  "sigla": "Bomberos",
+  "nombre": "Bomberos Colombia",
+  "tipo": "Gobierno nacional",
+  "descripcion": "Sistema Nacional de Bomberos de Colombia, integrado por cuerpos de bomberos voluntarios y oficiales. Responde a emergencias con incendios, rescates y accidentes con materiales peligrosos.",
+  "color": "danger"
+ },
+ {
+  "sigla": "PNUD",
+  "nombre": "Programa de las Naciones Unidas para el Desarrollo",
+  "tipo": "Internacional",
+  "descripcion": "Agencia de la ONU que apoya a Colombia en el diseño e implementación de estrategias de desarrollo sostenible, reducción de la pobreza y resiliencia ante desastres.",
+  "color": "info"
+ },
+ {
+  "sigla": "OCHA",
+  "nombre": "Oficina de Coordinación de Asuntos Humanitarios",
+  "tipo": "Internacional",
+  "descripcion": "Coordina la respuesta humanitaria internacional en situaciones de emergencia compleja. Apoya la comunicación de riesgo, la gestión de información y la coordinación interagencial en Colombia.",
+  "color": "info"
+ },
+ {
+  "sigla": "ONU Mujeres",
+  "nombre": "ONU Mujeres Colombia",
+  "tipo": "Internacional",
+  "descripcion": "Entidad de la ONU dedicada a la igualdad de género. Promueve la incorporación del enfoque de género en la gestión del riesgo de desastres y la respuesta humanitaria.",
+  "color": "info"
+ },
+ {
+  "sigla": "WMO",
+  "nombre": "Organización Meteorológica Mundial — Colombia",
+  "tipo": "Internacional",
+  "descripcion": "Agencia especializada de la ONU en meteorología, climatología y hidrología. Apoya a Colombia en el desarrollo de sistemas de alerta temprana multihazard bajo estándares internacionales.",
+  "color": "info"
+ },
+ {
+  "sigla": "Banco Mundial",
+  "nombre": "Banco Mundial — Colombia",
+  "tipo": "Internacional",
+  "descripcion": "Provee asistencia técnica y financiamiento para proyectos de gestión del riesgo, protección financiera ante desastres y adaptación al cambio climático en Colombia.",
+  "color": "info"
+ },
+ {
+  "sigla": "USAID",
+  "nombre": "Agencia de los Estados Unidos para el Desarrollo Internacional",
+  "tipo": "Internacional",
+  "descripcion": "Apoya iniciativas de resiliencia ante desastres, respuesta humanitaria y fortalecimiento institucional del SNGRD a través de programas de cooperación técnica y financiera.",
+  "color": "info"
+ },
+ {
+  "sigla": "UNDRR",
+  "nombre": "Oficina de la ONU para la Reducción del Riesgo de Desastres",
+  "tipo": "Internacional",
+  "descripcion": "Secretaría del Marco de Sendai para la Reducción del Riesgo de Desastres 2015-2030. Apoya el seguimiento a los indicadores globales de reducción del riesgo en Colombia.",
+  "color": "info"
+ },
+ {
+  "sigla": "ETH Zurich",
+  "nombre": "Instituto Federal de Tecnología de Zúrich",
+  "tipo": "Academia internacional",
+  "descripcion": "Universidad suiza de excelencia científica. Su grupo de investigación en riesgo climático desarrolla la plataforma CLIMADA para el modelamiento probabilístico de pérdidas por eventos extremos.",
+  "color": "warning"
+ },
+ {
+  "sigla": "Uniandes",
+  "nombre": "Universidad de los Andes",
+  "tipo": "Academia nacional",
+  "descripcion": "Universidad privada colombiana líder en investigación. Sus grupos de trabajo en ingeniería sísmica, cartografía participativa y crowdsourcing contribuyen activamente a la ciencia del riesgo en Colombia.",
+  "color": "warning"
+ },
+ {
+  "sigla": "UNAL",
+  "nombre": "Universidad Nacional de Colombia",
+  "tipo": "Academia nacional",
+  "descripcion": "Principal universidad pública de Colombia con sedes en Bogotá, Medellín, Manizales y otras ciudades. Desarrolla investigación en modelamiento de deslizamientos, simulación de evacuaciones y riesgo volcánico.",
+  "color": "warning"
+ },
+ {
+  "sigla": "EAFIT",
+  "nombre": "Universidad EAFIT",
+  "tipo": "Academia nacional",
+  "descripcion": "Universidad privada con sede en Medellín. Su GRD-Lab lidera investigación en inteligencia artificial aplicada a la evaluación de daños, análisis de imágenes satelitales y gestión del riesgo urbano.",
+  "color": "warning"
+ },
+ {
+  "sigla": "Javeriana",
+  "nombre": "Pontificia Universidad Javeriana",
+  "tipo": "Academia nacional",
+  "descripcion": "Universidad jesuita con sedes en Bogotá y Cali. Contribuye con investigación en comunicación de crisis, análisis de redes sociales y ciencias sociales aplicadas a la gestión del riesgo.",
+  "color": "warning"
+ },
+ {
+  "sigla": "U. Antioquia",
+  "nombre": "Universidad de Antioquia",
+  "tipo": "Academia nacional",
+  "descripcion": "Universidad pública de referencia en el noroccidente colombiano. Desarrolla investigación en gestión del riesgo hídrico, adaptación comunitaria y ecología del riesgo en regiones del Pacífico.",
+  "color": "warning"
+ },
+ {
+  "sigla": "EIA",
+  "nombre": "Universidad EIA",
+  "tipo": "Academia nacional",
+  "descripcion": "Universidad de ingeniería con sede en Envigado, Antioquia. Investiga en sistemas de alerta temprana, instrumentación geotécnica y tecnologías aplicadas a la reducción del riesgo.",
+  "color": "warning"
+ },
+ {
+  "sigla": "AIS",
+  "nombre": "Asociación Colombiana de Ingeniería Sísmica",
+  "tipo": "Gremio técnico",
+  "descripcion": "Sociedad técnica que reúne a profesionales de la ingeniería sísmica y estructural. Desarrolla normas de construcción sismo-resistente y herramientas para la evaluación post-evento de daños estructurales.",
+  "color": "secondary"
+ },
+ {
+  "sigla": "OSSO",
+  "nombre": "Corporación OSSO",
+  "tipo": "Organización técnica",
+  "descripcion": "Organización especializada en el estudio y la gestión del riesgo de desastres con sede en Cali. Opera la base de datos DesInventar Colombia y presta servicios de consultoría en análisis histórico de pérdidas.",
+  "color": "secondary"
+ },
+ {
+  "sigla": "INVEMAR",
+  "nombre": "Instituto de Investigaciones Marinas y Costeras",
+  "tipo": "Gobierno nacional",
+  "descripcion": "Instituto adscrito al Ministerio de Ciencias que investiga los ecosistemas marinos y costeros de Colombia. Contribuye al análisis del riesgo costero por erosión, inundación y cambio climático.",
+  "color": "primary"
+ },
+ {
+  "sigla": "Fondo Adaptación",
+  "nombre": "Fondo Adaptación",
+  "tipo": "Gobierno nacional",
+  "descripcion": "Entidad del orden nacional creada tras la Ola Invernal 2010-2011. Financia proyectos de adaptación al cambio climático e infraestructura resiliente en los territorios más vulnerables del país.",
+  "color": "primary"
+ },
+ {
+  "sigla": "LIGA",
+  "nombre": "Liga Colombiana de Radioaficionados",
+  "tipo": "Organización técnica",
+  "descripcion": "Agrupa a los radioaficionados colombianos y coordina la red de comunicaciones de emergencia que opera en situaciones de desastre cuando los sistemas de telecomunicaciones convencionales fallan.",
+  "color": "secondary"
+ },
+ {
+  "sigla": "Cenicafé",
+  "nombre": "Centro Nacional de Investigaciones de Café",
+  "tipo": "Organización técnica",
+  "descripcion": "Centro de I+D de la Federación Nacional de Cafeteros. Contribuye a la gestión del riesgo agroclimático en las regiones cafeteras y al desarrollo de sistemas de alerta por eventos hidrometeorológicos extremos.",
+  "color": "secondary"
+ },
+ {
+  "sigla": "Área Metro",
+  "nombre": "Área Metropolitana del Valle de Aburrá",
+  "tipo": "Gobierno territorial",
+  "descripcion": "Autoridad ambiental y de planificación de los 10 municipios del Valle de Aburrá. Lidera el sistema de alerta temprana por deslizamientos e inundaciones de la región metropolitana de Medellín.",
+  "color": "success"
+ }
+]
